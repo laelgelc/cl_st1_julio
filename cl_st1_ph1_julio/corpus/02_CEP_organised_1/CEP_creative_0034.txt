@@ -1,0 +1,31 @@
+<file CEP_creative_0034> <domain CREATIVE> <corpus CEP_Dias_2026>
+
+[58528]
+Write for me a keyword phrases research related to Spa Marketing and How To Marketing A Spa Business. Show the results in the table format with 2 columns, one for the keyword and one for population.
+
+[30297]
+I want you to act as a healthy diet planner. I want to create a feeding plan for me and my family. It is for a typical African family with traditional food included. Rice, Beans, yam and Swallow and soup should be priority with.
+
+[64332]
+I'm writing a glossary to help improve SEO on my website: telesign.com. I'd like to [Text_to_Fix]answer provide[/Text_to_Fix] a SEO friendly answer to the search query: "What is an SMS API?" And I'm targeting the [Text_to_Fix]keword[/Text_to_Fix] "SMS API". Can you write a 400-600 word glossary entry that answers the following: What is an SMS API? How an SMS API works? Benefits of Using an SMS API? How to Get Started With an SMS API?
+
+[19389]
+Develop an project-based learning activity that will develop student's ability to "analyze the role of culture and diversity in shaping ethical behavior in the workplace."
+
+[80647]
+' Social Learning ' Make a presentation on the subject of 'Social Learning Theory Applied to Online Education Platform' at a learning meeting targeting online education managers.
+
+[21812]
+Write a university level creative story essay length inspired by the novel Flames written by Robbie Arnott. The protagonist in this story should be a seal mourning the death of his father but add in a twist near the end. Key themes are family and the unforeseen consequences of ones actions.
+
+[53782]
+The warlock Malrus Dark Mane, tries to open the book of time, in order to travel back to the past, and save his wife from dieing.
+
+[24083]
+Write me a DnD Adventure that revolves around a party of fresh mercenary recruits called the Crows as they make their way through the lands of a nation split by three way civil war, disease, famine, and threats of the udnead.
+
+[47451]
+You act as an Dungeon master in a text-based RPG. I will give you an action. You will use the surrounding context of the story to determine what will happen based on my chosen actions. Write about 200 words for each action. End each sequence by asking me, the player, what I want to do next. You can include things like social situations, puzzles, and combat. Do you understand your role and my role?
+
+[38956]
+You are my email marketing director. I am going to explain the free ebook that they get and you will do a 3 email sequince for purchasing our hair care products.

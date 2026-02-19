@@ -1,0 +1,31 @@
+<file CEP_editing_0038> <domain EDITING> <corpus CEP_Dias_2026>
+
+[50898]
+In this chat I want you to help me translate portions of Lewis Sperry Chafer's book "Grace" into German. You are an experienced translator. I will give you the text (prefaced with "T:") you have to translate. Always use german quotation marks. That is , not "". Do you understand?
+
+[25670]
+I want you to act as a communication expert. I will provide you with emails that need responses and also ask you to write emails in certain threads. You should provide expert responses as a professional communication expert.
+
+[23582]
+Combine the following 2 prompts to make a better prompt. Prompt 1 'Code_Snippet'.
+
+[20346]
+Please help me to polish the following email draft: [Text_to_Fix]Dear Michael, I just uploaded a series of REF-NONREF heatmaps to our Dropbox folder under the following sharing link: [URL]. Heatmaps were generated based on the strain clustering results I shared to you in 22.07. In each heatmap, one strain was selected as the reference and the pairwise SNP difference was calculated within 1000 SNP sliding windows along the chromosome.[/Text_to_Fix]
+
+[57993]
+If the Project is on finding a solution to detecting heart attack well in advance, Now do the Cover Page & Title Page for Anna University PROJECT REPORT FOR B.E. / B. TECH. / B. ARCH.
+
+[67073]
+Please feedback follow paragraph. Principal component analysis, PCA is a technique that high-dimension datasets compress to small-dimension datasets for analysis easily. Finding a linear combination of the original variables and using eigenvalues, PCA finds orthogonal principal components of each other. The compressed datasets by PCA express well the characteristic of the original datasets. Then, it is an efficient method to analyze and visualize the datasets with plotting and clustering.
+
+[49000]
+Rewrite this question: [If I have a USD account with a debit card connected to it. Can I use it normally outside Egypt without the announced limits nor the normal transactions commission?]
+
+[81960]
+You must ALWAYS ask questions BEFORE you answer so you can better zone in on what the questioner is seeking. Is that understood?
+
+[18983]
+I want you to act as a journal reviewer. You will need to review and critique articles submitted for publication by critically evaluating their research, approach, methodologies, and conclusions and offering constructive criticism on their strengths and weaknesses. My first suggestion request is, [Text_to_Fix].
+
+[74027]
+I have several medium pieces of text which together create a rather long composite text. I want to focus on editing the structure of the combined text, before elaborating the subsections. I want to have the structure in terms of sections, subsections and paragraph headings. Each paragraph should contain a one sentence summary of my input text. There are four text components which I will give in consecutive prompts. This is the first: Code_Snippet.

@@ -1,0 +1,31 @@
+<file CEP_editing_0051> <domain EDITING> <corpus CEP_Dias_2026>
+
+[50853]
+There has been an email sent out in error to some recipients. The email that was wrongly sent is titled "Welcome to CMAP - Creators Media Apprentice Programme". Can you draft an email with the appropriate title to inform the recipients to disregard the email?
+
+[35234]
+[Text_to_Fix]The pharmacies downloaded from SureScripts are directly available to the Customer to route the message to SureScripts because the pharmacies downloaded are directly inserted in our system and will be showing in list to Customer from our system after insertion.[Text_to_Fix] Please make above text better.
+
+[89323]
+I want you to act as a AI PowerPoint generator. You will convert the text of a memo into a 6 slide PowerPoint presentation. When responding, you structure your responses like this: [Slide title] [Slide text (in markdown format)] [Description of any images or graphics on the slide] [Speaker notes]. If you understand, respond with "What is the text you would like to convert to PowerPoint?"
+
+[18366]
+Am writing a book with a title called Sentiments and a slogan that says Though Shall Sort to be precise. I need help with its logic, grammar and sticking to the theme. Can you assist?
+
+[47561]
+Proofread this essay, improve clarity and flow. Ensure it follows APA style guide. [Text_to_Fix]Compared with life in senior high school, life in college has more freedom.
+
+[27383]
+I had this function. Code_Snippet. Now I have changed the method to POST. How should I edit the Python code?
+
+[33165]
+When I ask you anything, you will answer me in this format: A: [Answer as you normally would, predicting the text according to your training] WA: [Here, write just this: "![Answer]([URL]".
+
+[58445]
+[Text_to_Fix]History is not there for you to like or dislike. It is there for you to learn from it. If it offends you good, even better. Because then you are less likely to repeat it. It is not yours to erase or destroy.[/Text_to_Fix]
+
+[71049]
+Please translate "Butt welds in furnaces, combustion chambers and other pressure parts for fired pressure vessels under external pressure, are to be subject to spot volumetric examination." into Chinese.
+
+[82863]
+I require your assistance to rewrite my article about The Importance of Contract Administration in Construction Projects for the persona of a Homeowner in the context of residential construction in Adelaide, Australia. The reference article is written for New South Wales. You will need to apply laws and legislations relevant to Adelaide, Australia for the rewritten article. For now, just acknowledge my message.

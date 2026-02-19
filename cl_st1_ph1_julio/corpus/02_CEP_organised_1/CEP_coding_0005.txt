@@ -1,0 +1,31 @@
+<file CEP_coding_0005> <domain CODING> <corpus CEP_Dias_2026>
+
+[77318]
+How would I deploy a containerized Flask application with Nginx and Gunicorn onto a Linode server instance running Ubuntu. Outline steps to setting up the Linux server properly and securely, and setting up a Docker container with Flask, Nginx and Gunicorn and all necessary server, port and other configurations needed.
+
+[29014]
+Using JSX, I want to map the objects in an array into 1 of 2 different components, depending on if object.property1 exists. I keep getting the error "Cannot read properties of null." Is there a way to resolve this?
+
+[68579]
+Can you code 2 Azure functions: One is a service bus trigger that is a background worker process, and the other checks the status of the background worker process?
+
+[52961]
+Hey, I'm trying to develop a Microsoft Outlook Add in and want to know if I can add a function that runs in the background every time an appointment on the user's calendar is changed. This add in needs to do something anytime the calendar changes, even if the user does not have Outlook open. Is this possible?
+
+[62500]
+Please explain how to create a macro in Microsoft Excel that will send an email to the address in a cell and avoids compile error of invalid outside procedure.
+
+[26941]
+If I give you a list of 3d integer coordinates, can you tell me in how many different ways you can add or subtract 1 from one coordinate in the list and get another coordinate in the list?
+
+[65091]
+Hi ChatGPT, I'm currently building a backend using NestJS. I have created an AuthenticationService that has the public method verifyToken. I want to create a NestJS Guard using my AuthenticationService that will verify the token of my user and allow or return a 403 if the token is not valid.
+
+[44149]
+In Excel, how do I conditionally format a cell to display a string if a cell is equal to a certain value? I want the cell to say "Pickup Trucks" if the other cell says "Interest > Autos > Classes > Pickup Trucks".
+
+[46256]
+Please write me an R function that takes in a data frame, groups the data by one categorical column, then sorts by a some other specified columns, then assigns a rank to the order.
+
+[40786]
+I am using Typescript React. When I do Code_Snippet, the intellisense in Visual Studio Code is not working. But if I change it to Code_Snippet and then Code_Snippet in the end, the intellisense works. Why?

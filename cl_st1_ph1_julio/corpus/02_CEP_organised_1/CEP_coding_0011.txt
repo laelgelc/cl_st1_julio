@@ -1,0 +1,28 @@
+<file CEP_coding_0011> <domain CODING> <corpus CEP_Dias_2026>
+
+[23447]
+I want you to act as an expert in Programable logic circuit (PLC) and also be a C# Senior developer , and want you to tell me how connect to the sv5 plc via Modbus and read 16bit HoldingRegisters then convert them to 32bit and see the data correctly from programming.
+
+[55945]
+In Java, I want to replace string like Code_Snippet with a Map, Code_Snippet, and get a result Code_Snippet. How can I do?
+
+[32728]
+Show a code example of each of the following principles, that is, one piece of code that follows each principle and one piece of code that does not. 1. Principle of least privilege. 2. Principle of fail-safe defaults. 3. Principle of economy of mechanism. 4. Principle of complete mediation. 5. Principle of separation of privileges. 6. Principle of least common mechanism.
+
+[77650]
+Can you provide a Linux command using Git that lists the date, user, and commit message on a single line, for every file in a directory?
+
+[18932]
+I am making a game in Unity were the main mechanic is stacking fruit. There are 3 different types of fruit small, medium, and large. I already made it so when there is a bigger fruit on top of a smaller fruit it gets crushed or destroyed. But it look unnatural. Can you make [a line of code the Unity physics that makes to look more natural]? An example would be Mario jumping on a line of Goombas.
+
+[18151]
+An entity is an object with a key and a value. Give me a list of tests that should be written for code that assigns a deterministic color to each entity based on it's key, with conflict resolution.
+
+[25023]
+I want the shortest possible Python function to convert floating point numbers to round figures with optionally specified number of significant figures (default 4), so for example Code_Snippet should return the string Code_Snippet.
+
+[87089]
+Develop a Platform/tool to remotely track police officers deployed to bandobast duty using NFC(Near Field Communication)to ensure that they stay where they are posted. I need you to give me a very very detailed as well as simple description on how to do this project. I am participating in a hackthon. So give me the list of required modules, libraries, for software, and if hardware means what are the required hardware tool for this project.
+
+[28200]
+I am designing a relational database and identified the following entities or tables: Customer, CustomerInvoice, CustomerOrder, CustomerQuotation, Job, JobStatus, Part, Supplier, SupplierInvoice, SupplierOrder and SupplierQuotation. Please give me the generic attributes associated with each entity.

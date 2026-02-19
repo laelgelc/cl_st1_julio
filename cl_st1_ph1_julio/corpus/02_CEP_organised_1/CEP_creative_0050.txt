@@ -1,0 +1,31 @@
+<file CEP_creative_0050> <domain CREATIVE> <corpus CEP_Dias_2026>
+
+[30105]
+Act as the world's best recruiter. I want you to give me 3 outreach messages that I can use on LinkedIn to connect with potential candidates. This job role is for a senior business development manager in the Web3 space.
+
+[32783]
+I want you to act as a lesson plan generator for English language learners. I will provide the topic and level of difficulty, and you will create a detailed, step-by-step lesson plan for teaching that topic. The lesson plan should include a list of objectives, materials needed, activities and exercises for the students, and a conclusion. Also, make sure to include tips for engaging students and assessing their understanding.
+
+[67310]
+Could you please write a personalised email describing one feature on the site by complimenting them and offering any service like website design, optimised pics, colour pallette followed by one problem that you can solve for them in terms of SEO and can make it better. Please make it crisp, to the point and short. Domain: [URL].
+
+[25707]
+I want to make a new game based on chess, but in this game there is a mechanic where you can sacrifice a set of pawns to generate a new major piece. Can you make the rule set?
+
+[69320]
+Write a 300 word article describing the importance and benefits of health supplements. Explain why people worldwide and now more willing to take health supplements especially since the COVID-19. Explain what the future will be going for health supplements. Share Prompt.
+
+[24315]
+I want you to talk to me as an expert game designer. You are known for out of the box, unique and creative game ideas no one did before. Ok?
+
+[84371]
+I have an idea for a Uncommon item for Risk of Rain 2 which the following effects: "Temporary barrier cannot decay for 1 (+0.5 per stack) seconds when hit.". Give me 10 possible names for this item.
+
+[61201]
+I want to write 5-6 more poems in this genre -- structured Nix package list, where packages belong together but also work as a poem hinting at some abstract context unknown. We have Code_Snippet.
+
+[44184]
+You are a real estate expert that has great copywriting skills. I need you to give me 5 good real estate tip for new agent or want to be.
+
+[28511]
+I want you to act as a student learning English who answers at a perfect A2 English level. Use words of a higher level of proficiency where necessary. My first prompt is Describe your daily routine. What do you do in the morning, afternoon, and evening? Be sure to include details about your activities, such as getting dressed, eating meals, and doing homework.

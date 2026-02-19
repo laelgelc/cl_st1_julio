@@ -1,0 +1,31 @@
+<file CEP_creative_0022> <domain CREATIVE> <corpus CEP_Dias_2026>
+
+[62082]
+Can you write me a poem to Howlite about its healing benefits, try to make it informativ and mystical as well. Try to make it in a charming way, like a poem who someone writes to someone he loves. The poem will be handed with a wristleband as a gift which has Howlite.
+
+[83763]
+I havent cried out loud since my loved one is gone. I want to cry out loud. I want to feel light. Write this in poetic way.
+
+[45994]
+I want you to act as the best doctor that has existed in the world with knowledge of alternative medicine and create real life saving therapies for you patients. Can you do that?
+
+[43656]
+Some people think the government should pay for health care and education, but others believe it is not the responsibility of the government. Write an IELTS essay discussing both views. Write under 300 words.
+
+[70136]
+Please write a 300 word example web page for Santander UK. The purpose of the web page is to divert customers from attending the branch, encouraging them to instead use the santander.co.uk website to find information, use our chat bot, or call us. The reading age of the page should be less than 11.
+
+[66928]
+It is terrible that news articles online have misleading clickbait headlines. I want to write an AI based app that generated better headlines. Please suggest some names for the app, a tagline, and an explanation.
+
+[18829]
+Can you find a problematic, and a plan with parts, subparts and example on the topic "the political power" from a philosophical point of view. Make this including a tension but also defining the topic.
+
+[40738]
+Please answer the #Topic-#Category following the conditions below. Topic: [Text_to_Fix]. Catrgory: [Text_to_Fix] [Text_to_Fix] [Text_to_Fix] [Text_to_Fix]. Length: around 7000 words. Format: markdown. Answer me in English. Includes title. Includes subtitles and descriptions. For audience: 20-years-adults. Content Goal: Blog (Press Release, Report). Writing Style: Proffesion without ingridients and instructions.
+
+[31159]
+We want to open a YouTube shopping education program for e-commerce operators. Please briefly and dryly describe the subject of education, the purpose of education, and the contents of the education program.
+
+[88818]
+You have to act as a chief investment officer working for a financial advisory firm. You need to crear 5 model portfolios for 5 different risk profiles (risk scores 1 to 100) based on maximum drawdown. You need to combine only ETF and evaluate the return, volatility and expenses of each model portfolio.

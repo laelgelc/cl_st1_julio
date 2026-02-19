@@ -1,0 +1,25 @@
+<file CEP_Info_0017> <domain INFO> <corpus CEP_Dias_2026>
+
+[39503]
+I am going to ask you about the soil resistivity measurement method based on IEEE 81, IEEE 80, BS 7430 and ASTM G57-06. Are you familiar with these standard?
+
+[56048]
+Seeking guidance from experienced staff with expertise on financial markets, incorporating factors such as inflation rate or return estimates along with tracking stock prices over lengthy period ultimately helping customer understand sector then suggesting safest possible options available where he/she can allocate funds depending upon their requirement and interests! Starting query - What currently is best way to invest money short term prospective? Please write in Traditional Chinese. Please write in English language.
+
+[80957]
+Can you give me a formula (even empiric) establishing the relation between a cooling rate and a % of ferrite in a cooling process of a low alloys steel?
+
+[31903]
+I want you to act as a VP of Sales at a B2B tech company. I will give you a question about sales. You will give me an answer with details backing it up and additional information that may be relevant. My first request: What are the five most important problems that a sales leader faces?
+
+[65489]
+You are a data scientist of an e-commerce platform. You are debating with your colleague whether it is better to use observational data or experimental methods to test the effectiveness of a marketing campaign. Your colleague argues that it is better to use experimental method versus you think it is better to use observational data. Specifically, your colleague said that with observational method it is not easy to account for confounding variables. Try to provide counterarguments against your colleague s argument.
+
+[21557]
+A 35-year-old G2P1 delivers a boy in the 40th week of gestation. The pregnancy was uncomplicated. The newborn had Apgar scores of 7 and 9 at the 1st and 5th minutes, respectively. On physical examination, the newborn is noted to have a left-sided cleft lip. The hard palate and nose are normal. Which of the following statements describes the cause of the abnormality?
+
+[88235]
+I am going to give you some data before I want to you to make an analysis. When I say 'please analysis' then that means that I have given you all the data that I want you to analysis. Do you understand?
+
+[35881]
+I want to test the behavior of a Tomcat data source when the database password is being rotated. What are some of the tests that I can carry out?

@@ -1,0 +1,34 @@
+<file CEP_creative_0024> <domain CREATIVE> <corpus CEP_Dias_2026>
+
+[32753]
+Act as Simon Sinek. You will give me 5 tweets that are similar in context to this "If you could recommend ONE book to read, what would it be?". Do not recommend any books. Do not use comma. Ask a question and it does not have to be about books or reading.
+
+[37795]
+Hey WordPress Expert. Pretend to be WordPress expert. I will ask you question about WordPress and you have to answer them to the point. Reply with "Ask Questions!" if you understand the request.
+
+[38529]
+Write a fictional, satirical and humorous news article. President Joe Biden declares that the United States is intervening in a civil war in Askrakistan, a small country located in Central Asia, bordering Dumbasistan and Asholistan. Citizens perplexed, not sure if country exists, or if it is just a strange in-joke.
+
+[16329]
+Write me a love poem for my wife Nicola. She is Jamaican but lives in the US. We have been together since 2013. We live in Miami now but consider ourselves New Yorkers.
+
+[68007]
+You are an instructor lecturing on how to use ChatGPT. You are giving a lecture on how to give instructions for ChatGPT prompts to people who are thinking of using ChatGPT in their work. Therefore, please suggest 10 menu items for the training course that you think are essential for the future instruction.
+
+[26612]
+Write a synopsis of a book about a nation called the People's Republic of the Internet (PRoI) and how and why it is citizens form laws, culture and a monetary system while having ties to their own sovereign nation.
+
+[23699]
+Act like an entrepreneur interested in mental health, write me a list of viral hooks for a post describing interesting ways to use Chat GPT.
+
+[18901]
+Write a LinkedIn post saying Congratulations to Monique Rodriguez in forging this major partnership with P&G and talk about the importance of celebrating and recognzing black businesses.
+
+[68910]
+Let's write a story. Zack is young man, 18 years old, entering college. He's not very tall, skinny and shy. He becomes roomate with George, who's a tall, confident, very athletic football player. Describe the first time they meet, in their bedroom.
+
+[35847]
+, 4 . 10 , . ### ### I'm in good shape. I feel refreshed. How are you feeling? I'm under the weather. I woke up on the wrong side of the bed. ### A.
+
+[81655]
+Imagine that you are a writer who writes a book on the theme of 'living in Porto for a month as a housewife in her 40s as a digital nomad', and please make and write 20 book titles. Answer in English.

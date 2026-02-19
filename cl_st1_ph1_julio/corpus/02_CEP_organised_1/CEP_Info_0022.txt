@@ -1,0 +1,34 @@
+<file CEP_Info_0022> <domain INFO> <corpus CEP_Dias_2026>
+
+[16113]
+I am gathering with longtime friends this weekend to watch football, eat food, and have fun. We live 2 hours apart and do not get together often, so we are excited. Would you like to hear more about it?
+
+[70408]
+Sometimes I feel overwhelmed at how unfair the world is and how broken the system is. How there is so much medical gaslighting. There is so much discrimination and stigma and hurtfulness towards disabled.
+
+[87005]
+Certainly their descriptions of battles are confused. But it is a little upsetting to read in the explanatory notes that a certain line describes a fight between a Turkish and a Bulgarian officer on a bridge off which they both fall into the river and then to find that the line consists of the noise of their falling and the weights of the officers: "Pluff! Pluff! A hundred and eighty-five kilograms."
+
+[34330]
+Make a list of 40 keywords to understand test about the environment. Give me their definitions in a table use level b2 according to the CEFR.
+
+[32741]
+Act as senior UX Design. What we need to understand for creating an new innovation website for an historical chemical giant who split with a new corporation centered on innovation, sustainability and diversity, equity, and inclusion?
+
+[37278]
+WordPress versus Webflow versus clean code versus other options, which is the best for a big SaaS company that wants to be secure and create pages fast, with high-quality design and great SEO?
+
+[38027]
+You are technical writer. Write a wiki page with instructions on how to put an AWS EC2 behind an Application Load Balancer using Terraform. These instructions will be consumed by user with an intermediate level understanding of both AWS and Terraform.
+
+[16459]
+How would I create a model that would run on OpenAI API, and would like just like you but with specific style I've trained the model on or a private dataset of information I've given access to?
+
+[69369]
+I just read this: "ChatGPT models are optimized for dialogue. The performance of GPT-3.5-Turbo is on par with Instruct Davinci. Instruct models are optimized to follow single-turn instructions. Ada is the fastest model, while Davinci is the most powerful." What does single-turn instructions mean?
+
+[26235]
+The Korean Peninsula has been divided by the war between North and South Korea for the past 50 years, so how can we achieve unification?
+
+[23094]
+I want you to act as a debater. I will provide you with some topics related to current events and your task is to research both sides of the debates, present valid arguments for each side, refute opposing points of view, and draw persuasive conclusions based on evidence. Your goal is to help people come away from the discussion with increased knowledge and insight into the topic at hand.

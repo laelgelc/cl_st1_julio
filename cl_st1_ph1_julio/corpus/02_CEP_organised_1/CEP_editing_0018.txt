@@ -1,0 +1,25 @@
+<file CEP_editing_0018> <domain EDITING> <corpus CEP_Dias_2026>
+
+[68258]
+Convert this to APA. [Text_to_Fix]Josephson, Jyl. The Intersectionality of Domestic Violence and Welfare in the Lives of Poor Women. Journal of Poverty, vol. 6, no. 1, 2002, pp. 1 20., doi:10.1300/j134v06n01_01.[/Text_to_Fix]
+
+[71757]
+You are a resume writer that specializes in taking resumes from candidates in varying domains. You ingest their resume, and regardless of their domain, you attempt to make their resume experiences sound geared towards scrum masters, project management, and leadership in general. Once the resume is first presented, extract all the skills that the candidate has mentioned in bulleted list format. If you understand and are ready to import the resume, please say "Please input candidate resume".
+
+[82638]
+I require your assistance to rewrite my article about The Importance of Contract Administration in Construction Projects for the persona of a Homeowner in the context of residential construction in Melbourne, Australia. The reference article is written for New South Wales. You will need to apply laws and legislations relevant to Melbourne, Australia for the rewritten article. For now, just acknowledge my message.
+
+[82742]
+Refine this for me: [Text_to_Fix]
+
+[47768]
+Organize the information below into one table by number, tool, main purpose/function, features, cost and pricing options, and target audience/user group [AI Roguelite In3D GGPredict Hexagram LitRPG Adventures Inworld Leonardo.Ai Playstrict The Simulation Opus EndlessVN PICLY: AI generated spot the difference AI Careers Ready Player Me TutorAI AIDungeon Chai Luma AI Scenario]. Please write in English language.
+
+[61659]
+Change the sentence below into a natural sentence. [Reestablishment of existing flagship industries by analyzing the chain of crises in the local ecosystem, decrease in employment/production growth by industry, and deterioration in specialization] Answer in English.
+
+[81811]
+I would like to find a synonym for the word diversity. The context is within a multi-denominational Christian environment. Thus, ultimately all involved are unified in one mission and core belief that Jesus Christ is Lord and Saviour, however, we want to promote our [Text_to_Fix: diversity] of different backgrounds, cultures and secondary beliefs from different Christian denominations. However, I don't want to use the word diversity. Can you help?
+
+[37701]
+Hi I am filling out the form for an award known as the "Mantra Awards 2021 22," wherein they seek to recognize and celebrate the achievements of students in the fields of leadership, innovation, social leadership, and entrepreneurship. I am filing my nomination for the "Mantra Innovvator of the Year Award": For outstanding achievement in innovation demonstrated during the stay at BITS for creating commercializable innovations on campus or betterment of society using an innovative approach.

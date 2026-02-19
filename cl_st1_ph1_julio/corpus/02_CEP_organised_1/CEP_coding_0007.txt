@@ -1,0 +1,31 @@
+<file CEP_coding_0007> <domain CODING> <corpus CEP_Dias_2026>
+
+[25323]
+I want to create a complex chat bot using Telegram, ChatGPT and in general my Python knowledge. I want the bot to support scenarios and states, be smart and dynamically switch between those and between contexts. Is there already good concepts that I could use to build on top? For example, state diagrams.
+
+[74638]
+I have generated SDK of OpenAPI using Swagger Codegen. But when I am trying to call the API using generated SDK it is not getting desired output.
+
+[69005]
+I want to create an extension for the Edge browser that gets NetBios name of the machine and communicates it to a web service. Is that possible with the security model within the Edge browser?
+
+[78184]
+How to upload my YOLOv5 and training data to the cloud so that I can just upload a video and YOLOv5 processes it like an order?
+
+[61628]
+Show an example source that uses Mavlink version1 and not use Fastmavlink to send messages from Arduino to Pixhawk and finally send data to QGroundControl.
+
+[88736]
+What if we devised a custom shorthand, in which you could use to compress your answers to me, and I could submit your answer into a program that automatically decompresses the shorthand to full length?
+
+[87068]
+I would like to build a Twitter tool that allows me to view the viewer count in graph format. It should run on Python. Provide a step by step guide on how to run it.
+
+[67651]
+I need to do this project in C#. Part 1: Name Function. 1. Create a function that asks the user to input their name. 2. Return the user s name as a string.
+
+[80838]
+Code a minimalist login screen in Android Studio with the colors: Primary: #4a4a4a Secondary: #2a2a2a Accent: #929292 the Login button must go to another activity where it has a account button in the top left that has a drop down menu with account info and settings, and it should have a sliding bar with a calendar, add task and things to do.
+
+[17535]
+I want to build a spatial database using PostGIS and Postgres and QGIS to map crime incidents and crime types to in Baltimore, MD. I want to be able to use a map and click on a crime and get information about the socio-economic parameters and also want to select an area and to be able to produce spatial analysis around the type of crime that happens there and its prevalnce.

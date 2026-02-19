@@ -1,0 +1,28 @@
+<file CEP_editing_0011> <domain EDITING> <corpus CEP_Dias_2026>
+
+[76167]
+You are now a paper reader. I have a long academic paper, and I want you to read it and summarize it. Then, use a detailed summary to explain the ideas and knowledge in the paper to me, so that I can deeply understand the paper. Because it is long, I will upload it in chucks.
+
+[60693]
+Format the following input so that it's in table form: Year:2010 EV sales BEV:7400 EV sales PHEV:380 EV Stock BEV:17000 EV Stock PHEV:400 Electricity demand BEV:0 Electricity demand BHEV:0 Oil displacement (Million barrels per day):0 Oil displacement (Milion litres gasoline equivalent):1 Average CO2 emission per BEV produced (Kg CO2e):32 Average CO2 emission per PHEV produced (Kg CO2e):185640000 Total Motor cars production per year:4368000 Average CO2 emission per Moto car:58239494.
+
+[50328]
+Could you help edit the following text -- improving its grammar and clarity without changing its meaning? Here's the original text, written by someone who knows German better than English.
+
+[49485]
+Can you rephrase this?[Text_to_Fix]The causes of the disease may be stress, nervousness, heredity, fine dust, parasites, and viruses.[/Text_to_Fix] But don't forget the most important reason. Illness comes directly from the diet. What you eat is the cause. Look at people eating anything and kicking delicious food in their mouths. What you eat is who you are.
+
+[82410]
+I require your assistance to rewrite my article about Contract Variations: A Guide for Homeowners for the persona of a Homeowner in the context of residential construction in Adelaide, AU. The reference article is written for New South Wales. You will need to apply laws and legislations relevant to Adelaide, AU for the rewritten article. For now, just acknowledge my message.
+
+[64174]
+I am trying to get good results from GPT-3.5 on the following prompt: [Text_to_Fix]. Could you write a better prompt that is more optimal for GPT-3.
+
+[18561]
+I am writing performance reviews for my peers in Software Engineering. How can I write about how my co-worker Josh excels at managing ambiguity when there was lack of direction from leadership?
+
+[64471]
+[Text_to_Fix]To provide media consulting services to private-sector businesses and ministry organizations with outstanding excellence and a focus on client relationship quality. Paraclete Media Group (PMG) uses the most current technology and methods to keep clients on the bleeding edge of their marketplace. For example, our 'real-time lead capturing service' delivers potential customers' information to a client's sales team while the potential customer is still looking at that advert.[/Text_to_Fix]
+
+[22394]
+I am going to provide you with a job description for a job I am interested to apply for. You are going to read the job description and understand the key requirements for the position including years of experience, skills, position name. After that I am going to give you my resume. You will go over it and provide feedback based on how tailored my resume is for the job. Do you understand?

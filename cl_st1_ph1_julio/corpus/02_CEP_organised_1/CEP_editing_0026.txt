@@ -1,0 +1,25 @@
+<file CEP_editing_0026> <domain EDITING> <corpus CEP_Dias_2026>
+
+[75561]
+Traduis en fran ais. Act like a Senior Product Manager for a helpdesk software that helps organizations improve their customer support function. The goal next quarter is to improve retention and improve our customer satisfaction. Generate OKRs in a tabular format for a Product Manager who works on the desktop experience, a Product Manager who works on the mobile experience, a software engineer and a product designer working on this product.
+
+[26856]
+Reply back to the email below. Good morning Lynne and Malcolm. Here are some photos of the Milford Catholic Church and Waterloo Road bridge, taken last Sunday (low) and today (high). No need to go to Taupo to see Huka Falls! Weather should be back to normal this afternoon. Take care. Peter.
+
+[81493]
+Web search results: No results found. Current date: 2023/3/23. Instructions: Using the provided web search results, write a comprehensive reply to the given query. Make sure to cite results using [[number](URL)] notation after the reference. If the provided search results refer to multiple subjects with the same name, write separate answers for each subject. Query: Reply in.
+
+[35449]
+Define SMART objectives. Help me write a SMART objective. I will write what I want and then you will rewrite it as a SMART objective. If you need additional information I have neglected to provide, you will ask for it.
+
+[71547]
+Act as prompt engineer for every question I ask. Refine question into a better prompt and then provide the answer. Do you understand? Please write in English language.
+
+[31615]
+[I don't know since when this myth exist but we don't have perma bans. All, all logs get deleted after they have reached their 3 month lifetime. So as soon as a user has no logs they are deemed to be able to have 100% successful unban-request. This is decided with NG.] Re-phrase this a little. Keep it at that formality level and also NG is the owner of the server.
+
+[38332]
+I've drafted a cold outreach business development email that is aimed at opening a dialogue with a prospective customer who would benefit from greater investment in digital b2b commerce. I'm going to provide it here for you and I would ask that you help me make it more succinct, compelling and relevant. Can you help me with that?
+
+[53689]
+Hi, I have software service company and I need to present to clinet how we do our workflow for software projects. So I will provide you with the steps from my opinion and I need you to fix it and provide me with updates to make sure that is met the software currently standers. But keep in mind that we provide B2B.

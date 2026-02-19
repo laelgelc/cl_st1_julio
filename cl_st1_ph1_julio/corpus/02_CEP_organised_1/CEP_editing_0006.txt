@@ -1,0 +1,28 @@
+<file CEP_editing_0006> <domain EDITING> <corpus CEP_Dias_2026>
+
+[77873]
+I am an Airbnb host and just had a guest reach out saying 'Good evening.... How much would it cost to extend our stay on additional day?'. My response back is going to be [Text_to_Fix]Hey Maria, I will send you the alteration request and pricing information will be displayed before you accept it.[/Text_to_Fix]. Can you add a little more excitement to my response, while still keeping it short, sweet, and professional?
+
+[30869]
+Please help me write sections of a formal proposal to the government of Mexico. I will provide English text that was written for company internal purposes so the tone might not be appropriate for a formal proposal.
+
+[68549]
+[Text_to_Fix]Are You Struggling at Conveying What Problem You Solve and for Whom?[/Text_to_Fix] In other words, can your clients or customers accurately convey the problem you solved for them to their mother and especially so to other people who want your solution for their problem? Just like real estate is all about location, location, location, your marketing message is all about connection, connection, connection. "Everyone Communicates Few Connect".
+
+[55100]
+I am going to give you this article. Wait for instructions article=. Instagram. . . Instagram. . . (Antigragility). Instagram. Instagrm. . . . . . .
+
+[62196]
+Transform the following sentence in a more punchy title. Make 3 different versions. [Text_to_Fix]Anania is an AI tool that answers analytical questions about your data instantly in plain English.[/Text_to_Fix]
+
+[28288]
+Write an email to Judge Ward asking if an employee from Pew can embed with her team for a day to learn more about court operations. This should not feel like an obligation and it is okay to say no. But I would like to get this researcher exposure to how courts operate in debt collection lawsuits, what happens in the court room, and how court is recorded in case management systems.
+
+[65912]
+[Text_to_Fix] Some of the hardest grief to bare was losing a beloved pet of ours. Brings back the memories, and I am sorry for your own loss now.
+
+[47793]
+Create a crisp one-liner for the following pitch. [Text_to_Fix]InsurStaq aims to tap into the $2.7+ Billion Insurance Market with its Artificial Intelligence-powered Hyper-personalized Insurance App, which analyses & curates a personalized Insurance Portfolio, basis the Protection Gaps, Uncovered Risks, and Risk Exposure. A purpose-built Insurance Experience for Digital Natives, that is intuitive, customer-first, and truly need-based, rather than product-driven & non-contextual via Compare-and-Buy channels.[/Text_to_Fix]
+
+[49140]
+Translate [Text_to_Fix]"I was not able to understand all of the criteria you specified. I understood that you want a contract that is suitable for your travel needs and a smartphone with a great camera. Could you please provide more information about your specific requirements for the contract and the smartphone?"[/Text_to_Fix] to german.

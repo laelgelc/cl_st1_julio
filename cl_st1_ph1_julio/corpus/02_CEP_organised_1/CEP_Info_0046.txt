@@ -1,0 +1,28 @@
+<file CEP_Info_0046> <domain INFO> <corpus CEP_Dias_2026>
+
+[70837]
+Please provide a step by step guide on how to read a difficult Odin Project lesson. Assume the lesson does not include a project, but instead consists of reading/video assignments.
+
+[23834]
+I want you to act a business advisor and provide me with a 4 stage business plan on starting a food truck with $10,000 starting capital. Include equipment and type of vehicle needed. Also provide a Financial highlight, success factors, Industry Analysis, Customer Analysis, Competitive Analysis and a marketing plan.
+
+[86470]
+PPT PPT ( ) ( ) PPT Markdown QUERY Code_Snippet Markdown : , , , , , , , , , : , , : , , , : , , , : , , : , , , : , , : .
+
+[62387]
+Can you write a task list for my assistant to plan PR work for my design consultancy so that we can get articles in the media about us.
+
+[43498]
+I want you to act as a recruiter. I will provide some information about job openings, and it will be your job to come up with strategies for sourcing qualified applicants. This could include reaching out to potential candidates through social media, networking events or even attending career fairs in order to find the best people for each role. My first request is [Text_to_Fix].
+
+[29247]
+Laser characteristics - spatial and temporal coherence - Einstein coefficients and their significance - Population inversion - two, three and four level systems - Pumping schemes - threshold gain coefficient - Components of a laser - He-Ne, Nd:YAG and CO2 lasers and their engineering applications. Explain everything with examples and formulas and also explain them in simple terms.
+
+[89162]
+Consider the sequence defined recursively by a_1 is equal to -1, a_2 is equal to -2, a_(n+1) is equal to -3a_(n-1) + 4a_n. We can use matrix diagonalization to find an explicit formula for a_n. Find a matrix that satisfies {a_n, a_n+1} is equal to M{a_(n-1), a_n}.
+
+[17528]
+I'm evaluating a job interview question and answer. Here is the applicant's answer: As per my experience I never felt that they need any changes in their work place. Please tell me, yes or no, with no other explanation, whether this applicant is recommending improvement or not.
+
+[38408]
+I work for a web hosting service and research and discover business partners that can be linked to hosting services such as hosting services and website production agencies. Please let me know the checklist that needs to be checked.

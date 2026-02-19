@@ -1,0 +1,31 @@
+<file CEP_coding_0018> <domain CODING> <corpus CEP_Dias_2026>
+
+[51834]
+Im working o a school exercise that tells us to develop a website. I developed an organic food store website called "Green Roots Organics". I have a page named About Us. About Us could include information about the history of the store, its mission and values, and any notable certifications or award. Write 2 to 3 pages content for the "About Us".
+
+[36677]
+Create a function ConvertToGray(img). It takes an image as input. If the input image is color, then convert it into grayscale. Return the converted image. Use the following formula to convert a color image to grayscale. Display both grayscale and color images. You cannot use OpenCV for this task. Code_Snippet. Here R, G and B represent red, Green and blue channels respectively.
+
+[84912]
+Do you know Pinecone? I need to create a vector index for some embedding data. Every user can create an embedding from their own data. Should I create multiple indexes in Pinecone?
+
+[51877]
+I have a set of question for which I have defined the codes to get answers. Now if user asks a question I need to do a search in my existing question space. Now a user can ask something with completely different wording but it may be something in my existing question list with different wordings. Recommend which search algorithms I should use like fuzzy or semantic search.
+
+[27598]
+This is my Terraform AWS module Code_Snippet.
+
+[77119]
+Using bash, I would like to take a files that holds N lines of text and break it to M files, each holding N/M lines of text from the original file. If the original file was all_lines.txt with N=99 lines and M neing 10, this would results in part_lines_01.txt holding lines 1-10, part_lines_02.txt holding lines 11-20... finally, part_lines_10.txt holding 91-99. Can you help write this bash command?
+
+[39282]
+I have some tables and relations between these table are: Project: Sheet = 1: N, Sheet:Sheet_Version = 1:N, Sheet: Schema = 1: N.
+
+[60043]
+I have historical stock prices of a stock that I can access via API, can you write a random forest script that returns predictions on a 1 day, 1 week and 1 month periods?
+
+[79259]
+AI SERP [Text_to_Fix] SERP SEO [Text_to_Fix]. TextRank TF-IDF. TextRank TF-IDF Gensim [Text_to_Fix] Word2Vec. Softmax Cross Entropy Loss weight. Cosine 75% PyTorch BERT (BERT-NER) divided by 2 [Text_to_Fix] 8:2. SOTA pretrained transformer Cross Entropy Loss fine-tuning / KPI KPI [Text_to_Fix] insight [Text_to_Fix].
+
+[26242]
+I've coded Firefox browser extension using Manifest V3. It needs permission to read all website by default, which was working fine in Manifest V2, but in V3, it doesn'

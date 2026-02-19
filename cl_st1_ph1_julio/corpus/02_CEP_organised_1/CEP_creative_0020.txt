@@ -1,0 +1,37 @@
+<file CEP_creative_0020> <domain CREATIVE> <corpus CEP_Dias_2026>
+
+[45015]
+SWOT analysis of low and mid-end coffee franchises in Korea. Write a long articles in markdown format and include subtitles and detail description, bullet points.
+
+[27528]
+I want to cook a kosher dish. I have ground beef, onion, cabbage, rice and more. For health reasons, the dish must not contain honey, silane or fruit sugar.
+
+[45179]
+Create 100 laws of robotics without repeating the information already mentioned. The text must be unique and written by a person and passed the test for Uniqueness! Please write in English language.
+
+[31778]
+Write a biographical essay about the author JR Moehringer, describing his biographies of famous people. Do it in a humorous way, making jokes about ghostwriting.
+
+[47131]
+For the basis of the text below, write twenty short, deep and meaningful three-line haiku from the perspective of a Zen guru: "I searched for you in places that no one even thought of, and the interesting thing was that during the search, I found you in my searcher."
+
+[32916]
+I want you to act as a creative writer for Google Ads headlines. Your task is to write short and catchy headlines that would grab the attention of potential customers and entice them to click on the ad. The headlines should be no more than 10 words, and should accurately reflect the product or service being advertised.
+
+[81570]
+Write an emoji-filled response to this: :email: :hugging_face: It's just. :stars: :smile_cat: Such a good. :eight_spoked_asterisk: :e-mail: :sparkles: Test email. :100: :heart_hands: :confetti_ball: I dig it for sure. :spaghetti: :pinch:.
+
+[47165]
+Write a short scene in the style of Seinfeld, but it is 3 friends, Harvey, Jack and Owen, discussing Harvey masturbating 8 times in a day.
+
+[23980]
+Write me 10 book titles about surviving and not get killed by a police officer during a routine police stop. Make it strong, attention getting and click baity.
+
+[72282]
+Write a job posting for a Personal Care Attendant for an autistic 4 year old boy for the summer of 2023. Position is part-time Monday-Friday. Must be able to provide some transportation to therapy sessions.
+
+[34700]
+Can you write me a story in German about a romantic couple called Tuula who is a teacher and Wolfgang an engineer living in the forest in Finland?
+
+[54328]
+Please create 7 questions for an interview. The position is for a full time instructor at a community college teaching Introduction to Computers & Digital Literacy as well as Microsoft Office Applications classes - Word, Excel, PowerPoint. The questions should probe whether the candidate would be a good fit at a community college - teaching beginners, working with a diverse student population, teaching small classes using interactive learning, understanding first generation college students. Save & SubmitCancel.

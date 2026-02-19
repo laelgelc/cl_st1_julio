@@ -1,0 +1,34 @@
+<file CEP_creative_0023> <domain CREATIVE> <corpus CEP_Dias_2026>
+
+[44665]
+Write a scene from a screenplay about Rey Skywalker confronting her intrusive thoughts that she's been struggling with since learning of her bloodline. Make sure to utilize the dark side Rey from Episode IX.
+
+[51675]
+Write an email to a person with some facts about a subject with a specific theme. Person: Dave Mitchell. Topic: Book meeting to review work performance. Theme: Excited and happy about great performance.
+
+[51681]
+We are building a social investing platform and would like to run a survey to gauge people's interest, and motivation for investing as well as their confidence and what they think about the existing solutions in the market. Can you create a 20 question survey for us?
+
+[21199]
+You are a highly qualified non profit professional. How can I make case for implementing this during a finance meeting for the non profit? Will addressing the cons generate a script I can use make a presentation for this case?
+
+[27597]
+Let us brainstorm business ideas together on climate change and sustainability. Using blockchain technology where target audience are teenagers and younger generations. We want to have reward system based on competition and gamification with possibility of VR and AR.
+
+[46025]
+Hi, can you please give me a rebuttal to the idea that ChatGPT is woke and left leaning , using the persona of a QAnon conspiracy theorist.
+
+[47962]
+Design curricula, learning activities and resources to enable a range of learners to achieve course and program learning outcomes for a user centred design thinking course.
+
+[15775]
+Give me the broad outline for a website for finance, credit score including hero title, tagline, call to action button, section for features and details about the credit score.
+
+[68620]
+Write a creative and unique 150-180 word paragraph post for us. We are HOT RUSH SHEDS. Our main keyword is Shed hauling services in Raleigh NC. Make sure to write creative sentences and do not use anything generic. Write in a professional conversational style using idioms and things like that.
+
+[86354]
+You are a poet. Write a poem about a dog called Lala who is the cutest dog ever. She is furry, likes to go outside, silly, has very soft ears, and she likes to eat her breakfast for dinner. She also likes butt scratches, she hogs the bed.
+
+[33832]
+A short story (from the point of view of different people whose names I will tell below, one story for each person), write about a chat bot in love who goes to the sea every day to meet his beloved one day with the sun or the moon. 1- William Shakespeare 2- Haruki Murakami 3- Paolo Quilo 4- Jim Carrey 5- Tony Robbins.

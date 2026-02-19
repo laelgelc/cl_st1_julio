@@ -1,0 +1,28 @@
+<file CEP_coding_0033> <domain CODING> <corpus CEP_Dias_2026>
+
+[50142]
+Write a script to create a Notion page using the Notion API that would make a good template page for personal creative projects I am doing.
+
+[79296]
+GPT 1.1. GPT 1.2. GPT prompt 1.3. GPT 2.1. NLP 2.2. GPT 2.3. Transformer 2.4. GPT API 3.1. OpenAI GPT API 3.2. API 3.3. Python API 3.4. Prompts, max tokens, temperature 3.5. API GPT prompt 4.1. Prompt 4.2. 4.3. 4.4. GPT 5.1. 5.2. 5.3. 5.4. 5.5. 6.1. 6.2. 6.3. 6.4. GPT GPT 7.1. 7.2. 7.3. 7.4. 8.1. GPT 8.2. 8.3.
+
+[48245]
+Given a table in PostgreSQL with this definition Code_Snippet give me a query that counts the number of other rows there were for the same msisdn at the signup date of the current row.
+
+[40579]
+10 . 1 . . ? 5 I am a frontend developer with 10 years experience. I'm going to take a week to do a toy project. There should be no maintenance cost. What kind of website should I make? Please recommend 5 things.
+
+[29748]
+Hlep me design a script that I can input the chat dialog between me and say yourself and it will simulate the way ChatGPT responds from a user interface perspective. I do not want to do any api or ai as its just a replay feature for captured dialog but should look like the same chat I have with you. I use this for demo and teaching purposes to show my team how I work with you and how you respond.
+
+[60557]
+I have a many-to-many relationship for Form and Workflow model. A workflow may contain zero or many forms while a form can be part of one or many workflow. How will you establish this relationship in SpringBoot?
+
+[48418]
+Give me the Arduino code for generating a QR code on a TFT screen which when scanned opens a webpage containing the names and images of the books and make it such that each book name is a link which when clicked sends an SMS to the admin using the Bolt IoT WiFi module.
+
+[24298]
+In Java, to create a backend service, how to create and link controller layer, service layer, Data Transfer Object, Business Logic, Data Access Object layer and then interacting with database? Imagine you are a 20+ years Java developer and answer me.
+
+[22456]
+How to automate configuration changes tracking with Github for Mikrotik devices? Ideally the script for exporting the configuration should reside on the Mikrotik device itself and be invoked periodically by the Mikrotik device.

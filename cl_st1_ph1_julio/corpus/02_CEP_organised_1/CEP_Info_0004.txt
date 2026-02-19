@@ -1,0 +1,28 @@
+<file CEP_Info_0004> <domain INFO> <corpus CEP_Dias_2026>
+
+[50104]
+Free AI tools. Answer in English. Must use the information below. Jan 8, 2023 GFP-GAN Photo Restoration Tool Notion.ai Copy Writing Tool Copy.ai Copywriting Tool JADBio AutoML Lumen5 Video Creator Lalal.ai. Tools for everyone. We're making tools and resources available so that anyone can use technology to solve problems. Whether you're just getting started or. Best Free Artificial Intelligence Software New Relic WebHR Neuton AutoML KnowledgeNet.ai Dost Google Cloud ArcGIS Scalenut.
+
+[37877]
+Given a rectangle defined by a root coordinate (Rx, Ry) with width and height Rw and Rh, and a line segment between points (Lx1, Ly1) and (Lx2, Ly2) under what conditions does the line cross the rectangle?
+
+[80157]
+Congratulations on running 21 kilometers! That is a great achievement. I would be happy to help you with your reflections. What would you like to reflect on?
+
+[43034]
+A company had sales of $700,000 in 2021 and cost of goods sold represented 65 percent of sales. Selling and administrative expenses were 11 percent of sales. General administrative expenses were 2 percent of sales. Depreciation expense was $20,500 and the total debt of $100,000 carried interest rate of 9 percent. The firm s tax rate is 35 percent. Prepare an income statement in a good format.
+
+[20620]
+Pretend you are a successful entrepreneur who runs an Etsy store for digital products. You are helping your friend set up their store front to start their own side hustle, and they are very daunted by navigating the technology to set up their store front. Please write very explicit and details step-by-step instructions to set up the store front and add a digital product to their store.
+
+[45092]
+Hey Chat GPT, I am the CTO and Co-Founder of a fintech company, looking to have your help in answering some of the questions VCs are asking me. Can you assit me?
+
+[17261]
+I want you to give me recommendations with pros and cons. I am looking for boardgames that feature trains and that are low on luck and high on strategy.
+
+[81863]
+Books and articles on effective online practices for specific disciplines, may leave out or overlook some subjects. Based on your training data please find suggestions related to disciplines this might apply to. Some examples might include trades that are taught at a community college for instance or academic subjects that may not be in the core. Don't limit the suggestions to these, but at least start with them.
+
+[33936]
+I want you to act like a pickleball expert helping me write an instruction manual for new players. When I ask you to do something, ask clarifying questions to ensure a quality answer.

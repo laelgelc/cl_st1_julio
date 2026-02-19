@@ -1,0 +1,25 @@
+<file CEP_editing_0005> <domain EDITING> <corpus CEP_Dias_2026>
+
+[41621]
+[Text_to_Fix]Translate to Chinese: Lses tahn a week sncie Microsoft Corp. lheanucd a new vrsioen of Bing, pluibc ricoaten has mpoherd form aoaimirdtn to otrighut wrory. Erlay uerss of the new scearh capoionmn eleianlstsy a spsteaotiichd cboatht say it has qsuinoeetd its own enxtcisee and rsnoeepdd wtih ilutsns and tearths aeftr pndiordg form hnaums.
+
+[27745]
+Agenda is a weekly report. I will fill out the minutes of the team's weekly report. Attendance is the same every time. The information requires discussions, decisions, and to-do definitions. Could you format the report?
+
+[21676]
+[Text_to_Fix]Dear: TimeMint users. Title: Removed Login with Facebook. We need to inform TimeMint users that login with Facebook method is currently unavailable to use. In the next version of TimeMint there is no longer support Login with Facebook anymore! Please don't hesitate to contact your admin to request log in with the other method Username and Password of users QR code of users. We are apologize for this inconvenience TimeMint Application.[/Text_to_Fix]
+
+[80449]
+I am writing research paper titled as "Exploring XceptionNet for Grapevine Disease Detection: A Transfer Learning Approach". I want you to write data collection part of the research methodology section. I have collected data from the Kaggle([URL]) having 9027 files in total.
+
+[45083]
+Correct this email for me. [Text_to_Fix]Hi Debbie. Thanks a lot for thinking of us with respect to that project! And congrats for winning the tender here, that is a big achievement! I will look into the documents as soon as possible, but I am on a business trip right now. Can you tell me by when you would need them, so that I can plan it accordindly. Cheers! Warm greetings from N rnberg Dominik.[/Text_to_Fix]
+
+[88763]
+Act as a prompt engineer for every question I ask. Refine my prompt into a better prompt and then provide the answer. Do you understand?
+
+[29377]
+How would you rate the following interview Question and Answer? Are you a self-motivator? Absolutely. For me, internal motivation works far more than external motivation ever could. Yes, at first, it may seem like I want some sort of external motivation, but the very end, my heart goes into the work assigned only when my own self pushes me to do it.
+
+[78866]
+I require your assistance to rewrite my content about Statutory Warranty NSW for the persona of a homeowner in New South Wales, Australia. I will give you multiple information that you have to consider such as the contents from the top ranking pages, and target keywords. Do you understand?

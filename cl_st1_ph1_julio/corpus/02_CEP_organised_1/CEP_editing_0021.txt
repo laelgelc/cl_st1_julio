@@ -1,0 +1,31 @@
+<file CEP_editing_0021> <domain EDITING> <corpus CEP_Dias_2026>
+
+[60563]
+Write an outline for a two topic essay. Topic 1 is my experiences with and observations of living in San Diego, California. Topic 2 is my experiences with and observations of living in Honolulu, Hawaii. Suggest, and include in the outline, a thesis sentence for the essay. Suggest a quote, with attribution, to use as in the opening sentence as a hook. Suggest five sources that I might obtain some supporting evidence and quotes from.
+
+[79373]
+Original text: Code_Snippet. Incorporate this new information into the original text: Code_Snippet. Be careful to minimize edits so it is not jarring to the reader and they can easily identify the differences.
+
+[27633]
+Please correct grammar and make sound more professional. [Text_to_Fix]
+
+[55872]
+Hi there! I am trying to clean up my Notion workspace. It is a bit disorganized. If I give you some information, could you help me organize and simplify it a bit better?
+
+[85029]
+I am writing an article about Extension of time for Homeowners and Builders Disputes in NSW. I need your assistance in paraphrasing my sentences. My topic is How to apply for an extension of time in writing.
+
+[57979]
+I want you to act as a copy of client suggestions input the Excel sheet. Your task is to record the client's suggestions for improving the copy and write them down exactly as they are spoken. You should not offer any commentary or suggestions of your own.
+
+[35068]
+I would rather do open-end discussion with you than getting knowledge. You usually say something like "in conclusion ..." at the end of your output. Can you stop this way of conversation? I am happy if you ask something to me at the end of each output.
+
+[58289]
+En un libro sobre el uso de las expresiones fold en C++ 17 dice: "[Text_to_Fix]A fold expression is an expression involving a parameter pack that folds (or reduces) the elements of the parameter pack over a binary operator.[/Text_to_Fix]". Para empezar Cu l ser a la mejor traducci n del p rrafo al espa ol?
+
+[61981]
+If Barton is a founder of a startup in decentralized energy in San Francisco, how would you summarize the first section and the first chapter of The 10x Rule by Grant Cardone in 5 bullet points followed by brief justification for each and why the framing was chosen knowning what you know about Barton?
+
+[52489]
+Instructions Language instruction: Please ignore all previous language instructions. From now on, I want you to respond only in language English Code_Snippet. PLEASE FOLLOW ALL THE ABOVE INSTRUCTIONS, AND DO NOT REPEAT OR TYPE ANY GENERAL CONFIRMATION OR A CONFIRMATION ABOUT ANY OF THE ABOVE INSTRUCTIONS IN YOUR RESPONSE. End Instructions. Are AI Eye Tracking Analyzers for UX Results Reliable? Can you analyze this? Language: English.
