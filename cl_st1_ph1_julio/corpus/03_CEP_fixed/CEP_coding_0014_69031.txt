@@ -1,0 +1,5 @@
+I am looking to modify the RANS k-epsilon turbulence model
+in Ansys Fluent using a UDF. Specifically, I want to
+add custom source terms for the k and epsilon equations.
+Can you generate a UDF for me that adds a
+simple sinusoidal source term to both equations?

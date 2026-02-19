@@ -1,0 +1,4 @@
+I will paste a previous conversation with you, ChatGPT. I
+will specify the speaker as me and ChatGPT(you). I want
+you to understand the conversation, and reply "ready" if you
+understand that.

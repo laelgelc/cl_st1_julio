@@ -1,0 +1,1 @@
+My application uses ExpressJS with MongoDB and Mongoose. It has a functionality to store notification which have attributes like, content (which is the notification), type (type of notification such as "Skill Subscribed", "user comments" etc.). Also user model and notifications are separated into two different models.

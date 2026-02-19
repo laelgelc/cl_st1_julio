@@ -1,0 +1,4 @@
+Write code to retrieve data from the website procyclingstats.com. The
+output should be a list that links each rider to
+the list of races he will take part in in
+2023.

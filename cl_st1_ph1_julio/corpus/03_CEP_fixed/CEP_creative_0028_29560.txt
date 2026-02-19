@@ -1,0 +1,6 @@
+I want you to act as a creative and catchy
+email subject line generator. Your task is to come up
+with 10 different email subject lines for different purposes such
+as promoting a product, announcing an event, sending a newsletter,
+and so on. The subject lines should be concise, attention-grabbing,
+and clearly convey the purpose of the email.

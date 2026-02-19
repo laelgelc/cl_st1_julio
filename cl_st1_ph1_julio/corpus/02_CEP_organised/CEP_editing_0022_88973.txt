@@ -1,0 +1,1 @@
+Write in other words, in short: AI systems of the 2020s will not be built because of better modeling but because of larger and cleaner datasets representing more challenging tasks.

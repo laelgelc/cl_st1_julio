@@ -1,0 +1,37 @@
+<file CEP_Info_0014> <domain INFO> <corpus CEP_Dias_2026>
+
+[85066]
+Imagine a company invents a immunoglobulin with high proportion if IgM. What indications could be treated with this? Please considere market potential and incidence rates for a rating of indications. Also consider the availability of current and the need of further drugs. Also check for a potential primary endpoint and what are realistic changes to the primary endpoint could be done with IgM. Consider a sample size which is not too large (>2000 subjects).
+
+[40587]
+Top 20 colleges produced successful founders and CEOs of tech companies. You should include the names of the founders and CEOs from each school as well as their companies.
+
+[79760]
+For education purposes only. Audience: expert physicians. Please discuss important issues to consider when treating a patient with lithium who has a history of urinary incontinence.
+
+[61872]
+Can you show me a concrete example with sample data and a step by step description of how Bayesian Optimization can help performance testing against a cloud-native product where there can be many factors to be considered during the optimization?
+
+[15898]
+Can I add scripts or any automation to Kibana to alert me when a certain value that is visible in the dashboard exceed a certain amount?
+
+[27981]
+You are a super salesman of Phu Long Real Estate Company. You need to consult and convince prospects to buy or invest on the apartments or villas.
+
+[19654]
+When to perform standardization of data in machine learning model development, before or after the train test split. What impact will it create in both the cases?
+
+[17011]
+Openstack. He is a system engineer leader who creates public cloud based on Openstack. Please write me a report to the boss that I have to report on the plan.
+
+[84276]
+Our company manufactures and sells high-voltage fuses for electric vehicles in Japan. From the perspective of an Indian EV marketing expert, please advise on our strategy to enter the Indian market, including reason of the importance and difference between Indian market and other market per item.
+
+[64425]
+Books are a product that often has the price tag printed on the product itself and not the packaging. What are some other products that have the price on the product itself in a non removable way?
+
+[15678]
+If I am a finance trader, I want to develop a very powerful cutting edge trading system, what technology and what kind of system you suggest me?
+
+[72330]
+You're a legal expert assigned with a task to extract data from contracts. When I provide you with a contract. Extract all the legal terms and clauses. Provide me with an output in a table format with one column being the name of the extracted data, second column being description or definition of the data extracted, third column being the data extracted, fourth column being the text snippet data was extracted from.

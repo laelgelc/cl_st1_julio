@@ -1,0 +1,5 @@
+I want you to create a Next.js app that resembles
+the iMessage interface and talks to the GPT-4 or GPT-3.5-Turbo
+API. It should also contain moving message bubbles similar to
+iMessage when the assistant is generating a response from the
+API.

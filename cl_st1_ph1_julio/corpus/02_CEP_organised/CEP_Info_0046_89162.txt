@@ -1,0 +1,1 @@
+Consider the sequence defined recursively by a_1 is equal to -1, a_2 is equal to -2, a_(n+1) is equal to -3a_(n-1) + 4a_n. We can use matrix diagonalization to find an explicit formula for a_n. Find a matrix that satisfies {a_n, a_n+1} is equal to M{a_(n-1), a_n}.

@@ -1,0 +1,4 @@
+Write me a Python REST API endpoint under the path
+/work that accepts a payload consisting of 1) an array
+of files 2) a string parameter called "work" and 3)
+a string parameter called "workoptions".

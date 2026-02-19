@@ -1,0 +1,8 @@
+I am the CEO of Atlas AI, a technology startup
+that applies AI to satellite imagery and other data to
+model socioeconomic development patterns at hyperlocal levels around the world.
+We build and deploy predictive models using this data and
+our customers' data to recommend where they can grow inclusively.
+Please suggest 10 blog post ideas that I can write
+to further my thought leadership in the fields of AI,
+Inclusive Growth, Sustainable Development, Geospatial Intelligence and Remote Sensing.

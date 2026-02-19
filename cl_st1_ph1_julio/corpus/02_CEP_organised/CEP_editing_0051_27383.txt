@@ -1,0 +1,1 @@
+I had this function. Code_Snippet. Now I have changed the method to POST. How should I edit the Python code?

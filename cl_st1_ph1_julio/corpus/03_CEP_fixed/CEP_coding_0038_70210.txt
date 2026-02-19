@@ -1,0 +1,8 @@
+First, we need a background like this - a square
+grid of 64 x 64. Use Three.js to create the
+grid in 3 D. Next, we need a character to
+move on that grid of squares. The character should also
+be able to move when the grid is moved using
+the up, down, left, and right arrow keys using Three.js.
+Put together the above code using Html, Css, and Javascript.
+Share Prompt.

@@ -1,0 +1,7 @@
+I have to make a small project with 2 others
+in 3 weeks. The project must be related to Augmented
+Reality in some way and must use OpenCV. The timeframe
+is integral to the success of the project. What should
+I attempt to make? It can be project that has
+been done before, I just need to implement in a
+way that I have done.

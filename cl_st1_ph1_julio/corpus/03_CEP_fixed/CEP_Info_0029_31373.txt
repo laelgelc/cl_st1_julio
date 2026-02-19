@@ -1,0 +1,5 @@
+I am trying to set up something on AWS. I
+have multiple lambdas that send error logs to CloudWatch. I
+want to take the error logs and store them somewhere
+so that I can run daily analytics on them. What
+is the best way to do this on AWS?

@@ -1,0 +1,1 @@
+Question: A backlog item could be declared done when which of the following criteria have been met? Instruction: Choose all options that best answer the question. Answer Choices. Quality Assurance testing has been completed.

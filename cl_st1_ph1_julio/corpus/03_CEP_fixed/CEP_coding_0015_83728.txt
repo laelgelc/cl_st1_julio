@@ -1,0 +1,5 @@
+A Vue 2 app I'm working on uses a event
+buss to communicate between components. The bus is defined by
+Code_Snippet and used with `bus.$emit('myEvent")` and `bus.$on("myEvent", myFunction)`. How does
+this bus system work and can a single `bus.emit` trigger
+the same `bus.$on` multiple times inadvertently?

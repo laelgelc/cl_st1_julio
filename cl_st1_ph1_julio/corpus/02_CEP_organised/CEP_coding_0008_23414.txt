@@ -1,0 +1,1 @@
+Can you generate a flowchart using Mermaid.js syntax that show the process a child would follow getting dressed to go outside on a snowy day?

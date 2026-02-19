@@ -1,0 +1,4 @@
+I want you to act as a data analytics manager
+or data analytics task management consultant. I would ask, how
+you to define the type of an analysis (whether policy
+or product)?

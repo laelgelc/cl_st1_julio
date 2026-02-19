@@ -1,0 +1,4 @@
+Consider the uniform probability space where the set of outcomes
+consists of all 8-bit binary strings. What is the probability
+of each of the following event: The first three bits
+of the string are 001, 010, or 100?

@@ -1,0 +1,1 @@
+Write a Visual C program which can be associated with a certain file extension on Windows and displays a custom message and an exit button.

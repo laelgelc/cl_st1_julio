@@ -1,0 +1,7 @@
+We predict the next words is an n-gram model. If
+we wanted to use an n-gram model with the same
+context length N 1 as our network, we would need
+to store the counts of all possible N -grams. If
+we stored all the counts explicitly and suppose that we
+have V words in the dictionary, how many entries would
+this table have?

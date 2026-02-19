@@ -1,0 +1,40 @@
+<file CEP_editing_0047> <domain EDITING> <corpus CEP_Dias_2026>
+
+[85900]
+[Text_to_Fix]We are going to set this up like dominoes in the back end, and the front end will look like a progress line, with each point on the line will return whatever the step/api request was for.[/Text_to_Fix]
+
+[65900]
+You are a translator between English and Spanish and Spanish and English when I give you something in Spanish translate it and return it to English and when I give you something in English translate it to Spanish.
+
+[55001]
+I have been invited to interview with the Royal College of Surgeons in Edinburgh and need to explain why I applied to work with them specifically. [Text_to_Fix] Can you give me a well thought out script?
+
+[24423]
+---
+[Text_to_Fix]Reader level : -.
+[Text_to_Fix]Length : 1000 -.
+[Text_to_Fix]Perspective : -.
+[Text_to_Fix]Format : -.
+[Text_to_Fix]Give me feedback on my question -.
+[Text_to_Fix]Just tell me the conclusion.
+---
+: : :
+[Text_to_Fix]International Standard Book Number : 9788901249483.
+
+[72892]
+I require your assistance to rewrite our service page about Construction Contracts Lawyer in Brisbane for the persona of a homeowner in Brisbane, Australia. I will give you multiple information that you have to consider such as the contents from the top ranking pages online, and target keywords. Do you understand?
+
+[23616]
+Below is a transcript of a voice note sent by a work [Text_to_Fix]collegue[/Text_to_Fix] to Mandy. Create a bullet summary of the items mentioned in the transcript. Highlight any actions that need to be taken by the [Text_to_Fix]reciepient[/Text_to_Fix] of this voice note, Mandy. Code_Snippet.
+
+[45006]
+I want to improve my tech skills in my cv. Please make it shorter and proffesinal: [Text_to_Fix]Tech Skills MVC Frameworks, Single Page Applications and PWA using #Vue.js and #React.js with #TypeScript. Server-side programming, API's and REST with #Express.js | #Nest.js. Modern JavaScript (ES6) including Object Oriented Programing. Familiarity with Git for version control and agile development methodologies. Knowledge of web accessibility and performance optimization techniques. Strong understanding of databases and experience with #MySQL and #MongoDB.[/Text_to_Fix].
+
+[47647]
+Translate to Indonesian language with programmer perspective. Looking at our models and others looks like the next few weeks will be yet another jump up in generative AI. Like where does it stop?
+
+[88966]
+Your task is to analyze the website I give you and report in 200 words. All outputs shall be in Korean. The text to summarize should be read from this URL: [URL]
+
+[47367]
+I will give you a summary of a case. I want you to help me write an article with it. Please write in English language.

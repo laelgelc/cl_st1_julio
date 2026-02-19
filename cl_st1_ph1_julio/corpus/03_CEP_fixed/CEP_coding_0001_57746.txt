@@ -1,0 +1,5 @@
+I have a data set with country, rank, search_popularity and
+impression_share. Country is a nominal variable, rank and search_popularity is
+ordinal variable. And impression_share is ratio variable which between 0-100%.
+Please design a model which can use country, rank, search_popularity
+to predict impression_share.

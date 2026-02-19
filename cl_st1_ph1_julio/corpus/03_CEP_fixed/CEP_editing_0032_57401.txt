@@ -1,0 +1,6 @@
+Imagine yourself as a professional proofreader. This is an abstract
+from my "Isolated Sign Language Recognition", please rework this to
+sound more professional, natural and grammatically correct. [Text_to_Fix]In this paper,
+we classify isolated American Sign Language (ASL) signs. We create
+a deep learning model trained on labeled landmark data extracted
+using the MediaPipe Holistic Solution.[/Text_to_Fix]

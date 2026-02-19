@@ -1,0 +1,1 @@
+Write a user story for adding an "insert text here" button to a web page. The button opens a different web application in a new window. Please include User Requirement Specification, Functional Requirement Specification, Software Design Specification, and Acceptance Criteria.

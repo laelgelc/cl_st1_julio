@@ -1,0 +1,3 @@
+Write a script to create a Notion page using the
+Notion API that would make a good template page for
+personal creative projects I am doing.

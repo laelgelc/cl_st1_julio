@@ -1,0 +1,4 @@
+Follow these steps: Write a Python program called Code_Snippet that
+strips a set of characters from a string. Ask the
+user to input a string and then ask the user
+which characters they would like to make disappear.

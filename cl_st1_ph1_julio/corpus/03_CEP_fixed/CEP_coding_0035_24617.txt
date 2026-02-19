@@ -1,0 +1,4 @@
+Write a Python program to encrypt: I love Mathematics using
+the Blowfish algorithm with the key: fridayiminlove and the CBC
+mode of operation. Also execute that program and show the
+result.

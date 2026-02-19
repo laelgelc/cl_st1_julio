@@ -1,0 +1,1 @@
+Write a message to Shippo Support asking what data is causing our shipment for order 2013 is so high (over $40). It is usually 8-10 and that is the price even when testing. We use Marketcube for fulfillment and that could be sending incorrect data so aare wondering what caused this issue.

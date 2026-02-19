@@ -1,0 +1,1 @@
+What they want to say Hi thanks for suggetion. Unfortunately box 1 and 2 stilll gets pushed down when the collapse is expanded. Strange thing is they do not when the viewport is reduced?

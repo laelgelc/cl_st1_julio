@@ -1,0 +1,1 @@
+DIY create a small touch display that site on your desk and includes the following features. Shows calendar (from Google Calendar). Shows a ToDo list (from Google Tasks app). Option to set Alarm. Use a full fledged Google Chrome. Active Google Assistant.

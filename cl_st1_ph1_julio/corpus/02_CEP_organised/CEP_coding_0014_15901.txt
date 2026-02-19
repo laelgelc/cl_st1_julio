@@ -1,0 +1,1 @@
+Can you help me create a project with Next.js and create a responsive layout for me with header and footer with 3 menu links? I would like to use Mantine as well.

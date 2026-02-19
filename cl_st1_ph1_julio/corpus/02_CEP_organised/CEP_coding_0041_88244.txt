@@ -1,0 +1,1 @@
+Write a React component for Nextjs application that has a React-Dropbox in the center of the page. When a user drops FCS files, upload the files to a new Azure storage account container and parse the FCS files server sider, return the file names, and image of the FSCxSSC plot and the parsed FCS headers in a card for each file in a 12x12 grid.

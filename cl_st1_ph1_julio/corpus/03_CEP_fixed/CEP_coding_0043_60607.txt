@@ -1,0 +1,6 @@
+We have a Java backend application which stores events in
+a MySQL database. The frontend can get a list of
+events via a REST API. Now we want to implement
+recurring events. For example, daily or weekly events. What is
+the best way to do it? Can you recommend a
+data schema and maybe some standards or libraries?

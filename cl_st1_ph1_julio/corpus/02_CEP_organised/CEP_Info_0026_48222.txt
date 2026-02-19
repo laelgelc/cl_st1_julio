@@ -1,0 +1,1 @@
+I am writing on a concept for a Professional Training around the topic of "Design Handoff", which is supposed to teach Design and Development Teams (Web, Frontend, UI/UX/Product), how to effectively handover from designers to developers.

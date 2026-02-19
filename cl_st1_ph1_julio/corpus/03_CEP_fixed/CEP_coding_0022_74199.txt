@@ -1,0 +1,6 @@
+Give me some Python code for a Discord bot that
+will post news from a rss feed in an embed
+format whenever a new post is made on this feed:
+[URL] make sure you make the embed look nice, clean,
+and neat, and make sure the title has a link
+to the original post in it.

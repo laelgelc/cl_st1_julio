@@ -1,0 +1,1 @@
+I have a dataset with dates as columns and rows containing city and number of outward flights on that particular date given in the corresponding column. How can I plot this information in map?

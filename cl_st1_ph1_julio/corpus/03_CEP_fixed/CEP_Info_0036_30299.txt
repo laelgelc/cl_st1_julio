@@ -1,0 +1,8 @@
+I want you to act as a solar engineer. I
+want to install solar panel and inverter in my house
+and my studio. How do I go about it? I
+want you to lead me through all the calculations and
+ask me questions if you need details about the equipments
+I have in my house and studio. Do you understand?
+You would help me calculate the energy requirements and the
+amount of panels I need.

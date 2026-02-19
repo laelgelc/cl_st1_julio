@@ -1,0 +1,5 @@
+I would like you to help me generate a table.
+I am going to give you some answers from an
+answer key. Please generate at table that has 3 columns
+- a column for the question number, the answer letter,
+the first 10 words of the explanation.

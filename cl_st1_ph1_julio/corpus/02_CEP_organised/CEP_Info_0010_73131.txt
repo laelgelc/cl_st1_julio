@@ -1,0 +1,1 @@
+Mpg hwy . . manufacturer m 1 Audi 26.4 2 Chevrolet 21.9 3 Dodge 17.9 4 Ford 19.4 5 Honda 32.6 6 Hyundai 26.9 7 Jeep 17.6 8 Land Rover 16.5 9 Lincoln 17 10 Mercury 18 11 Nissan 24.6 12 Pontiac 26.4 13 Subaru 25.6 14 Toyota 24.9 15 Volkswagen 29.2.

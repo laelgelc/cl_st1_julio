@@ -1,0 +1,4 @@
+I need a mechanism to organise consensus. I work on
+an EHR, to which changes must be agreed. I need
+agreement from several staff at four sites. What is the
+optimal way to seek and collect consensus?

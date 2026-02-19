@@ -1,0 +1,1 @@
+I am using Firestore Java library to read from a Firestore collection, using CollectionReference class and addSnapshotListener method. Are the documents going to be processed in the same order that they were inserted? Or is it possible that the listener will give the documents to me in a different order?

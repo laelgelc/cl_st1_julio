@@ -1,0 +1,1 @@
+As a small project for a short NLP course, I would like to train a model to classify fanfiction stories. What kind of categories would make sense and wouldn't be too hard to classify, and how would you approach this, in a broad sense? This is expected to be written in Python (so please mention helpful libraries).

@@ -1,0 +1,1 @@
+Suppose I have a Python list Code_Snippet and I want a for loop which defines various things in a standard format, with filenames that have a member of mylist at the end. For example, in pseudocode, I want to say: Code_Snippet.

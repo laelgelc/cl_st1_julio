@@ -1,0 +1,5 @@
+Your task is to add the Keywords related to your
+product I give you a listing title(200 characters), bullet points(200
+characters for each bullet point) and description(1500 to 2000 characters).
+All output shall be in Italian. The summarize text is
+this [Text_to_Fix]Scrivania smontabile flat pack[/Text_to_Fix].

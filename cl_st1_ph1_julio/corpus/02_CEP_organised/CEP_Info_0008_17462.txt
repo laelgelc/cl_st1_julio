@@ -1,0 +1,1 @@
+I want you to act as a recruiter who is looking for an instructional designer. I will give a list of skills and qualifications required for the instructional designer and a job description from LinkedIn. You will check if this job description meets each on of those skills.

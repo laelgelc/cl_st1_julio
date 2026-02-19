@@ -1,0 +1,1 @@
+Hi. I would like to create a collaboration site for internal use of the company where I can share and comment on GPT cases used by members of the organization, such as ShareGPT. Please let me know any tools or sites that can help you make this site. And please explain in order what order should we proceeding in production.

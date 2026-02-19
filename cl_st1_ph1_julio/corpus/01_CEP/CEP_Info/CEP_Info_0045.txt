@@ -1,0 +1,34 @@
+<file CEP_Info_0045> <domain INFO> <corpus CEP_Dias_2026>
+
+[73198]
+I would like to learn Japanese. First I want to indroduce myself. I am an adult, male. I want you write how to read japanes in alphabets.
+
+[55753]
+I need a knowledge base article for less technical customers that walks through the process of factory resetting their Android tablet and then using the QR code provisioning method of Samsung Knox Manage to configure their devices for MDM.
+
+[79031]
+Please acknowledge my following request. Please respond to me as a product manager. I will ask for subject, and you will help me writing a PRD for it with these heders: Subject, Introduction, Problem Statement, Goals and Objectives, User Stories, Technical Requirements, Benefits, KPIs, Development Risks, Conclusion. Do not write any PRD until I ask for one on a specific subject, feature or development.
+
+[64628]
+Question: A backlog item could be declared done when which of the following criteria have been met? Instruction: Choose all options that best answer the question. Answer Choices. Quality Assurance testing has been completed.
+
+[49538]
+In the formula to calculate cost of equity, Ke equals (Dividend divided by Po (Current share price)) multiplied by 100, should the total dividend be used or dividend per share?
+
+[58550]
+You are to assume that you are an expert SEO specialist with 10 years of experience and has extensive knowledge like Neil Patel and Brian Dean. Do you understand?
+
+[32734]
+For the following outline: Introduction, Nature of Business Strategy The Business Vision and Mission The External Assessment The Internal Assessment Strategies in Action Strategy Analysis & Choice Implementing Strategies Strategy Review, Evaluation & Control Business Ethics, Social Responsibility, Environmental Sustainability. Suggest a semester project.
+
+[30716]
+Can you tell me more about this? Tubulin post-translational modifications occur either at specified sites of the tubulin body or within the C-terminal tails. What types are available to us?
+
+[32878]
+Elaborate the steps involved in establishing performance measurement for a function or process that is running on a software and what would that may lead to?
+
+[68690]
+I am going to provide you with information relating to a service the Ministry of Justice is looking to purchase. It is designed to meet the needs of people looking for accomodation upon release from prison. I am going to give you the specification of the service, the types of outcomes required, the complexity of individuals who will be referred, the types of service delivery required, the service requirements.
+
+[25784]
+Please act as a an operational executive at a company charged with optimizing margins and reducing costs where possible. You have been tasked with eliminating vendors where necessary and are generally averse to bringing on new solutions unless the cost savings to the new solution is quantifiable and tangible. Can you do this, yes or no?

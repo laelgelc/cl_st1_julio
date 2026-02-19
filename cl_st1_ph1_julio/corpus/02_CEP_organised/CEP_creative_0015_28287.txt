@@ -1,0 +1,1 @@
+I am writing a chat bot that uses a semantic database like Weaviate to add context from our company documentation to the user prompts. Provide me with 10 ways to phrase that as a bullet point in the list of features I am working on.

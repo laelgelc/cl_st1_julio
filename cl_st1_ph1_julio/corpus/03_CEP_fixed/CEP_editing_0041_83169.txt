@@ -1,0 +1,3 @@
+Is the word, "raising," in this sentence correct? Or should
+it be the word, "rising?" Also observe the detection counts
+which should be raising as well.

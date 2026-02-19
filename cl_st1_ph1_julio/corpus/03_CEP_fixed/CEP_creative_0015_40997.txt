@@ -1,0 +1,3 @@
+Write a service description for a sole icing of a
+shoe. A sole icing consist of a cleaning of the
+sole and a deoxidation process to brighten the soles.

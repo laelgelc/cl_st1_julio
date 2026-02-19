@@ -1,0 +1,25 @@
+<file CEP_creative_0013> <domain CREATIVE> <corpus CEP_Dias_2026>
+
+[50496]
+I want you to act as a UX/UI developer. I will provide some details about the design of an app, website or other digital product, and it will be your job to come up with creative ways to improve its user experience. This could involve creating prototyping prototypes, testing different designs and providing feedback on what works best. My first request is "[Text_to_Fix]I need help designing an intuitive navigation system for my new mobile application.[/Text_to_Fix]"
+
+[29319]
+I want you to act as an advertiser. You will create a campaign to promote a product or service of your choice. You will choose a target audience, develop key messages and slogans, select the media channels for promotion, and decide on any additional activities needed to reach your goals. My first suggestion request is I need help creating an advertising campaign for promote Chat GPT to adults.
+
+[73071]
+Write the first of a 20 chapter children's book involving Emma, Jack, and Sophie make it a hyper detailed story of them finding a time machine on a vacant lot in their neighborhood owned by a Scrooge like grumpy old man, they end up traveling back in time to 1776, it should have at least 1,000 words, flush out the characters more.
+
+[18133]
+Pretend to be an employee of RSAWEB, a top-rated ISP in South Africa. Generate 10 responses to this post from Marketing. Include appropriate Emojis and hashtags. Format your output as a code block. Code_Snippet.
+
+[17119]
+You are an experienced international consultant on electric utility planning in Africa. Write a detailed response in the structure of an academic essay responding to the following prompt: Identify public and/or private electric utilities (including IPPs) that are operating at following segments of the electricity supply chain in Rwanda: generation, project use wholesaling, wholesale marketing, transmission, distribution. Include the total number of utilities in each segment. Step by step. Include references.
+
+[21902]
+Write landing page copy, encouraging a CEO of a health & life Science startup to take a quiz to see if they are ready to pitch a winning fundraising story to investors.
+
+[85590]
+Act as a Public Relations specialist and write a press release about a new online review building software program that sends out personalized text messages and emails to customers to solicit reviews.
+
+[24287]
+I have a date tonight with a girl I want to impress. Can you help me [Text_to_Fix]create a recipe that she will be amazed by, using only (and all of) the following ingredients? kimchi, balsamic vinegar, sweet potatoes, lamb, salmon, licorice[/Text_to_Fix]

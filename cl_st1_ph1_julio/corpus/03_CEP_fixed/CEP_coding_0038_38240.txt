@@ -1,0 +1,4 @@
+I want to enable my website to automatically detect which
+language the user has their browser set to and then
+display the website text in that language. Please create for
+me the HTML and JS code required to enable this.

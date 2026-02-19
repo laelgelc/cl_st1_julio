@@ -1,0 +1,1 @@
+Dotnet Blazor Server I have reservation system for Concerts. Every Concert has maximum Capacity. Customers can make reservations. I need display online FreeCapacity and push changes of this value to clients. Can you design component for this task?

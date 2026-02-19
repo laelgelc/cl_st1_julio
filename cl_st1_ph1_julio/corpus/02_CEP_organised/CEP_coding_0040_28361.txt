@@ -1,0 +1,1 @@
+Hello, here is a computer science problem for you. You are given two lists of items. Compute a list that contains the intersection of the two sets of elements of the two input lists.

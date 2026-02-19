@@ -1,0 +1,4 @@
+I would like to submit a FHIR CarePlan to an
+API that includes related entities like Adjuster and Referring Doctor.
+Can you provide an example in Python of how I
+would do that?

@@ -1,0 +1,1 @@
+How can Start by creating the basic layout and design of the app for both iOS and Android platforms Using a platform such as React Native to develop the app for both platforms simultaneously.

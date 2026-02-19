@@ -1,0 +1,5 @@
+I have a MySQL server and a Siemens Logo PLC.
+I would like to store variables I get from the
+PLC to a database, using PHP and the LogoPHP functions.
+The PLC has variables for total quantity to produce, current
+quantity produced, operator id and time.

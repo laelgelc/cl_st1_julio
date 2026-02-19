@@ -1,0 +1,1 @@
+I'm going to build a website that will assist you in creating your resume through the GPT API. Created via HTML, CSS, and JavaScript, CSS will use Bootstrap. The functions are a website with membership sign-up, log-in, self-response editing function, and bulletin board. Backend will use Spring. DB will use MongoDB. Example please. Answer in English.

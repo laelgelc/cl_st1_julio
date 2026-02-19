@@ -1,0 +1,3 @@
+Please compare the advantages and disadvantages of the scriptable object
+and addressable methods when managing assets in Unity. Please use
+table format instead of bullet format.

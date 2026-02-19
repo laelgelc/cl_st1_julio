@@ -1,0 +1,1 @@
+Write me a TypeScript function that returns the key and corresponding value from a given object that's only expected to have a single key/value pair at any instance.

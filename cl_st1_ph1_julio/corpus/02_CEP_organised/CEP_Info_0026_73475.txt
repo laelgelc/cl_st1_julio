@@ -1,0 +1,1 @@
+I have many APIs on different gateways and different documentation format. I want to create a way to search which API is relevant based on the presence of a field in the response. How can I do this?

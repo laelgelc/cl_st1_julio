@@ -1,0 +1,1 @@
+Please make a clear list with total quantity, breakdown quantity, destination, SO# based on each material with grid, with grid. For the column of breakdown quantity, please show the breakdown quantity only.

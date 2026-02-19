@@ -1,0 +1,3 @@
+Is it possible to have multiple vhosts inside a docker
+container and create ingress for each account to be able
+to access them via local network?

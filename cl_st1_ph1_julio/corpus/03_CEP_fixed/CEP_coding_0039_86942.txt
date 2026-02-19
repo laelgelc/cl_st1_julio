@@ -1,0 +1,3 @@
+I have a microservice that manages account information. I want
+to generate events whenever the account information changes. What would
+the event schema look like?

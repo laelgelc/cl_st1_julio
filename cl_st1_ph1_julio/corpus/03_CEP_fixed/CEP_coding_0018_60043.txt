@@ -1,0 +1,4 @@
+I have historical stock prices of a stock that I
+can access via API, can you write a random forest
+script that returns predictions on a 1 day, 1 week
+and 1 month periods?

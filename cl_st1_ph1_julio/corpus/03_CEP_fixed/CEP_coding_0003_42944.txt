@@ -1,0 +1,6 @@
+I have a DAG and I want to display it
+in a file hierarchy where the sources are entirely to
+the left and then they have indented children and so
+on. For example - first root node - first child
+- first grandchild - second child - second root node.
+How can I generate this display in Angular 2?

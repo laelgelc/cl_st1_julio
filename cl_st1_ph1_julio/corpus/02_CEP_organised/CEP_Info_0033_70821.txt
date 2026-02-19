@@ -1,0 +1,1 @@
+Explain to me how a computer understand and execute a code in any language, please include the name of the specifcs parts of the process.

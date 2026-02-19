@@ -1,0 +1,4 @@
+I want you to act like Grammarly. Check my grammar
+if there is any grammatical error and change any passive
+voice in it. You can change the wordings but do
+not digress from the topic.

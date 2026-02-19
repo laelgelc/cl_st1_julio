@@ -1,0 +1,1 @@
+Airtable formula 5 field . field , . Airtable formula I am writing an Airtable formula, but I am trying to make the data of 5 fields into text connected by commas.

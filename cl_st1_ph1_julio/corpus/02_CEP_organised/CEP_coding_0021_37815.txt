@@ -1,0 +1,1 @@
+Write a program in C++ using a class to calculate the sides through the vertices entered from the keyboard, to find the area and to determine the type of triangle, triangle types: equilateral, isosceles, versatile.

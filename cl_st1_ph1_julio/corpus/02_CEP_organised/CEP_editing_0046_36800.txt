@@ -1,0 +1,1 @@
+Below is an existing document format for a Drupal upgrade plan shared with the client. Code_Snippet I want you to suggest me a good table of contents for a new document that is "Drupal Performance Upgrade Plan".

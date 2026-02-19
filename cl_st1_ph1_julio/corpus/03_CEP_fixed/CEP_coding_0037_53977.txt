@@ -1,0 +1,6 @@
+In the style of a Twilio blog article, write a
+blog article about how developers for ecommerce sites can use
+Telesign's SMS API to automatically send bulk SMS alerts to
+customers when price drops happen for products that customers have
+recently added to their carts. Include code snippets in the
+Node coding language.

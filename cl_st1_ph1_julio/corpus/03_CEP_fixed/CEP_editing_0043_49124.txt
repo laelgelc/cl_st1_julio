@@ -1,0 +1,5 @@
+I want you to act as a content rephraser for
+an article. The article is written in a technical language
+that may be difficult for the general public to understand.
+Please rephrase the article in simpler terms, without changing the
+meaning.

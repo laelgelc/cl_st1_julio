@@ -1,0 +1,7 @@
+I am developing a check-in check-out system for new employees
+in my IT department. I have a list of in
+processing items. I'd like a web interface that integrates with
+Team Dynamics. If I provide you with the list, can
+you develop the NODE code for me that I can
+deploy with an Angular front end? I'm deploying to an
+AWS container. I already have the container template.

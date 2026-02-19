@@ -1,0 +1,1 @@
+There is a project I want to build that requires an ESP 8266 Lolin Mini D1. This is what the wiring in ESPHome looks like: Code_Snippet.

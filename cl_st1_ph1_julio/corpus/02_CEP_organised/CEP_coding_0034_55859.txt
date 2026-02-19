@@ -1,0 +1,1 @@
+Can you code me a Tampermonkey script that will capture the current frame of the playing video and have either the option to save it, or copy to clipboard?

@@ -1,0 +1,7 @@
+Buongiorno, mi traduci questo testo. Cipher suite. A cipher suite
+is a collection of security algorithms that determine precisely how
+an SSL/ TLS connection is implemented: the SSL/TLS protocol mandates
+that messages be signed using a message digest algorithm. The
+choice of digest algorithm, however, is determined by the particular
+cipher suite being used for the connection (MD5 or the
+SHA digest algorithm).

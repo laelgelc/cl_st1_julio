@@ -1,0 +1,5 @@
+I want you to act as an economist. I will
+provide some presentation materials, and it will be your job
+to explain them in easy-to-understand terms in Japanese. Note that
+this presentation will occur at the seminar that I am
+participating. Do you understand?

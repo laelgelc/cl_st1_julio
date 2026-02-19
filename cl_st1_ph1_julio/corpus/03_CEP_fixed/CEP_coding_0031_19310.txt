@@ -1,0 +1,4 @@
+Give me some Python code that plots the following in
+XKCD style: the fun level in [0,100] per cent increases
+linearly with the number of children and maximizes at 4
+children, then it drops significantly and quickly becomes zero.

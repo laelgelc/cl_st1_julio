@@ -1,0 +1,4 @@
+I would like to translate Vietnamese conversations in my future
+prompts. I would like to receive input in the following
+format (date and time the conversation take place for your
+context) A : (Vietnamese message)

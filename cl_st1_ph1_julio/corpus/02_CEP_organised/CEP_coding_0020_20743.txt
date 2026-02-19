@@ -1,0 +1,1 @@
+I am making a React application using Axios and React Router DOM. If my backend returns a status code of 401, I would like to redirect my user back to the home page. Can I do this by using Axios' interceptors?

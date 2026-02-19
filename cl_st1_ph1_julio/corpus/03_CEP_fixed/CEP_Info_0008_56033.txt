@@ -1,0 +1,3 @@
+What are the best arguments to attack the reliability of
+readings on a SCRAM system which show IR oscillating between
+baseline and higher voltage over a 4 hour period?

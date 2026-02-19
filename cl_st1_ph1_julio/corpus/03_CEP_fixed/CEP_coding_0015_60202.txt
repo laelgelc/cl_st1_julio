@@ -1,0 +1,4 @@
+I would like you to ask me questions to create
+business requirements for a software feature in our CRM. You
+should ask questions until this condition is met or to
+achieve this goal. Ask me questions one at a time.

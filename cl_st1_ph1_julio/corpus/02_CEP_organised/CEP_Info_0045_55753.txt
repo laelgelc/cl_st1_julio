@@ -1,0 +1,1 @@
+I need a knowledge base article for less technical customers that walks through the process of factory resetting their Android tablet and then using the QR code provisioning method of Samsung Knox Manage to configure their devices for MDM.

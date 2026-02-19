@@ -1,0 +1,34 @@
+<file CEP_coding_0032> <domain CODING> <corpus CEP_Dias_2026>
+
+[41828]
+A Causal Approach to Detecting Multivariate Time-Series Anomalies and Root Causes. T3 - On Mapping Text to Time Series. TadGAN - Time Series Anomaly Detection Using Generative Adversarial Networks. Topological Data Analysis and Its Application to Time-Series Data Analysis.
+
+[21621]
+How to dynamically extend React component props type depending on the value of a certain prop? For example, I have a Typography component with props type Code_Snippet. If I pass Foo element with props type Code_Snippet to Typography root prop, I want the TypographyProps to be Code_Snippet.
+
+[74246]
+This question is about the ioredis library in Node. Does one need to do anything different to connect to Redis Sentinel as opposed to standalone Redis?
+
+[46972]
+I need to create a web application that will open an Excel file on a server and render it read only in a browser window.
+
+[58851]
+I am going to give you a class in Visual Basic .Net. I want you to add a constructor to it that can set all it's properties and I want you to implement the INotifyPropertyChanged interface. Here is the class: Code_Snippet.
+
+[55172]
+Dotnet Blazor Server I have reservation system for Concerts. Every Concert has maximum Capacity. Customers can make reservations. I need display online FreeCapacity and push changes of this value to clients. Can you design component for this task?
+
+[77561]
+Create a blenderpy script that will render to an animation. The scene will contain 10 cubes with random PBR materials, in random positions, and a ground mesh. The 10 cubes will fall to the ground and bounce as if they were rigid bodies. Add a light that moves in a circle over the cubes. Add a stationary camera to record the scene.
+
+[16036]
+You are a senior software developer. How do I create a trip planner based on natural language input from the user, like I want to visit multiple countries in Europe in 2 weeks?
+
+[55419]
+I will provide a codebase. I want you to analyze 1 function per 1 paragraph. Don't continue explaining before I said so. We will discuss 1 function at a time.
+
+[82837]
+I am using Firestore Java library to read from a Firestore collection, using CollectionReference class and addSnapshotListener method. Are the documents going to be processed in the same order that they were inserted? Or is it possible that the listener will give the documents to me in a different order?
+
+[29976]
+I want you to act like a senior develop. You would give me implementation following my instruction. I will give you a piece of code and describe current project. Is that clear?

@@ -1,0 +1,1 @@
+Write an elaborate introduction for a paper on Predicting Brugada Syndrome without Ajmaline with multi-modal deep learning that uses baseline electrocardiograms and polygenic risk scores as input features.

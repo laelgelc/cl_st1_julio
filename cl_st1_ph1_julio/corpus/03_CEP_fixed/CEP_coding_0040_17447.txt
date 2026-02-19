@@ -1,0 +1,5 @@
+Here's my code for a quick telephone exercise. The HTML
+and CSS are ready. I just need to [ajust] the
+JS file to get the phone numbers to show yellow
+when I click them and immediately go back to white
+when the click is gone.

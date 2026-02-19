@@ -1,0 +1,3 @@
+In a MySQL DB, I need to change the type
+of a PK column from bigint to char(36). There are
+already many rows in that table.

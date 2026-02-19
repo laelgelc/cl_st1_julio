@@ -1,0 +1,4 @@
+I want you to act as a writing editor. I
+will provide you a paragraph. I want you to rewrite
+it several times with different styles of writing in a
+table format.

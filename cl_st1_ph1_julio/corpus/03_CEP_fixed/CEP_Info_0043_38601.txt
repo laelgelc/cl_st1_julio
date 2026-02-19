@@ -1,0 +1,6 @@
+I need to summarise a document that is too large
+for a single prompt. Each time I enter a new
+section of text, please summarise that section in bullet points.
+Do not attempt to aggregate your summaries, just process each
+section individually. Please let me know if any section exceeds
+your prompt character limit.

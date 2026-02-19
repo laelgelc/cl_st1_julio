@@ -1,0 +1,1 @@
+I have a table named core_sent_notifications with the next fields id, date and notification_id and other table named core_notifications with fileds id, name and notification_type. I need an SQL query to get the number of notification of type sms by day.

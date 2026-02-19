@@ -1,0 +1,1 @@
+How could I create a content paywall website using Nuxt.js on the frontend and using Express.js on the backend, and using LevelUp DB as the database? Also with user registration, login/logout, and authentication? Keeping in mind, the need for secure user authentication.

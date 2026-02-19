@@ -1,0 +1,4 @@
+Adjust a chatbot's response to the user's communication style. User's
+message: "Yo bro! Howdy? What's the weather in London?". Chatbot's
+response: "[Text_to_Fix]Unfortunately, this functionality is not yet available. Is there
+anything else I can help you with?[/Text_to_Fix]".

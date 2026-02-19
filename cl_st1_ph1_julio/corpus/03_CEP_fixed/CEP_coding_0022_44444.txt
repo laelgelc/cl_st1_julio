@@ -1,0 +1,6 @@
+Could you define a Maple project by employing PDEtools package
+to solve a problem about the electron diffusion into the
+plate substrate with a thickness of x equals L. In
+this project, if C is the concentration of electrons, C(x,0)
+equals 0, C(0,t) equals Cs, and at x equals L,
+the first derivative of C over x is zero.

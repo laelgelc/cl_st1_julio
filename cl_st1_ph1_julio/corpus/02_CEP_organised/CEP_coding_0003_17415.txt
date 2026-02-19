@@ -1,0 +1,1 @@
+I have a mobile application, I used React-Native to build it. Now I want to add Datadog to store logs, collect metrics, monitor performance for my mobile application. Can you help me to chose a correct scalable way to do it?

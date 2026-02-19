@@ -1,0 +1,5 @@
+Design an AWS serverless architechture where accounting data comes in
+through a REST endpoint in various formats, is processed into
+a common format, rules are applied to it finally a
+report is generated based on the rules-processed data. The report
+is then sent out by email.

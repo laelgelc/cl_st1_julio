@@ -1,0 +1,3 @@
+What is the effective impedance of the parallel combination of
+a 50 picofarad capacitor and a 35 ohm resistor? The
+circuit is operating at 300 Hz.

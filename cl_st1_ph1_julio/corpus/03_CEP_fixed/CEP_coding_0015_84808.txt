@@ -1,0 +1,7 @@
+I am working on an application based on SpringBoot and
+MyBatis. I configure the database connection information in application.yaml. But
+the database connection information will passed by environment variable on
+the server. The content of the environment variable is a
+JSON format string, like : Code_Snippet. The environment variable name
+is DATABASES_FOR_POSTGRESQL_CONNECTION. Is there an easy way to set the
+application.yaml?

@@ -1,0 +1,1 @@
+Please write a Python script that will send a user an email when the top 10% of a remote desktop's screen is green in color.

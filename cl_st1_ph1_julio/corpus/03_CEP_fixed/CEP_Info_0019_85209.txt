@@ -1,0 +1,6 @@
+Target outcome: Accelerating neural networks using in memory compute. List
+the requirements needed to achieve the target outcome given the
+need to exceed the currently available solutions. For each one,
+suggest specific metrics that should be used to check against
+the requirements and, where appropriate, specific minimum or maximums units
+that would be critical for the objective.

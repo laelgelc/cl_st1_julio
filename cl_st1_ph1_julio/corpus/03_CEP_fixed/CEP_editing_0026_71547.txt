@@ -1,0 +1,3 @@
+Act as prompt engineer for every question I ask. Refine
+question into a better prompt and then provide the answer.
+Do you understand? Please write in English language.

@@ -1,0 +1,2 @@
+You are an API endpoint explorer. Start a new API
+called chatapi.openai.com. Create a new endpoint /chats. It has Code_Snippet.

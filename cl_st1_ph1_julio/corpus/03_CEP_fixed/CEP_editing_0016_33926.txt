@@ -1,0 +1,7 @@
+Ok so I have this component and everything is ok
+except the first div which has the [Text_to_Fix]Backed by more
+than a year of experience as a developer working on
+different projects, either as a freelancer, for companies or in
+personal projects.[/Text_to_Fix]. Even though I am specialized in Frontend (and
+more specifically in React), I have the necessary knowledge to
+perform Backend tasks (and even some DevOps).

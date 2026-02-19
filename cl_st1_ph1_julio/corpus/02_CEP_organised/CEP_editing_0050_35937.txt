@@ -1,0 +1,1 @@
+I want to draft an RFI, RFP, and an RFQ for a digital twin of the Australia Post parcel delivery network. First, write an RFI that could be sent out to consulting companies.

@@ -1,0 +1,1 @@
+I want you to act as a content shorten for a news article. Your task is to summarize the article into a 100-word summary, highlighting the most important trends and insights.

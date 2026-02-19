@@ -1,0 +1,5 @@
+I need some help with a Git error that I
+made: so I think what I did was accidentally synced
+my fork the master branch instead of web-components-v3. And I
+made some changes to a PR and pushed and now
+it has like 5000+ files changed in my PR.

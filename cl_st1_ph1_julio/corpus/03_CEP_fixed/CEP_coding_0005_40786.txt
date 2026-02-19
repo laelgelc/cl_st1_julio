@@ -1,0 +1,4 @@
+I am using Typescript React. When I do Code_Snippet, the
+intellisense in Visual Studio Code is not working. But if
+I change it to Code_Snippet and then Code_Snippet in the
+end, the intellisense works. Why?

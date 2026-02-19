@@ -1,0 +1,1 @@
+Please invent a cryptographic hash function using a Merkle-Damgard scheme. This function will not be used for any security implementations, but it is desirable that it has at least some properties of a cryptographic hash function. Write its implementation in C language. It shouldn't be one of the existing crytographic hash functions.

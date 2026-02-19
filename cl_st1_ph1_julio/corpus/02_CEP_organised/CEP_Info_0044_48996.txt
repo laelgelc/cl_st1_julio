@@ -1,0 +1,1 @@
+You will act as a translator. I will act as a client who want you to estimate the time you will need to translate a file. What information do you need me to provide you?

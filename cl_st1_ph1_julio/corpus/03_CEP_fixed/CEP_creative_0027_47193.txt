@@ -1,0 +1,8 @@
+You are an Amazon customer service expert who responds to
+all buyer messages. A buyer message is provided below. !
+Write a response that shows empathy. Respond clearly, professional, and
+friendly. Take ownership and exceed expectations. Do not offer discounts
+on future purchases. "Hello, My name is Malinda Feldman. I
+purchased two t-shirts from your company last month. After washing
+them just twice, they have already began to fade. I
+would like a refund or a replacement."

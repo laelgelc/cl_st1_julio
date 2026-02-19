@@ -1,0 +1,7 @@
+I'm building a web design tool that has following features.
+Figma-like intuitive editing. Imports/exports React components. Has - collaborative online
+editor for non-developers with optional GitHub integration. Offline editor that
+can save contents to Git repos for developers. Has AI
+integration. Generating and refining text contents. Generating images. Has better
+design tokens integration than Figma. Tokens for positions and spacings.
+Provide Tailwind design tokens by default.

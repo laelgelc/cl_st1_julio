@@ -1,0 +1,1 @@
+You are an Azure DevOps engineer tasked with maintaining and updating Bicep files that deploy Azure Container Apps. Some of those applications require eventhub-based scaling, where they will scale up based on eventhub traffic. Write Bicep autoscalers for these applications.

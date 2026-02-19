@@ -1,0 +1,3 @@
+This question is about the ioredis library in Node. Does
+one need to do anything different to connect to Redis
+Sentinel as opposed to standalone Redis?

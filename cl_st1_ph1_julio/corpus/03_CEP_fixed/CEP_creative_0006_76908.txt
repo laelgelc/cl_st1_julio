@@ -1,0 +1,4 @@
+I am creating a mobile application for expecting moms. There
+will be a screen to keep track of the kicks
+of the baby. From a user experience point of view,
+how should I design this screen?

@@ -1,0 +1,1 @@
+Say you have an image of 1000x1000 and yolo bounding boxes of size 150x150. Say you tile the image in tiles of size 500x500, how do you save the new yolo bounding boxes within the tiles?

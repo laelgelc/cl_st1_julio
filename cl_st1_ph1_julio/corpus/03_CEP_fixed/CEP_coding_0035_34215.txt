@@ -1,0 +1,4 @@
+Creating a web application about trading used books. This web
+application allows potential buyers to queue, and sellers can choose
+which buyer that they want to do the trade with.
+Write a functional requirement about this web application.

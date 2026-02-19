@@ -1,0 +1,1 @@
+Act like a venture capitalist, planning to invest in a startup with a valuation of USD 5 millon in SAFE mode. Write an agreement paper covering buy back classes and other important classes.

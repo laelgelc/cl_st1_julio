@@ -1,0 +1,4 @@
+The database flight.db is provided on Moodle and will be
+used for this part. You will need to install the
+package cartopy to your Python installation Code_Snippet if you are
+using Anaconda. [URL] Use pandas where appropriate for SQL queries.

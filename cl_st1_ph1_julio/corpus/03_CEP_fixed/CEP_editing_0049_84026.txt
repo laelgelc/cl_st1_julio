@@ -1,0 +1,3 @@
+The following is a snippet from a wine list: Code_Snippet.
+Could you format this as a csv in the following
+format: producer, vintage, name, variety, list section, price?

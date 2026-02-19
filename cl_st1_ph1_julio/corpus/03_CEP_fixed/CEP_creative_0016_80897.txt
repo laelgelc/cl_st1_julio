@@ -1,0 +1,4 @@
+Create a multiple-choice questionnaire with 5 multiple-choice questions and a
+short-answer questionnaire to conduct a service satisfaction survey for users
+who have used the legal counseling service using ChatGPT. Answer
+in English.

@@ -1,0 +1,7 @@
+Show a code example of each of the following principles,
+that is, one piece of code that follows each principle
+and one piece of code that does not. 1. Principle
+of least privilege. 2. Principle of fail-safe defaults. 3. Principle
+of economy of mechanism. 4. Principle of complete mediation. 5.
+Principle of separation of privileges. 6. Principle of least common
+mechanism.

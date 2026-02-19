@@ -1,0 +1,1 @@
+Hi. We have our app built on NodeJS. But the problem is - whenever there is any error, it goes to infinite loading. Is there any solution to this? Editing every single function for error handling is difficult.

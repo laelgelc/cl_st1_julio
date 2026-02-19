@@ -1,0 +1,1 @@
+I need to develop a Java program the evaluates if a boards of the 15 fifteen puzzle is solvable, place the blank space in 0, and the input is given by a line with all the 16 numbers and pass it to an array.

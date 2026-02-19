@@ -1,0 +1,7 @@
+Good morning! Can you please write me a simple html
+and javascript that creates a quiz for students, using the
+variables I have defined below? The quiz will need to
+calculate the correct response, which is the average of 7
+random numbers. Students will enter their response which will be
+checked against the calculated response, then a gif image will
+be displayed for "correct" or "incorrect".

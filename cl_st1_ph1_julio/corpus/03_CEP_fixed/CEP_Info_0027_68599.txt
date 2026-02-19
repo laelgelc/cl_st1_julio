@@ -1,0 +1,3 @@
+If b is a spatial part of c and c
+is a spatial part of d, then what is the
+spatial relationship between b and d?

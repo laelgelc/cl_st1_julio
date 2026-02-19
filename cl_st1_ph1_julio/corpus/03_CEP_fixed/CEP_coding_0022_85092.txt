@@ -1,0 +1,5 @@
+Is it possible to make an application that when it
+detects a specific NFT for example a 3 D NFT
+of a cute chibi egg, the application will launch and
+I will be able to interact with that chibi egg
+like a Tamagotchi? Feed, brush, etcetera.

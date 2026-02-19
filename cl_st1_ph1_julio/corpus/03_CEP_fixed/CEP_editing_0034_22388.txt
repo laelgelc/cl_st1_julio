@@ -1,0 +1,5 @@
+I'm sharing my Experience section on my resume. Please re-write
+it using actionable synonyms. [Text_to_Fix]EXPERIENCE Product Manager Ambroise Solutions Inc.
+02/2015 - 11/2018 Ottawa, ON. Workforce management system for restaurants.
+Received product feedback from customer interviews. Planned out the product
+roadmap. Presented market assessments to executives.[/Text_to_Fix]

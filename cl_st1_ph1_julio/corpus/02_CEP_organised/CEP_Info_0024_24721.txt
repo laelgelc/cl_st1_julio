@@ -1,0 +1,1 @@
+Table 3: Furniture Shop Columns: OrderID, OrderDate, CustomerID, CustomerName, CustomerAddress, ProductID, ProductDescription, ProductFinish, UnitPrice, OrderedQty.

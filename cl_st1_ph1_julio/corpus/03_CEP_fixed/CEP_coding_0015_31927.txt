@@ -1,0 +1,4 @@
+I am thinking of developing a chatbot to provide answers
+to questions about California real estate law, currently provided in
+these documents: [URL]. What is the viability of such a
+service?

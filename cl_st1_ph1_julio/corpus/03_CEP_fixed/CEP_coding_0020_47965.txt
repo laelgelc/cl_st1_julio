@@ -1,0 +1,5 @@
+From my Google Sheet table, I want to create a
+Google Studio graph that shows sales from my different retailers.
+Please give the right formula to create a new metric
+field that shows the sum of numbers in column 'sales'
+only if the value in the column retailer is 'ASDA'.

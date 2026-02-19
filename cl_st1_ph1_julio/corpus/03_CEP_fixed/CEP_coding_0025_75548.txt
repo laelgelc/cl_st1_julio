@@ -1,0 +1,6 @@
+I want to scrape the content from an entire Google
+Chat channel using official Google APIs. Preferably I would get
+a file for each thread in the chat channel saved
+as plain text. Could you please show me if this
+is possible, what APIs I would need to use, and
+maybe some sample Python code?

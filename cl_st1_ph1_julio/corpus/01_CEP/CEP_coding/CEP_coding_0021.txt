@@ -1,0 +1,43 @@
+<file CEP_coding_0021> <domain CODING> <corpus CEP_Dias_2026>
+
+[50684]
+Please write a Nest.js application that uses Stripe to generate a payment intent for a frontend to add a new credit card for a customer?
+
+[52951]
+I am writing a program in R. I have two columns with the names "id" and "fvc". I want to filter a table when the "id" is equal to "
+
+[16617]
+I have a table named core_sent_notifications with the next fields id, date and notification_id and other table named core_notifications with fileds id, name and notification_type. I need an SQL query to get the number of notification of type sms by day.
+
+[74152]
+Consider a default Frappe docType. The layout on screen of the data is not changeable. I would like to add an extra layer, so I can drag and drop the layout of a docType.
+
+[87874]
+I will give you a link to a GitHub repository and I would like you to explain what it does to me and describe its basic file structure.
+
+[37815]
+Write a program in C++ using a class to calculate the sides through the vertices entered from the keyboard, to find the area and to determine the type of triangle, triangle types: equilateral, isosceles, versatile.
+
+[36505]
+How can I present some simple coding opportunities to my son using blocks programming? He is presently using blocks with Java and programming a one armed robot.
+
+[41402]
+Using the ESV API, I want to see the Bible book, chapter, verse and text for every instance of the book translated into English as "household" in the New Testament.
+
+[43338]
+I have json in the form Code_Snippet. How do I convert this to a csv file where there are headers for name, price and each row has the name and price values?
+
+[17366]
+Create a Go program which establishes a WireGuard tunnel using parameters from flags and launches Nginx with config to proxy all traffic through the WireGuard tunnel.
+
+[73412]
+Can you write me a C++ code to retrieve the local network gateway IP that is cross-platform ? (at least Windows Linux and macOS) I do not want to use any external libraries, just the STL.
+
+[30147]
+Using Python Tkinter, I want to create a user interface with a drop down list of folder locations I can open by selecting from dropdown.
+
+[27292]
+I want to convert these bash commands so that a window user can run them, what can they do to do the same thing? Code_Snippet
+
+[21121]
+Write me a Python REST API endpoint under the path /work that accepts a payload consisting of 1) an array of files 2) a string parameter called "work" and 3) a string parameter called "workoptions".

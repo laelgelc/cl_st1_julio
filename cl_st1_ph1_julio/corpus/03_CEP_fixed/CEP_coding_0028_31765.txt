@@ -1,0 +1,5 @@
+Hi ChatGPT. I am looking to test the stability of
+system memory (RAM) on a Debian-based Linux server, once a
+week. I would like to be alerted if it fails
+a system memory test. What would be the best way
+to do this?

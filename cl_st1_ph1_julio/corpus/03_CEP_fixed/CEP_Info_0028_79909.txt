@@ -1,0 +1,7 @@
+Consider I am using Moodle, list the topics and module
+types I should use to teach human cell biology to
+11 th graders, add teacher instructions that uses Higher-order thinking
+skills for students to each module, output as JSON were
+the title field is used for the topic and the
+intro field for the instructions and the type field for
+the Moodle module type.

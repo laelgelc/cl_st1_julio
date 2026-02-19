@@ -1,0 +1,1 @@
+Php function that take any bitstring of any length N and return the number in sequence where this bitstring occurs in the set of permutations of bitlength N.

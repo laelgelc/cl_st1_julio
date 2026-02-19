@@ -1,0 +1,1 @@
+I keep getting this error in Git for Windows: Code_Snippet. What does this mean?

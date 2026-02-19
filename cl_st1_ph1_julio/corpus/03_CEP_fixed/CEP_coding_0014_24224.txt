@@ -1,0 +1,6 @@
+I need Python Code wrote for an embedded system as
+part of my project. It involves IoT device monitoring sensor
+data until conditions are met and data is then pulled
+from the cloud to complete the algorithm and the output
+is the recommended actions. The algorithm is always recalculating and
+updating the Output if necessary.

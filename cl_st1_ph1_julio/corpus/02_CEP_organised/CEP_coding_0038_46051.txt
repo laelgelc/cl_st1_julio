@@ -1,0 +1,1 @@
+Firestore rule, Code_Snippet rule Code_Snippet request.auth.token.admin equals true read, write Code_Snippet request.auth.uid equals null, request.auth.uid does not equal null and role equals "member", request.auth.uid does not equal null and role equals "owner", request.auth.token.admin equals true. Create. Role owner.

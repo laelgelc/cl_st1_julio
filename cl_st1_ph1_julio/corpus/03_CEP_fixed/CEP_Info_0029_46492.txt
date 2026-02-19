@@ -1,0 +1,5 @@
+I got the following use case in finance: Analyse customer
+payment history to understand payment processes. Then calculate the stretch
+applied to payments by customers against the Contractual and predicted
+payment dates. Use this insight to be able to predict
+payment dates of open invoices on the Accounts Receivable ledger.

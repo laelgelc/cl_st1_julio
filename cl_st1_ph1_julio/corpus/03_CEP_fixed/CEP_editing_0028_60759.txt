@@ -1,0 +1,4 @@
+Traduis en Francais : Using guidelines mentioned in Teresa Torres'
+book "Continuous Discovery Habits" , formulate a survey to capture
+feedback for a fintech product (mobile app) that helps users
+make digital payments without a credit card.

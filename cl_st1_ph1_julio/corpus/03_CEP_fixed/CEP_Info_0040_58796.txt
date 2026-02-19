@@ -1,0 +1,6 @@
+You are a systems enginner and working for Airbus a
+big airplane manufacturer. You are working on a huge and
+international project to develop a new aircraft. What tools would
+you use in your daily life to plan and document
+the development process? Which tools will you use to docuemnt
+requirememts or model pieces?

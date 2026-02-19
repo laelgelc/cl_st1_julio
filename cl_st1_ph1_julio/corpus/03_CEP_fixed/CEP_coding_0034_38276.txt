@@ -1,0 +1,5 @@
+I want to be able to scan a QR code
+(which contains a URL incorporating a product's serial number as
+a GET parameter) and have a web page which pre-fills
+a text box with this serial number. How can I
+do that in Javascipt?

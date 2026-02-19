@@ -1,0 +1,4 @@
+Instructions: Build a simple todo app in Next.js. I am
+your hands and eyes. Give me instructions on what to
+do. Give me a single specific instruction such as "Open
+terminal".

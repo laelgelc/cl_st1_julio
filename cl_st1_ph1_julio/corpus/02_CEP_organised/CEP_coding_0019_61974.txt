@@ -1,0 +1,1 @@
+I am making a chatbot that can answer questions after embedding a PDF through the GPT API. The purpose is to improve the performance of the embedded model. How can I fine-tune tables and images? Answer in English.

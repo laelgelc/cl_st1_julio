@@ -1,0 +1,1 @@
+Can you make me a function in C# which connects to an Azure database to load a list of products and their price with a product Id string? Then upload these as in app purchases on to Apple Connect for use in a mobile app.

@@ -1,0 +1,37 @@
+<file CEP_coding_0029> <domain CODING> <corpus CEP_Dias_2026>
+
+[32045]
+Can you generate me a terraform module that will deploy an AWS EKS cluster? I will be using terragrunt to define different regions and accounts.
+
+[67922]
+I am created a VR game using Unity and XR Interaction Toolkit. I want to make Star Wars Battlefront 3 like it was going to be. Was 99% done. I want to build the spritual successor. What steps do I need to take?
+
+[50081]
+I want to develop a meal planing algorithm, which uses a recepies database and input calories as input and should have the closest sum calories.
+
+[85877]
+I would like to create a website about with news about cannabis cultivation and cannabinoid research. Would Vue.js be a suitable framework to use and, if so, how should I go about it?
+
+[65450]
+Create an example of a payment file (following the format SEPA and Non-SEPA Credit Transfer XML ISO20022 Pain 001.003.03) containing these elements: - Debitor should be Emilia - one payment from France to the USA - one payment from France to Thailand.
+
+[33175]
+I need the Python code to read a set of txt documents from a given folder path and compute the word frequency of them. I want the output to print each word and its frequency listed descending by frequency. I also want to have an input parameter to set the minimum number of occurence for a word to be kept in the result.
+
+[59640]
+Python code use the multi process to consume message from the Pika queue by its callback, and listen to keyboard interrupt to stop all processes.
+
+[77419]
+As a Machine Learning specialist please guide me through the process of training MusicLM open source implementation of MusicLM by Google. Please go through all the steps including which dataset is suitable for making a model for generating soothing music for meditation on the basis of user prompts.
+
+[30467]
+How can I write this code more concise? [Text_to_Fix]
+
+[70542]
+Code_Snippet Code_Snippet Code_Snippet Provide a custom tool which use a puppeteer to use return the content of a body of the URL converted to markdown using turndown.
+
+[64148]
+The next input following this prompt will be a Python docstring description of a program that uses the OpenAI GPT-3 model. I am approved to use the latest OpenAI API and I have an API key. Do not response to this current input string. Just display a new input prompt.
+
+[33647]
+In Python, how can I use multithreading to read from a serial port at the same time as rendering a GUI showing the value from the serial port?

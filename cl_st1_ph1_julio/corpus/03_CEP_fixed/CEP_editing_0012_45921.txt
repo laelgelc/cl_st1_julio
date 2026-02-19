@@ -1,0 +1,8 @@
+Here is a recipe, [URL]. Modify this recipe with fewer
+calories, carbs, trans fat, sodium, and cholesterol. Include the number
+of servings. Use sous vide if reasonable. Use Thermomix if
+reasonable. If using Thermomix, specify the speed, duration, and direction
+of blades. Use a convection oven if reasonable. Use an
+air fryer if reasonable. Compare the nutrition, including cholesterol and
+trans fat, of the original and modified recipe. Use metric
+units.

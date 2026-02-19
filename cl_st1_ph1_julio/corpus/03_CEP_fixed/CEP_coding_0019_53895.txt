@@ -1,0 +1,3 @@
+Please give me Python code that takes a large string,
+and returns a substring of undefined length using a character
+as a delimiter that appears multiple times.

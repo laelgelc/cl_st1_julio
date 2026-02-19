@@ -1,0 +1,7 @@
+Hi! There's a gripe I have with Google Docs, namely
+that it automatically places incorrect quotations marks (like this: ["..."])
+when I am typing something in Czech, which uses quotation
+marks like this: ... . Could you, please, check, if
+it is possible to write a code using Google Apps
+Script that would automatically replace the incorrect quotation marks with
+the proper set when typing Czech?

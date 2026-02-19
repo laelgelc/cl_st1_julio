@@ -1,0 +1,1 @@
+Given a table in PostgreSQL with this definition Code_Snippet give me a query that counts the number of other rows there were for the same msisdn at the signup date of the current row.

@@ -1,0 +1,1 @@
+I have json in the form Code_Snippet. How do I convert this to a csv file where there are headers for name, price and each row has the name and price values?

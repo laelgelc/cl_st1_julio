@@ -1,0 +1,6 @@
+Hello again old friend! Can an AWS Lambda function (triggered
+by a subscription to a SNS topic) forward it's payload
+to another Lambda function? We would like to have a
+single Function to act as a switch that will take
+a decision and forward the initial payload to one of
+three other Function.

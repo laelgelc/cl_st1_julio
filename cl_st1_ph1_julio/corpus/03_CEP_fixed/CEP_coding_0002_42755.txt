@@ -1,0 +1,3 @@
+Create a cities list which will show school names and
+we want to add collapse to show and hide programs
+list in ReactJS TypeScript with custom CSS modules.

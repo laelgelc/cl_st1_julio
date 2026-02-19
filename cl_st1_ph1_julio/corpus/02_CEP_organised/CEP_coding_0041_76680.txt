@@ -1,0 +1,1 @@
+Write me a GenServer in Lisp Flavored Erlang (LFE) which creates a tick loop that runs at a constant rate of 16ms. Every 16ms it should run the process function, and the tick loop should account for the duration it takes for that process module to run.

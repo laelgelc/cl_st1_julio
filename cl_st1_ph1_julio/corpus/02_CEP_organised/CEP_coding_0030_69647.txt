@@ -1,0 +1,1 @@
+I have a .NET 6 sample web API app and I created a Docker image with the name sample-webapi:1.0.0 for it. I want to deploy the image in an Azure Kubernetes Service instance. What are the Helm files I need?

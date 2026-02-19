@@ -1,0 +1,1 @@
+I'm programming in Liquid using VSCode and every time I save the changes on the file, it gets re-structure, it changes the indentation, I don't want to change the whole file. How can I remove that?

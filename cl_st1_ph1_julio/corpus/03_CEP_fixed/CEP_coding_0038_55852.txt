@@ -1,0 +1,5 @@
+Can you write me JavaScript code which will add a
+remove button to every div with a class of mt-3
+and search-item, where these remove buttons will remove the div
+element with the class of mt-3 and search-item from the
+DOM in which the are a child element of?

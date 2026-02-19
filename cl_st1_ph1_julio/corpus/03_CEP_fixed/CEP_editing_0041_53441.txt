@@ -1,0 +1,5 @@
+I want to translate the software GUI from English to
+Traditional Chinese. My software is about network management for networking
+devices. My string file is in JSON format. Your response
+is in JSON format and only translates the strings inside
+the code. My first JSON content is as below.

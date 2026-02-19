@@ -1,0 +1,1 @@
+[Text_to_Fix]I wonder if we can extend the current sprint for one more week so we could wrap up the in progress stories. In fact we have added new story during the sprint as well.[/Text_to_Fix]

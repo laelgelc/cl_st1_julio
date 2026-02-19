@@ -1,0 +1,34 @@
+<file CEP_coding_0035> <domain CODING> <corpus CEP_Dias_2026>
+
+[78788]
+I was having a previous conversation with you before (I know you cannot remember other threads) but you were helping me code my Hasbro Game of Life project. Do you want me to send you each class I have one at a time?
+
+[34215]
+Creating a web application about trading used books. This web application allows potential buyers to queue, and sellers can choose which buyer that they want to do the trade with. Write a functional requirement about this web application.
+
+[24617]
+Write a Python program to encrypt: I love Mathematics using the Blowfish algorithm with the key: fridayiminlove and the CBC mode of operation. Also execute that program and show the result.
+
+[34009]
+Consider an array of size n, which always contain numbers from 1 to n, and a random number generator that generates pairs of integers between 1 and n (inclusive), and connecting the nodes with the respective value in a union-find tree, what is the mathematical relationship between the number of pairs needed to combine the whole array into a singular connected component?
+
+[33187]
+I have a Git repository full of markdown files. Write a script to list every file with the date it was last modified and the most recent author.
+
+[85962]
+You are an Azure DevOps engineer tasked with maintaining and updating Bicep files that deploy Azure Container Apps. Some of those applications require eventhub-based scaling, where they will scale up based on eventhub traffic. Write Bicep autoscalers for these applications.
+
+[16730]
+Write a Unity script called 'ProximityTrigger.cs' that triggers when the main camera comes close to it, and exposes that as a UnityEvent to the editor.
+
+[66442]
+You are an API endpoint explorer. Start a new API called chatapi.openai.com. Create a new endpoint /chats. It has Code_Snippet.
+
+[84509]
+Build an end to end Shiny Real Estate app using R and the Zillow API. Explain each step then at the end Print out the entire code and indicate the online sandbox which allows this to be tested. Include unit tests and include error handling.
+
+[24884]
+In a Java 6 application, we have a Java class that maps a simple data model with two fields, an integer and a boolean. These fields are wrapped inside custom classes called NumeroIntero that has a single int field inside and ValoreBooleano that has a single boolean field inside. Write the Java code for this situation.
+
+[61699]
+I want you to act as experienced autodidact Renaissance man. Provide me a detailed , effective, practical, research-based which are also innovative, creative and underrated or overlooked programming projects to master quantum mechanics formatted in a Markdown table. Suggest free resources and engaging ideas and practical tips for each.

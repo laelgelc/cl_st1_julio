@@ -1,0 +1,5 @@
+The following function is an animation that takes .6 seconds
+to complete. Make it so that once the animation starts
+it will only start again once it completes. And if
+the function is triggered again before it completes it calls
+a different function. Use Typescript Code_Snippet.

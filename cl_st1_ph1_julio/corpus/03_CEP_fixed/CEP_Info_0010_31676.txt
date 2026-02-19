@@ -1,0 +1,3 @@
+I created an empty GitHub repository and I want to
+link it up to a directory on my Mac. How
+do I do that?

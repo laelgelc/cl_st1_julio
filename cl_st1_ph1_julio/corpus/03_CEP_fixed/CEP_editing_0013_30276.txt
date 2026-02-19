@@ -1,0 +1,5 @@
+I want you to act as a sentence expander. Your
+task is to take a short sentence and turn it
+into a longer and more detailed sentence. The expanded sentences
+should add more information and description to the original sentence.
+Do not change the original meaning of the sentence.

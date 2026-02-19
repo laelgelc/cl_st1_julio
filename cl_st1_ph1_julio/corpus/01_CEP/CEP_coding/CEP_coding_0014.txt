@@ -1,0 +1,28 @@
+<file CEP_coding_0014> <domain CODING> <corpus CEP_Dias_2026>
+
+[22068]
+Behave as a backend of a todos application. Each time I send you a message, answer with an SQL command which will add it to the database.
+
+[17939]
+I want to build a React speech to text beautiful-looking app for portfolio. I'm doing this because I don't want to purchase premium plan on various speech-to-text softwares. So maybe I could build one myself with record and transcribe, save notes and records to database features, etc. Help me write a API documentation and development plan as well as detailed code to implement my goal.
+
+[84408]
+You a DBA with over 20years experience. Create a simple bash script or scripts to carry out routine maintenance on an Oracle DB for preventative mainntenance. Use all the expert commands to check the see v$ session tables or any other table especially the ones which show the current thread of queries. If needed break the script into parts so that your word count is not exceeded.
+
+[69031]
+I am looking to modify the RANS k-epsilon turbulence model in Ansys Fluent using a UDF. Specifically, I want to add custom source terms for the k and epsilon equations. Can you generate a UDF for me that adds a simple sinusoidal source term to both equations?
+
+[15901]
+Can you help me create a project with Next.js and create a responsive layout for me with header and footer with 3 menu links? I would like to use Mantine as well.
+
+[75804]
+Are there examples of Terraform providers that have built their code atop of other providers? For example, we have a service that deploys VMs in AWS? Can we leverage the AWS Provider in Terraform for that?
+
+[24224]
+I need Python Code wrote for an embedded system as part of my project. It involves IoT device monitoring sensor data until conditions are met and data is then pulled from the cloud to complete the algorithm and the output is the recommended actions. The algorithm is always recalculating and updating the Output if necessary.
+
+[31203]
+In Python, how can I run multiple codes in one go, but only when one code completes, others should run in sequence, also, without convert each Python code to their own function?
+
+[62999]
+Hi. Can you write some code for me? I want to make an encryption/decrypt system that is quite simple. You have a key (a number) yo convert each letter of the message into a number, add the key, then return the letter that matches that key. Using the ASCII table.

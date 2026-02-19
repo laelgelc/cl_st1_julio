@@ -1,0 +1,4 @@
+Using JSX, I want to map the objects in an
+array into 1 of 2 different components, depending on if
+object.property1 exists. I keep getting the error "Cannot read properties
+of null." Is there a way to resolve this?

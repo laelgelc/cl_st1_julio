@@ -1,0 +1,1 @@
+I want you to write me a daily tweet that will highlight the usage of DFIR product for Enterprise SOCs and MSSPs. Each tweet should have a metric and a forensic artifact mentioned. I want 90 tweets to cover a quarter.

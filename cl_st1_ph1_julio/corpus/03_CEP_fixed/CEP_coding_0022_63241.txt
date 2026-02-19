@@ -1,0 +1,4 @@
+Write a GitHub issue in markdown in codeblock for a
+React application for: Adding a code generator for new pages,
+contexts, hooks, etc. to make testing better, and producing less
+bugs.

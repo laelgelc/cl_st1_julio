@@ -1,0 +1,4 @@
+Is it possible to create a HTML page with a
+SVG that "fills" when I scroll? In this case, I
+would like to create an SVG of a tree that
+fills with a green gradient when I scroll the page.

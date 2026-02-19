@@ -1,0 +1,1 @@
+Act as a fitness trainer and build a routine for a 115 pound, BMI 18, 21 year old male with no fitness experience that helps with gaining weight. You can also include a meal plan that optimizes caloric intake in order to lose the most fat possible while maintaining muscle growth, if needed.

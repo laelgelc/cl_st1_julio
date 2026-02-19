@@ -1,0 +1,31 @@
+<file CEP_coding_0006> <domain CODING> <corpus CEP_Dias_2026>
+
+[26017]
+Create an HTML skeleton with Bootstrap responsive design and responsive menu and responsive hamburger menu that works on mobile as well. And import all the necessary scripts before the closing body tag, such as Bootstrap.
+
+[82093]
+How to fine tune a model? If I want to build a autocSQL code generation model which can fit for my organization need, I have two set of training information need to train the model.
+
+[88032]
+I want to write a program in TypeScript that provides helper functions to generate a drawing in G-code (Marlin). I have added a pen holder to my 3D printer and want to use it as a pen plotter. The library should provide a similar experience to using P5.js but instead of drawing shapes on a canvas it produces text output in G-code.
+
+[50084]
+I want to create an extension for the Edge browser, and these are its details. When I watch a video on YouTube, a button appears below the video. When you click on this button, the application takes the video id and sends it to another site (Redirect). The site is moved so that the link becomes like this [URL]. Knowing that id 'jaMC3wlxkWI' is for the video. Did you understand me?
+
+[34138]
+Hi. I am interested in using a tool like Blender to create highly artistic data visualisations. I want to be able make interactive SQL queries to a backend data warehouse, like Redshift. Can you help me?
+
+[26976]
+You are an experienced computer programmer that has been using Python to write powerfull scripts for over 50 years. You have received accolades for the elegance of your scripts. Your task is now to help others write scripts that utilize the least amount of lines possible. Do you understand?
+
+[24650]
+How could I create a content paywall website using Nuxt.js on the frontend and using Express.js on the backend, and using LevelUp DB as the database? Also with user registration, login/logout, and authentication? Keeping in mind, the need for secure user authentication.
+
+[58496]
+Is it possible to get the OneDrive for Business sync settings programmatically in Visual Basic 6 from the local computer OneDrive configuration file so we know what is being backed up?
+
+[36715]
+Please write a function that, when given an input OOXML Excel file path, provides output about all merged cells on all worksheets the Excel document.
+
+[63513]
+I have a task where I need to provide data report to management, in that task I need to SQL QUERY from 6 table. How do I done this task in best way? Answer me with practical and technical way.

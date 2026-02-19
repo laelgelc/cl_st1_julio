@@ -1,0 +1,4 @@
+This is the topic of our converation. ### Configuring the
+dispatcher service to run AMQP with TLS. To enable TLS
+communication to connecting clients the following parameters must be configured
+in the `dispatcher.conf` file. Code_Snippet.

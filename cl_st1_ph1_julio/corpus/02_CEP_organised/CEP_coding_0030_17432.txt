@@ -1,0 +1,1 @@
+Create a program in Python that enables a two-way sync between Airtable and Google calendar. I want to sync creation of new records, creation of new calendar events, updates on new records, updates on calendar events, deleting records with deleting calendar events and vice versa.

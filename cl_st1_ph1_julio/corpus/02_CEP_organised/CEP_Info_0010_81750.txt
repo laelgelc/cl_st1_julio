@@ -1,0 +1,1 @@
+I have a game simulation in which I can change the parameters and see the outcome. This is a non-convex optimisation problem without available derivates. The number of parameters is quite large. Which algorithms can I use to optimise this problem?

@@ -1,0 +1,1 @@
+Here is a return statement on a React component. I suck at React and it is a mess. Can you clean it up and make it more proper React? You don't have to do it all in the return statement. [Code_Snippet]

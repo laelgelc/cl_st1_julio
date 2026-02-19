@@ -1,0 +1,1 @@
+I am trying to get good results from GPT-3.5 on the following prompt: [Text_to_Fix]. Could you write a better prompt that is more optimal for GPT-3.

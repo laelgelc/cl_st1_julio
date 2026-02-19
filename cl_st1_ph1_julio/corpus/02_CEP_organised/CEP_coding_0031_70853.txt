@@ -1,0 +1,1 @@
+How to convert an object with the type Code_Snippet in C++ to Python object with the type Code_Snippet in Python, using pybind11 library in C++? Please show me an example code in C++. Please write in English language.

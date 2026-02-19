@@ -1,0 +1,3 @@
+I have an JS array like this: Code_Snippet and I
+want to output the entries of the array as a
+string formatted like this: Code_Snippet. How do I do that?

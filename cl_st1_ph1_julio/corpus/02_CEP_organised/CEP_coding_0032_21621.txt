@@ -1,0 +1,1 @@
+How to dynamically extend React component props type depending on the value of a certain prop? For example, I have a Typography component with props type Code_Snippet. If I pass Foo element with props type Code_Snippet to Typography root prop, I want the TypographyProps to be Code_Snippet.

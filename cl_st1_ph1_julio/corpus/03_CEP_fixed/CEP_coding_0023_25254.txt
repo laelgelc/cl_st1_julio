@@ -1,0 +1,4 @@
+A Python script that will detect if Plex is playing
+anything, and then keep the system awake until current time
++ 5 minutes. The script should use the Plexapi and
+Wakepy libraries. The script should run every minute.

@@ -1,0 +1,4 @@
+<file CEP_coding_0046> <domain CODING> <corpus CEP_Dias_2026>
+
+[30135]
+Please help me write a hands-on programming challenge with the following requirements. The challenge is about Python If Statements. The challenge is step-by-step. Include full code and test cases. Include an introduction and a summary. Using a markdown format.

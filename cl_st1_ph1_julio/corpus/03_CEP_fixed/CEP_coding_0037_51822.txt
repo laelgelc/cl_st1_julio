@@ -1,0 +1,4 @@
+IF I am making an app, that receives an AS67
+Complient radio broadcast, which protocols would be needed to this
+stream to include if the app will take this stream
+and transform it into an HLS compatible stream?

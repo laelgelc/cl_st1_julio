@@ -1,0 +1,7 @@
+I need to create Django data models code with additional
+commonly used properties to support an application feature for ordering
+food with description. "This feature displays the status of any
+order. The current status is shown in real-time. The screen
+contains a header that displays the delivery address of the
+consumer, full name of the user, and a progress bar
+to track the current order."

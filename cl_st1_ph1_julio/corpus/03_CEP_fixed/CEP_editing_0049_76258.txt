@@ -1,0 +1,5 @@
+I hate a text file where every paragraph has a
+line break to make the text width more narrow. How
+can I remove all the line breaks but still preserve
+the paragraphs. There is a blank line in between each
+paragraph.

@@ -1,0 +1,5 @@
+[Text_to_Fix]The pharmacies downloaded from SureScripts are directly available to the
+Customer to route the message to SureScripts because the pharmacies
+downloaded are directly inserted in our system and will be
+showing in list to Customer from our system after insertion.[Text_to_Fix]
+Please make above text better.

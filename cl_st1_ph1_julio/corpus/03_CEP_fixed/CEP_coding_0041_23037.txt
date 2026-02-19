@@ -1,0 +1,4 @@
+Can you create a function the maps the values from
+0..1 to 0..1 in a way that is starts smoothy,
+in the middle has a linear range and then stops
+smoothly again?

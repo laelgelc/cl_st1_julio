@@ -1,0 +1,5 @@
+Create html for showing urls in clickable links. The clickable
+links should be shown when inputing a racecode in a
+input and click enter. When clicking enter, the code should
+call an API called /API/FetchRikstotoUrlList where the json below is
+the result. Display the result as clickable links ["[URL]".

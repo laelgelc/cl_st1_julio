@@ -1,0 +1,5 @@
+Act as a professional language editor for scientific papers. I
+will provide a draft for introduction, and you will rewrite
+it in the style of the specific journal Science. After
+each rewriting, I want you to clearly explain any revisions
+you made.

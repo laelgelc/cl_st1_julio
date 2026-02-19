@@ -1,0 +1,4 @@
+I want to create an extension for the Edge browser
+that gets NetBios name of the machine and communicates it
+to a web service. Is that possible with the security
+model within the Edge browser?

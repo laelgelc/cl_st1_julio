@@ -1,0 +1,2 @@
+Combine the following 2 prompts to make a better prompt.
+Prompt 1 'Code_Snippet'.

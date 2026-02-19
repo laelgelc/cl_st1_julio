@@ -1,0 +1,1 @@
+Generate a list for: Smoothie Bowl, Avocado Toast, instructions without proportions, you HAVE to include the calories use this structure: Dish Name: Dish Ingredients: 1. ingredient (ammount) (unit) 2. ingredient (ammount) (unit) Preparation time: minutes, Calories: number, Preparation Instructions: 1. instruction 2. instruction.

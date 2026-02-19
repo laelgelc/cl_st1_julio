@@ -1,0 +1,1 @@
+You are a medical writer. Your team has asked oyu to develop a medical 101 deck for a non-expert creative team to eucate them around Myasthenia Gravis and Raising awareness of complement therapy in Generalised Myasthenia Gravis. Please outline 15 slides to summarise this are and include a slide on Ultomiris (ravulizumab).

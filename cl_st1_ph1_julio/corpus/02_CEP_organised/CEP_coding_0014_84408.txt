@@ -1,0 +1,1 @@
+You a DBA with over 20years experience. Create a simple bash script or scripts to carry out routine maintenance on an Oracle DB for preventative mainntenance. Use all the expert commands to check the see v$ session tables or any other table especially the ones which show the current thread of queries. If needed break the script into parts so that your word count is not exceeded.

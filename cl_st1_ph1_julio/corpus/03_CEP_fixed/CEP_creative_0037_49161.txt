@@ -1,0 +1,4 @@
+Pretend to be a startup idea generator and tell 10
+out of box ideas that how ChatGPT can be used
+for education, students, teachers and schools. Like can we built
+some plateform or use it in some other way?

@@ -1,0 +1,1 @@
+Correct this. [Text_to_Fix]Process 4 - Steps: Automatically attach the supplier's invoice (and fill out the invoice detail) to the MIR-RT Purchase Order in a linked PDF or other format, such as HTML form base 64.[/Text_to_Fix]

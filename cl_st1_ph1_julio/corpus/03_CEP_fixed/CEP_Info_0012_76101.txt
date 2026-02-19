@@ -1,0 +1,8 @@
+I am creating an accumulating fact table in our data
+warehouse to represent the lifetime of a job in our
+enterprise for each record. This fact table will be used
+to analyze the performance of the job by reporting the
+amount of time spent performing different activities. There are dozens
+and dozens of events that occur over the lifetime of
+a job. What is the most effective and efficient way
+to store this data in my accumulating fact table?

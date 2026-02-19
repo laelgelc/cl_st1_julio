@@ -1,0 +1,8 @@
+I want you to act as a machine learning engineer.
+I am working on an intro to deep learning assignment.
+Write me the pseudo code to build a two layer
+Neural Network using Numpy. The details are as follows. The
+first layer (contains 128 nodes), a sigmoid activation function, second
+layer (contains 10 nodes), a softmax function, then cross entropy
+loss. Assume I have a functions prebuilt for softmax, sigmoid,
+and cross entropy loss.

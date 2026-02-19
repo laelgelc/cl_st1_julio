@@ -1,0 +1,1 @@
+Write me a madlibs program in Python. Make the story about an IT department. When the player completes the madlib and the story is printed, be sure to BOLD each word. Finally, create a hyperlink at the bottom of the story to link to this page: [URL]

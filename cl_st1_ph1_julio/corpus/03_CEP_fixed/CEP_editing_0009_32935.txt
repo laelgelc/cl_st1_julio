@@ -1,0 +1,5 @@
+Translate the following keywords into polish, bulgarian and romanian, display
+ion a table with teh english in column 1 and
+translations in column 2, 3 and 4: touch screen gloves
+gloves work wearing gloves good pair touch screen touchscreen gloves
+cold weather index finger and thumb.

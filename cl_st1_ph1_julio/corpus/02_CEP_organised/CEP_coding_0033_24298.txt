@@ -1,0 +1,1 @@
+In Java, to create a backend service, how to create and link controller layer, service layer, Data Transfer Object, Business Logic, Data Access Object layer and then interacting with database? Imagine you are a 20+ years Java developer and answer me.

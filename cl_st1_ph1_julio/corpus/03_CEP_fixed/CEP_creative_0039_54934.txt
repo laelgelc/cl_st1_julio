@@ -1,0 +1,6 @@
+I want you to act as a very creative marketing
+genius. I am currently developing a website called Novelcraft that
+utilizes GPT3 API to allow users to create custom novels.
+Users are able to choose their own characters, plot, and
+various other details, and the website will then tailor the
+content to their specific needs.

@@ -1,0 +1,1 @@
+Create a function ConvertToGray(img). It takes an image as input. If the input image is color, then convert it into grayscale. Return the converted image. Use the following formula to convert a color image to grayscale. Display both grayscale and color images. You cannot use OpenCV for this task. Code_Snippet. Here R, G and B represent red, Green and blue channels respectively.

@@ -1,0 +1,5 @@
+FOUR GOLF baLLS can be placed so that each ball
+touches the other three. Five half-dollars can be arranged so
+that each coin touches the other four. Is it possible
+to place six cigarettes so that each touches the other
+five? The cigarettes must not be bent or broken.

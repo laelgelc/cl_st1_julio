@@ -1,0 +1,4 @@
+I would like to learn about analysis and design of
+Artificial Neural Networks. They are nonlinear which complicates things. I
+know about Linear System Theory and I also there is
+not such a nice Theory of Nonlinear Systems.

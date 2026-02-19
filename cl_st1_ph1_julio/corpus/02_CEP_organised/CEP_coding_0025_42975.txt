@@ -1,0 +1,1 @@
+I have a function which takes a file name and outputs a string. I want to maintain a file which records every file name and a dictionary storing the output text and some metadata variables like Code_Snippet.

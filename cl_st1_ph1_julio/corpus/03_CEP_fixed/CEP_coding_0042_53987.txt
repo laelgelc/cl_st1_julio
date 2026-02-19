@@ -1,0 +1,5 @@
+In the style of a Twilio blog article, write a
+blog article about how developers at airline companies can use
+Telesign's SMS API to automatically send bulk SMS alerts to
+customers when price drops happen for flights that customers are
+watching. Include code snippets in the Node coding language.

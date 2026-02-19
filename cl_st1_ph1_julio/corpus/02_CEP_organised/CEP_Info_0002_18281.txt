@@ -1,0 +1,1 @@
+When coding in HTML, is it beneficial to give sections meaningful IDs? Could it help with SEO or other things? What are your suggestions for giving a website useful IDs?

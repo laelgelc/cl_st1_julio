@@ -1,0 +1,6 @@
+[Text_to_Fix]The ChatGPT system actually remembers what you said in a
+previous conversation, now be aware that this is the conversation
+thread you are currently having, if you strike up a
+brand new conversation tread, that will not be remembered, just
+the current one that you are in.[/Text_to_Fix] Could you simplyfy
+this in very simple language?

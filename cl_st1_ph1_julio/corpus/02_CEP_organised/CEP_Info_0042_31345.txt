@@ -1,0 +1,1 @@
+Which language model do you use? Ada Fastest $0.0004 / 1K tokens. Babbage $0.0005 / 1K tokens. Curie $0.0020 / 1K tokens. Davinci Most powerful $0.0200 / 1K tokens.

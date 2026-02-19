@@ -1,0 +1,8 @@
+I am making a game in Unity were the main
+mechanic is stacking fruit. There are 3 different types of
+fruit small, medium, and large. I already made it so
+when there is a bigger fruit on top of a
+smaller fruit it gets crushed or destroyed. But it look
+unnatural. Can you make [a line of code the Unity
+physics that makes to look more natural]? An example would
+be Mario jumping on a line of Goombas.

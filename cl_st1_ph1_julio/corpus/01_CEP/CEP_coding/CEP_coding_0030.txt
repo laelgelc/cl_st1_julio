@@ -1,0 +1,34 @@
+<file CEP_coding_0030> <domain CODING> <corpus CEP_Dias_2026>
+
+[69647]
+I have a .NET 6 sample web API app and I created a Docker image with the name sample-webapi:1.0.0 for it. I want to deploy the image in an Azure Kubernetes Service instance. What are the Helm files I need?
+
+[22056]
+Can you give me a starting point for a Python script using CustomTkinter to layout a basic ui with three buttons in a collum on the left, and a window on the right displaying a list of selections?
+
+[84225]
+Write a Python script, which reads a file with data like this: Code_Snippet and prints a C64 BASIC listing with DATA statements, where the numbers are converted to decimal.
+
+[24909]
+Can you code a pair rotation app for developers in Node.js which takes a given pair matrix and suggest the next pairs trying to make the matrix score even?
+
+[59401]
+The project is a Node.js address, how do I access the contents of an external file on the server from a project running in DOCKER?
+
+[27902]
+Given a word w and two sets of attributes A and B, the weat_association_score is calculated as Code_Snippet. Given this information, complete the following Python function: Code_Snippet.
+
+[52768]
+Create a local Docusaurus plugin using Javascript which generates new pages and routes from this array of objects: Code_Snippet.
+
+[43465]
+Consider applying the perceptron algorithm through the origin based on a small training set containing three points: x1=(-1,-1),x2=(1,0),x3=(-1,1.5) and y1=1,y2=-1,y3=1. Given that the algorithm starts with theta0=0 , the first point that the algorithm sees is always considered a mistake. The algorithm starts with some data point and then cycles through the data (in order) until it makes no further mistakes. Please enter the number of mistakes of Perceptron algorithm if the algorithm starts with x1.
+
+[38062]
+Can you write me a Terraform script which will deploy a new Active Directory environment in AWS with two test users, two Windows servers connected to that Active Directory environment with the test users as administrators and an RDP connection to those Windows servers?
+
+[17432]
+Create a program in Python that enables a two-way sync between Airtable and Google calendar. I want to sync creation of new records, creation of new calendar events, updates on new records, updates on calendar events, deleting records with deleting calendar events and vice versa.
+
+[20718]
+Write a JavaScript module that accepts a JSON document and cleans it according to the following schema: Code_Snippet. An example document to use, for the "Home" type: Code_Snippet.

@@ -1,0 +1,3 @@
+Write me a function that returns the ending index of
+the character of a string if there is a sequence
+of 14 unique characters in Java.

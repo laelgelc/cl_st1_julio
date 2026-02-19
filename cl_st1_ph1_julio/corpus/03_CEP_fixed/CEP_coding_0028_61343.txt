@@ -1,0 +1,4 @@
+Given a list of integers in order, return and expression
+with parenthesis, addition, or multiplication that result in a target
+value or return impossible if not possible. For example input
+Code_Snippet.

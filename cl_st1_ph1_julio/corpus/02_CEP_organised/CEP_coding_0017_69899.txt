@@ -1,0 +1,1 @@
+I need a Python script that runs through a directory and all subdirectories and gives me a list of all found images and their resolutions.

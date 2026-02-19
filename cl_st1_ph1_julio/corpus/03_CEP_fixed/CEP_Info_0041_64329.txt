@@ -1,0 +1,4 @@
+I am creating a risk assessment for a laser cutter
+in use in a workshop. What potential hazards and risks
+are there with the laser cutter, and what potential controls
+could mitigate each of them?

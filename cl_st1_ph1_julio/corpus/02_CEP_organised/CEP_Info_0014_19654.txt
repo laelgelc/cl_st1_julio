@@ -1,0 +1,1 @@
+When to perform standardization of data in machine learning model development, before or after the train test split. What impact will it create in both the cases?

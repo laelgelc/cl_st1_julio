@@ -1,0 +1,5 @@
+I want you to act as a healthy diet planner.
+I want to create a feeding plan for me and
+my family. It is for a typical African family with
+traditional food included. Rice, Beans, yam and Swallow and soup
+should be priority with.

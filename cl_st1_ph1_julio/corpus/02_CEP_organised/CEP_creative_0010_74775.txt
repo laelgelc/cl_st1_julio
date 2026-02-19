@@ -1,0 +1,1 @@
+Hello ChatGPT. I need your expertise in color accessibility. Please act like a web design expert and give me a color palette using #52a89d as the action color. Do you understand?

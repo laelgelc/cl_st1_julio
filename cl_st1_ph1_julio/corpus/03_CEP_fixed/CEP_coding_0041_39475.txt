@@ -1,0 +1,3 @@
+After Effects warning: Invalid menu operation. After Effects warning: Invalid
+menu operation. LoadLibrary "n" failed! LoadLibrary "n" failed! Error while
+creatting video in our application programmatically using Adobe.

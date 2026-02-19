@@ -1,0 +1,4 @@
+We are an insurance company looking to utilise telematics data
+sent from an app installed onto our customers mobile phones.
+What algorithm can be used to orient a driver's smartphone
+acceleration axis with a car, while driving, without physical calibration?

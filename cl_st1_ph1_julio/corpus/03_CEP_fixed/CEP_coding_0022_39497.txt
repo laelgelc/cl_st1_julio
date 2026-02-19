@@ -1,0 +1,6 @@
+Abhishek Yadav let's start again. Write a Telegram bot in
+Python which has some predefined chat_ids in it. If any
+message comes to the bot from these chat ids the
+bot connects to Redshift and pulls the order data. If
+message is from id not in chat ID message back
+'Invalid user'.

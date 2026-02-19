@@ -1,0 +1,1 @@
+Do you know Pinecone? I need to create a vector index for some embedding data. Every user can create an embedding from their own data. Should I create multiple indexes in Pinecone?

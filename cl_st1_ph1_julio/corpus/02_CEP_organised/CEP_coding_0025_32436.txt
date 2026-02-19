@@ -1,0 +1,1 @@
+Write me some code to check is zeotap_hhid exists in the browser session storage, if it does not exist I need the code to store the dataLayer,user.cable.

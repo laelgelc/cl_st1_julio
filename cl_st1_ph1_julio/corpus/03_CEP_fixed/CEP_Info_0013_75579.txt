@@ -1,0 +1,3 @@
+The mean depth, D, in metres, of a mountain lake
+fluctuates in a yearly cycle and can be modelled by
+the function: D(t)=a cos (kt) +b.

@@ -1,0 +1,1 @@
+In Python, how can I use multithreading to read from a serial port at the same time as rendering a GUI showing the value from the serial port?

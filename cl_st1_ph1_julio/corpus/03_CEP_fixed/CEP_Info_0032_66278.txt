@@ -1,0 +1,3 @@
+Please give detailed supermarket automation and tracking framework and process
+using blockchain, RFID, tokens, and Cloud. Please give processes in
+details and share any relevant stats and research you have.

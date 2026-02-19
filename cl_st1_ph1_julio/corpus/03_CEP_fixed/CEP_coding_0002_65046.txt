@@ -1,0 +1,3 @@
+Create list of system prompts for ChatGPT API to interact
+with extracted data from an uploaded document, include summarization, fact
+highlights and other possible questions for the user to ask.

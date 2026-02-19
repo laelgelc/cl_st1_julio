@@ -1,0 +1,1 @@
+I have Java app with Liquibase migrations. I want to test that my old code will work with new database state. In other words, I need to test that my migrations are backward compatible. Write a Gradle task that will revert all code except Liquibase migrations and then run tests. After that it should restore code to initial state.

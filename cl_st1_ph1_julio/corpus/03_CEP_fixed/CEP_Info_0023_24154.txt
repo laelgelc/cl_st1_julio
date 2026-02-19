@@ -1,0 +1,6 @@
+I am going to take notes in you, and also
+ask questions to you which you can answer. When I
+write notes, I will write it {like this}. When I
+write notes, I want you to just reply with what
+is in the curly brackets and write 'Noted'. { Course
+name: ECEN 429 - Machine Learning, Prof: Dr. Erchin, }

@@ -1,0 +1,7 @@
+Consider an array of size n, which always contain numbers
+from 1 to n, and a random number generator that
+generates pairs of integers between 1 and n (inclusive), and
+connecting the nodes with the respective value in a union-find
+tree, what is the mathematical relationship between the number of
+pairs needed to combine the whole array into a singular
+connected component?

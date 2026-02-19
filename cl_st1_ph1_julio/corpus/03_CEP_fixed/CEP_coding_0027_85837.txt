@@ -1,0 +1,6 @@
+Act as a behavioral science and causal analysis researcher. Given
+the following data structure: Input variables: Exercise, Social Support, Sleep,
+Self Improvement Output Variable: Resilience Index. Give me code and
+step by step instructions for how I could run a
+causal analysis to determine the direct and indirect influences on
+the resilience index.

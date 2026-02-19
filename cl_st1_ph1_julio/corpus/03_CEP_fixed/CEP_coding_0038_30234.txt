@@ -1,0 +1,7 @@
+I am building a mobile app for runners. The main
+pain point of the users is to connect the music
+app (Spotify or Apple Music) to the flow of a
+person that want to start running. Help me to build
+the specific user flow of a person that want to
+run 5 KM but before that I want to connect
+Spotify to it to hear a podcast while running.

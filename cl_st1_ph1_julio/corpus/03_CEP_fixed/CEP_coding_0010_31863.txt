@@ -1,0 +1,6 @@
+Write a function in Python. Input: a 3 D bounding
+box, image resolution, camera intrinsics, camera extrinsics. Output: a 2
+D bounding box. This 2 D bounding box should be
+the minimum bounding box of the projection of a 3
+D bounding box onto the camera canvas. Pay attention to
+the cropping effect at the image boundary.

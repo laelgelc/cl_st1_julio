@@ -1,0 +1,1 @@
+Write a Python script which is going to expose data via Thrift. It should use Playwright to parse ChatGPT UI and expose it via API.

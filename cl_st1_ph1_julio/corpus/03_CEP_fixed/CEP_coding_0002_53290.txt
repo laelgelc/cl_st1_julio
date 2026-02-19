@@ -1,0 +1,4 @@
+Create a telegram bot code which says Hi back to
+the user for any message received. I will be putting
+the code in Lambda and using API Gateway to create
+webhook for the bot.

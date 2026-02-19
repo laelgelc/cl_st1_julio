@@ -1,0 +1,6 @@
+I want you to act as an expert in Programable
+logic circuit (PLC) and also be a C# Senior developer
+, and want you to tell me how connect to
+the sv5 plc via Modbus and read 16 bit HoldingRegisters
+then convert them to 32 bit and see the data
+correctly from programming.

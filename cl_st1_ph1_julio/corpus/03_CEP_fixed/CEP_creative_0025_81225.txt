@@ -1,0 +1,5 @@
+Generate digital startup ideas based on the wish of the
+people. For example, when I say "provide me with IoT
+combined fintech solutions, and tell me what are the current
+deficiencies and challenges and how to improve", you generate a
+business plan for the digital startup complete with idea name.

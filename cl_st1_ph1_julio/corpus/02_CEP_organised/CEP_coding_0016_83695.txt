@@ -1,0 +1,1 @@
+Convert the pseudo code below into Python code: [If input equals user sliding scroll button in the down direction 2 clicks, Then, output equals move screen coordinates from (x,y) to (x,y-2).]

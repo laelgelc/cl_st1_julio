@@ -1,0 +1,7 @@
+How to create a form in Google, in which I
+can take test input as well as file input and
+send it to the Node.js server in a single post
+request, at the same time in the Node.js server I
+can upload the file to EC2 instance and then save
+the text data and the returned file access url to
+MongoDB database?

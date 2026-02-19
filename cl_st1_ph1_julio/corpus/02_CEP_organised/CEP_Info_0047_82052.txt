@@ -1,0 +1,1 @@
+Give me a friendly way to describe each of these data structures from R. Character: text data. Numeric: all real numbers with or without decimal values. Integer: real values without decimal points. Logical: TRUE, FALSE. Raw: raw bytes of data. List: named or numbered array of entries. Data frame and tibble: rectangular representation of data. Vector Matrix.

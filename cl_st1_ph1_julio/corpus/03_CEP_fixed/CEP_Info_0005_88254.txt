@@ -1,0 +1,4 @@
+How are computations performed on a quantum computer work? For
+example, for a quantum computer with 3 qubits, how can
+I perform a computation of finding the exponent of 7
+on all 8 superpositions?

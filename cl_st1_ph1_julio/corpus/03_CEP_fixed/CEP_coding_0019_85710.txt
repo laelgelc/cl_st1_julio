@@ -1,0 +1,5 @@
+You will get a task. Please solve it and write
+the answer in a text field OR ZIP or RAR
+the code of the project and upload it, also you
+can upload only file with all required code of the
+task.

@@ -1,0 +1,8 @@
+Format the following input so that it's in table form:
+Year:2010 EV sales BEV:7400 EV sales PHEV:380 EV Stock BEV:17000
+EV Stock PHEV:400 Electricity demand BEV:0 Electricity demand BHEV:0 Oil
+displacement (Million barrels per day):0 Oil displacement (Milion litres gasoline
+equivalent):1 Average CO2 emission per BEV produced (Kg CO2 e):32
+Average CO2 emission per PHEV produced (Kg CO2 e):185640000 Total
+Motor cars production per year:4368000 Average CO2 emission per Moto
+car:58239494.

@@ -1,0 +1,1 @@
+I want to build a spatial database using PostGIS and Postgres and QGIS to map crime incidents and crime types to in Baltimore, MD. I want to be able to use a map and click on a crime and get information about the socio-economic parameters and also want to select an area and to be able to produce spatial analysis around the type of crime that happens there and its prevalnce.

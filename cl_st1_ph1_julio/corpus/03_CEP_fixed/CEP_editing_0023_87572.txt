@@ -1,0 +1,4 @@
+Rate this prompt on a scale of 1-10. If it
+is below 8, tell me what improvements I should make.
+An futuristic typewriter machine in a work room in the
+mountains.

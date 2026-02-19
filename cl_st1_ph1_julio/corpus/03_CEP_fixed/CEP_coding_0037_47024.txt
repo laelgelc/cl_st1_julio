@@ -1,0 +1,3 @@
+When using Pydantic, can I create a class that extends
+BaseModel that automatically trunctions fields if they are too long?
+Assume the field in question is a string.

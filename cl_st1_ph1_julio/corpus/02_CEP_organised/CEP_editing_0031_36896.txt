@@ -1,0 +1,1 @@
+I am writing a resume, rewrite the following line and make it very short while keeping the numbers and the metrics. [Text_to_Fix]Developed an artificial chess player on Jupyter notebook using minimax algorithm with alpha-beta pruning that has 4 levels of search depth, resulting in a chess engine with approximate elo rating somewhere between 1,500 -1,800.[/Text_to_Fix]

@@ -1,0 +1,1 @@
+I created a pop up with class Code_Snippet that closes when i click a close button. It also closes when i click anywhere outside the input elements. I want a Javascript script that will make the pop up close when i press the esc button on my keyboard.

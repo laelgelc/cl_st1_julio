@@ -1,0 +1,7 @@
+Replay an email in a formal way and say: [Text_to_Fix]Hi,
+Thanks for the details. Usually we work with ESXi7 and
+not with ESXi6.5, but I have created a basic OVA
+that you can download "here" so we can make sure
+our OVA can be deployed with ESXi6.5. Could you please
+try to install it and let me know if it
+worked?[/Text_to_Fix]

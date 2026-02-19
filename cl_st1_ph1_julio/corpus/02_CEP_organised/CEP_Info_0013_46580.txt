@@ -1,0 +1,1 @@
+Is there a good way to verify email domain address is not from a public provider in the C# language? By using Google it seems like there is no way to check the domain since it might allow all symbols in it's name.

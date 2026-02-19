@@ -1,0 +1,4 @@
+Can you give me a starting point for a Python
+script using CustomTkinter to layout a basic ui with three
+buttons in a collum on the left, and a window
+on the right displaying a list of selections?

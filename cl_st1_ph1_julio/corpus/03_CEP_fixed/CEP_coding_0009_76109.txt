@@ -1,0 +1,4 @@
+Hello, I want to create a Spring Boot app that
+reads a SQL query from a file and run that
+query every certain time and stores the result in another
+file.

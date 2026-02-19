@@ -1,0 +1,5 @@
+Write a code using Python to replicate 1 image to
+x number of images equally divided by the categories of
+having images upsized, downsized, rotated to the right, rotated to
+the left, flipped upside down, with low brightness and high
+brightness.

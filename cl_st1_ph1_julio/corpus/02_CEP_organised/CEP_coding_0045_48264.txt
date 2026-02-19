@@ -1,0 +1,1 @@
+This chat pertains to developments research and steps to install and setup Uppy.io and the companion server so it is publicly available using the SDKs and APIs.

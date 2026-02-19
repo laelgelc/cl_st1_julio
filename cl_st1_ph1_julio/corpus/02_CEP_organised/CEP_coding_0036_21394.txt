@@ -1,0 +1,1 @@
+Can you give me a qemu-system-x86_64 for installing Ubuntu using a CD rom while exposing it to :1 port using VNC and port forwarding 22 and 844?

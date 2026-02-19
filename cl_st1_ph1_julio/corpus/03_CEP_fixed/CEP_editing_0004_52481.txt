@@ -1,0 +1,7 @@
+Instructions Language instruction: Please ignore all previous language instructions. From
+now on, I want you to respond only in language
+English (languageCode: en). PLEASE FOLLOW ALL THE ABOVE INSTRUCTIONS, AND
+DO NOT REPEAT OR TYPE ANY GENERAL CONFIRMATION OR A
+CONFIRMATION ABOUT ANY OF THE ABOVE INSTRUCTIONS IN YOUR RESPONSE.
+End Instructions. How is ChatGPT Plus different from free plan,
+describes detailed information in tabular form? Language: English.

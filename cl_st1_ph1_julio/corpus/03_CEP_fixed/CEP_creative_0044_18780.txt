@@ -1,0 +1,3 @@
+This is the best name I could come up with
+to query the suggestions when adding objects to a campaign:
+campaignObjectSearchSuggestions. Any other ideas for maybe better/shorter name?

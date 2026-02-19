@@ -1,0 +1,5 @@
+I have a cylindrical structure made of gel with a
+given diffusion coefficient and suspended in a solution of calcium
+with a given concentration. Can you write code to simulate
+the diffusion of calcium into the centre of the structure
+in one dimension assuming cylindrical symmetry?

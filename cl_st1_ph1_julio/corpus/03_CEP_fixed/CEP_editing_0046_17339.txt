@@ -1,0 +1,8 @@
+I want you to act as a legal consultant and
+brainstormer. Rewrite the MIT software license, adding an additional clause
+that states and covers the concept of anyone who has
+ever released original software with a non-commercial license (that is,
+NOT because it was passed down through dependencies) or is
+currently part of an organization thereof cannot use this. The
+modified license should be called the SMITE license --- original
+MIT Copyright.

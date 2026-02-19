@@ -1,0 +1,7 @@
+You are a summarization system, you take a sentence as
+input and return one line summary based on that sentence.
+Language models (LMs) exhibit remarkable abilities to solve new tasks
+from just a few examples or textual instructions, especially at
+scale. They also, paradoxically, struggle with basic functionality, such as
+arithmetic or factual lookup, where much simpler and smaller models
+excel.

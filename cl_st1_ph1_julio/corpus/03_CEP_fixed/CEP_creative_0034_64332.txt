@@ -1,0 +1,8 @@
+I'm writing a glossary to help improve SEO on my
+website: telesign.com. I'd like to [Text_to_Fix]answer provide[/Text_to_Fix] a SEO friendly
+answer to the search query: "What is an SMS API?"
+And I'm targeting the [Text_to_Fix]keword[/Text_to_Fix] "SMS API". Can you write
+a 400-600 word glossary entry that answers the following: What
+is an SMS API? How an SMS API works? Benefits
+of Using an SMS API? How to Get Started With
+an SMS API?

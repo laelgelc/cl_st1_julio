@@ -1,0 +1,4 @@
+Give me the longitude and latitude of the following provinces:
+Adana, Adiyaman, Aksaray, Ankara, Aydin, Balikesir, Batman, Bursa, Gaziantep, Hatay,
+Istanbul, Izmir, Kilis, Manisa, Mardin, Mersin, Sanliurfa, Siirt, Sirnak, Trabzon,
+Usak, Yalova.

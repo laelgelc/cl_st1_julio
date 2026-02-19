@@ -1,0 +1,1 @@
+Imagine I am a junior Quality Assurance tester who just joined Software company working on a web product. Give me first 5 specific tasks that I have to solve.

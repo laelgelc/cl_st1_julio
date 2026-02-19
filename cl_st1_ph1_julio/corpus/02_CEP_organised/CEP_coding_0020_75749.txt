@@ -1,0 +1,1 @@
+Write assembly code for the following Python code Code_Snippet.

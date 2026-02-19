@@ -1,0 +1,1 @@
+I am working on a mobile application. Frontend is Flutter, backend is Dotnet Core. I am using MySQL as database and Dapper as ORM. I need to upload a file to the database. A controller for me to do this.

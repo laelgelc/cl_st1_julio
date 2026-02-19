@@ -1,0 +1,1 @@
+[Text_to_Fix]We are going to set this up like dominoes in the back end, and the front end will look like a progress line, with each point on the line will return whatever the step/api request was for.[/Text_to_Fix]

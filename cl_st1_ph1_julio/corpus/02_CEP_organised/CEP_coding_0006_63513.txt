@@ -1,0 +1,1 @@
+I have a task where I need to provide data report to management, in that task I need to SQL QUERY from 6 table. How do I done this task in best way? Answer me with practical and technical way.

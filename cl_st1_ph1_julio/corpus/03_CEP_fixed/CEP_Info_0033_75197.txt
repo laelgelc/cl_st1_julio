@@ -1,0 +1,4 @@
+Please provide an outline of topics for a 20-minute session
+on prompt engineering for ChatGPT, aimed at helping an analysis
+team create more effective prompts to obtain better answers. Include
+step-by-step points or a table format for clarity.

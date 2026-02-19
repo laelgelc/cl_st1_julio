@@ -1,0 +1,1 @@
+Write a talk abstract and title for a technical session focusing on the history to monorepo tooling for the JavaScript ecosystem, and how the tools can help your company.

@@ -1,0 +1,1 @@
+I have a Git repository full of markdown files. Write a script to list every file with the date it was last modified and the most recent author.

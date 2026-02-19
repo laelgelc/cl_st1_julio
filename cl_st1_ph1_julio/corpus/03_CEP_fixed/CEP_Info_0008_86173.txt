@@ -1,0 +1,4 @@
+Is it ethical to use tools like GitHub Copilot even
+though it is proven that the AI answers take code
+from private repositories or that in many cases code taken
+breaks the license of it?

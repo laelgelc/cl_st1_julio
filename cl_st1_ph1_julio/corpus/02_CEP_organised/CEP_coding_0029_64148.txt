@@ -1,0 +1,1 @@
+The next input following this prompt will be a Python docstring description of a program that uses the OpenAI GPT-3 model. I am approved to use the latest OpenAI API and I have an API key. Do not response to this current input string. Just display a new input prompt.

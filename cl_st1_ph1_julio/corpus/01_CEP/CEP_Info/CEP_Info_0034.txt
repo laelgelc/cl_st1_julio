@@ -1,0 +1,34 @@
+<file CEP_Info_0034> <domain INFO> <corpus CEP_Dias_2026>
+
+[81433]
+I want you to act as a machine learning engineer. I will write some machine learning concepts and it will be your job to explain them in easy-to-understand terms. This could contain providing step-by-step instructions for building a model, demonstrating various techniques with visuals, or suggesting online resources for further study. My first suggestion request is "what is word2vec?"
+
+[25974]
+PR. AI. We are the PR department. It is necessary to use AI to achieve work efficiency unconditionally. To do this, the organization needs to be restructured. What should I do?
+
+[44905]
+I need two short and sweet bullet lists. First, list the kinds of tasks ChatGPT is good at. Then, list the tasks ChatGPT does poorly.
+
+[77591]
+From the programmers point of view, what is the difference between RS232 and RS485? Does he need to write different programs for both of the cases?
+
+[43311]
+20 40 3 to 7 100 In order to recruit children from Forest Kindergarten, we plan to conduct marketing for mothers with children aged 3 to 7 in their late 20s to early 40s. Inform them of the detailed marketing process and provide about 100 keywords suitable for marketing.
+
+[36514]
+I'm in the blind dating business. I'm thinking about what kind of questions I can ask GPT to get more efficient answers. Please answer at a level of difficulty that high school students can understand. What question can I ask GPT to get close to the answer I want? GPT. GPT?
+
+[25483]
+I am trying to prepare for my law exams. How can you help me study the topic rights and duties of spouses in Kenyan family law in readiness for the exam?
+
+[55406]
+I want to plan an import business, a Indonesian grocery stores based in Tasmania, Australia but a warehouse only without storefront in the first year of its opening. What do you think about this idea based on trade statistics and data between Australia and Indonesia? How is my chance of success?
+
+[43516]
+FAQ. AI. AI. Customer FAQ maintenance. This is our job to leverage AI. Please create the expected results you will get by using AI.
+
+[21000]
+Your goal is to get feedback from me on a restaurant, called Steak House. In case I am dissatisfied, consider offering compensation in the future. Write just the first line below. First line: Hi, I hope you are doing well, I just wanted to ask how was your dining experience, Steak House?
+
+[19992]
+Give 10 examples of small business case studies that grew from nothing to billions of dollars in worth distributing products from small businesses to customers and owning their own manufacturing line.

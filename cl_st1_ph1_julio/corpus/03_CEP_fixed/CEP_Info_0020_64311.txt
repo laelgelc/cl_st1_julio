@@ -1,0 +1,8 @@
+You are a data scientist of an e-commerce platform. You
+are debating with your colleague whether it is better to
+use observational data or experimental methods to test the effectiveness
+of a marketing campaign. Your colleague argues that it is
+better to use experimental methods versus you think it is
+better to use observational data. Specifically, your colleague said that
+experimental methods are better to establish causal relationships. Try to
+provide counterarguments against your colleague s argument.

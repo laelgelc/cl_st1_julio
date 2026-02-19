@@ -1,0 +1,1 @@
+En un libro sobre el uso de las expresiones fold en C++ 17 dice: "[Text_to_Fix]A fold expression is an expression involving a parameter pack that folds (or reduces) the elements of the parameter pack over a binary operator.[/Text_to_Fix]". Para empezar Cu l ser a la mejor traducci n del p rrafo al espa ol?

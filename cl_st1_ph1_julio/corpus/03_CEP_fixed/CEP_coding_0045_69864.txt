@@ -1,0 +1,4 @@
+Philippe Lavigne Please write an Azure that triggers on an
+Azure Queue Storage in C#. The Azure function will not
+be hosted in Azure Function App but on a virtual
+machine in Azure.

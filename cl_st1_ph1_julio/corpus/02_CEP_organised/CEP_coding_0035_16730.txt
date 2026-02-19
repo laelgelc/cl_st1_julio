@@ -1,0 +1,1 @@
+Write a Unity script called 'ProximityTrigger.cs' that triggers when the main camera comes close to it, and exposes that as a UnityEvent to the editor.

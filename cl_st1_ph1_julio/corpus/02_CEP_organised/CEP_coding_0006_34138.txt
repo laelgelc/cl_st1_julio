@@ -1,0 +1,1 @@
+Hi. I am interested in using a tool like Blender to create highly artistic data visualisations. I want to be able make interactive SQL queries to a backend data warehouse, like Redshift. Can you help me?

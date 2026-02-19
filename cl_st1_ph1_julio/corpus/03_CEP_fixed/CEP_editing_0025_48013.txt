@@ -1,0 +1,4 @@
+I want to create a description of an Epic in
+Azure DevOps. We will build a component library with the
+focus on re-using the components in multiple applications. The components
+will be webcomponents built using Stencil.

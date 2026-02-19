@@ -1,0 +1,1 @@
+Write code that can effect a web browser. The code should read text at a particular location and if text equals "Post: 1 thread, X replies" (where X is any character) and mouse click occurs at a particular location.

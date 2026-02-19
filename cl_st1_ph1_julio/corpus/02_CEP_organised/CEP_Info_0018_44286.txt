@@ -1,0 +1,1 @@
+What is the importance of solar radiation data? At Bhubaneswar, the following observations were made. Theoretical maximum possible sunshine hours equals 9.5 h. Average measured length of a day during April equals 9.0 h. Solar radiation for a clear day, Ho equals 2100 kJ/m2/day. Constants: a equals 0.27, b equals 0.50. Calculate the average daily global radiation.

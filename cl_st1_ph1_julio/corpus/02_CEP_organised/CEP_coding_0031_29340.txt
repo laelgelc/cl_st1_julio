@@ -1,0 +1,1 @@
+Extend your valuable support to operating system developers in finding the physical address for the given logical address. In the given logical address the first four bits refers the segment number and the remaining bits are offset a) Code_Snippet b) Code_Snippet c) Code_Snippet d) Code_Snippet Code_Snippet.

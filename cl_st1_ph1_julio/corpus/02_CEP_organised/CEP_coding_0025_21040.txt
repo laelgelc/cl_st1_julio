@@ -1,0 +1,1 @@
+Write a Groovy script that checks out a given SVN revision number at [URL] and creates a TAR file containing all modified files from that revision. Use the ysu:tarpath svnprop to determine the destination directory within the TAR file.

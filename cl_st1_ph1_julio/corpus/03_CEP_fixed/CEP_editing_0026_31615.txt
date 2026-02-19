@@ -1,0 +1,8 @@
+[I don't know since when this myth exist but we
+don't have perma bans. All, all logs get deleted after
+they have reached their 3 month lifetime. So as soon
+as a user has no logs they are deemed to
+be able to have 100% successful unban-request. This is decided
+with NG.] Re-phrase this a little. Keep it at that
+formality level and also NG is the owner of the
+server.

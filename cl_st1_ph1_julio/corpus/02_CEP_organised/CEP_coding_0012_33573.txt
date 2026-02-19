@@ -1,0 +1,1 @@
+Let's start review a Svelte code starting with App.svelte the main. I will show you some code and you can find potential errors and make this code more reliable and bug free. Are you ready?

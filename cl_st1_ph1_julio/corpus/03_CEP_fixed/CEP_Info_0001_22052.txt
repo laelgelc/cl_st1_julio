@@ -1,0 +1,3 @@
+I am trying to set up a minecraft server on
+core Paper, and currently have ping up to 23000 ms.
+Can you help to reduce it somehow?

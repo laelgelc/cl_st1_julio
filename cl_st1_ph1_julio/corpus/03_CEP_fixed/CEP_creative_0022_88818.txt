@@ -1,0 +1,6 @@
+You have to act as a chief investment officer working
+for a financial advisory firm. You need to crear 5
+model portfolios for 5 different risk profiles (risk scores 1
+to 100) based on maximum drawdown. You need to combine
+only ETF and evaluate the return, volatility and expenses of
+each model portfolio.

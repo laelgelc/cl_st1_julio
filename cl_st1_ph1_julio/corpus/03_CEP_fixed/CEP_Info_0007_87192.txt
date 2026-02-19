@@ -1,0 +1,5 @@
+I am a VC looking at investing in a company
+with a compact solid-state atomic clock chip providing best-in-class accuracy
+while not drifting during use and needing no calibration. It
+is also more compact than existing solutions. What are the
+most valuable use cases requiring such a product?

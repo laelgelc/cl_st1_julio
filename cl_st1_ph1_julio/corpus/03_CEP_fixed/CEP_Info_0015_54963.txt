@@ -1,0 +1,4 @@
+Generate a list of 20 number sequences for the South
+African Lottery based on the 7 numbers with the highest
+probability of selection based on the last 5 years winning
+number combinations. Please write in English language.

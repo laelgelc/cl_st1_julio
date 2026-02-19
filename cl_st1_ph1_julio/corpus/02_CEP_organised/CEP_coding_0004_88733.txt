@@ -1,0 +1,1 @@
+Implement a proxy server using Http-proxy module, the proxy should be fully transparent, that is it will never add any custom header and it will only act as a middleware, all the outgoing and incoming headers should be forwarded as it is.

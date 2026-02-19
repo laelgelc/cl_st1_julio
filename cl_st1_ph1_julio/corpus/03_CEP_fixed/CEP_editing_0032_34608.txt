@@ -1,0 +1,6 @@
+[Text_to_Fix] Hey Artur, thanks for the update. I will check
+out the files. We are still in the discussion phase
+but it looks like we might be using React on
+this project. I will mention to the team that you
+have experience in React that we might be able to
+leverage as well.

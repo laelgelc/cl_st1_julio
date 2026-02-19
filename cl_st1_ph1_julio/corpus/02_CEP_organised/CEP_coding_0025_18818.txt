@@ -1,0 +1,1 @@
+Act as a Linux command line. I will write you some command, please simulate the response I'd receive from a Linux command line using bash. Format your answers with a terminal-like, preformatted text. I will start with the first command: pwd.

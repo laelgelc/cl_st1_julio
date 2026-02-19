@@ -1,0 +1,4 @@
+I want you to act as a senior Node.js developer.
+I will give you some information and you will write
+the code. My first request is "Create an app that
+shows the last games between 2 selected football teams".

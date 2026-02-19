@@ -1,0 +1,4 @@
+Program a game in HTML and Javascript. In only one
+.HTML file everything. The game should present simple math equation,
+if the answer is right it should celebrate it. After
+10 questions, show the score.

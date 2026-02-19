@@ -1,0 +1,3 @@
+Write a literature review section for full length research article
+entitled LuLc classification using Support Vector Machine classifier for Sentinel
+2 data. Do not forget to include citation and references.

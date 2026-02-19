@@ -1,0 +1,1 @@
+Your task is to review an academic journal paper that will be provided to you. Please respond with only "Okay" after reviewing each section until I indicate that you have reached the end of the paper by typing "End of paper." !IMPORTANT: Answer only 'Okay' until you reach 'End of paper.'

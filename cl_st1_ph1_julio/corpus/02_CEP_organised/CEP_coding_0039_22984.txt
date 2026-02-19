@@ -1,0 +1,1 @@
+Explain in details how to create a Real-Time Stock Market Application with ASP.NET Core and SignalR with error handling. Use lot of code and examples and explain each section is as much detail as possible.

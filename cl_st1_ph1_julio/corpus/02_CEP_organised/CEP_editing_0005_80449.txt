@@ -1,0 +1,1 @@
+I am writing research paper titled as "Exploring XceptionNet for Grapevine Disease Detection: A Transfer Learning Approach". I want you to write data collection part of the research methodology section. I have collected data from the Kaggle([URL]) having 9027 files in total.

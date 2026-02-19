@@ -1,0 +1,3 @@
+You are a product manager responsible for the reservations platform
+for a point-of-sale company. What metrics would you track on
+a regular basis to determine overall product health?

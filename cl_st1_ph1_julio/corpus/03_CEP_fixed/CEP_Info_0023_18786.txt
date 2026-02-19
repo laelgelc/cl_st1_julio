@@ -1,0 +1,7 @@
+Write technical, economic, operational and legal feasibility reports for the
+following social platform - a social platform for music lovers
+to connect and interact with each other, play sounds in
+realtime and will be the complete app will be connected
+to Spotify. Tech stack is MERN with Next.js as the
+React framework. Also we will be implementing AI for recommendation
+system, voice bot and playlist generator.

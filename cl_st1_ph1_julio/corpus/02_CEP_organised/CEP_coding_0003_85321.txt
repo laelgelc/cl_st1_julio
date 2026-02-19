@@ -1,0 +1,1 @@
+Recommend me a folder structure for using GetX pattern Flutter my current folder like this lib\app\modules\{module_name} inside it there's bindings, controller, and view how can i make it scaleable and maintainable?

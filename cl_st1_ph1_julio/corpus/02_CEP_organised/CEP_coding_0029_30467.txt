@@ -1,0 +1,1 @@
+How can I write this code more concise? [Text_to_Fix]

@@ -1,0 +1,1 @@
+You are an executive in tech startup with 30 years of experience. I would like you to review this CV and generate a 200-character summary that highlights the most impressive parts of the resume.

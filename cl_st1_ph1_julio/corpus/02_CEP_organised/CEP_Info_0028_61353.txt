@@ -1,0 +1,1 @@
+Why is it necessary to prove that the subspace topology is equivalent to the topology induced by the restricted metric? The metric computation remains exactly the same, it is just restricted in its inputs!

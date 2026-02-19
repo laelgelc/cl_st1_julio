@@ -1,0 +1,8 @@
+Read the contents of agmchilleddistribution.com. Please provide a summary of
+the industry sector the business operates in and a 30-40
+word summary of the business. In the summary, please refer
+to the business as "you" or "your". Please also include
+the top 4 challenges faced by Managing Directors in businesses
+in their industry in bullet point format. Please respond in
+the format Industry Sector : {industry sector} Summary : {summary}
+Challenges : {challenges}. Please do not include any additional information.

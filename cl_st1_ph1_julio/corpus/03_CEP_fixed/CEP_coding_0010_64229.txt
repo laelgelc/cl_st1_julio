@@ -1,0 +1,6 @@
+Now, I need to do some modification to my data
+grid view. I need to know which row was added
+modified, deleted or unchanged. Then when I get the list
+from data table, I can split them into corresponding list.
+Can I do that by adding a temporary column to
+save state of the rows?

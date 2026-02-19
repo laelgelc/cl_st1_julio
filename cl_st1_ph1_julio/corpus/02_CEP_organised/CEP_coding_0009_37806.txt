@@ -1,0 +1,1 @@
+I want to create a Python script that does the following: - opens a headless browser and logs in to Amazon A to Z - able to set times (+- randomized interval to avoid bot detection)

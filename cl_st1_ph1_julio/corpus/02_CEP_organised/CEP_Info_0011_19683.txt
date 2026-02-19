@@ -1,0 +1,1 @@
+I am loading my tag manager scripts with the 'async' attribute, but they still show up on Page Speed Insights in the 'reduced unused JavaScript' section. Why?

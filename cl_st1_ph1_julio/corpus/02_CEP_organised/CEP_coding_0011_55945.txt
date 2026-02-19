@@ -1,0 +1,1 @@
+In Java, I want to replace string like Code_Snippet with a Map, Code_Snippet, and get a result Code_Snippet. How can I do?

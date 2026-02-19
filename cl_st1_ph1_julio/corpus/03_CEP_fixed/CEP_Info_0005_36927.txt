@@ -1,0 +1,3 @@
+In Scrum, how does your team estimate/size? What techniques or
+tools do they used for estimation, if applicable? How often
+do they estimate? Who participates is estimation?

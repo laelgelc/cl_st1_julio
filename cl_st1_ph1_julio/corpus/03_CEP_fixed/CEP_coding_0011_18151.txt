@@ -1,0 +1,4 @@
+An entity is an object with a key and a
+value. Give me a list of tests that should be
+written for code that assigns a deterministic color to each
+entity based on it's key, with conflict resolution.

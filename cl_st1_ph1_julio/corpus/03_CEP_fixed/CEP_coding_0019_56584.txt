@@ -1,0 +1,7 @@
+I want to make a Who's that Pokemon game with
+a Pokemon API in a Webflow project. It will get
+a random Pokemon and have a styled effect of 0
+brightness so it would appear as a shadow. You have
+to type the name of the Pokemon and when it
+is correct, reveal the Pokemon. Also have a button to
+reset everything and show another shadow of a Pokemon.

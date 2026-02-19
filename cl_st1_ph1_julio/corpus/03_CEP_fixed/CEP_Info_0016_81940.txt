@@ -1,0 +1,4 @@
+I work for a company that does Enterprise-Grade Crypto Tax
+and Transaction Tracking as a devops engineer. What would be
+the best way to position our infrastructure that is aligned
+with near government level requirements.

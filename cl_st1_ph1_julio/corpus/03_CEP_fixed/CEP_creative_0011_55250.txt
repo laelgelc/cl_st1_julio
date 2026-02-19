@@ -1,0 +1,4 @@
+Write a Related Work section contextualizing my paper in the
+area of Physically Informed Neural Networks (PINNs). My paper presents
+an approach to evolve an initial neural implicit surface using
+the level-set equation.

@@ -1,0 +1,1 @@
+Can you create a neural network using the Minkowski engine to take in a set of 3D point clouds and output a binary classification of damage or no damage?

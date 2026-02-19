@@ -1,0 +1,3 @@
+I am going to ask you about the soil resistivity
+measurement method based on IEEE 81, IEEE 80, BS 7430
+and ASTM G57-06. Are you familiar with these standard?

@@ -1,0 +1,1 @@
+Creat a program in Python using BigML API. The program has to load a dataset named diabetes.csv and, using this dataset, has to create a logistic regression model to predict if a patient has diabetes.

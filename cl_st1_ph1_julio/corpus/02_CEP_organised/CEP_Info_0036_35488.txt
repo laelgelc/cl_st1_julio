@@ -1,0 +1,1 @@
+Please explain the following request received from an IT compliance officer from a client. [Text_to_Fix]Functional risk assessment : for each features definition of the GxP risk at list to define the testing strategy (example of risk may be found in the GAMP5)[/Text_to_Fix]. I need to understand what would be the deliverable or evidence expected to be generated from our side.

@@ -1,0 +1,4 @@
+Investigate all aspects and find all the potential target audiences
+for a new AI app that can generate images using
+user descriptions. Create profiles for each group of customers describing
+Age, Gender, Income level, Education, Interests, Behaviour.

@@ -1,0 +1,5 @@
+Write a Python script to download images from URLs which
+are in urls.json file. Urls.json file structure is shown below.
+Download should be in downloads folder beside Python script file.
+Also before URL append "[URL] this URL to download an
+image file.". Urls.json: Code_Snippet.

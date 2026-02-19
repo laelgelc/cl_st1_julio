@@ -1,0 +1,4 @@
+What are 50 jobs that GPT-4 will replace? List as
+a chart in descending order of probability and assign each
+job a number while specifying which human traits will be
+replaced in each case.

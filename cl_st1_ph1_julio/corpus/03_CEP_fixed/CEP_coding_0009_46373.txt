@@ -1,0 +1,4 @@
+When watching a League of Legends replay, when I put
+the camera on a specific player, I want the camera
+to go smoothly to that player regardless of the distance
+it has to travel.

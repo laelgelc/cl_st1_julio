@@ -1,0 +1,4 @@
+I am trying to base64 encode a form value to
+add to a query parameter for my Gatsby website but
+during the build process on Netlify, the error of "btoa
+is not defined"

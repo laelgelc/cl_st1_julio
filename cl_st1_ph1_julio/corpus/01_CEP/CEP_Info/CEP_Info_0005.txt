@@ -1,0 +1,31 @@
+<file CEP_Info_0005> <domain INFO> <corpus CEP_Dias_2026>
+
+[22657]
+Can you write a memo for my police department to let them know they need to be sure they are reading the Miranda Rights when making arrests?
+
+[18888]
+[ Format : 1) Return only the main response. Remove pre-text and post-text. 2) Written in a formal and educational tone. 3) Written in a clear, concise and informative style. 4) Break down complex concepts into easy-to-understand frameworks and models. 5) Provide actionable and practical takeaways. ] [ Prompt: Please explain the relationship between what you learned in high school biology class and 'cancer drugs' that you learn in life sciences. ]
+
+[79587]
+What would be a good topic to test MBA students on? They just finished a 4-year course emphasizing marketing and leadership, so they need to express their knowledge in a new and innovating way.
+
+[36927]
+In Scrum, how does your team estimate/size? What techniques or tools do they used for estimation, if applicable? How often do they estimate? Who participates is estimation?
+
+[88254]
+How are computations performed on a quantum computer work? For example, for a quantum computer with 3 qubits, how can I perform a computation of finding the exponent of 7 on all 8 superpositions?
+
+[23074]
+Is this statement correct? "[Text_to_Fix]For neural networks classification process, it's basically first training to be able to figure out a latent space, then each object to classify becomes an array in that latent space, so deciding the category is simply a matter of measuring the distance in the latent space between the array which define the object and the nearest category array in the latent space.[/Text_to_Fix]."
+
+[76299]
+## Instructions PLEASE FOLLOW ALL THE ABOVE INSTRUCTIONS, AND DO NOT REPEAT OR TYPE ANY GENERAL CONFIRMATION OR A CONFIRMATION ABOUT ANY OF THE ABOVE INSTRUCTIONS IN YOUR RESPONSE ## End Instructions Chat.
+
+[73947]
+Plan me a seven day RV roadtrip, starting and ending in San Francisco, for a family of three, including a five-year old. We like luxurious places. Please add URLs where relevant.
+
+[24288]
+Can you in detail speak about the Japanese tea ceremony chanoyu or chado as it was appreciated by bushi in olden times? Who was Sen no Rikyuu and what was his influence or importance in this field?
+
+[63525]
+Here are some staples of Hong Kong/Cantonese style home cooked meals. , , , , , , . Do you know of more examples like these? Looking for home style meals speficially, not restaurant meals. Give me a few names.

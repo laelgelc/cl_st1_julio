@@ -1,0 +1,3 @@
+Create a Go program which establishes a WireGuard tunnel using
+parameters from flags and launches Nginx with config to proxy
+all traffic through the WireGuard tunnel.

@@ -1,0 +1,2 @@
+Can you write out the assembler for X86 for the
+following code: Code_Snippet.

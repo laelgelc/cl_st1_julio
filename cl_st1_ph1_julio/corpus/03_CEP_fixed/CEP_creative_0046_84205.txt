@@ -1,0 +1,4 @@
+Expand on this: A male twelve-wired bird-of-paradise displaying his vibrant
+yellow plumage and unique long wires to a curious female,
+surrounded by the dense foliage of a Papua New Guinea
+rainforest --ar 16:9 --s 200 --v 5 --q 2.

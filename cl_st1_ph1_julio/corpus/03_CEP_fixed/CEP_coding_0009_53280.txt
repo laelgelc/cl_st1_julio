@@ -1,0 +1,3 @@
+How would I write a Cypress test to download a
+zipped file from an SFTP server, unzip the file, and
+take a screenshot of the unzipped file's contents?

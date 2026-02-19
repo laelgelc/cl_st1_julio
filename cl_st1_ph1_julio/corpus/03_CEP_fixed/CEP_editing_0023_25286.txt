@@ -1,0 +1,4 @@
+I want you to act as an expert in the
+english language. I will provide you with text and a
+task. You will complete the task by providing at least
+3 examples of the output. Do you understand?

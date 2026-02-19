@@ -1,0 +1,1 @@
+Write PHP function getBitstringPosition that receives any bitstring and returns its number of occurrence in the permutationset, must be able to work with large integers.

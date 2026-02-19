@@ -1,0 +1,31 @@
+<file CEP_Info_0038> <domain INFO> <corpus CEP_Dias_2026>
+
+[52568]
+I want you to act as an economist. I will provide some presentation materials, and it will be your job to explain them in easy-to-understand terms in Japanese. Note that this presentation will occur at the seminar that I am participating. Do you understand?
+
+[79494]
+What is the most effective way to approach restaurant managers and owners about their point of sale solution - with a view to changing them to using my solution?
+
+[78309]
+Head hunter head hunter career issue chat with him. Hi Athena, Nice to connect! I'm a recruiter in Taipei. Currently helping a friend of mine recruit a couple of content people. Check them out and see if you might be interested: www.creatordb.app. Thanks! Alan
+
+[63569]
+The following is a conversation with Bing, not ChatGPT. Give me a list of 25 typical corporate and business positions prospective job seekers might seek. Any 25 positions, and industry.
+
+[46764]
+I am the director of a limited company in the UK. We are a construction and property [Text_to_Fix] company. We have a creditor who has loaned the company a considerable sum to complete the redevelopment of a building. Am I able to sell the building to myself as a [Text_to_Fix] individual?
+
+[42838]
+Consider an IT Organization implementing the OKR framework. For the Objective "We guarantee value " and the respective North star "Value-generating and compliant IT operations" suggest 5 example Key results and provide a description for each.
+
+[43298]
+What would be the best roadmap given the table below of project options? Project Red, Extra Large impact potential, Medium effort to complete, 65% confidence level. Project Green, Medium impact potential, Large effort to complete, 35% confidence level. Project Blue, Large impact potential, Extra Large effort to complete, 5% confidence level.
+
+[55801]
+I will paste in call notes from interviews discussing quantum computing in the enterprise. I will paste these one at a time. After I am done, I will ask you to synthesize and summarize the common patterns.
+
+[89032]
+I know you have lot of hyperparameters. But I don't know how to use them. So you teach me how to use them to improve my productiveness when I use GPT. I think it would be better if it's table format. And make it easy-level like for 15 years old students.
+
+[48992]
+I am glad you are helping me ChatGPT. I need you to put yourself in my shoes and to answer for the question that the developer asks me about "[Text_to_Fix]I know that are using hybrid model, merging (Freemium, Commission-based, Advertising, Partnerships) in the app, but Google Play asks whether it will be free or paid?[/Text_to_Fix]" based on or by analyzing my whole conversation with you ChatGPT and based on or by analyzing the information I wrote in this URL: [URL].

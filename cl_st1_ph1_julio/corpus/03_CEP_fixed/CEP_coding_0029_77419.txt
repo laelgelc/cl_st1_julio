@@ -1,0 +1,5 @@
+As a Machine Learning specialist please guide me through the
+process of training MusicLM open source implementation of MusicLM by
+Google. Please go through all the steps including which dataset
+is suitable for making a model for generating soothing music
+for meditation on the basis of user prompts.

@@ -1,0 +1,4 @@
+Please generate a piece of code in Haskell that given
+a list with random number: e.g. Code_Snippet it can map
+each element, do some math operation like add 1, sub
+1, ... and so on.

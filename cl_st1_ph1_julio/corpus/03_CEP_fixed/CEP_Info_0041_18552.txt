@@ -1,0 +1,3 @@
+Based on the book, Database System Concepts, Seven Edition. Abraham
+Silberschatz, Henry F. Korth, and S. Sudarshan McGraw-Hill, Answer the
+following qustion below pnly using that book. Is it clear?

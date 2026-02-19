@@ -1,0 +1,25 @@
+<file CEP_editing_0016> <domain EDITING> <corpus CEP_Dias_2026>
+
+[33926]
+Ok so I have this component and everything is ok except the first div which has the [Text_to_Fix]Backed by more than a year of experience as a developer working on different projects, either as a freelancer, for companies or in personal projects.[/Text_to_Fix]. Even though I am specialized in Frontend (and more specifically in React), I have the necessary knowledge to perform Backend tasks (and even some DevOps).
+
+[62567]
+Hey can you make this sentence more professional? [Text_to_Fix]Human collectable characters are saturated in the gaming industry and I think this kind of direction would be unique. It would attract the western fandom more.[/Text_to_Fix]
+
+[82440]
+I require your assistance to rewrite my article about Contract Variations: A Guide for Homeowners for the persona of a Homeowner in the context of residential construction in Melbourne, AU. The reference article is written for New South Wales. You will need to apply laws and legislations relevant to Melbourne, AU for the rewritten article. For now, just acknowledge my message.
+
+[19680]
+Please polish the English of the following email draft: [Text_to_Fix]Dear GeneBank curators, I am a submitter of GeneBank database and I am writing this email to ask for the release of a WGS submission. The submission number is SUB12255472, and the related accession number is OP310968. The original release time was 2023-03-01. However, one of the reviewers requested we make the genome assembly publicly available before the manuscript was formally accepted. So, please release our genome submission at once.[Text_to_Fix]
+
+[60659]
+Format the following input so that it's in table form: Title: Avatar: The Way of Water Rating: 7.8 Year: 2022 Month: December Certificate: PG-13 Runtime: 192 Directors: James Cameron Stars: Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang Genre: Action, Adventure, Fantasy Filming_location: New Zealand Budget: 350000000 Income: 2267946983 Country_of_origin: United States.
+
+[39754]
+Sorry I did not review this PR because it is too long. I told you many times before. Please break it into small chunks, then share links of PRs again.
+
+[18963]
+[Text_to_Fix]To remember that means to show (in contrast to , to see , or , to be seen ), you can use this mnemonic to remember the form with means show . You are in grade school, and you have SHOW AND TELL but to do that, when the class sees ( ) what you brought, you have to _say_ ( ) what you are showing.[/Text_to_Fix]
+
+[15724]
+I need to respond to a job offer and tell the employer that I want more time to field other offers without offending them. I have drafted a statement and I would like your help.

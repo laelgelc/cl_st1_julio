@@ -1,0 +1,4 @@
+I want to make a new game based on chess,
+but in this game there is a mechanic where you
+can sacrifice a set of pawns to generate a new
+major piece. Can you make the rule set?

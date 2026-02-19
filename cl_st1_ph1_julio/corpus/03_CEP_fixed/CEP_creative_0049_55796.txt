@@ -1,0 +1,5 @@
+Generate a 20 minute outline for a PowerPoint presentation to
+a CEO of a consulting company about Business Intelligence dashboarding
+done for a client, detailing how this added value for
+the client and how this could be done or packaged
+as a service to other potential clients.

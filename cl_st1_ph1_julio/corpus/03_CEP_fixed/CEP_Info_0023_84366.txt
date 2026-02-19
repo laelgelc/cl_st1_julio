@@ -1,0 +1,4 @@
+Hello ChatGPT! Please count the number of characters in the
+following sentence: The quick brown fox jumps over the lazy
+dog. Let me know the total character count when you
+are done.

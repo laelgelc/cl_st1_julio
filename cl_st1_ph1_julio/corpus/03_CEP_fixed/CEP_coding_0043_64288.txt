@@ -1,0 +1,3 @@
+Consider the student relation containing the attributes ID, Dept_name, Credits.
+Write a trigger statement in SQL that does not allow
+inserting students data having Credits more than 10.0.

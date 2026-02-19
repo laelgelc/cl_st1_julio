@@ -1,0 +1,8 @@
+INSTRUCCIONES - Analiza el siguiente BLOQUE DE TEXTO. - Reproduce
+the TEXT BLOCK in SPANISH, exactly as it is, with
+one difference, you are going to use Markdown format to
+highlight in bold the keywords (names of objects, things, or
+the subject of each sentence (the person, place, or thing
+that is performing the action of the sentence)). - BLOQUE
+DE TEXTO: Conoce del Metaverso: Relaci n entre Metaversos y
+Blockchain. Conoce del Metaverso: Relaci n entre Metaversos y Blockchain.

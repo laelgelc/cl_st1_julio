@@ -1,0 +1,4 @@
+There are 40 boys. 7 of them are not Spanish.
+24 of them do not ride bicycles. What is the
+smallest possible number of them that both ride bicycles and
+are Spanish?

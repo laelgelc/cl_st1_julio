@@ -1,0 +1,1 @@
+Can you code me a Python script that will scrape links off each page of a stating url? And then scrape text from each of those links and save into MongoDB?

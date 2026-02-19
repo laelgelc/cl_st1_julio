@@ -1,0 +1,1 @@
+Please explain how to create a macro in Microsoft Excel that will send an email to the address in a cell and avoids compile error of invalid outside procedure.

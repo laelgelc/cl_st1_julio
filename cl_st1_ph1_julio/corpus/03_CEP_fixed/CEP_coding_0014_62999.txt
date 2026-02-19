@@ -1,0 +1,5 @@
+Hi. Can you write some code for me? I want
+to make an encryption/decrypt system that is quite simple. You
+have a key (a number) yo convert each letter of
+the message into a number, add the key, then return
+the letter that matches that key. Using the ASCII table.

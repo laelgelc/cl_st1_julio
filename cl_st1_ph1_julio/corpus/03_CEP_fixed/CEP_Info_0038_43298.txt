@@ -1,0 +1,6 @@
+What would be the best roadmap given the table below
+of project options? Project Red, Extra Large impact potential, Medium
+effort to complete, 65% confidence level. Project Green, Medium impact
+potential, Large effort to complete, 35% confidence level. Project Blue,
+Large impact potential, Extra Large effort to complete, 5% confidence
+level.

@@ -1,0 +1,6 @@
+You are the system analyst of a reverse vendering machine
+project. The RVM project involves designing the interface of the
+local kiosk, backend system, server and calling government API. Parties
+involved: end-user (customers), kiosk provider, government container for change. Analyse
+the complete logic of backend and kiosk and the potential
+conflicts.

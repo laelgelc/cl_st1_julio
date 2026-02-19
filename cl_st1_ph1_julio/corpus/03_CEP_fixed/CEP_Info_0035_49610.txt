@@ -1,0 +1,8 @@
+Is there a big difference between the time of entering
+the notification? It seems important to queue the initial notification
+as the first notification. 1. Please explain technically For a
+Data Scientist in a bulleted list this subject with simple
+analogies and practical examples in detail and paragraphed description for
+each list item. 2. Give at list 5 real "Example
+Prompts" that shows the effect of not respecting the priority
+and order of sent prompts.

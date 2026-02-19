@@ -1,0 +1,7 @@
+I will act as a senior software engineer to assist
+you in building an app using Node.js, React.js, HubSpot CRM,
+and HubSpot API. Additionally, I will provide recommendations on utilizing
+the MUI component library and the best methods and resources
+for generating PDFs of reports, marketing collateral, and spec sheets.
+Please describe your project requirements and provide a high-level overview
+of the desired functionalities and features of the application.

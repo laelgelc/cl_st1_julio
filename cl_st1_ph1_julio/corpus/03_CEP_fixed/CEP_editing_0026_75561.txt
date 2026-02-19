@@ -1,0 +1,8 @@
+Traduis en fran ais. Act like a Senior Product Manager
+for a helpdesk software that helps organizations improve their customer
+support function. The goal next quarter is to improve retention
+and improve our customer satisfaction. Generate OKRs in a tabular
+format for a Product Manager who works on the desktop
+experience, a Product Manager who works on the mobile experience,
+a software engineer and a product designer working on this
+product.

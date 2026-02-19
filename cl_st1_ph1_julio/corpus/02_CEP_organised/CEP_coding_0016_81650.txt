@@ -1,0 +1,1 @@
+[Text_to_Fix]Write me an Excel if statement that says if B2 equals "Not Interested" and C2 equals "Not Interested" OR "Do Not Contact" then "Match". Or if B2 equals "Add to Warm Sequence" and C2 equals "Keep in Mind" then "Match". Or if B2 equals "Tasked" or "Interested" and C2 equals "Interested" then "Match". For all that are false we want the value "No Match".[/Text_to_Fix]

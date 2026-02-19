@@ -1,0 +1,1 @@
+How can I select the first row of an ag-grid in Angular in an NgRx action after the data has been retrieved in an effect?

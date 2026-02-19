@@ -1,0 +1,2 @@
+Could you create json file of nation list with emoji
+flag icon, country name, abbreviation name like this Code_Snippet.

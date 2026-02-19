@@ -1,0 +1,5 @@
+Generate an email to go to all people in Universal
+Plant Services to tell them best practices for dealing with
+phishing emails. Make it slightly humorous so people will read
+to the end, and make sure they feel like they
+learned something valuable by reading the email.

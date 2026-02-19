@@ -1,0 +1,1 @@
+With a bash script, parse the weblog file /var/log/apache/access.log and extract the IPs of the visitors in the order of most accesses in the last 1 minute.

@@ -1,0 +1,1 @@
+Code_Snippet Serverless framework, Python, AWS Lambda, DynamoDB, EventBridge, SQS lambda_handler. Lambda_handler SQS. Autoscaling EC2 Instance-launch Lifecycle Action SQS, lambda_handler 10 SQS. DynamoDB id=AutoScalingGroupName, 10. Serverless.yml.

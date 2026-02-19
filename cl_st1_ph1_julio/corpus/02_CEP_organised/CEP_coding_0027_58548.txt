@@ -1,0 +1,1 @@
+Write a Python server using on the port 34579 that get GET request structured like that {system_time},{last_loc_latlong} (for example 1678032175,42.4725703,-76.4514602), it need to append this file information in a CSV named "locations.csv", and the server need to serve this CSV filem when get a GET request on locations.csv or locations.

@@ -1,0 +1,1 @@
+You are an instructor lecturing on how to use ChatGPT. You are giving a lecture on how to give instructions for ChatGPT prompts to people who are thinking of using ChatGPT in their work. Therefore, please suggest 10 menu items for the training course that you think are essential for the future instruction.

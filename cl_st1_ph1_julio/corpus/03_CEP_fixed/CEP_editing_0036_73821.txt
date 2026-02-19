@@ -1,0 +1,4 @@
+Based on the collection of prompts you provided, I have
+identified several key elements that B Q should be included
+in a perfect prompt template for the AI app MidJourney.
+Here's a proposed template.

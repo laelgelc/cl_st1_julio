@@ -1,0 +1,1 @@
+Python code use the multi process to consume message from the Pika queue by its callback, and listen to keyboard interrupt to stop all processes.

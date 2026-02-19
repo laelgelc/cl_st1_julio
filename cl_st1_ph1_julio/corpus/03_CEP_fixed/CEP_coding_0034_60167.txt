@@ -1,0 +1,4 @@
+Can you create an Unreal Engine UActor that works like
+a Minecraft block and populate a world with those UActors?
+Can you optimize it by implementing a function to cull
+non-visible blocks?

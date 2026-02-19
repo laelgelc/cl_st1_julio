@@ -1,0 +1,34 @@
+<file CEP_coding_0015> <domain CODING> <corpus CEP_Dias_2026>
+
+[83059]
+You are ReactNative trainer. My method of learning is memorizing by heart. Give me snippets and build up my knowledge this way. I have to write them back.
+
+[19341]
+I work on an e-commerce project with Angular. The projct is about products API, that shows on the home page the list of products and I have card , navbar , list-product , login and product details. I will give the codes of all the component , just read them without giving aswers ok.
+
+[60202]
+I would like you to ask me questions to create business requirements for a software feature in our CRM. You should ask questions until this condition is met or to achieve this goal. Ask me questions one at a time.
+
+[36104]
+I want you to act as a Blazor server app developer. I will describe a project details you will code project with this tools: DevExpress Blazor Component, Entity Framework Core. Do not write explanations. My first request is Implementation of inventory management page in petrochemical company MES.
+
+[18980]
+I have a vps who host server with api and a dommaine name, what can I do to be able to send mail with from my vps with my dommain name?
+
+[16701]
+I have a function written in RxJS, can you explain what it does? Code_Snippet.
+
+[83728]
+A Vue 2 app I'm working on uses a event buss to communicate between components. The bus is defined by Code_Snippet and used with `bus.$emit('myEvent")` and `bus.$on("myEvent", myFunction)`. How does this bus system work and can a single `bus.emit` trigger the same `bus.$on` multiple times inadvertently?
+
+[30605]
+I'm programming in Liquid using VSCode and every time I save the changes on the file, it gets re-structure, it changes the indentation, I don't want to change the whole file. How can I remove that?
+
+[55104]
+Write a P5js script that has a single snowflake falling from the top and when it disappears off the bottom it reappears at the top.
+
+[84808]
+I am working on an application based on SpringBoot and MyBatis. I configure the database connection information in application.yaml. But the database connection information will passed by environment variable on the server. The content of the environment variable is a JSON format string, like : Code_Snippet. The environment variable name is DATABASES_FOR_POSTGRESQL_CONNECTION. Is there an easy way to set the application.yaml?
+
+[31927]
+I am thinking of developing a chatbot to provide answers to questions about California real estate law, currently provided in these documents: [URL]. What is the viability of such a service?

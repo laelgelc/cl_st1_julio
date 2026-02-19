@@ -1,0 +1,1 @@
+I have messages in a an AWS SQS DLQ that are base 64 encoded. What is a script I could use to connect to the DLQ, decode from base 64, and pull the results in to a file that is prettified, JSON? I want to make sure the messages stay in the queue, I'd just like to read their current value.

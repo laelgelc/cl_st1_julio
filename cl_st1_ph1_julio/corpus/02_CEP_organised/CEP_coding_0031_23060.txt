@@ -1,0 +1,1 @@
+Use the ssh command with the provided credentials ("Offsec:Offsec") on Kali Linux to access the exercise Windows machine and obtain the flag on the Offsec user's desktop.

@@ -1,0 +1,4 @@
+If I give you a list of 3 d integer
+coordinates, can you tell me in how many different ways
+you can add or subtract 1 from one coordinate in
+the list and get another coordinate in the list?

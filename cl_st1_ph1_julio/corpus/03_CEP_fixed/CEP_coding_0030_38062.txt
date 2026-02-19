@@ -1,0 +1,5 @@
+Can you write me a Terraform script which will deploy
+a new Active Directory environment in AWS with two test
+users, two Windows servers connected to that Active Directory environment
+with the test users as administrators and an RDP connection
+to those Windows servers?

@@ -1,0 +1,4 @@
+In a test made by a human consisting of 40
+questions each having 4 choices (a, b, c, d) give
+the sequence that will give the highest probability of getting
+the most questions correct.

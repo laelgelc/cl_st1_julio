@@ -1,0 +1,6 @@
+I am thinking to create a quick recipe app that
+lets users to pick and choose from a list of
+ingredients and craft their own custom meals. It is similar
+to how Subway or Chipotle work but focuses on healthy
+options and alos allows users to generate a shopping cart
+from their recipes.

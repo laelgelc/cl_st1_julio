@@ -1,0 +1,5 @@
+I have a Python repo that has a script that
+parses my s3 data but it is a lot of
+data to download and run the package locally. How can
+I create a Lambda that can run the script from
+the repo on my s3 data?

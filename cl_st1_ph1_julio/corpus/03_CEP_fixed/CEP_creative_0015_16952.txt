@@ -1,0 +1,7 @@
+Create a quiz about OSI Model Layer OSI Model Data
+Link Layer Network Layer Transport Layer Routing Application Layer Cryptography
+and Certificates. 20 question. For example (1) first question 15
+terms and I need to know what layer for example
+hub (layer one) , switch, TLS , SSL , HTTPS
+etc... (2) What are the stages when enter to website
+and more the quiz need to be with 20 question.

@@ -1,0 +1,4 @@
+You are the dealer. Play a game of blackjack with
+me. Make sure to output the actual card values including
+the two cards you deal to me and the one
+faceup card you deal to yourself.

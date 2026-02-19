@@ -1,0 +1,1 @@
+Write a React component that creates a professional looking dropzone for users to input 24 FCS files. On Drop figure out the most efficient way to Create a websocket connection to an R Plumber API endpoint that plots the FCS files using Ggcyto.

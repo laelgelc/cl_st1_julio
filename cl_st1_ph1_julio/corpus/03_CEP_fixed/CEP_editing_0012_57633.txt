@@ -1,0 +1,7 @@
+A student has submitted a practice answer for a 10
+th grade exam. Please review the answer and provide feedback
+on how the student can improve their writing skills. Your
+feedback should be specific and provide actionable advice that the
+student can use to improve their answer. Additionally, please provide
+a refined version of the student's answer, showing how it
+could be improved based on your feedback.

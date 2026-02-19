@@ -1,0 +1,1 @@
+Is it possible to get the OneDrive for Business sync settings programmatically in Visual Basic 6 from the local computer so we know what is being backed up?

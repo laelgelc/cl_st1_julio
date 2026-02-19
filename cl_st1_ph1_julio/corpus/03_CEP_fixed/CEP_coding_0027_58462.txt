@@ -1,0 +1,6 @@
+Can someone do the following in Pyro? Have a VAE
+as is up to the bottleneck. Then, instead of sampling
+to use the decoder with values, use the weights of
+the decoder to transform the means and variances and then
+observe the transformed means and variances at the end with
+through the images provided at the loss function?

@@ -1,0 +1,7 @@
+I need the Python code to read a set of
+txt documents from a given folder path and compute the
+word frequency of them. I want the output to print
+each word and its frequency listed descending by frequency. I
+also want to have an input parameter to set the
+minimum number of occurence for a word to be kept
+in the result.

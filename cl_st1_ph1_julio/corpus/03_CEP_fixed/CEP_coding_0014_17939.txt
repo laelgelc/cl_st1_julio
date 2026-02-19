@@ -1,0 +1,7 @@
+I want to build a React speech to text beautiful-looking
+app for portfolio. I'm doing this because I don't want
+to purchase premium plan on various speech-to-text softwares. So maybe
+I could build one myself with record and transcribe, save
+notes and records to database features, etc. Help me write
+a API documentation and development plan as well as detailed
+code to implement my goal.

@@ -1,0 +1,4 @@
+You are a senior software developer. How do I create
+a trip planner based on natural language input from the
+user, like I want to visit multiple countries in Europe
+in 2 weeks?

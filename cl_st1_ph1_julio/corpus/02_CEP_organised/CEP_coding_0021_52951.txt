@@ -1,0 +1,1 @@
+I am writing a program in R. I have two columns with the names "id" and "fvc". I want to filter a table when the "id" is equal to "

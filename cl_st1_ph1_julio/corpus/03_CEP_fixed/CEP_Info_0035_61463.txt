@@ -1,0 +1,5 @@
+As a semiconductor distributor, I would like to do inventory
+cause and effect analysis, using SO, PO, inventory, lead time,
+Good Received, and other supplier, customer, market condition to do
+advanced analytics to predict aging inventory risk probability, how to
+do that?

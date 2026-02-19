@@ -1,0 +1,4 @@
+I need the code for a Chrome extension that uses
+manifesto version 3. It needs to include and options page
+as well as an output or response page or modal
+window. Do you understand?

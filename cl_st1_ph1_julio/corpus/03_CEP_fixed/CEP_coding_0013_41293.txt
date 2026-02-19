@@ -1,0 +1,7 @@
+Using Python, make a app that scrapes LoopNet for real
+estate properties, goes through and clicks each listing, and in
+the details page, gathers the spaces available in that listing
+and details about each of the spaces. Save the results
+in a Postgres database. Add a logger so I know
+the progress of the script, and ensure too many requests
+aren't made to the site if there is an error.

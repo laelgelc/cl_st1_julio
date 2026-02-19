@@ -1,0 +1,25 @@
+<file CEP_editing_0017> <domain EDITING> <corpus CEP_Dias_2026>
+
+[82662]
+I require your assistance to rewrite my content about Retention in Construction Contracts for the persona of a homeowner in Melbourne, VIC. I will give you multiple information that you have to consider such as the contents from the top ranking pages, and target keywords. Do you understand?
+
+[33286]
+[Format your response using markdown. Use headings, subheadings, bullet points, and bold to organize the information.] [Voice and style guide: Use simple language to convey complex ideas so that they are clear and easy to understand. Break down complex concepts into easy-to-understand frameworks and models. Provide actionable and practical takeaways.] [Text_to_Fix]Napi esej na t ma : p d msk e.[/Text_to_Fix]
+
+[56675]
+Can you make the following sentence more suitable for impact investing: [Text_to_Fix]
+
+[84067]
+Create a detailed action items lists based on this feedback for an entity relationship diagram for Salesforce: Review all the lookup relationships and mark them as required or optional on the diagram. Update the diagram so that all the objects are in the canvas area. Update the title text on each object card to be a point 10 font. Reorganize Junction objects like relationships to be below the referenced object. Add case relationship to account.
+
+[34898]
+Write and email to Reynaldo and Charlotte, who are part of the tech department at the high school I go to about me asking ChatGPT about what it tought about ChatGPT in the classroom and ask what they think about it. Also include a place where I can link the conversation.
+
+[34178]
+Justin Adair. Build a winning business profile. Why should customers hire you? Explain what makes your business stand out and why you will do a great job. Introduce yourself and your business Minimum 40 characters. Example Introductions. You can mention: Years in business, what you are passionate about, special skills or equipment. Software Development, Web Design, Logo Design, Graphic Design, Social Media Marketing, Marketing Presentation Design, E-commerce Consulting, Mobile Design, Web Hosting, Graphic Design Instruction.
+
+[81741]
+Hi Mr ChatGPT, Christie here. I would like your help to repurpose my "7 Easy Ways to Eat Better Today" blog on social media. What questions do you need answered in order to get started?
+
+[77971]
+I require your assistance to rewrite a service page about Types of Construction Contracts SA for the persona of a Homeowner in the context of residential construction in {Adelaide, AU}. The reference article is written for New South Wales. You will need to apply laws and legislations relevant to {Adelaide , AU} for the rewritten article. For now, just acknowledge my message.

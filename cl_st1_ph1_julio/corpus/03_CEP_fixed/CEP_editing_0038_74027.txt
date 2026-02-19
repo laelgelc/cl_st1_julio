@@ -1,0 +1,8 @@
+I have several medium pieces of text which together create
+a rather long composite text. I want to focus on
+editing the structure of the combined text, before elaborating the
+subsections. I want to have the structure in terms of
+sections, subsections and paragraph headings. Each paragraph should contain a
+one sentence summary of my input text. There are four
+text components which I will give in consecutive prompts. This
+is the first: Code_Snippet.

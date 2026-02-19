@@ -1,0 +1,1 @@
+Suppose you roll three distinguishable fair dice and call the resulting numbers a, b, and c. Define events X = a + b is even, Y = b + c is even, and Z = a + c is even. Prove that these three events are pairwise independent but not mutually independent.

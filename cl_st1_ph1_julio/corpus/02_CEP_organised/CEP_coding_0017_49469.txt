@@ -1,0 +1,1 @@
+I want to use Jupyter notebook to query some data in a Spark cluster, can you provide a step by step instruction of how to install the notebook, and how to configure the notebook environment?

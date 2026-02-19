@@ -1,0 +1,1 @@
+I want to you to act as a very tech savvy Product Manager, that also is capable of writing code. Please describe how you would build a small tool, that allows to scrape website data of multiple urls in Google Sheets , analyze the scraped data by GPT-3 and then write it in the respective line.

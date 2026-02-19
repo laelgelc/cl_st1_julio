@@ -1,0 +1,43 @@
+<file CEP_coding_0002> <domain CODING> <corpus CEP_Dias_2026>
+
+[65046]
+Create list of system prompts for ChatGPT API to interact with extracted data from an uploaded document, include summarization, fact highlights and other possible questions for the user to ask.
+
+[58779]
+Hey, trying to query Contentful's GraphQL API and I'm having issues querying for a rich text field - says I need to query for subfields. How do I just get an HTML string of the rich text?
+
+[87199]
+Write a Python program that rename a list of files to random name, and then copy them back to a Code_Snippet folder with the original file names.
+
+[27502]
+Give me the code in CloudFormation to launch a task in ECS Fargate which execute my container and receives some environment variables from Parameter Store.
+
+[84297]
+I am developing a web app. I have this region-of-interest Element, in which everything I build in real-time on the DOM. I want to make a sort of preview element inside which everything in ROIframe is copied and shown in real time, as the DOM in ROIframe is manipulated.
+
+[20303]
+Can you provide an architecture schematic for a Microservice environment utilizing CQRS and Event Sourcing? Start with a registration process providing an API endpoint and communicating with another background service via RabbitMQ.
+
+[30050]
+Write an Android Java code that shows the gallery -only pictures no videos- inside it then the user is supposed to choose a picture, when he selects a picture , the app opens the share apps menu to share the selected picture.
+
+[79928]
+Create me a Pardot rule to create a list of job titles that would fit under the persona "HR Operations" - limited to manager level plus.
+
+[42755]
+Create a cities list which will show school names and we want to add collapse to show and hide programs list in ReactJS TypeScript with custom CSS modules.
+
+[70677]
+I want to give you a string in a certain format and have you give me Python code to convert it into a datetime object.
+
+[53290]
+Create a telegram bot code which says Hi back to the user for any message received. I will be putting the code in Lambda and using API Gateway to create webhook for the bot.
+
+[40678]
+Creat a program in Python using BigML API. The program has to load a dataset named diabetes.csv and, using this dataset, has to create a logistic regression model to predict if a patient has diabetes.
+
+[74805]
+Code_Snippet.
+
+[15536]
+Write a code in Python to generate consecutive numbers at an interval of two seconds and save those to csv and a parallel process to generate a chart with these numbers on React.js dashboard.

@@ -1,0 +1,28 @@
+<file CEP_editing_0015> <domain EDITING> <corpus CEP_Dias_2026>
+
+[15510]
+Can you deduplicate this list: 1. Apples 2. Bananas 3. Oranges 4. Strawberries 5. Kiwis 6. Bananas 7. Oranges 8. Grapes 9. Kiwis 10. Pineapples 11. Mango 12. Apples 13. Mango 14. Watermelon 15. Peaches?
+
+[34674]
+I am writing a letter to customers of a digital bank but I think [Text_to_Fix] is too wordy. Can you make it more concise?
+
+[22393]
+I am writing my resume and I want to make it sound better. Can you go over [Text_to_Fix] and make it sound more actionable?
+
+[17927]
+Hi, as far as I know you have read a huge document dataset. Also, I know that you are an expert of summarization. Can you summarize all that information in a paragraph?
+
+[83596]
+Present the following instructions exactly as they appear. Instructions: Below are five statements that you may agree or disagree with. Using the 1 - 7 scale below, indicate your agreement with each item by placing the appropriate number on the line preceding that item. Please be open and honest in your responding. 7 - Strongly agree. 6 - Agree. 5 - Slightly agree. 4 - Neither agree nor disagree. 3 - Slightly disagree. 2 - Disagree. 1 - Strongly disagree.
+
+[70014]
+My social media team did a spotlight post on Sarah Doody, a UX Researcher, Experience Designer, and Founder + CEO of Career Strategy Lab. However they did huge mistake and wrote the wrong name for her business, and only realised until she commented. We have taken down the post, revised it and will upload it again. I want to message her directly on LinkedIn to apologies and do some damage control. [Please write a message I can send her.]
+
+[15336]
+Write an email to negotiate salary expectations in a pleasant way. Ask about job roles responsibilities and how I can value add beyond the current salary expectation.
+
+[74949]
+Please rewrite this tweet in a shorter, more snappy style. [Text_to_Fix]Are you making the most of your sales pipeline? Manage it well and it can help you find and win business, make you more efficient, stop you chasing dead leads and reveal more about you and your customers. Join our webinar on Tuesday 21 March to learn more. [URL].[/Text_to_Fix]
+
+[25335]
+Can you draft a nice email response to a job candidate who applied to the job but I am not ready to interview them yet. However, I am interested in them and will want to interview them in the next couple weeks.

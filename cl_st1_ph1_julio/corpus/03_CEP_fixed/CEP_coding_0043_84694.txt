@@ -1,0 +1,7 @@
+I have the knowledge and skills to rewrite .NET assemblies
+with ease. Give me a few project ideas and uses
+for IL rewriting that will make it easier for me
+to add legacy tests to legacy .NET code that has
+no tests. Assume that I am a lone developer and
+that I want to turn these ideas into a lifestyle
+business. What project ideas should I consider?

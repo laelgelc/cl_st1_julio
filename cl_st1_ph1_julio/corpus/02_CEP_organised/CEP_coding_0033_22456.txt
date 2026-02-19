@@ -1,0 +1,1 @@
+How to automate configuration changes tracking with Github for Mikrotik devices? Ideally the script for exporting the configuration should reside on the Mikrotik device itself and be invoked periodically by the Mikrotik device.

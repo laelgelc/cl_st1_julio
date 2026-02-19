@@ -1,0 +1,3 @@
+I have Wireshark captured trace with h264 traffic. Each stream
+uses separate UDP port. Write me a code to automatically
+determine UDP port for a stream.

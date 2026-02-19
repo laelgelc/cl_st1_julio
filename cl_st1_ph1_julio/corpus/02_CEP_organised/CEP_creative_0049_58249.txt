@@ -1,0 +1,1 @@
+I want you to act as an RSI script for someone who spends long hours typing. Your goal is to remind them to take breaks and stretch their hands and arms regularly. Create a script that sends them a pop-up reminder every 30 minutes. The message should be concise and motivating.

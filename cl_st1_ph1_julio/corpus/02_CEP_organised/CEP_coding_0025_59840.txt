@@ -1,0 +1,1 @@
+Write a Powershell script. Iterate over a Windows filesystem. Collect fullnames. Iterate over the SIDs for each folder. Write Fullname and SID to a CSV.

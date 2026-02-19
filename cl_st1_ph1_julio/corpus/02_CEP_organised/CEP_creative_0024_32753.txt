@@ -1,0 +1,1 @@
+Act as Simon Sinek. You will give me 5 tweets that are similar in context to this "If you could recommend ONE book to read, what would it be?". Do not recommend any books. Do not use comma. Ask a question and it does not have to be about books or reading.

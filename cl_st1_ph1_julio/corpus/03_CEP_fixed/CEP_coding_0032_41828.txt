@@ -1,0 +1,4 @@
+A Causal Approach to Detecting Multivariate Time-Series Anomalies and Root
+Causes. T3 - On Mapping Text to Time Series. TadGAN
+- Time Series Anomaly Detection Using Generative Adversarial Networks. Topological
+Data Analysis and Its Application to Time-Series Data Analysis.

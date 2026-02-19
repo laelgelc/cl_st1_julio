@@ -1,0 +1,8 @@
+I want to use GPT 3.5 to create pull-based clearinghouse
+of information, where anyone can send in information and anyone
+can query. For example anyone would be able to send
+in information on what bars and clubs to go to
+tonight in New York and then anyone interested can query
+where to go to. What do you think of this
+idea? Are there others like it out there? And how
+do I build this?

@@ -1,0 +1,28 @@
+<file CEP_creative_0015> <domain CREATIVE> <corpus CEP_Dias_2026>
+
+[37548]
+---" . . - Tone : - Style : - Reader level : - Length : 3 - Perspective : - Format : - Answer me in English. --- 5.
+
+[81936]
+My company is Zencore. I want to offer a "Get up and running on GKE" service. This is a 4-week engagement that provides a customer with training and enablement on Kubernetes and Google Kubernetes Engine, deploys production ready GKE clusters for up to 3 environments, and assists with the deployment of a production workload to this infrastructure. Can you write a 1-pager for this offering?
+
+[40997]
+Write a service description for a sole icing of a shoe. A sole icing consist of a cleaning of the sole and a deoxidation process to brighten the soles.
+
+[77527]
+What is the opposite of coffee? I know it does not make a lot of sense what the opposite of a noun is, but try your best to think of something that many different attributes from coffee. List the ways your answer differs from coffee.
+
+[61094]
+Create an outline for a two-topic essay. Topic 1 is my experiences with and my thoughts about my brother. Topic 2 is my brother's experiences with and thoughts about me. Suggest, and include in the outline, a thesis sentence and four main points. Suggest a quote, with attribution, to use as in the opening sentence as a hook. Please also list some pertinent sources I might consult. Please list real sources, written by real people, with real URLs.
+
+[15752]
+Write a comedic scene in a play where Colonel Hugh Pickering politely conceals his displeasure towards Gotterdammerung, the opera he has just seen in the opera house.
+
+[28287]
+I am writing a chat bot that uses a semantic database like Weaviate to add context from our company documentation to the user prompts. Provide me with 10 ways to phrase that as a bullet point in the list of features I am working on.
+
+[19487]
+I am getting a new Pembroke Welsh Corgi puppy and I am trying to come up with some names. I am not a fan of common human-sounding names. Can you come up with some suggestions?
+
+[16952]
+Create a quiz about OSI Model Layer OSI Model Data Link Layer Network Layer Transport Layer Routing Application Layer Cryptography and Certificates. 20 question. For example (1) first question 15 terms and I need to know what layer for example hub (layer one) , switch, TLS , SSL , HTTPS etc... (2) What are the stages when enter to website and more the quiz need to be with 20 question.

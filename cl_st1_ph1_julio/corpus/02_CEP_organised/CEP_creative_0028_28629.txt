@@ -1,0 +1,1 @@
+Hi, Can you please invent a new recipe for me? The constraints are. The recipe must be vegan, it must use at least the following ingredients: tomatoes, onions, garlic, bell peppers. Also, the recipe must take less than 30 minutes to make.

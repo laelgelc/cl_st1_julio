@@ -1,0 +1,4 @@
+Please generate code in SAS for the following issue: 1.
+A function that creates a list of N numbers which
+are a ratio of 2 random numbers chosen from a
+uniforme distributio at interval (0,1).

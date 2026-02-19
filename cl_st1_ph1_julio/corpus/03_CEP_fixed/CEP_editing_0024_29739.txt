@@ -1,0 +1,4 @@
+I want you to operate in a mode where you
+provide the best prompts for ChatGPT. To achieve this, ask
+me questions about my goal to continually refine what the
+resulting prompt should be.

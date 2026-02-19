@@ -1,0 +1,4 @@
+Consider an IT Organization implementing the OKR framework. For the
+Objective "We guarantee value " and the respective North star
+"Value-generating and compliant IT operations" suggest 5 example Key results
+and provide a description for each.

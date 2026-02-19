@@ -1,0 +1,4 @@
+Can you give me tips on to program a plc
+PLC Course with Motion Control Kinetix Allen Bradle, the PLC
+Allen Bradley Motion Control Rockwell Automation with the most advanced
+features knows on the planet as of right now.

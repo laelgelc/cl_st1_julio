@@ -1,0 +1,31 @@
+<file CEP_coding_0016> <domain CODING> <corpus CEP_Dias_2026>
+
+[31538]
+Instructions: Build a simple todo app in Next.js. I am your hands and eyes. Give me instructions on what to do. Give me a single specific instruction such as "Open terminal".
+
+[81448]
+In my FastAPI code, I am getting error in Pydantic model since the following field profile_processed_at is declared as a string but can sometimes be in datetime format or null or None.
+
+[77395]
+I need to create Django data models code with additional commonly used properties to support an application feature for ordering food with description. "This feature displays the status of any order. The current status is shown in real-time. The screen contains a header that displays the delivery address of the consumer, full name of the user, and a progress bar to track the current order."
+
+[68096]
+I would like to check if string is having preceding slash, if yes, pass if not, then check if has slash, if yes, then fail, if not, then pass. Result should be like this Code_Snippet. Please use PHP to code.
+
+[70497]
+I want a Qemu test environment to run files of this nature: ELF 64-bit LSB executable, ARM aarch64, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux-aarch64.so.1, for GNU/Linux 3.14.0. And I want it to run on Windows QemuShare Prompt.
+
+[83695]
+Convert the pseudo code below into Python code: [If input equals user sliding scroll button in the down direction 2 clicks, Then, output equals move screen coordinates from (x,y) to (x,y-2).]
+
+[83737]
+I am trying to base64 encode a form value to add to a query parameter for my Gatsby website but during the build process on Netlify, the error of "btoa is not defined"
+
+[44122]
+Please write a FHIR API Server in Python using FastAPI with Mangum for Lambda proxy. Include Post methods for Patient, Appointment, and CarePlan endpoints. Use the fhir.resources library to convert incoming JSON to objects. Also use the dependency-injector library for Inversion of Control.
+
+[61681]
+I want you to act as experienced autodidact Renaissance man. Provide me a detailed , effective, practical, research-based which are also innovative, creative and underrated or overlooked programming projects for unsolved problems in STEM which have the highest social impact formatted in a Markdown table. Suggest free resources and engaging ideas for each.
+
+[81650]
+[Text_to_Fix]Write me an Excel if statement that says if B2 equals "Not Interested" and C2 equals "Not Interested" OR "Do Not Contact" then "Match". Or if B2 equals "Add to Warm Sequence" and C2 equals "Keep in Mind" then "Match". Or if B2 equals "Tasked" or "Interested" and C2 equals "Interested" then "Match". For all that are false we want the value "No Match".[/Text_to_Fix]

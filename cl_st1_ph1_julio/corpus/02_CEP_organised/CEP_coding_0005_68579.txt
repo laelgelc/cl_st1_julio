@@ -1,0 +1,1 @@
+Can you code 2 Azure functions: One is a service bus trigger that is a background worker process, and the other checks the status of the background worker process?
