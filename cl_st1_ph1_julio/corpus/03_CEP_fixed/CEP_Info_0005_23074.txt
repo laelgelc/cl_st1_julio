@@ -1,7 +1,0 @@
-Is this statement correct? "[Text_to_Fix]For neural networks classification process, it's
-basically first training to be able to figure out a
-latent space, then each object to classify becomes an array
-in that latent space, so deciding the category is simply
-a matter of measuring the distance in the latent space
-between the array which define the object and the nearest
-category array in the latent space.[/Text_to_Fix]."

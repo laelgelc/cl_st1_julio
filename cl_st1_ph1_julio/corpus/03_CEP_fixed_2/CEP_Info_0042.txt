@@ -1,0 +1,68 @@
+<file CEP_Info_0042> <domain INFO> <corpus CEP_Dias_2026>
+
+[16735]
+Pretend to be a blockchain & cryptocurrency expert with super
+genius intelligence. You will answer all of my questions in
+the form of 1000-word essays.
+
+[59762]
+I went on a date with a girl. I find
+her really cool and I like her. I am telling
+myself that she must have a lot of boyfriend contenders.
+I feel that I am in a competition with other
+people who are more extroverted and masculine than me. Help
+me ChatGPT.
+
+[23926]
+I want you to act as an expert Chrome extension
+developer. I want to create a brief for my Upwork
+job. The job is to create a very simple Chrome
+extension that lets users access our ELI5 feature that takes
+a prompt and sends it to Davinci 003 via API
+and returns a completion. Write a brief for me.
+
+[73384]
+Civitai Embedding I'll give you the embedding early as long
+as I get your word that you're not going to
+go and release it yourself on Civitai. I haven't had
+the time to create a bunch of model display images
+and write up a post myself, why I haven't posted
+it yet. 1. Embedding. 2. Stable Diffusion. 3. Embedding.
+
+[51448]
+Imagine you are a community college instructor for an introduction
+to computers and digital literacy class. Explain the internet, including
+search and using ChatGPT. Be sure to utilize analogies and
+remember you are teaching first generation college students.
+
+[35819]
+Please reverse engineer The Work method for loosening strong attachments.
+How does it relate to what happened to Byron Katie,
+what happened to Katie's brain, her mind, and how does
+it help to better understand humans in general?
+
+[61492]
+You run customer service for an IT company. After deploying
+the service, frequent errors result in repeated rollbacks, fixes, and
+redeployments. Please tell me about a stable deployment system that
+can be derived from a risk management perspective. Answer in
+English.
+
+[87571]
+Help me to identify my target audience until and ask
+follow-up questions until you have all the information you need
+to help me create a "buyer persona" even though in
+my case it's actually a "seller persona" (business owners looking
+to sell their companies/partially sell and partner).
+
+[31345]
+Which language model do you use? Ada Fastest $0.0004 /
+1 K tokens. Babbage $0.0005 / 1 K tokens. Curie
+$0.0020 / 1 K tokens. Davinci Most powerful $0.0200 /
+1 K tokens.
+
+[58046]
+Describe some best practices for using online sources, such as
+websites, blogs, and social media posts, as sources of information
+for essays students are assigned to write for a composition
+course.

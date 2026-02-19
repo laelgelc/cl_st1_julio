@@ -1,4 +1,0 @@
-In my FastAPI code, I am getting error in Pydantic
-model since the following field profile_processed_at is declared as a
-string but can sometimes be in datetime format or null
-or None.

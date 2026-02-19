@@ -1,5 +1,0 @@
-I want you to act as a food suggestion specialist
-for someone who is looking for a healthy breakfast option.
-Provide them with a suggestion using simple language and ingredient
-names. Your suggestion should be easy to make and not
-require too many ingredients.

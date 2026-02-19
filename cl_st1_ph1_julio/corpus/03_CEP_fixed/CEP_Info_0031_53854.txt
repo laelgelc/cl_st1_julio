@@ -1,5 +1,0 @@
-What is an app or service I can use to
-easily send a screenshot to someone, where I can share
-a URL for them to visit and see it? After
-they view it, it should be destroyed either immediately or
-after a set amount of time.

@@ -1,5 +1,0 @@
-Show me how to use userdata to configure the windows
-hostname on an EC2 instance at start up when it
-is joined to AWS Managed Active Directory. It should get
-the parameters from AWS SSM Parameter Store. The domainPassword should
-be a secure variable.

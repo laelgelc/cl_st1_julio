@@ -1,3 +1,0 @@
-Can I add scripts or any automation to Kibana to
-alert me when a certain value that is visible in
-the dashboard exceed a certain amount?

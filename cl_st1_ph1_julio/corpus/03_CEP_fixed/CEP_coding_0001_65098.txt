@@ -1,6 +1,0 @@
-Hi ChatGPT, I am currently building a scrollable form in
-React Native & ReactHookForm. My different questions are wrapped by
-a ScrollView. I would like to ensure that when the
-user answers the first question, his screen automatically scrolls to
-the top of the next question. How can I do
-so?

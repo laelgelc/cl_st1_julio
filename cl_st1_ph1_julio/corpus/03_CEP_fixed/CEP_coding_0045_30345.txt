@@ -1,7 +1,0 @@
-Can you create code for Google Cloud server that uses
-the OpenAI API's? Yes, you can create code that uses
-OpenAI API's on Google Cloud. To use the OpenAI API,
-you will need an API key. Once you have the
-API key, you can use it to call the API
-from your code and integrate the functionality into your application.
-Here's an example in Python to get you started: Code_Snippet.

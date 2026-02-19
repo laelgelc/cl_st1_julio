@@ -1,3 +1,0 @@
-Problem 14 Get the day of month, week number, day
-of year and day of week from ser. Input Code_Snippet.
-Desired output Code_Snippet.

@@ -1,0 +1,31 @@
+<file CEP_coding_0038> <domain CODING> <corpus CEP_Dias_2026>
+
+[70210]
+First, we need a background like this - a square grid of 64 x 64. Use Three.js to create the grid in 3D. Next, we need a character to move on that grid of squares. The character should also be able to move when the grid is moved using the up, down, left, and right arrow keys using Three.js. Put together the above code using Html, Css, and Javascript. Share Prompt.
+
+[56876]
+Write code that can effect a web browser. The code should read text at a particular location and if text equals "Post: 1 thread, X replies" (where X is any character) and mouse click occurs at a particular location.
+
+[46051]
+Firestore rule, Code_Snippet rule Code_Snippet request.auth.token.admin equals true read, write Code_Snippet request.auth.uid equals null, request.auth.uid does not equal null and role equals "member", request.auth.uid does not equal null and role equals "owner", request.auth.token.admin equals true. Create. Role owner.
+
+[38240]
+I want to enable my website to automatically detect which language the user has their browser set to and then display the website text in that language. Please create for me the HTML and JS code required to enable this.
+
+[22047]
+Hello again old friend! Can an AWS Lambda function (triggered by a subscription to a SNS topic) forward it's payload to another Lambda function? We would like to have a single Function to act as a switch that will take a decision and forward the initial payload to one of three other Function.
+
+[48507]
+What they want to say Hi thanks for suggetion. Unfortunately box 1 and 2 stilll gets pushed down when the collapse is expanded. Strange thing is they do not when the viewport is reduced?
+
+[43924]
+Write a Python script which is going to expose data via Thrift. It should use Playwright to parse ChatGPT UI and expose it via API.
+
+[63560]
+Python: add missed Stock Keeping Unit for wlle/wlla ctb dashboard. Code_Snippet.
+
+[55852]
+Can you write me JavaScript code which will add a remove button to every div with a class of mt-3 and search-item, where these remove buttons will remove the div element with the class of mt-3 and search-item from the DOM in which the are a child element of?
+
+[30234]
+I am building a mobile app for runners. The main pain point of the users is to connect the music app (Spotify or Apple Music) to the flow of a person that want to start running. Help me to build the specific user flow of a person that want to run 5 KM but before that I want to connect Spotify to it to hear a podcast while running.

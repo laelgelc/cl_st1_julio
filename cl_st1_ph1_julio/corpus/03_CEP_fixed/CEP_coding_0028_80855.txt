@@ -1,3 +1,0 @@
-So I have a usecase where I want to send
-data from one application Rust to another Python. This would
-data transfer should be in-memory.

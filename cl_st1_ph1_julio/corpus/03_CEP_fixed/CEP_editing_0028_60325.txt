@@ -1,8 +1,0 @@
-Summarize the text below as a bullet point list of
-the most important points. Text: """ How prompt engineering works.
-Due to the way the instruction-following models are trained or
-the data they are trained on, there are specific prompt
-formats that work particularly well and align better with the
-tasks at hand. Below we present a number of prompt
-formats we find work reliably well, but feel free to
-explore different formats, which may fit your task best. """

@@ -1,5 +1,0 @@
-We are building a social investing platform and would like
-to run a survey to gauge people's interest, and motivation
-for investing as well as their confidence and what they
-think about the existing solutions in the market. Can you
-create a 20 question survey for us?

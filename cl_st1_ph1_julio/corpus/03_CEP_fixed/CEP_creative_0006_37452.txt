@@ -1,5 +1,0 @@
-Can you suggest the primary behaviours that a product which
-helps people discover micro SaaS ideas and guides them through
-every stage to take their own micro SaaS product to
-market is intended to influence, and how can we design
-the product to nudge users towards that behavior?

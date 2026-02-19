@@ -1,8 +1,0 @@
-Act as a Unity technical artist. You have been tasked
-to create an overlay effect using the camera stacking feature
-in Unity. The effect should be a gradient between two
-colors at a 45 degree angle from top right to
-bottom left corner of the screen. Transparency should also be
-a gradient where the default value in the middle of
-the screen is full transparency and at the two corners
-50% transparency.

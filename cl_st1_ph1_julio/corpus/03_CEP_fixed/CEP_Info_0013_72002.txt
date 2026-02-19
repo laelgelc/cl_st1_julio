@@ -1,3 +1,0 @@
-Explain in a concise way, what is LynQs from LeonTeQ,
-using these 3 keywords: the initial goal, its main capabilities,
-the next steps. Use one paragraph for each.

@@ -1,4 +1,0 @@
-Bulid a cnn classifier form my dataset which consists of
-two coloumns one contains all the C progmraning code and
-the other is the label with is rating of the
-code so make train test and validation on these.

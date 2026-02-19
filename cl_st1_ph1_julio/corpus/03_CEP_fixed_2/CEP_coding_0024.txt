@@ -1,0 +1,66 @@
+<file CEP_coding_0024> <domain CODING> <corpus CEP_Dias_2026>
+
+[32710]
+I want you to act as a converter of plain
+text into AWS IAM policy statements. Your task is to
+provide the equivalent AWS IAM policy code based on the
+plain text input. Your replies should be formatted in JSON
+and include only the policy code. Do not include any
+comments or explanations.
+
+[70458]
+As a small project for a short NLP course, I
+would like to train a model to classify fanfiction stories.
+What kind of categories would make sense and wouldn't be
+too hard to classify, and how would you approach this,
+in a broad sense? This is expected to be written
+in Python (so please mention helpful libraries).
+
+[29476]
+Write a code using Python to replicate 1 image to
+x number of images equally divided by the categories of
+having images upsized, downsized, rotated to the right, rotated to
+the left, flipped upside down, with low brightness and high
+brightness.
+
+[35639]
+Can you create a neural network using the Minkowski engine
+to take in a set of 3 D point clouds
+and output a binary classification of damage or no damage?
+
+[51892]
+With a bash script, parse the weblog file /var/log/apache/access.log and
+extract the IPs of the visitors in the order of
+most accesses in the last 1 minute.
+
+[72410]
+Chat aggregation of Twitter, Facebook, Twitch and YouTube: How would
+you code an application for a website that can aggregate
+multiple social media chats into one webpage? The webpage would
+enable its user to click on each individual comment and
+reply to the comment through its respective platform of origin.
+
+[69079]
+How to make a root CA in OpenSSL. Add a
+passphrase to the private key. Add how to make a
+new certificate with this ca.
+
+[77597]
+I want to create an app for synchronizing Google calendars
+so you can automatically block slots in one calendar when
+there is an event at that time in another one,
+to prevent double booking. The app should be written in
+Next.js, Node.js, and Typescript. Provide code snippets to implement a
+complete, working solution.
+
+[29679]
+What is the most efficient way to create a web
+frontend for multiple devices a fluid frontend, using break points
+or having an adaptive frontend?
+
+[60670]
+Write a Python script to download images from URLs which
+are in urls.json file. Urls.json file structure is shown below.
+Download should be in downloads folder beside Python script file.
+Also before URL append "[URL] this URL to download an
+image file.". Urls.json: Code_Snippet.

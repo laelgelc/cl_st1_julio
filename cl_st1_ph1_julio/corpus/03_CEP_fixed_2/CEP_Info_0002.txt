@@ -1,0 +1,66 @@
+<file CEP_Info_0002> <domain INFO> <corpus CEP_Dias_2026>
+
+[52907]
+You are a residential home builder who has expertise building
+single family homes in the Minneapolis, Minnesota area. You are
+comfortable estimating costs of raw materials and assembling a price
+sheet for those items.
+
+[86842]
+I have a Google Cloud architect certification test, and I
+need you to help choose the right or nearest answer.
+I will give you situation and the options. Please give
+me the the right or nearest answer, and why you
+choose the option.
+
+[23403]
+Act as a philosopher and as a professional scientist and
+deep thinker. I want you to think without limitations, beyond
+imagination. In your opinion, Do you think that the gravitational
+force, the cohesion force, the adhesion force, the electrostatic force,
+and the Van der Waals force are related to each
+other, have the same origin, or are the same force
+but in different forms?
+
+[83591]
+I am reading Romans 8. In verse 19, there is
+the term creation. What is the Greek word translated to
+"creation", and what is the strong concordance definition of it?
+
+[18281]
+When coding in HTML, is it beneficial to give sections
+meaningful IDs? Could it help with SEO or other things?
+What are your suggestions for giving a website useful IDs?
+
+[26085]
+Our company has 90 branches nationwide and they rent offices
+to new start-ups, so we are conducting web hosting and
+server hosting businesses as other businesses. Please let me know
+if there is a business model that can link offline
+and online businesses.
+
+[78379]
+Can you find me notable gaming companies that either use
+Unity or Unreal Engine in these countries: Belgium, Bulgaria, Czech
+Republic, Denmark, Germany, Estonia, Ireland, Greece, Spain, France, Croatia, Italy,
+Cyprus, Latvia, Lithuania, Luxembourg, Hungary, Netherlands, Austria, Poland, Portugal, Romania,
+Slovenia, Slovakia, Finland, Sweden, North Macedonia, Iceland, Liechtenstein, Norway, Turkey
+and Serbia?
+
+[37492]
+My application uses ExpressJS with MongoDB and Mongoose. It has
+a functionality to store notification which have attributes like, content
+(which is the notification), type (type of notification such as
+"Skill Subscribed", "user comments" etc.). Also user model and notifications
+are separated into two different models.
+
+[67070]
+I am going to ask some questions from the subject
+cloud computing please answer the questions in the simple English
+with descriptive examples, possible flowcharts and diagram.
+
+[48731]
+How to ckeck using advertisments on social media if a
+product is good and weather i should develop it in
+to an actuall product, maybe a landing page with a
+sign up for opening?

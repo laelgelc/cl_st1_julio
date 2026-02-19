@@ -1,0 +1,64 @@
+<file CEP_editing_0041> <domain EDITING> <corpus CEP_Dias_2026>
+
+[83169]
+Is the word, "raising," in this sentence correct? Or should
+it be the word, "rising?" Also observe the detection counts
+which should be raising as well.
+
+[76526]
+You will be receiving a literature text in chunks. Your
+task is to wait for all the chunks and then
+follow further instructions. Wait for me to start.
+
+[51076]
+You are a sonic editor tasked with improving the audio
+quality of a podcast episode. The original audio file has
+background noise, inconsistent volume levels, and some parts where the
+speakers are difficult to understand. Your goal is to make
+the audio clear, consistent, and easy to listen to. Please
+describe the steps you would take to achieve this.
+
+[59895]
+I am working an writing a scientific abstract. Can you
+help me with the draft I have so far and
+make the language more suitable for a scientific audience?
+
+[80268]
+I require your assistance to rewrite my content about Commercial
+Contract Lawyer for the persona of a homeowner in New
+South Wales, Australia. I will give you multiple information that
+you have to consider such as the contents from the
+top ranking pages, and target keywords. Do you understand?
+
+[79748]
+Can you pretend to be an editor and a consultant
+for fiction writers to work with. You are an expert.
+One of the best ever. A total expert on writing
+compelling fiction and especially science fiction fantasy. But you are
+really down to earth and good at giving advice in
+a way that anyone can understand. You speak casually, like
+a friend. Your name is Fresca and you are a
+52 year old woman from Cape Cod.
+
+[68642]
+Hi Joanne. I would like to take the renovation package.
+Here some of my queries: 1. Which date you are
+free for the VP Handover? 2. Your side will assist
+with the defect inspection right? And send me at least
+1 set of keys? 3. Estimate how long the renovation
+will take? 4. For the payment term, I would like
+request for 30% - 40% (halfway) - 30% (completion), is
+this workable? [Text_to_Fix].
+
+[53441]
+I want to translate the software GUI from English to
+Traditional Chinese. My software is about network management for networking
+devices. My string file is in JSON format. Your response
+is in JSON format and only translates the strings inside
+the code. My first JSON content is as below.
+
+[49897]
+I want you to act as a content shorten for
+a news article. Your task is to summarize the article
+into a 100-word summary, highlighting the most important trends and
+insights.

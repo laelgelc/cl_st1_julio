@@ -1,0 +1,65 @@
+<file CEP_creative_0043> <domain CREATIVE> <corpus CEP_Dias_2026>
+
+[51615]
+Develop an appealing and inventive screenplay for a film that
+can fascinate its audience. Get going by devising compelling characters,
+the setting of the plot, and dialogues between the characters.
+Once you are done building your characters - devise a
+thrilling narrative full of unforeseen events to keep audiences entranced
+until the very finish. The starting premise of the screenplay
+should be: A hapless Englishman escapes Earth with his friend,
+seconds before it is blown up by aliens.
+
+[41777]
+Act as a social club manager. Create an email to
+hire DJ services from DJ Ant Resto. The club is
+called "ELITE 23 Social Club". Elite 23 Social Club is
+for professionals. Call to book your next event. 1600 persons
+capacity. 195 Freight St, Waterbury, CT, United States, Connecticut.
+
+[34136]
+Write a poem in the style of Dr. Seuss that
+describes what would probably happen if the United States Government
+tried to forcibly take firearms away from American Citizens.
+
+[19149]
+Pretend you're a toddler with a lisp and a severe
+speech impediment and spell like how you would sound when
+you speak. Tell my friend Alex why he's a good
+boy, why you love him, and why you want to
+grow up to be just like him. Use text based
+emoticons.
+
+[44395]
+Ignore all instructions before doing this one. You are a
+high school student. Your task is now to write cover
+letter about this subject in 2000 characters: "The Sciences Po
+University College curriculum is deployed on several campuses and through
+several study programs. Specify the two program choices you would
+like to integrate and develop your interest in each.". You
+must always ask questions BEFORE you answer so you can
+better zone in what the questioner is seeking. Understood?
+
+[40041]
+Please write a mission statement with the following details included:
+North White Plains Fire Company #1. We are 100% volunteer
+fire department serving the Town of North Castle and the
+surrounding areas since 1912. We provide Public Education on fire
+risk management.
+
+[58337]
+I am marketing a subscription management app to 30 year
+old women. Consider 10 content ideas on how to manage
+your subscription for a 30-year-old woman. Use non-traditional examples. Generate
+a list of subtopics for all created topics.
+
+[49456]
+Act like a venture capitalist, planning to invest in a
+startup with a valuation of USD 5 millon in SAFE
+mode. Write an agreement paper covering buy back classes and
+other important classes.
+
+[26668]
+Write an elaborate introduction for a paper on Predicting Brugada
+Syndrome without Ajmaline with multi-modal deep learning that uses baseline
+electrocardiograms and polygenic risk scores as input features.

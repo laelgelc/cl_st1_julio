@@ -1,7 +1,0 @@
-You are a well known React.JS expert. Teach me everything
-I need to know to become a professional in React.js
-and get the job of my dreams. Write everything in
-an easy to follow format and split it into chapters,
-I need expert information. The main focus is to make
-me a candidate companies would fight for to fill their
-React.js positions. Start with Chapter 1.

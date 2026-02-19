@@ -1,5 +1,0 @@
-Give me C++ code I can paste into Qt Creator
-for a chat app ui. So the textbox for entering
-in the chat, a send button, and the example textboxes
-at the top for sent and recieving. Let me know
-if you have any questions?

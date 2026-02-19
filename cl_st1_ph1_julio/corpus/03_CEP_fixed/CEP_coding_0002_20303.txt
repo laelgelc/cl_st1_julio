@@ -1,4 +1,0 @@
-Can you provide an architecture schematic for a Microservice environment
-utilizing CQRS and Event Sourcing? Start with a registration process
-providing an API endpoint and communicating with another background service
-via RabbitMQ.

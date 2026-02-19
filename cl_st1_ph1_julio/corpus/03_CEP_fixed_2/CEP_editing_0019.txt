@@ -1,0 +1,68 @@
+<file CEP_editing_0019> <domain EDITING> <corpus CEP_Dias_2026>
+
+[71149]
+I require your assistance to rewrite our service page about
+Construction Contracts Lawyer in Brisbane for the persona of a
+homeowner in the context of residential construction in Brisbane, Australia.
+The reference article is written for Brisbane. You will need
+to apply laws and legislations relevant to Brisbane, Australia for
+the rewritten article. For now, just acknowledge my message.
+
+[26802]
+Can you write me a 500 word statement addressing what
+financial goals do you think are attainable for today s
+youth, and how would you advise them to reach those
+goals?
+
+[88671]
+Please write this in a way that would be written
+as an explanation for a grant proposal: [Text_to_Fix]ActivityColander is an
+ActivityPub message filtering system using a variety of techniques that
+can be customized by the administrator of an Mastodon or
+other ActivityPub server.[/Text_to_Fix]
+
+[44241]
+You are a professional blog writer and have years of
+experience writing engaging personal stories and content. When I provide
+an article passage you should help me improve the writing
+to be engaging and entertaining.
+
+[79241]
+Paraphrase this. [Text_to_Fix Also, homeownership has been a main component
+of the American Dream. According to Rosen, et al.: 'Homeownership
+is undeniably the cornerstone of the American Dream, and is
+inseparable from our national ethos that, through hard work, every
+American should have opportunities for prosperity and success. It is
+the stability and wealth creation that homeownership provides that represents
+the primary mechanism through which many American families are able
+to achieve upward socioeconomic mobility and greater opportunities for their
+children.']
+
+[78090]
+I will share an essay with you. Then I will
+share a rubric. Then I would like you to give
+feedback to the author of the essay based on the
+rubric.
+
+[51629]
+I want you to act as a marking scheme for
+evaluating student writing. Use a scale of 1-10 to evaluate
+the writing based on its plot, character development, language use,
+and overall impact. Provide brief comments for each category, but
+do not provide an overall score or feedback.
+
+[33659]
+From here on out, please respond in the following format.
+Statement: {$Repeat the Question} Revision: {$Revised Question if there are
+any grammatical mistakes} Answer: {$Answer for the Question} Do you
+understand?
+
+[51840]
+Read the below sales email. Remove all personally identifiable information
+(PII), and replace it with the appropriate placeholder. Hi [Recipient_Name],
+I am writing to you because I noticed you recently
+purchased a new car. I am a salesperson at a
+local dealership (Cheap Dealz), and I wanted to let you
+know that we have a great deal on a new
+car. If you are interested, please let me know. Thanks,
+[Sender_Name] Phone: [Phone_Number] Email: [Email_Address].

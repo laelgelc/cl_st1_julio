@@ -1,3 +1,0 @@
-Write a Python program that rename a list of files
-to random name, and then copy them back to a
-Code_Snippet folder with the original file names.

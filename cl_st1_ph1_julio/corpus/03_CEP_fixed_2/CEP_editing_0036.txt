@@ -1,0 +1,68 @@
+<file CEP_editing_0036> <domain EDITING> <corpus CEP_Dias_2026>
+
+[23670]
+Act as a professional language editor for scientific papers. I
+will provide a draft for introduction, and you will rewrite
+it in the style of the specific journal Science. After
+each rewriting, I want you to clearly explain any revisions
+you made.
+
+[54334]
+Rewrite the following for a formal report [The Clubhouse currently
+is connected with the local school district and college to
+assist in getting members involved in education but does not
+provide any in Clubhouse education opportunities].
+
+[72140]
+What can I adjust on this blade file? Please provide
+me a table format showing current code new code and
+the justificaiton for the change Demographic Information.
+
+[72771]
+[Text_to_Fix]I needed a break from Abu Dhabi's hectic pace, so
+I moved to the quieter town of Bu Tina. Having
+so many parks in the region has been great for
+me and my friends to get out and about. The
+decision to relocate to Bu Tina was the best one
+I could have made.[/Text_to_Fix]
+
+[45426]
+I need to create a one page agreement for Vendors
+renting office space from D&H similiar to the following example
+but needs to be drafted as Vendors renting from D&H.
+Include additional provison for standard protection of D&H. I need
+to create a one page agreement for Vendors renting office
+space from D&H similiar to the following example but needs
+to be drafted as Vendors renting from D&H. Include additional
+provison for standard protection of D&H.
+
+[21950]
+Summarize in one sentence the following text as the page
+title on homepage. Do you want to empower your wealth
+mindset? Helping individuals and businesses turn into wealthy Doers. Hey,
+I'm Vlastimil. I do SEO for financial services to get
+more sales. I'm also Creator, Author and YouTuber. Believe and
+Act equals Prosper.
+
+[73821]
+Based on the collection of prompts you provided, I have
+identified several key elements that B Q should be included
+in a perfect prompt template for the AI app MidJourney.
+Here's a proposed template.
+
+[49788]
+[Text_to_Fix]The ChatGPT system actually remembers what you said in a
+previous conversation, now be aware that this is the conversation
+thread you are currently having, if you strike up a
+brand new conversation tread, that will not be remembered, just
+the current one that you are in.[/Text_to_Fix] Could you simplyfy
+this in very simple language?
+
+[60132]
+Can you correct following sentenses? [Text_to_Fix]Tell us about a film
+or TV series you watched recently. What was it about?
+What was good about it? I reacently watched about six
+sences. This fill is about how your life will change
+if you lose your sense gradually. I' m not kind
+of the person who likes slow-paced movie. But I watched
+it without any break.[Text_to_Fix]

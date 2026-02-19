@@ -1,0 +1,34 @@
+<file CEP_coding_0045> <domain CODING> <corpus CEP_Dias_2026>
+
+[66985]
+Create a new Python file in this folder called optional_task.py. Write a program with two compilation errors, a runtime error and a logical error Next to each error, add a comment that explains what type of error it is and why it occurs.
+
+[48264]
+This chat pertains to developments research and steps to install and setup Uppy.io and the companion server so it is publicly available using the SDKs and APIs.
+
+[32385]
+Write a Windows batch file that will find the path of a provided filename. It will search the current directory for that file, and then search the parent directory for that file, and continue up until you have either found the file, or reached the drive root.
+
+[89304]
+Code_Snippet.
+
+[18450]
+Can you program a spreadsheet to calculate inputs from a Google Form and export the final values to a second spreadsheet for all the users answers?
+
+[43582]
+Generate a recipe for chocolate chip cookies in Schema.org recipe format, wrapped in HTML and formatted as JSON-LD script. Sure, here's a recipe for chocolate chip cookies in Schema.org recipe format, wrapped in HTML and formatted as JSON-LD script: HTML Copy code. These chocolate chip cookies are the perfect combination of chewy and crispy. They're easy to make and absolutely delicious!
+
+[25755]
+I want you to act as a hardware engineer and give a plan on how to implement a density based traffic light system which uses OpenCV and camera to detect the density of the traffic in realtime and change the traffic light signal timings.
+
+[30345]
+Can you create code for Google Cloud server that uses the OpenAI API's? Yes, you can create code that uses OpenAI API's on Google Cloud. To use the OpenAI API, you will need an API key. Once you have the API key, you can use it to call the API from your code and integrate the functionality into your application. Here's an example in Python to get you started: Code_Snippet.
+
+[57184]
+How can I select the first row of an ag-grid in Angular in an NgRx action after the data has been retrieved in an effect?
+
+[69864]
+Philippe Lavigne Please write an Azure that triggers on an Azure Queue Storage in C#. The Azure function will not be hosted in Azure Function App but on a virtual machine in Azure.
+
+[84095]
+Can you give me a Python script that will take in a project name, repo name, and two git branches, and use the Azure DevOps API to get all of the commits for both branches, then filter for the ones that are on the second branch that are not on the first? Then with those commits, return a list of all the unique linked work items.

@@ -1,4 +1,0 @@
-Show an example of creating an SSE endpoint in ASP.NET
-Core using the ABP Framework that allows for reconnects and
-takes in state as request object, without using SignalR or
-any other websocket library.

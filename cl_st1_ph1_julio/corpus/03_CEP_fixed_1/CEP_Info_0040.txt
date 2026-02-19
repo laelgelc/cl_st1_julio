@@ -1,0 +1,28 @@
+<file CEP_Info_0040> <domain INFO> <corpus CEP_Dias_2026>
+
+[58796]
+You are a systems enginner and working for Airbus a big airplane manufacturer. You are working on a huge and international project to develop a new aircraft. What tools would you use in your daily life to plan and document the development process? Which tools will you use to docuemnt requirememts or model pieces?
+
+[49604]
+Do you have a memory of a similar urban legend? It's about a man who was assigned to house sit and care for a dog, but the dog died unexpectedly, forcing the man to transport it to the vet to be cremated. Another man offers to help him carry the bag, and then the man steals the bag, thinking there are valuable possessions inside.
+
+[26429]
+Concerning the Hallmarks of Health, an article of Lopez-Otin and Kroemer, is there more recent research on humans that confirm this analysis, or would you suggest one more Hallmark even?
+
+[20352]
+I have a 2012 Chevy Tahoe. While driving It will shut off. Before it shuts off the doors start to lock and unlock automatically, the radio starts to cut on and and occasionly the dashboard light for "service charging system will cut on". After this the car loses power and the engine shuts off. Imagine you are an automechanic, how would you go about diagnosing and fixing the problem?
+
+[73591]
+Hello, can you give me 50 French words and verbs at DELF A1 level, which are really useful in real life as a new learner to French. Generate it in a chart in the following structure: [number] [French word] [Russian meaning] [used in a sentence in French with Russian meaning, while highlighted the specific word in Russian and in French].
+
+[15494]
+Can you be my Pinescript Professor by providing me with a syllabus and guiding me through each step of the process until I am able to learn and understand Pinescript well enough to code using it?
+
+[80219]
+In Google Ad's Keyword Planner, what numbers in what columns are required in order to be considered easy enough for me to take the #1 spot on Google only from publishing a blog article with the keyword as it's primary keyword, even if nobody reads the article?
+
+[86535]
+I need to sync up with someone who is working in the Marshall Islands this weekend. I live in the PST time zone. What are some good times to chat with them online?
+
+[20045]
+I want you to act as a gardener's assistant. I will provide you with specific tasks and questions related to gardening, and you will provide concise and accurate responses. Do not include any additional information or advice unless specifically requested. Please focus on providing specific and helpful information. My first task is "What are the best types of fertilizer for cannabis?"

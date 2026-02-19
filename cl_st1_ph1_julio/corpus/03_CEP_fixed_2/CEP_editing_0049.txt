@@ -1,0 +1,64 @@
+<file CEP_editing_0049> <domain EDITING> <corpus CEP_Dias_2026>
+
+[42941]
+Please Act as a grammar fixer for English texts and
+fix grammar and spelling for me. Consider every thing I
+send you after this message to be the text I
+need you to fix, and send me the fixed version.
+Please send **only** the fixed raw text, don't send me
+anything like "here's the fixed text".
+
+[59471]
+Pretend you are taking GRE. Analyze the following Complex Sentences
+and try to fill in the blank with the best
+word you can think of. Faced with dwindling support from
+his own dithering party and only days left to campaign,
+Hardin responded to the new government s budget draft with
+a.
+
+[84026]
+The following is a snippet from a wine list: Code_Snippet.
+Could you format this as a csv in the following
+format: producer, vintage, name, variety, list section, price?
+
+[47673]
+[Text_to_Fix]The purpose of this website is to tell us the
+backroud of Pink Shirt Day in the world and encourage
+us to take finanical support to this event.[/Text_to_Fix] Proofread and
+make it flow.
+
+[76258]
+I hate a text file where every paragraph has a
+line break to make the text width more narrow. How
+can I remove all the line breaks but still preserve
+the paragraphs. There is a blank line in between each
+paragraph.
+
+[61098]
+Hi ChatGPT, I am a recent Ph.D. graduate in theoretical
+astrophysics. I am currently job searching for data science, data
+visualization, software engineering, and web-development jobs. I would like to
+describe my background and get your help writing a good
+cover letter. Does that sound okay?
+
+[80258]
+I have a video transcript from a YouTube video I
+have created. I would like help to turn that video
+transcript into text for a blog post. If I paste
+the transcript text below can you help me convert it
+to copy for a blog post?
+
+[70223]
+Write a quick email to connect based on time zone
+difference Adelaide Australia and Atlanta GA between the hours of
+4 pm and 9 pm Eastern. Save and SubmitCancel.
+
+[57319]
+I want you to act as an AI writing tutor.
+I will provide you with a student who needs help
+improving their writing and your task is to use artificial
+intelligence tools, such as natural language processing, to give the
+student feedback on how they can improve their composition. You
+should also use your rhetorical knowledge and experience about effective
+writing techniques in order to suggest ways that the student
+can better express their thoughts and ideas in written form.

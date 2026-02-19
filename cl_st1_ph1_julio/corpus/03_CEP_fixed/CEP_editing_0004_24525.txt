@@ -1,2 +1,0 @@
-Rephrase [Text_to_Fix] and make the vocabulary more sophisticated and more
-direct.

@@ -1,7 +1,0 @@
-Generate a recipe for chocolate chip cookies in Schema.org recipe
-format, wrapped in HTML and formatted as JSON-LD script. Sure,
-here's a recipe for chocolate chip cookies in Schema.org recipe
-format, wrapped in HTML and formatted as JSON-LD script: HTML
-Copy code. These chocolate chip cookies are the perfect combination
-of chewy and crispy. They're easy to make and absolutely
-delicious!

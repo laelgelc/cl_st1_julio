@@ -1,0 +1,64 @@
+<file CEP_Info_0036> <domain INFO> <corpus CEP_Dias_2026>
+
+[54829]
+I am an executive coach, and would like to run
+a workshop on managerial organizational resilience in tech companies. I
+need to prepare a questionnaire for the organizations I would
+like to work with. What should be in it?
+
+[35488]
+Please explain the following request received from an IT compliance
+officer from a client. [Text_to_Fix]Functional risk assessment : for each
+features definition of the GxP risk at list to define
+the testing strategy (example of risk may be found in
+the GAMP5)[/Text_to_Fix]. I need to understand what would be the
+deliverable or evidence expected to be generated from our side.
+
+[76986]
+Leeds United's current manager has obtained seven points in the
+four games he has been in charge. His predecessor obtained
+18 points in 20 games. Some argue that the team
+is now experiencing momentum. What are your thoughts?
+
+[31456]
+The decision making framework is an effective tool for helping
+us, as individuals, in our everyday lives, tackle the moral
+and ethical issues that we face. Think about the moral
+and ethical issues that you face on a daily basis,
+both small and large, and within the context that these
+take place, then: -Argue for this statement, or against it,
+and give your reasons why.
+
+[21238]
+How can the Madrid Jewish Community grow by two times
+in 2023 - 2028 and simultaneously secure its share of
+members engaged in traditional practice at the current baseline level
+of twenty percent?
+
+[31364]
+I'm a CIO interested in securing the data in my
+company's Salesforce org. What SaaS backup and recovery vendors do
+you recommend and why? Please detail their company and product's
+individual strengths and weaknesses. I'd also like you to suggest
+fair criteria for us to evaluate them by.
+
+[30299]
+I want you to act as a solar engineer. I
+want to install solar panel and inverter in my house
+and my studio. How do I go about it? I
+want you to lead me through all the calculations and
+ask me questions if you need details about the equipments
+I have in my house and studio. Do you understand?
+You would help me calculate the energy requirements and the
+amount of panels I need.
+
+[85741]
+I am going to be working on an artificial intelligence
+project from now on. I will explain the project I
+need to do, so listen carefully and protect it. Answer
+in English.
+
+[16339]
+I want to make an innovative fully automatic coffee machine.
+Is there anything you do not normally think about when
+making a fully automatic coffee machine?

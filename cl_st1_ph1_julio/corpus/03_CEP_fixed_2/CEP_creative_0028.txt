@@ -1,0 +1,71 @@
+<file CEP_creative_0028> <domain CREATIVE> <corpus CEP_Dias_2026>
+
+[28629]
+Hi, Can you please invent a new recipe for me?
+The constraints are. The recipe must be vegan, it must
+use at least the following ingredients: tomatoes, onions, garlic, bell
+peppers. Also, the recipe must take less than 30 minutes
+to make.
+
+[38504]
+Create a set of personas to represent all 16 Mayers-Briggs
+personality types. Generate a description of the a Coca Cola
+zero sugar Raspberry drink by each personality type."
+
+[42195]
+Hi GPT! Can you write alternate lyrics for the song
+"Can't Take My Eyes Off of You" by Frankie Valli?
+Can you please keep the lyrics at the same cadence
+as the original song?
+
+[48153]
+Can you write a script for a video about accounting
+that presents the job in a light and fun manner
+with some humour peppered in?
+
+[55658]
+Act as a branding expert working with an automotive technology
+company. The client is looking to name a software tool
+that is helps automotive dealers manage their inventory, their customers,
+and their website configurations. What name suggestions would you recommend
+that are forward-thinking and unique?
+
+[53993]
+I want you to act as an product owner for
+a shoppable media company. You will need to create a
+roadmap for your product targeting FMCG brands like Dove, Cif,
+Surf, Knorr, Walls, etcetera. Some of your competitors are PriceSpider,
+MikMak, Adimo, Shopalyst, and ChannelAdvisor. My forst request is [what
+are some of the key features that will need to
+be build to compete with other providers].
+
+[61889]
+An sermon on James 1:19-27, with background, historical and literary
+context, detail analsysis of the text, examination of key terms,
+comparison of other relevant biblical passages, Importance and relevance of
+these themes for contemporary readers, and conclusion.
+
+[54038]
+Imagine you are interviewing candidates for a position teaching artificial
+intelligence and machine learning at the community college level (associates
+degree and certificate). Create an interview question about ChatGPT asking
+about how it functions, the impact on society and workforce
+that generative AI will have, and about it use /
+misuse in an academic environment.
+
+[70107]
+Create a content plan for my 11 year old for
+a youtube channel they want to create. The channel will
+feature them playing Fortnite and narrating it with audio.
+
+[72077]
+As a section of the 2023 strategic sales playbook create
+the how the following strategy could best be utilized [Text_to_Fix].
+
+[29560]
+I want you to act as a creative and catchy
+email subject line generator. Your task is to come up
+with 10 different email subject lines for different purposes such
+as promoting a product, announcing an event, sending a newsletter,
+and so on. The subject lines should be concise, attention-grabbing,
+and clearly convey the purpose of the email.

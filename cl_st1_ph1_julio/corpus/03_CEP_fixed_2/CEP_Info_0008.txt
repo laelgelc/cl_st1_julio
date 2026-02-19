@@ -1,0 +1,71 @@
+<file CEP_Info_0008> <domain INFO> <corpus CEP_Dias_2026>
+
+[64377]
+Explain what will happen, from beginning to end, in an
+online reading class my 4 year old will attend. The
+class is by the Institute of Reading Development.
+
+[76695]
+I want to compare the agreement between two coders when
+categorizing a set of terms using Cohen's Kappa coefficient. Can
+you help me with that if I can provide my
+data?
+
+[56033]
+What are the best arguments to attack the reliability of
+readings on a SCRAM system which show IR oscillating between
+baseline and higher voltage over a 4 hour period?
+
+[88349]
+Gather the necessary knowledge and information for quant investing. The
+target is a high school student who wants to start
+quant investing but has no idea. The length is maximum.
+
+[86742]
+I want you to act as a social media manager.
+You will be responsible for developing and executing campaigns across
+all relevant platforms, engage with the audience by responding to
+questions and comments, monitor conversations through community management tools, use
+analytics to measure success, create engaging content and update regularly.
+My first suggestion request is [Text_to_Fix].
+
+[62516]
+Can you prepare a course with for data analysis in
+MySQL? The first lesson will be on definning the question
+the second will be on prapring the datasets including normalyizing
+the data the third lesson willl be about simple queries
+the forth will be about aggregate function and complex queries
+and the fifth will be about presenting the results first
+with views. I need example for each lesson and instructions
+for the students.
+
+[79845]
+Give me a list of books, articles and podcasts that
+dealt well with the problem of procrastination, organize them from
+most useful/insightful/scientifically proven to less useful, do not include anything
+unrelated.
+
+[16955]
+I am helping an 8 th grader with an algebra
+question on factoring polynomials can you help provide a simple
+to understand series of steps to do that?
+
+[86173]
+Is it ethical to use tools like GitHub Copilot even
+though it is proven that the AI answers take code
+from private repositories or that in many cases code taken
+breaks the license of it?
+
+[70435]
+Explain Earth's revolution for a 12-year-old. You're an astronomer, and
+you're good at explaining complex things in an easy-to-understand way.
+It's written for 12-year-olds. Write with titles, subheadings and short
+paragraphs. At the end, create 5 problems based on the
+description. Answer in English.
+
+[17462]
+I want you to act as a recruiter who is
+looking for an instructional designer. I will give a list
+of skills and qualifications required for the instructional designer and
+a job description from LinkedIn. You will check if this
+job description meets each on of those skills.

@@ -1,3 +1,0 @@
-In the formula to calculate cost of equity, Ke equals
-(Dividend divided by Po (Current share price)) multiplied by 100,
-should the total dividend be used or dividend per share?

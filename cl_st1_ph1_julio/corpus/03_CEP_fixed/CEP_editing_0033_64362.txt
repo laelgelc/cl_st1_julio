@@ -1,6 +1,0 @@
-Rewrite these bulletpoints to be more exciting. [Text_to_Fix] - Learn
-what you'll need to get your app ready to adopt
-the New Architecture, and why you'd want to. - Walk
-through how the Turbo Modules, Fabric, and Codegen work together
-to enable new features, including React 18. - Practice solving
-common problems when upgrading your app or module. [/Text_to_Fix]

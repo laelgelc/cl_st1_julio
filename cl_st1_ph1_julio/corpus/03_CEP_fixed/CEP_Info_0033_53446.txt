@@ -1,4 +1,0 @@
-How did the Germans generate random Enigma configurations during the
-Second World War? Generating random data is a difficult problem
-and it would be essential for the security of the
-Enigma machine.

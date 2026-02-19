@@ -1,6 +1,0 @@
-Imagine I have a online service deployed on AWS which
-receives client requests, however I don't want to immediately process
-these request because for each these requests we need to
-have some manual verification process to verify the request validity.
-In this case what technology stacks are available to achieve
-such goal?

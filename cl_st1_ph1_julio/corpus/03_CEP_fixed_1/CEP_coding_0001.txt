@@ -1,0 +1,34 @@
+<file CEP_coding_0001> <domain CODING> <corpus CEP_Dias_2026>
+
+[88170]
+I have a dataset with dates as columns and rows containing city and number of outward flights on that particular date given in the corresponding column. How can I plot this information in map?
+
+[20624]
+Write a short JIRA issue description about this, mentioning it should be a flow diagram with information about the endpoints concerned. Document how we implemented authentication with Identity Server with a diagram.
+
+[33356]
+What does this method do? Code_Snippet.
+
+[25866]
+Please generate code in SAS for the following issue: 1. A function that creates a list of N numbers which are a ratio of 2 random numbers chosen from a uniforme distributio at interval (0,1).
+
+[27016]
+In Rails how do I fix the problem? #0 139.8 Downloading debug-1.7.1 revealed dependencies not in the API or the lockfile #0 139.8 (irb (>= 1.5.0), reline (>= 0.3.1)). #0 139.8 Either installing with `--full-index` or running `bundle update debug` should #0 139.8 fix the problem.
+
+[31517]
+Create html for showing urls in clickable links. The clickable links should be shown when inputing a racecode in a input and click enter. When clicking enter, the code should call an API called /API/FetchRikstotoUrlList where the json below is the result. Display the result as clickable links ["[URL]".
+
+[57746]
+I have a data set with country, rank, search_popularity and impression_share. Country is a nominal variable, rank and search_popularity is ordinal variable. And impression_share is ratio variable which between 0-100%. Please design a model which can use country, rank, search_popularity to predict impression_share.
+
+[43395]
+I want to build a simple way to upload panorama images to my web server, so I can then view them with an online viewer I coded. What is the best way to go about it? I do not want anybody to be able to upload files to my server, so I need some kind of username and password.
+
+[55877]
+I am trying to ask you to help me write some code based on an svg. However, whenever I paste the code snippet that we need to work with, I get an error that the question is too long. How can we work around this?
+
+[16910]
+Write me a function that returns the ending index of the character of a string if there is a sequence of 14 unique characters in Java.
+
+[65098]
+Hi ChatGPT, I am currently building a scrollable form in React Native & ReactHookForm. My different questions are wrapped by a ScrollView. I would like to ensure that when the user answers the first question, his screen automatically scrolls to the top of the next question. How can I do so?

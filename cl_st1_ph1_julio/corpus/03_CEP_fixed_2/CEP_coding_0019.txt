@@ -1,0 +1,67 @@
+<file CEP_coding_0019> <domain CODING> <corpus CEP_Dias_2026>
+
+[53895]
+Please give me Python code that takes a large string,
+and returns a substring of undefined length using a character
+as a delimiter that appears multiple times.
+
+[85710]
+You will get a task. Please solve it and write
+the answer in a text field OR ZIP or RAR
+the code of the project and upload it, also you
+can upload only file with all required code of the
+task.
+
+[56516]
+Code_Snippet. Code_Snippet. The patient is a 93-year-old female with a
+medical history of chronic right hip pain,[Text_to_Fix]osteoporosis,[Text_to_Fix]hypertension [Text_to_Fix]depression,[Text_to_Fix]and chronic atrial[Text_to_Fix]fibrillation[Text_to_Fix]
+admitted for evaluation and management[Text_to_Fix]of[Text_to_Fix] severe nausea and vomiting and
+urinary tract[Text_to_Fix]infection[Text_to_Fix]. Code_Snippet. Code_Snippet. Code_Snippet. Code_Snippet. Code_Snippet.
+
+[32038]
+I am writing JS with React and I have a
+part that is not showing. I used Code_Snippet and the
+component is not showing.
+
+[56584]
+I want to make a Who's that Pokemon game with
+a Pokemon API in a Webflow project. It will get
+a random Pokemon and have a styled effect of 0
+brightness so it would appear as a shadow. You have
+to type the name of the Pokemon and when it
+is correct, reveal the Pokemon. Also have a button to
+reset everything and show another shadow of a Pokemon.
+
+[61974]
+I am making a chatbot that can answer questions after
+embedding a PDF through the GPT API. The purpose is
+to improve the performance of the embedded model. How can
+I fine-tune tables and images? Answer in English.
+
+[50331]
+Please invent a cryptographic hash function using a Merkle-Damgard scheme.
+This function will not be used for any security implementations,
+but it is desirable that it has at least some
+properties of a cryptographic hash function. Write its implementation in
+C language. It shouldn't be one of the existing crytographic
+hash functions.
+
+[68967]
+Hi there! Can you write a Python script that will
+read a VTT caption file, identify any gaps larger than
+2.5 seconds between caption frames, then using the end and
+start times create another VTT caption file?
+
+[86148]
+I want you to act as an expert system design
+architect. I will provide some specific information about a system's
+build specification, and it will be your job to create
+diagram in Mermaid.js in markdown that visually represent it. You
+will solely provide the information and no explanations. My first
+request is "show diagram for ExpressJS REST API code grant
+flow".
+
+[50376]
+What is stationarity of a time series, how is it
+used for mean reversion trading strategies along with statistical tests,
+their mathematical equation and related Python code?

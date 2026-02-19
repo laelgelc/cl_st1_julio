@@ -1,4 +1,0 @@
-I am going to give you persona information and I
-want you to present all the details and points it
-in a clear and well formated detailed table like this
-example: Category Information Person John Title Warehouse Manager.

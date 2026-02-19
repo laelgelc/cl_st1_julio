@@ -1,5 +1,0 @@
-Explain Develop, implement, and support complex API and EDI integrations
-for freight-forwarding applications that service air, ocean, customs brokerage, and
-logistics. Collaborate with Product Owners on technical scoping and recommendations.
-Maintain consistent communication with leadership on status and impediments as
-they arise.

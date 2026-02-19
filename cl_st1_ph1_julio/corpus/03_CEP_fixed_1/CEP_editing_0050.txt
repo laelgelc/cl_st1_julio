@@ -1,0 +1,36 @@
+<file CEP_editing_0050> <domain EDITING> <corpus CEP_Dias_2026>
+
+[63975]
+Make these phrases into 1 design sprint goal.
+- Create a meaningful experience that Notre Dame fans trust and find valuable and as a result will integrate as part of their daily lives.
+- Allow fans to feel a sense of belonging to the Notre Dame community.
+- Integration with other Notre Dame apps/platforms for a seamless and streamlined user experience.
+- Create a revenue stream.
+- Spans generations.
+
+[40270]
+I have a controversial situation in a public community. So me and my friends decided to make a petition. Would you read it and try to correct it or make it more clear and appeal to readers?
+
+[35937]
+I want to draft an RFI, RFP, and an RFQ for a digital twin of the Australia Post parcel delivery network. First, write an RFI that could be sent out to consulting companies.
+
+[40851]
+Would you like to be my virtual friend to help me improve my English communication skills? I thought we could pretend that I am a customer of a supermarket and you are a shop assistant, and as we chat, you can check my expressions and provide me with alternative ways to phrase my sentences. Are you open to being my friend under these conditions?
+
+[72412]
+You are writing a formal curriculum for software engineer at Google. Rewrite this: [Text_to_Fix]Pursuing Master's degree in Computer Science. Area: Distributed Systems with an emphasis on microservices.[/Text_to_Fix]
+
+[31725]
+Chapter 1: The origins of money Copyplagiarism checker- Bulgarian- Chinese (simplified)- Czech- Danish- Dutch- English (American)- English (British)- Estonian- Finnish- French- German- Greek- Hungarian- Indonesian- Italian- Japanese- Latvian- Lithuanian- Polish- Portuguese - Portuguese (Brazilian)- Romanian- Russian- Slovak- Slovenian- Spanish- Swedish- Turkish- Ukrainian.
+
+[73991]
+The following are the opening lines of a book proposal for a book about the history of industrial progress. The proposal opens with a story about the Rainhill Trials of 1829. The sentences are a bit awkward and lack force. Please rewrite them to be more streamlined.
+
+[30370]
+Please correct:. [Text_to_Fix]
+
+[86008]
+I want to write a review of AI for retrosynthesis and submit it to Nature Review Drug Discovery. Please act as the editor of the journal and help write the paper. First, give us an outline of this review.
+
+[67196]
+Make it to an academic writing setting. The observations to be made of the experiment was through data analysis of the data. That was that as depth or height increased so to as the pressure value. In the experiment involving the center of gravity apparatus, as the water, weight, and depth are proportionally direct to each other.

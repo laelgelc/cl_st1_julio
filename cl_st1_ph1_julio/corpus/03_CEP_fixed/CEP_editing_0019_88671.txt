@@ -1,5 +1,0 @@
-Please write this in a way that would be written
-as an explanation for a grant proposal: [Text_to_Fix]ActivityColander is an
-ActivityPub message filtering system using a variety of techniques that
-can be customized by the administrator of an Mastodon or
-other ActivityPub server.[/Text_to_Fix]

@@ -1,5 +1,0 @@
-I am created a VR game using Unity and XR
-Interaction Toolkit. I want to make Star Wars Battlefront 3
-like it was going to be. Was 99% done. I
-want to build the spritual successor. What steps do I
-need to take?

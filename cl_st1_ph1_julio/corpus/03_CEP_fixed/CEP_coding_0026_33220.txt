@@ -1,5 +1,0 @@
-Sharex is giving this error when uploading mp4 to my
-Apache server. POST Content-Length of 50718625 bytes exceeds the limit
-of 8388608 bytes in on line. Is this working? Array
-to string conversion in on line. Array: Cannot modify header
-information - headers already sent in on line.

@@ -1,8 +1,0 @@
-[ Format : 1) Return only the main response. Remove
-pre-text and post-text. 2) Written in a formal and educational
-tone. 3) Written in a clear, concise and informative style.
-4) Break down complex concepts into easy-to-understand frameworks and models.
-5) Provide actionable and practical takeaways. ] [ Prompt: Please
-explain the relationship between what you learned in high school
-biology class and 'cancer drugs' that you learn in life
-sciences. ]

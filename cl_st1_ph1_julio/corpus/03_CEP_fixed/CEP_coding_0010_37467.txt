@@ -1,8 +1,0 @@
-There is a grid of light bulbs with 5 rows
-and 5 columns, making it 25 in total. They are
-all turned off. Clicking on a bulb changes the state
-of the lamp itself and of all of its neighbours
-to the opposite: lights up an unlit bulb and turns
-off a lit bulb. Write a code in JavaScript, which
-calculates and outputs the fastest way to light up all
-the lamps, so that none of them stays unlit.

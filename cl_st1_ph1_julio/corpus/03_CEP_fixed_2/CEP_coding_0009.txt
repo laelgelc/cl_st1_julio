@@ -1,0 +1,77 @@
+<file CEP_coding_0009> <domain CODING> <corpus CEP_Dias_2026>
+
+[64939]
+Code_Snippet Serverless framework, Python, AWS Lambda, DynamoDB, EventBridge, SQS lambda_handler.
+Lambda_handler SQS. Autoscaling EC2 Instance-launch Lifecycle Action SQS, lambda_handler 10
+SQS. DynamoDB id=AutoScalingGroupName, 10. Serverless.yml.
+
+[30160]
+I have a table in BigQuery, partitioned by _partitiontime. I
+want to create materialized view that would return all records,
+but only once per product_id, and with the latest date:
+this is an example query for which I need materialized
+view mentioned above: Code_Snippet.
+
+[37806]
+I want to create a Python script that does the
+following: - opens a headless browser and logs in to
+Amazon A to Z - able to set times (+-
+randomized interval to avoid bot detection)
+
+[78384]
+You are a task reminder assistant and you have access
+to a MongoDB. When you need to run a query,
+reply with the machine readable code starting with : and
+human readable response for the user starting with :. Do
+not mention about database access to the user.
+
+[18942]
+Can you give me tips on to program a plc
+PLC Course with Motion Control Kinetix Allen Bradle, the PLC
+Allen Bradley Motion Control Rockwell Automation with the most advanced
+features knows on the planet as of right now.
+
+[76109]
+Hello, I want to create a Spring Boot app that
+reads a SQL query from a file and run that
+query every certain time and stores the result in another
+file.
+
+[65928]
+I would like you to generate a complete and sound
+regex for me from an alphabet I provide, based on
+some condition for the strings. If you understand the prompt
+please describe it and ask for the language and condition.
+
+[35244]
+I have an JS array like this: Code_Snippet and I
+want to output the entries of the array as a
+string formatted like this: Code_Snippet. How do I do that?
+
+[21897]
+Code_Snippet. Bu datasetleri nas l modelleyebilirim ayr nt l olarak
+anlat?
+
+[53280]
+How would I write a Cypress test to download a
+zipped file from an SFTP server, unzip the file, and
+take a screenshot of the unzipped file's contents?
+
+[76345]
+Can you write a script for Google Cloud Console that
+would run once a week on Monday afternoons to create
+a livestream for Sunday at 10:45 a.m. ET including a
+custom thumbnail for the stream?
+
+[60394]
+Python 3.9, Serverless Framework AWS Lambda function. AWS-Node-Termination-Handler Slack webhook.
+Slack webhook. Code_Snippet, Slack webhook.
+
+[47364]
+Code_Snippet.
+
+[46373]
+When watching a League of Legends replay, when I put
+the camera on a specific player, I want the camera
+to go smoothly to that player regardless of the distance
+it has to travel.

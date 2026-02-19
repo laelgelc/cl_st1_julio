@@ -1,3 +1,0 @@
-[Here is] my current code. I want a second led
-strip to function alongside this one at the same time,
-both running on the same node [microcontroller unit]. [Code_Snippet].

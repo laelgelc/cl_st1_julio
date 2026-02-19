@@ -1,6 +1,0 @@
-I want to write a rest service to. 1. Take
-input and image and classify it into prescription and non-prescription.
-2. Create a AWS Lambda function to call the rest
-service. 3. The service should take the image and pass
-it to an ML model. 4. Model should return classification,
-confidence-score. 5. Save these results in a DynamoDB table also.

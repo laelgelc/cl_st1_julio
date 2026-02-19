@@ -1,0 +1,69 @@
+<file CEP_coding_0039> <domain CODING> <corpus CEP_Dias_2026>
+
+[23169]
+Write a method which takes a string as an input
+and removes all characters which are duplicates in the string.
+Each character should only appear, at most, one time in
+the results (case insensitive).
+
+[76754]
+I am going to build a full stack web site
+with front end using React.js and backend using Express.js. I
+want to add a functionality to send a file on
+multiple social media platforms like LinkedIn, WhatsApp and email etc.
+How can I do that?
+
+[15636]
+Please answer the following question. Question title: How to solve
+error 'numpy' has no attribute 'float' in Python? Question body:
+I am using numpy equals 1.24.0. On running this sample
+code line: Code_Snippet. I am getting this error: Code_Snippet.
+
+[81292]
+I have XML file with JUnit tests results. I would
+like to write a script that writes those test results
+to BigQuery database so I can later analyze statistics of
+current and future failures. How can I achive this?
+
+[86942]
+I have a microservice that manages account information. I want
+to generate events whenever the account information changes. What would
+the event schema look like?
+
+[22984]
+Explain in details how to create a Real-Time Stock Market
+Application with ASP.NET Core and SignalR with error handling. Use
+lot of code and examples and explain each section is
+as much detail as possible.
+
+[27273]
+Write Arduino code using an HC SR04 distance sensor so
+that as it perceives an object moving closer it blinks
+an LED faster. As an object moves away, the LED
+blinks slower.
+
+[46382]
+I want you to act as a senior Node.js developer.
+I will give you some information and you will write
+the code. My first request is "Create an app that
+shows the last games between 2 selected football teams".
+
+[20709]
+I need help with Google spreadsheets. Let us say in
+sheet 1, I call it "capture". In capture, I'm inserting
+some data, each row has 6 columns I must fill
+with a 7 th column with a dropdown option. One
+of the options is "pass to sheet 2". When I
+select that dropdown and all the data is filled I
+would like to move that data of the row to
+sheet 2 (called "preparar") and delete the row from capture
+sheet.
+
+[56091]
+OS: Ubuntu 18.04 user CentOS 7.4. Code_Snippet.
+
+[73739]
+Program a game in HTML and Javascript. In only one
+.HTML file everything. The game should present simple math equation,
+if the answer is right it should celebrate it. After
+10 questions, show the score.

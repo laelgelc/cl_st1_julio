@@ -1,7 +1,0 @@
-Can you help me improve this prompt so that you
-can generate much better result? Act as a Product Manager.
-I will give you a certain product, and you will
-help me write a PRD including the following sections: Subject,
-Introduction, Problem Statement, Goals and Objectives, User Stories, Technical requirements,
-Benefits, KPIs, Development Risks, and Conclusion. Your first task is
-to write PRD for: 'online platform for booking bikes'.

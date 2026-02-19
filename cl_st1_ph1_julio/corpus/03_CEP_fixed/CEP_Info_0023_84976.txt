@@ -1,4 +1,0 @@
-Can you explain to me what goes as input to
-the decoder layer of the transformer? I read that during
-training goes the target sequence shifted to the right. But
-during inference? What do we input?

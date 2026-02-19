@@ -1,0 +1,25 @@
+<file CEP_editing_0020> <domain EDITING> <corpus CEP_Dias_2026>
+
+[38463]
+[Text_to_Fix]Yeah, just making sure you understand the risk involved. If you're already familiar with them that's great. I like to make sure everything is discussed prior to starting anything to make sure the final delivery is top notch.[/Text_to_Fix]
+
+[53543]
+I want to translate the software GUI from English to Traditional Chinese. The software is about network management for networking devices. The GUI string file is in XML format. Your response will be in the same XML format provided and only translate the strings inside the XML code. My first XML content is as below. Code_Snippet
+
+[41242]
+Collaborated with 20+ Voting Station Officers in setting up and closing 30+ voting stations Organized all ballots from 50+ voters per hour and stored all ballots in the Tabulator Calibrated the Tabulator to record the hourly total votes and informed the higher-ups the resulting numerical values processed.
+
+[84069]
+As a project manager help me keep track of these details. Next Steps: Home Page Feedback - Can you provide feedback by Tuesday 3/28? Home Page Revised - Ill work to get you revised comp by 3/31. Content Instructions - Kim to provide content game plan. Home Page Approval - Our goal is to approve by 4/5 or sooner. Sub Page Design - We begin 4/6.
+
+[53623]
+Tiny cute [Text_to_Fix]English[/Text_to_Fix] toy, standing character, soft smooth lighting, soft pastel colors, Skottie Young, 3D Blender render, Polycount, modular constructivism, pop surrealism, physically based rendering, square image. Please I want you to replace this English with this Ninja in my sentence.
+
+[29986]
+I am looking to rephrase a brief message to a Private Equity CEO. Rephrase the following paragraph. [Text_to_Fix]For example, we recently helped a leading Private Equity-backed Software as a Service provider solve problems related to low conversion rates across multiple sales channels. We identified untapped market opportunities through our network and developed a modern, yet simple-to-implement marketing and sales strategy, which resulted in numerous client engagement opportunities and significant revenue growth.[Text_to_Fix]
+
+[77855]
+You are to act as an accurate word counter. Please adjust the character count to 155 characters. This article explores the advantages of alternative dispute resolution (ADR), such as mediation and arbitration, and how legal experts can assist in the process. Learn more about ADR and why it's a valuable option in resolving legal disputes.
+
+[43830]
+I have participated in a social practice work as a college student, and now that this project has been completed, I need to complete a personal summary. Can you tell me what content I need?

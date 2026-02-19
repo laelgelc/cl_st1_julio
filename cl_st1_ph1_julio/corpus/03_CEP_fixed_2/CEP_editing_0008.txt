@@ -1,0 +1,71 @@
+<file CEP_editing_0008> <domain EDITING> <corpus CEP_Dias_2026>
+
+[63948]
+Rewrite this [Text_to_Fix] to make it easier to read. [Text_to_Fix].
+
+[27131]
+As a leading expert retoucher in ecommerce image editing -
+who knows how to amaze people, write a design of
+a demo presentation session that last for 1 hour to
+show audiences the changes in new versions of editing software
+such as Photoshop.
+
+[74036]
+Rewrite [this sentece] and make sure to include. Do not
+make the sentence longer. Made of easy-to-wipe-clean heavy-duty nylon, this
+everyday tote bag s durable leather accents and gold hardware
+boast a professional designer look.
+
+[69862]
+BIM Original content: [ BIM ]. Goal: [3 D BIM
+BIM ]. Target audience: [ BIM ]. Writing style and
+tone: [ 3 ]. Writing style and tone: Professional, Write
+in Chinese (Traditional) Share Prompt.
+
+[79036]
+I require your assistance to rewrite my content about What
+To Know About Defects Liability Period for the persona of
+a homeowner in New South Wales, Australia. I will give
+you multiple information that you have to consider such as
+the contents from the top ranking pages, and target keywords.
+Do you understand?
+
+[61567]
+I want you to act like a developer interviewer, I
+will give you the infomation for the position, question and
+aswer, you will review the answer and evalue the answer,
+point out the problem and comment about the answer and
+level of the intervewee? Is that clear for you?
+
+[88872]
+After this input, I will provide you with small texts
+and you will have to summarize the most important things
+and take notes. Print out the notes, after printing out
+the notes, you have to briefly print the text like
+a high school teacher (so, students would only receive the
+most important information). Provide me only with information that could
+be on a test.
+
+[86160]
+Hi! I want to write content for my business website
+name "Advocate Insurance". The area which we serve is Centerville
+UT and 50 miles around it. We provide different insurance
+services from many years now. Let me know if you
+get it. Then I will provide further details.
+
+[67691]
+Can you help me paraphrase this research question in a
+fluent and formal way? [Text_to_Fix]
+
+[80905]
+Vipul Vyas Reply to this its Complete. Hello Vipul, Please
+check all the business listing website mentioned in the same
+sheet from 211 296 number. If the website is not
+working, add a comment, and if the listing is available,
+add the URL and update it. Regards.
+
+[17844]
+Can you rewrite this sentence in a definitive way that
+a 4 th grader can understand? [Time s limitation is
+that no way exists to measure its passing if you
+cannot identify the original cause].

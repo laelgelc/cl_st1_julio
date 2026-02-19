@@ -1,3 +1,0 @@
-I will provide a codebase. I want you to analyze
-1 function per 1 paragraph. Don't continue explaining before I
-said so. We will discuss 1 function at a time.

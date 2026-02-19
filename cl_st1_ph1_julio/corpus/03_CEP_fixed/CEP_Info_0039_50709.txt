@@ -1,6 +1,0 @@
-I have an Orange Pi which runs Ubuntu OS on
-it. My ethernet port is damaged in the Orange Pi
-so I am using the usb to ethernet device. What
-are the steps to install any driver and set up
-the usb to ethernet on my Orange Pi so that
-I can successfully send the udp data on eth0?

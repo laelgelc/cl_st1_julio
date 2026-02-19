@@ -1,3 +1,0 @@
-Use MUI to create a React component that shows a
-user picture (150 x150) and under the picture, it shows
-a 2 x2 grid containing placeholder images from Pexels.com.

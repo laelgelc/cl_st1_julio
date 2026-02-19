@@ -1,8 +1,0 @@
-I want to improve my tech skills in my cv.
-Please make it shorter and proffesinal: [Text_to_Fix]Tech Skills MVC Frameworks,
-Single Page Applications and PWA using #Vue.js and #React.js with
-#TypeScript. Server-side programming, API's and REST with #Express.js | #Nest.js.
-Modern JavaScript (ES6) including Object Oriented Programing. Familiarity with Git
-for version control and agile development methodologies. Knowledge of web
-accessibility and performance optimization techniques. Strong understanding of databases and
-experience with #MySQL and #MongoDB.[/Text_to_Fix].

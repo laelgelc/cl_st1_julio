@@ -1,5 +1,0 @@
-Morning! I have the following rules in the application: 1)
-The string represent a question/statement for which Yes/No could be
-used an an answer 2) In this string some numbers
-enclosed in underscore represent parameters, that can be tuned separately.
-Can you verify that a sentence follow those rules?

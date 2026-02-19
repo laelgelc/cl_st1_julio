@@ -1,6 +1,0 @@
-I am building a ChatGPT tool that helps people with
-job search and school applications. What features should we have,
-what is our target audience, and what is the best
-way to incorporate ChatGPT? Should we have a web interface?
-Please write a product requirement document for me and include
-other information you think may be helpful.

@@ -1,4 +1,0 @@
-I have a Django server that serves a webapp. Every
-5 minutes I want a function to run on the
-server and modify some entries in the database. Where should
-I implement this code?

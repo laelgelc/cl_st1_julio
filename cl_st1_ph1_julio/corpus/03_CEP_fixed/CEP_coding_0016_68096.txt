@@ -1,4 +1,0 @@
-I would like to check if string is having preceding
-slash, if yes, pass if not, then check if has
-slash, if yes, then fail, if not, then pass. Result
-should be like this Code_Snippet. Please use PHP to code.

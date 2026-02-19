@@ -1,4 +1,0 @@
-I have XML file with JUnit tests results. I would
-like to write a script that writes those test results
-to BigQuery database so I can later analyze statistics of
-current and future failures. How can I achive this?

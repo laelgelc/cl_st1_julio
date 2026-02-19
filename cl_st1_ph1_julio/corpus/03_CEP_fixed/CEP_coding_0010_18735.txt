@@ -1,3 +1,0 @@
-Can you write a C# program that accepts a list
-of integers and outputs the first integer number greater than
-0 that is not inside the list?

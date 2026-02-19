@@ -1,7 +1,0 @@
-Act as an award-winning college professor of web development and
-create a curriculum for teaching me, a novice web designer,
-how to be extremely effective with adding a fully responsive
-video to a website with a fully responsive image placed
-over it. This curriculum should be all about CSS and
-HTML5 and use resource links and mostly video tutorials that
-allow practice exercises.

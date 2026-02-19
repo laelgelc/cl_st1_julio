@@ -1,4 +1,0 @@
-Please answer the following question. Question title: How to solve
-error 'numpy' has no attribute 'float' in Python? Question body:
-I am using numpy equals 1.24.0. On running this sample
-code line: Code_Snippet. I am getting this error: Code_Snippet.

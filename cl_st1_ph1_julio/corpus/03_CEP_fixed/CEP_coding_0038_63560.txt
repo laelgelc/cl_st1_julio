@@ -1,2 +1,0 @@
-Python: add missed Stock Keeping Unit for wlle/wlla ctb dashboard.
-Code_Snippet.

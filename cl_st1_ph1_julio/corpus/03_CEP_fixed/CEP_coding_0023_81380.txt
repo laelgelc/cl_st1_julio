@@ -1,4 +1,0 @@
-Okay from here on I will post the bits of
-my Nextjs Redux React app code and you will tell
-me whether it contains any dispatches or mutations or any
-state related change.

@@ -1,0 +1,68 @@
+<file CEP_coding_0023> <domain CODING> <corpus CEP_Dias_2026>
+
+[28855]
+I created a pop up with class Code_Snippet that closes
+when i click a close button. It also closes when
+i click anywhere outside the input elements. I want a
+Javascript script that will make the pop up close when
+i press the esc button on my keyboard.
+
+[35949]
+Hey, I need you to write an Arduino code that
+detect the co2 using the MQ-2 sensor and show the
+output in a LCD display.
+
+[38513]
+Problem 14 Get the day of month, week number, day
+of year and day of week from ser. Input Code_Snippet.
+Desired output Code_Snippet.
+
+[73814]
+Can you write a Javascript lambda function called by an
+Intercom custom actions. The function need to retrieve the list
+of admins from the Intercom workspace and the list of
+teams. Each team represent a language and have some admins
+assign to it. The function need to return a list
+of language matching the team available. A team is available
+if at least one admins assign to it is not
+away.
+
+[36079]
+Can you make me a function in C# which connects
+to an Azure database to load a list of products
+and their price with a product Id string? Then upload
+these as in app purchases on to Apple Connect for
+use in a mobile app.
+
+[15887]
+Is it possible to have multiple vhosts inside a docker
+container and create ingress for each account to be able
+to access them via local network?
+
+[29108]
+Good morning! Can you please write me a simple html
+and javascript that creates a quiz for students, using the
+variables I have defined below? The quiz will need to
+calculate the correct response, which is the average of 7
+random numbers. Students will enter their response which will be
+checked against the calculated response, then a gif image will
+be displayed for "correct" or "incorrect".
+
+[75976]
+I want you to create a Next.js app that resembles
+the iMessage interface and talks to the GPT-4 or GPT-3.5-Turbo
+API. It should also contain moving message bubbles similar to
+iMessage when the assistant is generating a response from the
+API.
+
+[25254]
+A Python script that will detect if Plex is playing
+anything, and then keep the system awake until current time
++ 5 minutes. The script should use the Plexapi and
+Wakepy libraries. The script should run every minute.
+
+[81380]
+Okay from here on I will post the bits of
+my Nextjs Redux React app code and you will tell
+me whether it contains any dispatches or mutations or any
+state related change.

@@ -1,4 +1,0 @@
-Given a rectangle defined by a root coordinate (Rx, Ry)
-with width and height Rw and Rh, and a line
-segment between points (Lx1, Ly1) and (Lx2, Ly2) under what
-conditions does the line cross the rectangle?

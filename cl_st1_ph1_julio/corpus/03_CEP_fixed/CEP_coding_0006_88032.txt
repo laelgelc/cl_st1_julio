@@ -1,7 +1,0 @@
-I want to write a program in TypeScript that provides
-helper functions to generate a drawing in G-code (Marlin). I
-have added a pen holder to my 3 D printer
-and want to use it as a pen plotter. The
-library should provide a similar experience to using P5.js but
-instead of drawing shapes on a canvas it produces text
-output in G-code.

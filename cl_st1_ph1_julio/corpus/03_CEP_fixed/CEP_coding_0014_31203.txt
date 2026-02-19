@@ -1,4 +1,0 @@
-In Python, how can I run multiple codes in one
-go, but only when one code completes, others should run
-in sequence, also, without convert each Python code to their
-own function?

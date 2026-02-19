@@ -1,3 +1,0 @@
-How to make a root CA in OpenSSL. Add a
-passphrase to the private key. Add how to make a
-new certificate with this ca.

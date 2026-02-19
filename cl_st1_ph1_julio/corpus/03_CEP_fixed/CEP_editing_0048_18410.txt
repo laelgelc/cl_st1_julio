@@ -1,7 +1,0 @@
-Rewrite this. Keep same format and around the same length.
-This is a frightening visual for me. The first dot
-is the amount of data Chat GPT 3 was trained
-on. The second is what Chat GPT 4 is trained
-on. They are already doing demos. It can write a
-60,000 word book from a single prompt. The only question
-I've had about AI.

@@ -1,3 +1,0 @@
-Create a decorator for Nest.js middleware which will be check
-NODE_ENV variable and if it equal true - call next()
-but if NODE_ENV equal false - return false.

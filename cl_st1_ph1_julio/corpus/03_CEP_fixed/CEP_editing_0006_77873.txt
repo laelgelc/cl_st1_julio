@@ -1,8 +1,0 @@
-I am an Airbnb host and just had a guest
-reach out saying 'Good evening.... How much would it cost
-to extend our stay on additional day?'. My response back
-is going to be [Text_to_Fix]Hey Maria, I will send you
-the alteration request and pricing information will be displayed before
-you accept it.[/Text_to_Fix]. Can you add a little more excitement
-to my response, while still keeping it short, sweet, and
-professional?

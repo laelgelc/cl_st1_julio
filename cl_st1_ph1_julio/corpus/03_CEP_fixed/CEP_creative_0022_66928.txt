@@ -1,4 +1,0 @@
-It is terrible that news articles online have misleading clickbait
-headlines. I want to write an AI based app that
-generated better headlines. Please suggest some names for the app,
-a tagline, and an explanation.

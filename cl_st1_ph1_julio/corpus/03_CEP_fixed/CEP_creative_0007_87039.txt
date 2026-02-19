@@ -1,5 +1,0 @@
-We use gamification on our site and we have levels.
-For now, we have 4 stages but we want to
-have six so please help me with naming. The four
-names are: EXPLORER, EXPERT, MASTER and GRANDMASTER. I need two
-extra names between EXPERT and MASTER.

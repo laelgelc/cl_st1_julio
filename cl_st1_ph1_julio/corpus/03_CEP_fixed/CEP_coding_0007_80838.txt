@@ -1,7 +1,0 @@
-Code a minimalist login screen in Android Studio with the
-colors: Primary: #4 a4 a4 a Secondary: #2 a2 a2
-a Accent: #929292 the Login button must go to another
-activity where it has a account button in the top
-left that has a drop down menu with account info
-and settings, and it should have a sliding bar with
-a calendar, add task and things to do.

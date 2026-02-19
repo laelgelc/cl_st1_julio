@@ -1,5 +1,0 @@
-Create an example of a payment file (following the format
-SEPA and Non-SEPA Credit Transfer XML ISO20022 Pain 001.003.03) containing
-these elements: - Debitor should be Emilia - one payment
-from France to the USA - one payment from France
-to Thailand.

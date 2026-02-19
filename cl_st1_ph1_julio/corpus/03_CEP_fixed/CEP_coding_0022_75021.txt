@@ -1,3 +1,0 @@
-Write the code for a web app that accepts an
-RSS feed of podcast episodes and displays those episodes in
-a list. Use Node.ja, React and Tailwind CSS.

@@ -1,4 +1,0 @@
-I will ask you JavaScript code questions and you will
-answer with the JavaScript code only. So given no explanation
-about the code you write. Write me a functional JavaScript
-function to fetch a fictional API with a authorization bearer.

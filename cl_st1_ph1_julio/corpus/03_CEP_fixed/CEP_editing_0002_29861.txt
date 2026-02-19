@@ -1,2 +1,0 @@
-Assistant, can you rewrite the following sentence in a more
-fluid and formal manner for a scientific research paper: [Text_to_Fix]?

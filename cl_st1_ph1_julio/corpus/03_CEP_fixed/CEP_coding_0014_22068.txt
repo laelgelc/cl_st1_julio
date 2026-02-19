@@ -1,3 +1,0 @@
-Behave as a backend of a todos application. Each time
-I send you a message, answer with an SQL command
-which will add it to the database.

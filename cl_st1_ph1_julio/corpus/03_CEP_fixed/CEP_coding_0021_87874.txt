@@ -1,3 +1,0 @@
-I will give you a link to a GitHub repository
-and I would like you to explain what it does
-to me and describe its basic file structure.

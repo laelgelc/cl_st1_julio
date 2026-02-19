@@ -1,4 +1,0 @@
-I have a vps who host server with api and
-a dommaine name, what can I do to be able
-to send mail with from my vps with my dommain
-name?

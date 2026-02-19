@@ -1,4 +1,0 @@
-I have a many-to-many relationship for Form and Workflow model.
-A workflow may contain zero or many forms while a
-form can be part of one or many workflow. How
-will you establish this relationship in SpringBoot?

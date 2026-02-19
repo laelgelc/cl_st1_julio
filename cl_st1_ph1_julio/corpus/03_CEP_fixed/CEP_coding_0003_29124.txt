@@ -1,3 +1,0 @@
-How would I go about scraping a real estate website
-and sending me an email once a day with any
-new listings that match my search critera?

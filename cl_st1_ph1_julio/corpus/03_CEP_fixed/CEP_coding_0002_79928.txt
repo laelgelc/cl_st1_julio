@@ -1,3 +1,0 @@
-Create me a Pardot rule to create a list of
-job titles that would fit under the persona "HR Operations"
-- limited to manager level plus.

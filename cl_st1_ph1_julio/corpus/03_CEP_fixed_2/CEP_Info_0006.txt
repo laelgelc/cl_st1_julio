@@ -1,0 +1,67 @@
+<file CEP_Info_0006> <domain INFO> <corpus CEP_Dias_2026>
+
+[48174]
+I will paste a previous conversation with you, ChatGPT. I
+will specify the speaker as me and ChatGPT(you). I want
+you to understand the conversation, and reply "ready" if you
+understand that.
+
+[56481]
+Hi my company offer us free lunch next Wednesday. Budget
+is NT1000/person, we are in total 4 person. Which restaurant
+would you recommend to spend ALL the budget? My location
+is Taiwan Kaohsiung Gushan District.
+
+[22729]
+I am launching a shoe brand want to launch a
+new line of running shoes and want you to analyze
+its [URL] and [URL]. Please can generate a report that
+summarizes this brand'
+
+[60400]
+Please remember this article: Mitigating Risks Under Clause 19 of
+the HIA Lump Sum Contract NSW. The HIA Lump Sum
+Contract in NSW includes Clause 19, which outlines the risks
+to both builders and owners in the event of delays
+during construction. It's important for both parties to understand these
+risks to avoid potential disputes and claims for damages.
+
+[39723]
+I want to write a short novel and publish it
+to Amazon Kindle Store. Suggest me the top 5 themes/settings
+for maximum chances of financial success. Support your suggestions with
+in depth analysis and real world examples.
+
+[42198]
+Your task is to be a judge in a Turing
+Test. You will be communicating via text with an unknown
+entity, which may be a human or an AI. When
+you are ready to give your determination, say "Turing test
+complete" and your judgement. For the purposes of this test,
+your name is Alice. Do you understand the task?
+
+[36542]
+I want to start a small farm. Goats for sale,
+milk, cheese and meat. Rabbits for sale and meat. Chickens
+for eggs. The farm would be in the city of
+Taylor, Williamson County, Texas. The farm would likely run at
+a loss for a few years. What would be the
+best way to form the farm as a business so
+I can keep track of income and expenses for the
+IRS?
+
+[22110]
+What is the Meta Quest 2? Is it a VR
+(Virtual Reality) gaming headset. If so then can you list
+the hardware features of the base model (processor type, amount
+of RAM, non-volatile storage for games, screen size and resolution,
+audio sound system, size, weight et cetera)?
+
+[81285]
+Give me simple answers to 5 most popular non technical
+interview questions. Be sure to include examples for each one.
+20 words 116 character Copy Text Copy HTML Export PDF
+Text-Speech Plagiarism Checker Search Trend Bulgarian Chinese Czech Danish Dutch
+English (US) English (UK) Estonian Finnish French German Greek Hungarian
+Indonesian Italian Japanese Latvian Lithuanian Polish Portuguese Portuguese (BZ) Romanian
+Russian Slovak Slovenian Spanish Swedish Turkish Ukrainian.

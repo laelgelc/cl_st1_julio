@@ -1,4 +1,0 @@
-I am designing a relational database and identified the following
-entities or tables: Customer, CustomerInvoice, CustomerOrder, CustomerQuotation, Job, JobStatus, Part,
-Supplier, SupplierInvoice, SupplierOrder and SupplierQuotation. Please give me the generic
-attributes associated with each entity.

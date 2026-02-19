@@ -1,0 +1,28 @@
+<file CEP_editing_0012> <domain EDITING> <corpus CEP_Dias_2026>
+
+[34863]
+I am a hosting service operator. Please change the content below to the title. Request items have increased during KISA audit, and the reception form and solution gate admin need to be improved to facilitate information and data collection from customers accordingly.
+
+[80539]
+I require your assistance to rewrite [Text_to_Fix] for the persona of a homeowner in New South Wales, Australia. I will give you multiple information that you have to consider such as the contents from the top ranking pages, and target keywords. Do you understand?
+
+[35711]
+Rewrite this phrase to be more compelling: [Text_to_Fix]time is your single most valuable asset.[/Text_to_Fix] You cannot make more, you cannot save it, you cannot borrow it, you cannot steal it, you cannot be gifted it. You have a finite amount and you can only spend it or use it. It can be lost or wasted, or it can be cherished.
+
+[45921]
+Here is a recipe, [URL]. Modify this recipe with fewer calories, carbs, trans fat, sodium, and cholesterol. Include the number of servings. Use sous vide if reasonable. Use Thermomix if reasonable. If using Thermomix, specify the speed, duration, and direction of blades. Use a convection oven if reasonable. Use an air fryer if reasonable. Compare the nutrition, including cholesterol and trans fat, of the original and modified recipe. Use metric units.
+
+[42008]
+I want you to act as a writing editor. I will provide you a paragraph. I want you to rewrite it several times with different styles of writing in a table format.
+
+[25107]
+Please explain if this is correct English sentence? [Text_to_Fix]Would you like to spend a day with me where I help you with your business and lifestyle goals?[/Text_to_Fix]
+
+[57633]
+A student has submitted a practice answer for a 10th grade exam. Please review the answer and provide feedback on how the student can improve their writing skills. Your feedback should be specific and provide actionable advice that the student can use to improve their answer. Additionally, please provide a refined version of the student's answer, showing how it could be improved based on your feedback.
+
+[35602]
+I'm working on a poem about making art right now, I know I want a bunch of 3 or 4 line stanzas. Exact meter doesn't matter, so long as they feel like part of the same poem. This is the stanza I'm working on right now: [Text_to_Fix]Some chase dreams straining to capture something fleeting[/Text_to_Fix].
+
+[78489]
+I require your assistance to rewrite my content about [Text_to_Fix] for the persona of a homeowner in New South Wales, Australia. I will give you multiple information that you have to consider such as the contents from the top ranking pages, and target keywords. Do you understand?

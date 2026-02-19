@@ -1,3 +1,0 @@
-How to plot a mean variance frontier for three assets
-on Excel after finding their average returns and standard deviation
-aswell as the variance and covariance.

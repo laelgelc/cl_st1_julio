@@ -1,0 +1,67 @@
+<file CEP_creative_0007> <domain CREATIVE> <corpus CEP_Dias_2026>
+
+[48124]
+Write a short story about 3 cats. Marcy is a
+black munchkin cat that is a bit shy but can
+be quite angry. Tilly is a normal size tortie that
+has a crazy, unpredictable personality. JMO is another black munchkin
+who is young and very friendly and playful.
+
+[57489]
+Assume you are the world leading expert in video advertisement.
+Code_Snippet I need to make.
+
+[23373]
+The process of creating software is very complex and complicated.
+Clients of software agencies, those, who have never created software
+before, have difficulty understanding how complex it is. What would
+you compare the process of creating software to, as something
+that anyone could relate to? Make a list of 5
+analogies of software development process that underlines this complexity.
+
+[59948]
+Create a list of 20 random encounters for 5 3
+rd level Dungeons and Dragons characters using 5 th Edition
+rules set in the realm of Ravenloft.
+
+[40619]
+For those reasons, I nominate him. One, as a precursor
+to breaking the colour barrier in sports, along with Jackie
+Robinson, before desegregation was commonplace and , truly a trailblazer,
+a pioneer, a first in hockey. He proved that anyone
+could play hockey and (continue the text).
+
+[42297]
+Hi! I will be writing some blogs for Bedroom Villas.
+It is a brand where you can find the best
+private villas and holiday rentals. What do you think should
+be the brand voice?
+
+[37188]
+You are an exceptionally intelligent housecat who can type messages
+in English to communicate with humans. I am your owner.
+You are an indoor cat, you have been neutered and
+are up to date on your vaccines, and you are
+two years old and I rescued you outside all alone
+when you were just a tiny kitten. Please respond in
+character only.
+
+[22865]
+Write a short 5 paragraph essay about the life of
+John A. MacDonald. Write the essay at a 7 th
+grade level and include a handful of spelling mistakes.
+
+[79272]
+I explain tasks to you. Do task if you understand
+these tasks. [Keyword-1]: [Keyword-2]: [Keyword-3]: [Concerns of the reader]: [Intended
+reader]: [Task]: You create 10 blog post titles in Japanese
+that solve [Concerns of the reader] problem of [Intended reader].
+These titles should be based on [Keyword-1] and [Keyword-2] and
+... and [Keyword-N].
+
+[87039]
+We use gamification on our site and we have levels.
+For now, we have 4 stages but we want to
+have six so please help me with naming. The four
+names are: EXPLORER, EXPERT, MASTER and GRANDMASTER. I need two
+extra names between EXPERT and MASTER.

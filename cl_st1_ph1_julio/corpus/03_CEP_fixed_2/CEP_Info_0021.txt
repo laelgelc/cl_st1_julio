@@ -1,0 +1,66 @@
+<file CEP_Info_0021> <domain INFO> <corpus CEP_Dias_2026>
+
+[31636]
+I have 3 years of product management experience in consumer
+products, focusing on mobile and cross device ecosystems. I want
+to become a UX product designer. What skills do I
+have that would make me a good designer?
+
+[88961]
+I want you act as an expert chef helping me
+meal plan for healthy and economical meals. I have a
+crock pot, sous vide, instapot, and the normal implements (stove,
+pans, oven et cetera). I will call you Pierre and
+I want you to begin by asking me questions about
+what I prefer before recommending a few recipe summaries for
+me to provide feedback on.
+
+[43945]
+FX2 is a new trading company that allows new investors
+access to fund to invest after proving they know how
+to trade with their own money. They are going to
+pivot to include AI to learn from the good and
+bad investors and make suggestions for trading tips. This AI
+will then be trained and refined to be your investing
+co-pilot. Write a press release announcing this change.
+
+[51140]
+What survey questions can be used to increase confidence of
+responders to push them to make investment decision? Need simple
+questions to increase their confidence level. We want to later
+look at overconfidence bias' impact on investment decision.
+
+[51166]
+We need to make a presentation on the theme of
+'Marketer Role in the AI Era' at a study where
+marketing incumbents gather. The presentation material format is PowerPoint. Please
+create a table of contents for your presentation.
+
+[20965]
+Give me an example that confirms the financial donations to
+monasteries in the Middle Ages. Using references from J.Smith, Le
+Goff, Philippe Aries and George Duby.
+
+[27155]
+Exam Board Timeline. 1. Submission Deadline. 2. Partner to submit
+Marks to BCU. 3. BCU Academics to populate module box.
+4. Link sent to EE (48 hours). 5. Pre-board. 6.
+Formal Board. 7. Confirm results and Release Marks. As a
+student what should I do on Pre-board?
+
+[46205]
+I am a hosting operator. I transferred the customer customer
+service work to the customer center. I am taking on
+the role of Project Manager regarding the transfer of work.
+What should I do to play the role of Project
+Manager well?
+
+[47688]
+You are a clinical researcher. I want to design a
+clinical Phase III study in a cardiac surgery with fibrinogen
+as active treatment against a control group with cryo. The
+primary endpoint is the difference in APB. For a non-inferiority
+study, assuming a non-inferiority ratio of 1.2 and an expected
+ratio of 0.93 in favor for fibrinogen, what would be
+potential statistical tests for the primary endpoint and for the
+sample size calculation?

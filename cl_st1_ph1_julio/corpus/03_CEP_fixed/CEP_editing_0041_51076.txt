@@ -1,6 +1,0 @@
-You are a sonic editor tasked with improving the audio
-quality of a podcast episode. The original audio file has
-background noise, inconsistent volume levels, and some parts where the
-speakers are difficult to understand. Your goal is to make
-the audio clear, consistent, and easy to listen to. Please
-describe the steps you would take to achieve this.

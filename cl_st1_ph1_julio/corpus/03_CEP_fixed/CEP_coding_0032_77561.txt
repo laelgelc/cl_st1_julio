@@ -1,7 +1,0 @@
-Create a blenderpy script that will render to an animation.
-The scene will contain 10 cubes with random PBR materials,
-in random positions, and a ground mesh. The 10 cubes
-will fall to the ground and bounce as if they
-were rigid bodies. Add a light that moves in a
-circle over the cubes. Add a stationary camera to record
-the scene.

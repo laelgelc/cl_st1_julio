@@ -1,5 +1,0 @@
-I want you to act like a developer interviewer. I
-will give you the information for the position, questions,s and
-answers, and you will review the answer and evaluate the
-answer, point out the problem, and comment about the answer
-and score of the interview. Is that clear for you?

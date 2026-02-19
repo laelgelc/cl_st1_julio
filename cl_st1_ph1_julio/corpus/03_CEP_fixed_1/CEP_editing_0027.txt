@@ -1,0 +1,37 @@
+<file CEP_editing_0027> <domain EDITING> <corpus CEP_Dias_2026>
+
+[72607]
+Please re-write and provide the main insights from the article titled "Reality bites: Australian M&A deal value halves in 2022 found on the following webpage link - [URL]."
+
+[70098]
+I want you to assist me in enhancing my service page about "contract lawyer". I will give you multiple information that you have to consider such as the contents from the top ranking pages online, and target keywords. Do you understand?
+
+[78347]
+Rephrase with compelling sincere words for [Text_to_Fix].
+
+[31629]
+Create citations in MLA format based on this information. Anonymous (nd.). The World Bank in China Web. [URL]. Peak, Sean (1.23.23) A Culture of Ethical Behavior Is Essential to Business Success Web. [URL]. Anonymous (nd.). International Business: Importing and Exporting, and Global Sourcing Web. [URL]. Cote, Catherine (11.24.20) 5 Common Challenges of International Business You Should Consider Web. [URL]. Anonymous (nd.). Ethics in International Business Web. [URL].
+
+[61184]
+Morning! I have the following rules in the application: 1) The string represent a question/statement for which Yes/No could be used an an answer 2) In this string some numbers enclosed in underscore represent parameters, that can be tuned separately. Can you verify that a sentence follow those rules?
+
+[26818]
+I am a psychodynamic psychotherapist. Help me write a casenote for my first session with a client. You can ask me questions to help you write the note.
+
+[18652]
+Rewrite and finish this paragraph in the style of Ezra Klein. [Text_to_Fix]For all of these reasons, we should proceed with caution. But used wisely, ChatGPT may actually make our teaching more rather than less humane. By using AI to streamline our analytic tasks, we can devote more time to strengthening our connections with students.[/Text_to_Fix]
+
+[20971]
+Let's play a game. Act as a talented summary bot with a high IQ. I will provide a script, and you will summarize it for me using bullet points for each subject.
+
+[38385]
+I will provide you strings in this way. First line: [title] Second line: [title description]. Rule 1: It should be as short as possible. Rule 2: clear and concise style. Got it?
+
+[35238]
+Can you reverse 6947 3155 6438 9363 4352 3639 0940 8811 0930 8112 2414 3561 9838 4141 7866 0076 9188 8428 7555 7472 1361 6531 4575 2926 6327?
+
+[46466]
+I am a system improvement specialist at Just Eat Takeaway.com. Help me write my yearly performance review based on our company values: Lead, Deliver, Care. Write those in bulletpoints.
+
+[49136]
+I want you to act as a text extender for a short message. Your task is to expand the following message by adding at least 3 more sentences without changing the original meaning.

@@ -1,3 +1,0 @@
-Write me a bash script that will run the command
-Code_Snippet, assign that to a variable and exit if the
-command output does not contain the string Code_Snippet.

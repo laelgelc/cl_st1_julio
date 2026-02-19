@@ -1,6 +1,0 @@
-I am creating a new Discord server for me and
-my WoW guild. We do not want many channels. But
-we have a few roles in the guild such as
-regular raider, raid leader. We also talk about random stuff
-in this server. Can you give us a server name,
-description, roles and channels in JSON?

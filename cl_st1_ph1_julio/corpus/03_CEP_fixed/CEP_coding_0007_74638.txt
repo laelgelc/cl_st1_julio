@@ -1,3 +1,0 @@
-I have generated SDK of OpenAPI using Swagger Codegen. But
-when I am trying to call the API using generated
-SDK it is not getting desired output.

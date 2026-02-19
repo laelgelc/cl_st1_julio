@@ -1,0 +1,70 @@
+<file CEP_Info_0013> <domain INFO> <corpus CEP_Dias_2026>
+
+[23754]
+I am a medical student and I want to practice
+my medical Spanish. Can you pretend to be a patient
+and, in Spanish, we can pretend to do a patient
+encounter (I will be the doctor and we will speak
+Spanish).
+
+[80650]
+I am building a ChatGPT tool that helps people with
+job search and school applications. What features should we have,
+what is our target audience, and what is the best
+way to incorporate ChatGPT? Should we have a web interface?
+Please write a product requirement document for me and include
+other information you think may be helpful.
+
+[46580]
+Is there a good way to verify email domain address
+is not from a public provider in the C# language?
+By using Google it seems like there is no way
+to check the domain since it might allow all symbols
+in it's name.
+
+[48314]
+I would like to host a board game event for
+12 players. There would be 9 different games, and the
+players would play simultaneously in 4 player groups on 3
+tables.
+
+[62539]
+If a Korean student goes to UCSD as an exchange
+student, please tell us the monthly cost for each place
+of residence. Answer in English.
+
+[31198]
+One of the worst earthquakes has just happened in Turkey
+and Syria. 7.8 Magnitude (9.5 is the maximum) Richter scale.
+Buildings fell like paper. More than 4000 people died and
+are countless the injured and those who might still be
+under the rubble. Humanitarian aid and experts are being sent
+to save as many lives as possible. More or less
+48 hours have passed. What would you do if you
+were to manage the situation?
+
+[24902]
+What are the top 100 statistics that have been share
+by leading tools like On24, Gotowebinar, Clickmeeting and Zoom? These
+statistics would be the benefits of runnining webinars.
+
+[78023]
+I am interested in writing a research paper about the
+ethics of war. What are the most important books I
+should read? What journals should I read? Who are major
+scholars writing about this?
+
+[75579]
+The mean depth, D, in metres, of a mountain lake
+fluctuates in a yearly cycle and can be modelled by
+the function: D(t)=a cos (kt) +b.
+
+[72002]
+Explain in a concise way, what is LynQs from LeonTeQ,
+using these 3 keywords: the initial goal, its main capabilities,
+the next steps. Use one paragraph for each.
+
+[37238]
+M.Sc. (Cyber Security) vs M.Tech (Network & Cyber Security) in
+these which one should I take to become a better
+cyber secuirty engineer suggest me?

@@ -1,8 +1,0 @@
-Can you help me fill this form to create a
-PRODUCT BACKLOG ITEM in Azure DevOps? Initiated by [Text_to_Fix] Goal
-As a [Text_to_Fix], I want [Text_to_Fix], so I [Text_to_Fix] Context
-What needs to be done What is out-of-scope Artifacts Dependencies
-Contacts Questions. This item is about the following: We created
-a webcomponent library, but it is stull a blob of
-minified code. I want to make it tree-shakeable so it
-can be lazy loaded by the partners.

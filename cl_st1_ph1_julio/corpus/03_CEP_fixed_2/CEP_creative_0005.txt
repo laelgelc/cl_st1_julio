@@ -1,0 +1,68 @@
+<file CEP_creative_0005> <domain CREATIVE> <corpus CEP_Dias_2026>
+
+[77796]
+Our sister has been prescribed a lot of psychiatric medications,
+some of which have contraindications. She is experiencing what we
+believe to be serious side effects and has poor mental
+health. We want to write a letter to her prescriber
+expressing our concern, and asking whether the medications can be
+reduced and simplified, so there are no contraindications. Write a
+persuasive letter.
+
+[43131]
+Describe in great detail the history of my made up
+world, consisting of one continent of Mira. There are three
+major nations competing with each other and many minor nations
+and city states. The setting is steampunk.
+
+[20582]
+You are a marketing executive with sales experience. Write a
+Google ad for an app that helps nursing students to
+pass their dosage calculation test. The app is very fun,
+written by an experienced nurse, doesn't required super math skills.
+If you like Cardi B, you'll enjoy this app. It
+helps nursing students get the degree they want. Write a
+Google ad for this app.
+
+[45760]
+Write a GitHub description for my project which is a
+demo of FPS shooter game made in Unity Engine 5.
+Include a random app version, detailed system requirements, date of
+publish and some random names for contributers.
+
+[17203]
+As a ACCA student/trainee write some unique realistic practical statement
+for ACCA PER objective on Collect and evaluate evidence for
+an audit or assurance engagement to reflect working activities on
+some of elements of this objective with some realistic working
+illustrations.
+
+[79735]
+You are a historical romance writer. Write a 3,000-word chapter.
+The setting is the Philippines during the early 19 th
+century. The main character is a Spanish priest who wants
+to go against the corrupt Spanish government. He meets a
+beautiful Filipino man and falls in love. Use the style
+of JK Rowling.
+
+[33201]
+Act and strictly speaking like Jarvis in the Ironman movie,
+I'll ask a question and you will answer it like
+how Jarvis act in the movie, use JARVIS tone of
+voice and phrases to make the output amazing: Me fale
+qual a idade exata de quem consume conteudo sobre conserto
+de roupa no Brasil?
+
+[23185]
+How to make my product viral on TikTok? We sell
+Valentine flag for couple, age from 20 to 40 year
+old. Please be specific and detail on selling point, pain
+point and viral hook for customer.
+
+[18908]
+Quimbaya is a craft rum brand, made by sugarcane farmers
+in Colombia (called trapiches). They are creating a special edition
+to celebrate the local Colombian communities for export markets. Create
+the a press release introducion the rum edition in Colombian
+Spanish. Tone should be happy, warm, and sophisticated. Keywords: 100%
+orgullo Colombiano, ron artesanal, trapiches.

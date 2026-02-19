@@ -1,3 +1,0 @@
-How do I use testing library to write a test
-for a responsive layout bug that appears when the browser
-is zoomed in to 125%?

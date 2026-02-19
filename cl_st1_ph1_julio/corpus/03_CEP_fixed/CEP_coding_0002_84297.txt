@@ -1,5 +1,0 @@
-I am developing a web app. I have this region-of-interest
-Element, in which everything I build in real-time on the
-DOM. I want to make a sort of preview element
-inside which everything in ROIframe is copied and shown in
-real time, as the DOM in ROIframe is manipulated.

@@ -1,7 +1,0 @@
-Using bash, I would like to take a files that
-holds N lines of text and break it to M
-files, each holding N/M lines of text from the original
-file. If the original file was all_lines.txt with N=99 lines
-and M neing 10, this would results in part_lines_01.txt holding
-lines 1-10, part_lines_02.txt holding lines 11-20... finally, part_lines_10.txt holding 91-99.
-Can you help write this bash command?

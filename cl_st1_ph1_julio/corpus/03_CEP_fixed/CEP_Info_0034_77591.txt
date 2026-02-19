@@ -1,3 +1,0 @@
-From the programmers point of view, what is the difference
-between RS232 and RS485? Does he need to write different
-programs for both of the cases?

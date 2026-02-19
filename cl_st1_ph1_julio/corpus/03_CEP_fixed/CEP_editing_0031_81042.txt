@@ -1,3 +1,0 @@
-I've received an email message that's not encoded in a
-way Outlook recognizes. Can you make sense of this line
-of text from it? [Text_to_Fix]

@@ -1,5 +1,0 @@
-Hi i need to finish a application to get ai
-to control computer using images from webcam and speech to
-text , text to speech , and voice recording, mediaplayer
-pause/play/rewind et cetera , and browser refresh back search, scroll
-and play media.

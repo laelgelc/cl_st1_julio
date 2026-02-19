@@ -1,4 +1,0 @@
-Now, lets say I have a Viewer (Limited --> cant
-see revenue) access to a YouTube channel. Can I use
-the YouTube studio API to extract data via an ETL
-process? Show me how do I achieve this.

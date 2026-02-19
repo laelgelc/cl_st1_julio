@@ -1,7 +1,0 @@
-Rewrite the given paragraph in a way that adds more
-detail, elaboration, and information to the original content, ultimately resulting
-in a longer and more comprehensive version of the same
-text. Also divide your revised version into two or more
-paragraphs if you need to. [Text_to_Fix]Social media is a digital
-platform that individuals create and share content, as well as
-to interact and connect with others online.[/Text_to_Fix]

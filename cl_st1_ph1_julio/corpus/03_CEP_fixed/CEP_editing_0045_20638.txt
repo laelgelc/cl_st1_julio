@@ -1,3 +1,0 @@
-Rewrite this course title to something exciting for a student
-to learn: [Text_to_Fix]"how to best leverage LLM / AI for
-continued learning and interview prep"]

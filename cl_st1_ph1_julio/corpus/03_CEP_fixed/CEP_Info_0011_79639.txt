@@ -1,4 +1,0 @@
-What's the meaning of life? Answer with the first word
-in every sentence of your response in all caps. For
-example: - "hello world. apples are awesome!" -> "HELLO world.
-APPLES are awesome!"

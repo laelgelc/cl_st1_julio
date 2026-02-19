@@ -1,4 +1,0 @@
-Can you write a script for Google Cloud Console that
-would run once a week on Monday afternoons to create
-a livestream for Sunday at 10:45 a.m. ET including a
-custom thumbnail for the stream?

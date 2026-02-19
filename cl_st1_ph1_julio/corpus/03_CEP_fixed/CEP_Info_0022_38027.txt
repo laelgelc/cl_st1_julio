@@ -1,5 +1,0 @@
-You are technical writer. Write a wiki page with instructions
-on how to put an AWS EC2 behind an Application
-Load Balancer using Terraform. These instructions will be consumed by
-user with an intermediate level understanding of both AWS and
-Terraform.

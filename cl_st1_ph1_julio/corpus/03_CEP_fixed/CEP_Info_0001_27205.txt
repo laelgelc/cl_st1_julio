@@ -1,4 +1,0 @@
-Which of the following is/are the characteristics of IoT? a.
-Efficient, scalable and associated architecture. b. Unambiguous naming and addressing.
-c. Abundance of sleeping nodes, mobile and non-IP device. d.
-[Text_to_Fix]All of the these[/Text_to_Fix].

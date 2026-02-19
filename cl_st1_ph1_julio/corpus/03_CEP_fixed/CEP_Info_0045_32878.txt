@@ -1,3 +1,0 @@
-Elaborate the steps involved in establishing performance measurement for a
-function or process that is running on a software and
-what would that may lead to?

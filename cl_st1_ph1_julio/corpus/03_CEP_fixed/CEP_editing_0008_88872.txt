@@ -1,7 +1,0 @@
-After this input, I will provide you with small texts
-and you will have to summarize the most important things
-and take notes. Print out the notes, after printing out
-the notes, you have to briefly print the text like
-a high school teacher (so, students would only receive the
-most important information). Provide me only with information that could
-be on a test.

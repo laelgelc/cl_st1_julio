@@ -1,6 +1,0 @@
-I want to translate the software GUI from English to
-Traditional Chinese. The software is about network management for networking
-devices. The GUI string file is in XML format. Your
-response will be in the same XML format provided and
-only translate the strings inside the XML code. My first
-XML content is as below. Code_Snippet

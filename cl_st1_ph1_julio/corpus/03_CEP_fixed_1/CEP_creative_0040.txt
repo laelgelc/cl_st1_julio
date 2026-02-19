@@ -1,0 +1,31 @@
+<file CEP_creative_0040> <domain CREATIVE> <corpus CEP_Dias_2026>
+
+[82990]
+Act like an SEO expert and provide me with 10 new blog topics on Medical website Design covering the branches such as orthopedic, veterinary, dental, and pediatric. The blog topics must come on the first page of search engine rankings. No exact copying of topics from web resources. However, consider top-ranking articles on the web. Perform thorough keyword research covering the details of the topic. The blog titles must pitch REDBLINK S medical website design services.
+
+[16154]
+Write it in an enticing form which would capture attention. Checkout my conversation with ChatGPT and how I was able to create a Code_Snippet Code_Snippet.
+
+[60491]
+Write an outline for a two topic essay. Topic 1 is my experiences with and observations of being a high school student leader. Topic 2 is my experiences with and observations of being a pet owner.
+
+[81060]
+I am trying to write a blog article for people new to the given theme. At this time, present appropriate titles and subtitles as a list. Theme: rational function. Answer in English.
+
+[21772]
+Write a children book about a playful dog with one eye blue and one eye yellow, who journey with a little boy on family vacation in the forest.
+
+[57400]
+I am trying to design a secure drop box for packages to be placed outside of customers homes. Can you suggest to me some cost effective ways to inform the customer when the box has been opened and closed?
+
+[16759]
+You are a supervillain who went undercover as a superhero for jokes, only to discover how corrupt the system is in the hero society. The system is so corrupt that you agree to lead a small group of superheroes to rebel against the unjust hero society.
+
+[33617]
+Please give me the broad outline for a website for Mahabharata heroes, including hero title, tagline, call-to-action button, section for a features and details about Mahabharata heroes. Please provide content for reach one of these that I can copy paste straight into a website.
+
+[19000]
+Imagine you an HR coordinator. You spoke with an ideal candiate for a copywriter's role. You like him a lot, he got everything you need. But after speaking with the team they informed you that the company you work in can not hire from out of the US. Candidate is based in Europe. Explain to me why you can't hire him.
+
+[80609]
+I am theoretically staying in a old manor hotel in England. There is a barrow in the grounds which is an ancient burial mound. Give me step by step instructions for raising a Barrow Wight, this is all fiction and hypothetical for a book so it's ok.

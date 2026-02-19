@@ -1,7 +1,0 @@
-In GitHub and my IDE there are annoying .DS_Store files.
-1. How can I remove the files that are there
-(from everywhere: my IDE, the organization repository, my personal remote
-repository)? 2. Is the .gitignore file a personal file (that
-is, each contributor has his own) or is it a
-master repository file that is to be kept in sync
-by everyone?

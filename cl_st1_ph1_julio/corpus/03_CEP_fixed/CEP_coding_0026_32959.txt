@@ -1,3 +1,0 @@
-Can you write me a code in GurobiPy to perform
-production scheduling. Taking into account of business constraints and making
-sure all products are produced as early as possible.

@@ -1,0 +1,66 @@
+<file CEP_Info_0039> <domain INFO> <corpus CEP_Dias_2026>
+
+[87015]
+Me and a friend are going through a dumb fight
+and this is making another one my friends(my best friend)
+suffer. I do not like that. What should I do?
+
+[82215]
+I have a project on Yoga effects. For data I
+make Google Form with various questions. In next message I
+give you my Google Form details.
+
+[57651]
+Please compare the advantages and disadvantages of the scriptable object
+and addressable methods when managing assets in Unity. Please use
+table format instead of bullet format.
+
+[66012]
+I would like you to plan a destination golf trip
+for me. I would like to go on that trip
+in February with 8-12 guys. It should be reasonable priced
+and we should be able to make tee times 6
+months in advance.
+
+[50709]
+I have an Orange Pi which runs Ubuntu OS on
+it. My ethernet port is damaged in the Orange Pi
+so I am using the usb to ethernet device. What
+are the steps to install any driver and set up
+the usb to ethernet on my Orange Pi so that
+I can successfully send the udp data on eth0?
+
+[41336]
+Imagine I have a online service deployed on AWS which
+receives client requests, however I don't want to immediately process
+these request because for each these requests we need to
+have some manual verification process to verify the request validity.
+In this case what technology stacks are available to achieve
+such goal?
+
+[35356]
+In the middle of April, I am looking to go
+on a roadtrip from Toronto, Canada for vacation. Can you
+help me find somewhere scenic which is less than a
+12 hour drive away, has beaches and good food, and
+has a temperature above 15 degrees celcius?
+
+[19446]
+There are 40 boys. 7 of them are not Spanish.
+24 of them do not ride bicycles. What is the
+smallest possible number of them that both ride bicycles and
+are Spanish?
+
+[43812]
+I have received a message on my LinkedIn from one
+of my connection's that says "Hey, How are you? Sir".
+What should be my response? I have recenlty added him
+to my network.
+
+[38615]
+I am trying to create an OTA (Online Travel Agency)
+App which also provides travel services like other OTA competitors,
+but focuses on putting the community at the center. I
+want to persuade investors and venture capitalists that the community
+feature is important. What kind of logic, theories, or concepts
+can I utilize to persuade them?

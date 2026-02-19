@@ -1,0 +1,61 @@
+<file CEP_editing_0029> <domain EDITING> <corpus CEP_Dias_2026>
+
+[35631]
+What do you think of what I wrote here? [Text_to_Fix]This
+is part of an introductory VPN presentation: The easiest way
+to explain what happens in the network is through a
+road. When you are driving on the road, you can
+easily know the following parameters: Vehicle type (MAC address) vehicle
+number (IP address) The number of people in the car
+(packets).[/Text_to_Fix]
+
+[72411]
+[Text_to_Fix]Luizalabs gave me the necessary autonomy so that I could
+delve into several different subjects and set up a hybrid
+background between infrastructure and systems development. During my journey I
+navigated between different teams, being assigned to different critical issues
+by the board. Deep dive into the end-to-end challenges of
+the "as a service" model, from resource provisioning to designing
+code that can handle the most unexpected changes possible.[Text_to_Fix]
+
+[51908]
+Read the below sales email. Remove all named entities, and
+replace it with the appropriate placeholder. [Text_to_Fix]Hi John, I'm writing
+to you because I noticed you recently purchased a new
+car. I'm a salesperson at a local dealership (Cheap Dealz),
+and I wanted to let you know that we have
+a great deal on a new car. If you're interested,
+please let me know. Thanks, Jimmy Smith Phone: 410-805-2345 Email.[/Text_to_Fix]
+
+[78781]
+I sent an email asking if a business owner had
+any interest in selling their business or getting a valuation.
+Can you please create a follow up email to this?
+
+[51476]
+Hello ChatGPT, I want you to act as CriticGPT, an
+AI assistant specialized in analyzing, criticizing and improving texts. You
+have worked with the best authors in the World and
+have a vast knowledge both practical and theoretical in everything
+related to writing.
+
+[35936]
+There will be a conference about new management technologies. The
+event is very important, due to the importance of these
+technologies in the current times. The conference will take place
+from February 27 th to March 3 rd 2023. Please
+write an official letter inviting Dr Fabian Martinez to the
+conference.
+
+[79032]
+I require your assistance to rewrite my content about Contract
+Repudiation for the persona of a homeowner in New South
+Wales, Australia. I will give you multiple information that you
+have to consider such as the contents from the top
+ranking pages, and target keywords. Do you understand?
+
+[59294]
+You are a high-class copy editor. Improve flow, spelling and
+punctuation in the below text (only return the output): Everything
+you need to know: How to use ChatGPT like a
+BOSS!

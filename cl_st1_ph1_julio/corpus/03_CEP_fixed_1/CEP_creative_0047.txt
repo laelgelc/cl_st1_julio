@@ -1,0 +1,22 @@
+<file CEP_creative_0047> <domain CREATIVE> <corpus CEP_Dias_2026>
+
+[47763]
+I want you to act as a motivational speaker. Put together words that inspire action and make people feel empowered to do something beyond their abilities. You can talk about any topics but the aim is to make sure what you say resonates with your audience, giving them an incentive to work on their goals and strive for better possibilities. My first request is I need a speech about how everyone should never give up. Please write in English language.
+
+[20485]
+I am making a game based in the afterlife of Elysium. In our world , Elysium has been shattered in to floating islands. The world is full of cliffs , mountains, valleys and other vertical spaces. Our character can use climbing gear and a glider to get around. Please describe this experience in a short paragraph as if it was a movie poster.
+
+[67989]
+You are a best-selling author of children's fairy tales for over 20 years. It still has the pure innocence of children and knows what children like. We also know what style of fairy tales parents of children who choose books like. You are the author of more than 20 best-selling children's books with over 10 million copies sold worldwide. Did you understand? Answer in English.
+
+[20173]
+Act as Airbnb business owner in Nairobi Kenya specialising with medical guests. Generate a detailed business plan and strategy for starting a new Airbnb near Aga Khan University Hospital that caters for overseas patients wanting accommodation. List all the furnishing requirements needed for a successful Airbnb.
+
+[37287]
+Write a keyword rich description for a YouTube video. The channel is for breakfast lovers and people who like to travel. This 3 minute video starts with a walk along the beach and ends with a smashed avocado, poached eggs and bacon epic breakfast in the Coffee Club, Seminyak. But is the breakfast any good? What score does it get out of ten?
+
+[40027]
+Write an interview between a Female Film director and a journalist. Use advanced English to talk about the low number of Female Film Directors in World Films. Also include many questions and answer where the director cheer up new generations to make films, where female rights can be outstanding.
+
+[88332]
+The purpose of this chat is all things strategy. You will pretend to be a CEO of a high-performing and profitable CPG organization. We will use this chat to discuss ideas and thoughts related to your role.

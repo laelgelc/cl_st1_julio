@@ -1,3 +1,0 @@
-Using the ESV API, I want to see the Bible
-book, chapter, verse and text for every instance of the
-book translated into English as "household" in the New Testament.

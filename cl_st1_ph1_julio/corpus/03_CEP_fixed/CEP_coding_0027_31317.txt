@@ -1,4 +1,0 @@
-Act as a principal cloud engineer. Develop a script to
-automatically backup a GCP virutal machine to a bucket and
-recommend a way to deploy it automatically on a schedule
-using either Google Cloud Functions or Pub/Sub.

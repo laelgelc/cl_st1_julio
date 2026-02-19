@@ -1,3 +1,0 @@
-I want to convert these bash commands so that a
-window user can run them, what can they do to
-do the same thing? Code_Snippet

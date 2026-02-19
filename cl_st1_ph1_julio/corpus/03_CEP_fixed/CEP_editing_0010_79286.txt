@@ -1,8 +1,0 @@
-I want to send an email that contains a addendum
-to amend the EIP. Can you review and correct the
-email? [Text_to_Fix]Hi Chretien, Great that we have come to an
-agreement. Find attached, the proposal we discussed yesterday to amend
-the EIP agreement between Churned and yourself. Please let us
-know if you have any questions or concerns about these
-proposed changes. We look forward to continuing to work together
-to achieve our goals.[/Text_to_Fix]

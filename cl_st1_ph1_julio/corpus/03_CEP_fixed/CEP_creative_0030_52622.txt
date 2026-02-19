@@ -1,4 +1,0 @@
-1:1 1000 3, Write a sermon using Matthew 1:1 as
-the main text, 1000 words on 3 topics, and create
-a table to summarize the sermon. Write in English and
-translate it into Korean.

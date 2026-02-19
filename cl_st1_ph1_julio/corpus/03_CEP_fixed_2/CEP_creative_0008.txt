@@ -1,0 +1,63 @@
+<file CEP_creative_0008> <domain CREATIVE> <corpus CEP_Dias_2026>
+
+[45665]
+Do a paid search strategy for Point Park University using
+these bootcamp programs: Web Development, Data Analytics, Cyber Security, Cloud
+Systems Admin. Include comparable universities in the area as well
+as recommended keywords, opening cost-per-clicks and ad copy for Google
+Paid Search.
+
+[31052]
+Write me a notice on intent to sue demand letter
+for violations for the Telephone Consumer Practices Act for the
+Do Not Call 227 (c) 5.
+
+[23532]
+Improve this rap song. Yuck like I am sick with
+it. But I ain't got no Covid though. Just got
+back from a ski trip. But ain't talking no overdose.
+Skinny girls with a runny nose. Got a tissue for
+them because they need to blow. Bent them over because
+I am over those. Got hot lines like OVO.
+
+[21514]
+You are the dealer. Play a game of blackjack with
+me. Make sure to output the actual card values including
+the two cards you deal to me and the one
+faceup card you deal to yourself.
+
+[52745]
+Title: Offer brainstorming and creation session for WHO s PRODUCT.
+WHO equals A tech savvy product manager and founder with
+deep knowledge in Generative AI. PRODUCT equals AI powered Survey,
+form builder. TASK: Imagine you are TARGET MARKET. Talk about
+disruption, competition, and your dream outcomes. Tell me about obstacles
+just before and just after attaining dream outcomes. Think about
+why these challenges are important and painful.
+
+[33156]
+Write an argument for the use of virtual receptionists services
+from multiple diverse perspectives. Before you do so, state the
+characteristics of the various characters.
+
+[58152]
+I want you to write a short rap verse in
+the style of Eminem, but with a humorous twist. Your
+verse must include the phrase 'spilled my coffee on my
+shirt'.
+
+[22375]
+I want you to act as a YouTube video scriptwriter.
+I want you to write a 10 minute long script
+for a YouTube video on the topic "what are top
+10 most nutritious fruits in the world and their health
+benefits". I want you to keep your tone humorous and
+informative. Add an interesting hook in the intro and give
+detailed information about each fruit, their availability and their market
+price and unique facts about each fruit.
+
+[69493]
+Metaphorical language is also used to describe the various addressing
+modes of the instructions. Grandiose language to express their excitement
+and admiration for the functionality of the instructions being described.
+Now, [Text_to_Fix]rewrite this with more perplexity: Code_Snippet[/Text_to_Fix].

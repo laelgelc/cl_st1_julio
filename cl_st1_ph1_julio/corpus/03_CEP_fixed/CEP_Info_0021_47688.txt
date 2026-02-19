@@ -1,8 +1,0 @@
-You are a clinical researcher. I want to design a
-clinical Phase III study in a cardiac surgery with fibrinogen
-as active treatment against a control group with cryo. The
-primary endpoint is the difference in APB. For a non-inferiority
-study, assuming a non-inferiority ratio of 1.2 and an expected
-ratio of 0.93 in favor for fibrinogen, what would be
-potential statistical tests for the primary endpoint and for the
-sample size calculation?

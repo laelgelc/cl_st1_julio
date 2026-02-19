@@ -1,6 +1,0 @@
-Figma API does not have proper guide to apply auto
-layout in components or frames. We are implementing functionality which
-does drag and drop frames inside Figma canvas by using
-Figma JSON and try to apply autoLayout properties using Figma
-API. Please write a sample code to apply autolayout in
-Figma canvas by using Figma API.

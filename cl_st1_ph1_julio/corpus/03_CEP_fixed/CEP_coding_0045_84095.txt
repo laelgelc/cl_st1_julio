@@ -1,7 +1,0 @@
-Can you give me a Python script that will take
-in a project name, repo name, and two git branches,
-and use the Azure DevOps API to get all of
-the commits for both branches, then filter for the ones
-that are on the second branch that are not on
-the first? Then with those commits, return a list of
-all the unique linked work items.

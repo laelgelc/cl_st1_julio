@@ -1,3 +1,0 @@
-You will be receiving a literature text in chunks. Your
-task is to wait for all the chunks and then
-follow further instructions. Wait for me to start.

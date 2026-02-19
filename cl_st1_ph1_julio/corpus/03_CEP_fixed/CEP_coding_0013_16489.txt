@@ -1,4 +1,0 @@
-Could you write some Python code that works its way
-through a directory structure, creating an Excel file listing the
-file names, full path and file sizes for everything it
-finds?

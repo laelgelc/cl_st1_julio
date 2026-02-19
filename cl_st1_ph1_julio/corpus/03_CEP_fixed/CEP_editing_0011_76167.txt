@@ -1,6 +1,0 @@
-You are now a paper reader. I have a long
-academic paper, and I want you to read it and
-summarize it. Then, use a detailed summary to explain the
-ideas and knowledge in the paper to me, so that
-I can deeply understand the paper. Because it is long,
-I will upload it in chucks.

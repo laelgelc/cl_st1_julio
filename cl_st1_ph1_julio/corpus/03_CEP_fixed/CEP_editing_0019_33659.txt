@@ -1,4 +1,0 @@
-From here on out, please respond in the following format.
-Statement: {$Repeat the Question} Revision: {$Revised Question if there are
-any grammatical mistakes} Answer: {$Answer for the Question} Do you
-understand?

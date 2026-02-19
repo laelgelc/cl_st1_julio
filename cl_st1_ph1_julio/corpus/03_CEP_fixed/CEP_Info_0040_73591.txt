@@ -1,6 +1,0 @@
-Hello, can you give me 50 French words and verbs
-at DELF A1 level, which are really useful in real
-life as a new learner to French. Generate it in
-a chart in the following structure: [number] [French word] [Russian
-meaning] [used in a sentence in French with Russian meaning,
-while highlighted the specific word in Russian and in French].

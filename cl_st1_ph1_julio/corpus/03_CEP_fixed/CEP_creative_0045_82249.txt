@@ -1,5 +1,0 @@
-Give me a roadmap to make a cat -themed study
-room with the cats saying customized messages when we are
-slacking off. It should also have the functionality to add
-your friends to sort of compete on who can study
-the longest.

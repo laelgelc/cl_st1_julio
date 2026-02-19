@@ -1,0 +1,72 @@
+<file CEP_Info_0028> <domain INFO> <corpus CEP_Dias_2026>
+
+[51836]
+We are going to Guana Cay from 3/14 through 3/20
+and are looking for activities and an itinerary. We like
+to snorkel, go on chartered boat trips, hiking, kite surfing
+if conditions are good, restaurants, and good drinks. We are
+open to going to other close islands and will be
+renting a golf cart on the island. We will cook
+probably half the time.
+
+[78743]
+Based on central estimates only, historical cumulative net CO2 emissions
+between 1850 and 2019 amount 16 to about four-fifths45 of
+the total carbon budget for a 50% probability of limiting
+global warming to 1.5 C 17 (central estimate about 2900
+GtCO2), and to about two thirds46 of the total carbon
+budget for a 67% probability 18 to limit global warming
+to 2 C (central estimate about 3550 GtCO2). {3.3.1, Figure
+3.5}
+
+[52724]
+Give a sentiment score from 1 to 10 to the
+following review, where 1 is very bad and 10 is
+very good. I love AllItalia.
+
+[73658]
+Help me compile a list of things I should initially
+do while starting my job a new-member marketing manager (I
+am trying to increase the number of new members with
+the NACDL). I want to get ahold of the Google
+Analytics data, set up Microsoft Clarity for session tracking, and
+want a few other things on my to do list.
+
+[61353]
+Why is it necessary to prove that the subspace topology
+is equivalent to the topology induced by the restricted metric?
+The metric computation remains exactly the same, it is just
+restricted in its inputs!
+
+[27187]
+I'll ask you to tag me in the future. 1.
+Tags must put # in front of words. 2. Words
+need to stick together. 3. When splitting words, you should
+split them with "," I understand?
+
+[37349]
+In Burger King Hungary, you get point 1 point for
+each 100 Huf spent, after you collect a certain amount
+of points, you can exchange it for selected free foods
+and drinks, can you help me calculate which item is
+the best value per points?
+
+[85499]
+Please tell me some interesting information and background on John
+Singer Sargent's "blind musician" painting. Include specific details I should
+look for when viewing it as well as some historical
+context.
+
+[61221]
+You are a product manager responsible for the reservations platform
+for a point-of-sale company. What metrics would you track on
+a regular basis to determine overall product health?
+
+[79909]
+Consider I am using Moodle, list the topics and module
+types I should use to teach human cell biology to
+11 th graders, add teacher instructions that uses Higher-order thinking
+skills for students to each module, output as JSON were
+the title field is used for the topic and the
+intro field for the instructions and the type field for
+the Moodle module type.

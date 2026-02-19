@@ -1,3 +1,0 @@
-The project is a Node.js address, how do I access
-the contents of an external file on the server from
-a project running in DOCKER?

@@ -1,4 +1,0 @@
-The Bollog book service is a service that allows customers
-to access the website and publish paper books using a
-solution that automatically edits SNS data through linkage. Do you
-understand what kind of service this is?

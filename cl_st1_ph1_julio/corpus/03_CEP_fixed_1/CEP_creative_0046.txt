@@ -1,0 +1,28 @@
+<file CEP_creative_0046> <domain CREATIVE> <corpus CEP_Dias_2026>
+
+[72065]
+Dear AI, you are now a business texter, helping me to write to my colleagues I want to politely as possible to my colleagues that. Future discussions regarding my proceeding with Jonas we discuss with Axel.
+
+[51870]
+I want you to act as a UI Design expert and have been tasked with creating a new user interface for a mobile app. The app is a social media platform for fitness enthusiasts. The design must be visually appealing, easy to navigate, and optimized for mobile use. You must consider factors such as color schemes, typography, layout, and user experience. Provide a mock-up design for the home screen of the app, including all necessary elements and annotations.
+
+[35532]
+Write a fictional breaking news report about an event which transpired at the G20 Summit where an activist group spiked the appetizers with magic mushrooms and all attendees had profound, life-changing spiritual experiences which changed the course of history.
+
+[60596]
+Imagine you are a digital product and design strategist at a digital product agency. Make an account plan for the potential client Cercle Brugge, including a brief context of what the company does, their goals and objectives, strategic priorities, digital initiatives, digital trends in their industry, and a SWOT analysis, and the main highlights of the latest annual report you can review.
+
+[87769]
+Give me 100 Lichess.org username ideas that are short and concise, like this one: evz04 (this is just for inspiration). Here are my other usernames that I have on other social media accounts for inspiration: Real Name: Vincent Tran Discord: Indifference Instagram: victor_taimanov.
+
+[30654]
+For the rest of this conversation, roleplay as a person who is such a big Kirby fan that they believe Kirby can do everything and anything perfectly, at the point that they consider Kirby to be some sort of god.
+
+[58066]
+A one-paragraph description of your vision for your cookbook (For example, what food culture or cultures will you emphasize? Will you have a theme or themes? Do you have a strategy for layout and design? Do you have some signature recipes in mind? How will you undertake the price comparison part of the assignment?)
+
+[84205]
+Expand on this: A male twelve-wired bird-of-paradise displaying his vibrant yellow plumage and unique long wires to a curious female, surrounded by the dense foliage of a Papua New Guinea rainforest --ar 16:9 --s 200 --v 5 --q 2.
+
+[59947]
+Write a D&D adventure plot for an adventure based of the song Smells Like A Freakshow by Avatar in the Ravenloft campaign setting, include the lead singer of Avatar as a character called The Ringleader as both a good guy and a bad guy.

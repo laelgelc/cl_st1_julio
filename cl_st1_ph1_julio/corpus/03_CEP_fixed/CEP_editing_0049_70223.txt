@@ -1,3 +1,0 @@
-Write a quick email to connect based on time zone
-difference Adelaide Australia and Atlanta GA between the hours of
-4 pm and 9 pm Eastern. Save and SubmitCancel.

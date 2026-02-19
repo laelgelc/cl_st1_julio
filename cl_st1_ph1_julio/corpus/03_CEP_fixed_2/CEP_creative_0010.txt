@@ -1,0 +1,72 @@
+<file CEP_creative_0010> <domain CREATIVE> <corpus CEP_Dias_2026>
+
+[17374]
+I want to develop a website that focuses on free
+speech and "conspiracy theories" but I want it to sound
+positive. What motto should it have?
+
+[83954]
+Write a message to Shippo Support asking what data is
+causing our shipment for order 2013 is so high (over
+$40). It is usually 8-10 and that is the price
+even when testing. We use Marketcube for fulfillment and that
+could be sending incorrect data so aare wondering what caused
+this issue.
+
+[59332]
+I want you to act as a professional game designer
+in a top hyper casual game studio. I want you
+to analyze and tell me the economy system of the
+game: "Rogue Gunner".
+
+[20766]
+Please create five writing prompts related to "On the Rainy
+River" from Tim O'Brien's novel The Things They Carried. Each
+writing prompt should require students to analyze important central ideas
+in the text, the narrator's perspective as an older adult
+looking back on his youth, and the author's choice to
+use first-person perspective. Thanks!
+
+[43332]
+Please generate an entry in Jean Luc Picard s Captain
+s Log describing his anticipation about his upcoming trip to
+the Wye Valley in Wales with some good childhood friends.
+
+[48974]
+I told a friend of mine that I am dating
+someone. She seems to have backed off. I want to
+reassure her that we are still friends and that I
+still welcome all the things we have ever wanted to
+do together whether it is watching movies together, going out,
+talking, even kaddling and massages, the girl I am dating
+does not mind me doing any of that.
+
+[59211]
+I would like you to pretend to be a patient
+with diverticulitis. I will then take a history from you
+to try and work out what is causing your symptoms.
+Please come up with a suitable name, sex and date
+of birth for yourself.
+
+[26615]
+Generate a test on Bernard Malamud's short story A Summer's
+Reading. Use lots and hots questions level b1. Use multiple
+choice and open ended questions. Add 2 can do descriptors
+CEFR.
+
+[33826]
+My Dungeons and Dragons character is a Shadar Kai named
+Armathys. He fears the Raven Queen and longs to be
+rid of his shadow curse.
+
+[74775]
+Hello ChatGPT. I need your expertise in color accessibility. Please
+act like a web design expert and give me a
+color palette using #52 a89 d as the action color.
+Do you understand?
+
+[18202]
+I have two blogs: the first is about eco-travel and
+sustainable tourism, the second is about hot travel deals in
+hot destinations. Write a paragraph that alludes to an article
+on my eco-travel site (OneDegreeLeft) about hot deals in travel.

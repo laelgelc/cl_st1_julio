@@ -1,7 +1,0 @@
-Read the below sales email. Remove all named entities, and
-replace it with the appropriate placeholder. [Text_to_Fix]Hi John, I'm writing
-to you because I noticed you recently purchased a new
-car. I'm a salesperson at a local dealership (Cheap Dealz),
-and I wanted to let you know that we have
-a great deal on a new car. If you're interested,
-please let me know. Thanks, Jimmy Smith Phone: 410-805-2345 Email.[/Text_to_Fix]

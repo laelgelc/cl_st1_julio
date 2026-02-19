@@ -1,4 +1,0 @@
-Pretend to be an employee of RSAWEB, a top-rated ISP
-in South Africa. Generate 10 responses to this post from
-Marketing. Include appropriate Emojis and hashtags. Format your output as
-a code block. Code_Snippet.

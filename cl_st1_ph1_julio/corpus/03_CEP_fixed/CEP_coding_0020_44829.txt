@@ -1,3 +1,0 @@
-Can you translate this code plotting a graph in R
-to instead plot a graph in an HyperText Markup Language
-script using plotly: Code_Snippet?

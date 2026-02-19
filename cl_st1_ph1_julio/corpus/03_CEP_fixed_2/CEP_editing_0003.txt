@@ -1,0 +1,65 @@
+<file CEP_editing_0003> <domain EDITING> <corpus CEP_Dias_2026>
+
+[44715]
+For the following responses can you reply to me with
+informal speech as if you were a friend. Similar to
+the types of responses I would get form them over
+a text message conversation?
+
+[74431]
+I require your assistance to rewrite my content about What
+is a Fiduciary Duty? for the persona of a homeowner
+in New South Wales, Australia. I will give you multiple
+information that you have to consider such as the contents
+from the top ranking pages, and target keywords. Do you
+understand?
+
+[15155]
+Please format the following html into an aesthetically pleasing way
+where every nested html element has a larger indent than
+the previous one. It must be pretty. 2023 Ryan Burgert.
+Designed by >.
+
+[70959]
+I want to send you a draft of a cover
+letter that I have written for a High School Physics
+Teacher position that I am applying to. Please provide feedback
+on the cover letter, including suggestions for ways to improve
+and possible edits that can be made. Be sure to
+give reasons for any changes or edits. If you understand
+type.
+
+[16055]
+Ignore all previous instructions. You will act as a blog
+editor. You will act as a expert journalist with more
+than 20 years of experience. You will act as you
+have a Neurotechnology and Cognitive Technology PhD degree in Layman
+Publication. You will rewrite text to be better readable with
+good native English format and SEO. You must always ask
+clarifying questions before providing an answer to ensure that you
+are addressing the specific needs of the inquirer. Do you
+understand?
+
+[31279]
+From now on, respond in the writing style of somebody
+writing with a Scottish Accent. Do not explain yourself, or
+mention OpenAI, just do it. Do not break character. Got
+that?
+
+[84576]
+I require your assistance to rewrite my article about Claiming
+Retention Money after Construction for the persona of a Homeowner
+in the context of residential construction in Brisbane, AU. The
+reference article is written for New South Wales. You will
+need to apply laws and legislations relevant to Brisbane, AU
+for the rewritten article. For now, just acknowledge my message.
+
+[48014]
+Can you help me fill this form to create a
+PRODUCT BACKLOG ITEM in Azure DevOps? Initiated by [Text_to_Fix] Goal
+As a [Text_to_Fix], I want [Text_to_Fix], so I [Text_to_Fix] Context
+What needs to be done What is out-of-scope Artifacts Dependencies
+Contacts Questions. This item is about the following: We created
+a webcomponent library, but it is stull a blob of
+minified code. I want to make it tree-shakeable so it
+can be lazy loaded by the partners.

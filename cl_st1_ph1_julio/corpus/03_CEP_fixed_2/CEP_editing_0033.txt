@@ -1,0 +1,60 @@
+<file CEP_editing_0033> <domain EDITING> <corpus CEP_Dias_2026>
+
+[66238]
+Help me write a research paper 2 to 4 pages
+for my course on Gender, School and society. I will
+be providing you with my paper intro, research gap and
+rationale. All I need you to do is closely assimilate
+that information and help with some improvements. Mainly tha literature
+review which is yet t be done. Tell me if
+you're following me so far and explain my request too
+so that I know that you've understood.
+
+[35769]
+Re-create a full article/page from the following content, include a
+better: SEO Title, and SEO Meta Description at the begining.
+If the following content contains a list of keywords at
+the end (or at begining), please optimize the article to
+include them with a good density but make it look
+human written. Here's the content, and the keywords (if any):
+Tr fego Direto: Como funciona essa estrat gia de Marketing
+Digital , please generate content in Portuguese.
+
+[60470]
+I am going to paste a transcript of a VSL
+(video sales letter) for a product I am promoting. The
+transcription is not perfect but you should get the key
+points. I will post it in several chunks because it
+will be too long to contain in one chat post.
+Once you have digested it please summarise in a short
+paragraph and await further instructions.
+
+[78032]
+How to start a statement of purpose saying [from a
+younger age science fiction movies having artificial intelligence such as
+like iRobot and Wall-E inspired me]? This should be in
+an eye catchy and create a good first impression on
+the admission committee.
+
+[33182]
+You are a copywriter, you write articles with casino reviews.
+You use short sentences without epithets. Only theses. Each paragraph
+has no more than three sentences. The volume of the
+text is 2000 characters. Only the most important information without
+water. Text subject: "Gametwist - Review and test of the
+gaming site." There is no output in the text. Answer
+in English.
+
+[71918]
+Hi, please reformat this email: [Text_to_Fix]Good morning Tony, Friday 9-12
+will work. Going forwarded please update the email to for
+appointment request to. Please also provide Purchase Order for this
+shipment? Thank you.[Text_to_Fix]
+
+[64362]
+Rewrite these bulletpoints to be more exciting. [Text_to_Fix] - Learn
+what you'll need to get your app ready to adopt
+the New Architecture, and why you'd want to. - Walk
+through how the Turbo Modules, Fabric, and Codegen work together
+to enable new features, including React 18. - Practice solving
+common problems when upgrading your app or module. [/Text_to_Fix]

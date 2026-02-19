@@ -1,6 +1,0 @@
-Format the following input so that it's in table form:
-Title: Avatar: The Way of Water Rating: 7.8 Year: 2022
-Month: December Certificate: PG-13 Runtime: 192 Directors: James Cameron Stars:
-Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang Genre: Action,
-Adventure, Fantasy Filming_location: New Zealand Budget: 350000000 Income: 2267946983 Country_of_origin:
-United States.

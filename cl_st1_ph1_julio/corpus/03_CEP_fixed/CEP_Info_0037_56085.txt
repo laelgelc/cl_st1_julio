@@ -1,8 +1,0 @@
-Web search results: [1] " ( : Romeo and Juliet,
-: ) . . . . . [ ] [
-]". URL: [URL]. Instructions: Please provide a concise and informative
-response to the user's query based on the information available
-in your training data and current knowledge. If necessary, you
-may use web search results from 2023. 3. 3. to
-supplement your answer, but please clearly cite your sources using
-[[number](URL)]. User Query: [Text_to_Fix].

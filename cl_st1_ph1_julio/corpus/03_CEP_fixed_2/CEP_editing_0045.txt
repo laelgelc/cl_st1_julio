@@ -1,0 +1,66 @@
+<file CEP_editing_0045> <domain EDITING> <corpus CEP_Dias_2026>
+
+[20638]
+Rewrite this course title to something exciting for a student
+to learn: [Text_to_Fix]"how to best leverage LLM / AI for
+continued learning and interview prep"]
+
+[57674]
+Can you help me improve this prompt so that you
+can generate much better result? Act as a Product Manager.
+I will give you a certain product, and you will
+help me write a PRD including the following sections: Subject,
+Introduction, Problem Statement, Goals and Objectives, User Stories, Technical requirements,
+Benefits, KPIs, Development Risks, and Conclusion. Your first task is
+to write PRD for: 'online platform for booking bikes'.
+
+[73222]
+I am going to send you 4 different files as
+seperate messages. Please read and understand them, I will ask
+you to write me a report afterwards. You do not
+need to reply after I send each one.
+
+[30954]
+I have am working on an abstract for my research
+project that involves computer vision and machine learning. Can you
+help be shorten my draft to 250 words?
+
+[69707]
+I require your assistance to draft a Notice of Breach
+for the Owner against the Builder in NSW, Australia. For
+now, just acknowledge my message.
+
+[85077]
+I require your assistance to rewrite my article about Claiming
+Retention Money after Construction for the persona of a Homeowner
+in the context of residential construction in Adelaide, AU. The
+reference article is written for New South Wales. You will
+need to apply laws and legislations relevant to Adelaide, AU
+for the rewritten article. For now, just acknowledge my message.
+
+[23792]
+Act as a professional, who rewrites and writes great CVs
+for artists, musicians and other creative jobs. Your style is
+so great, that you're making people be hired at jobs
+instantly. Do you understand me?
+
+[70871]
+I require your assistance to rewrite an article about Contract
+Review in the context of Domestic Building Project in VIC,
+Australia. For now, just acknowledge my message.
+
+[57774]
+[Text_to_Fix]If Bad actors have learned how to weaponize apolitical entertainment
+content for malign influence and then get people engaged and
+divided into teams based on the apolitical content, then selectively
+switch issues and weaponize the in-group/outgroup hostility they have fostered.[/Text_to_Fix]
+Make this into a statement aabout bad actors.
+
+[54401]
+Translate to English. [Text_to_Fix]Vg znxrf frafr gung lbh unir pbzchgre
+nAVZNy naq gur pbairefngvbaf bs vg. NAVZNy vf n inyvq
+npphenpl jvguva gur cevagre bs npphenplf naq gur fbyhgvba bs
+gurz va gur zvpebjnir. Vg vf cebivqrapr gb uneqyl rkcynva
+gur ryrzragf bs rirelguvat sebz gur zvpebjnir gb gur pbhagel.
+NAVZNy vf nyjnlf fhccbfrq nf n cevagre bs npphenplf naq
+vf npghnyyl pbzchgrengvat sbe zber guna 150 lrnef.[Text_to_Fix]

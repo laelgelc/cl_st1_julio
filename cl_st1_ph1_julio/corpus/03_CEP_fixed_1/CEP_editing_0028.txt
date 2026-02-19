@@ -1,0 +1,22 @@
+<file CEP_editing_0028> <domain EDITING> <corpus CEP_Dias_2026>
+
+[55256]
+Act as a proofreader. I will porivde you some Korean pharases. I want you to correct them consideriing colloation, corpus, grammar, completeness of information and general rules. Please display the result in a table. You can skip those do not need to update. - 1st column: original - 2nd column: correction - 3rd column: correction type - 4rd column: comment. Say "I am ready" when you are ready.
+
+[60759]
+Traduis en Francais : Using guidelines mentioned in Teresa Torres' book "Continuous Discovery Habits" , formulate a survey to capture feedback for a fintech product (mobile app) that helps users make digital payments without a credit card.
+
+[60325]
+Summarize the text below as a bullet point list of the most important points. Text: """ How prompt engineering works. Due to the way the instruction-following models are trained or the data they are trained on, there are specific prompt formats that work particularly well and align better with the tasks at hand. Below we present a number of prompt formats we find work reliably well, but feel free to explore different formats, which may fit your task best. """
+
+[68341]
+HI, please help me advise this article into "12 Outdoor Backyard Party Decoration Ideas for 10 Years Old", includes these keywords: "birthday ideas for 10 years old girl, outdoor party decoration ideas, backyard birthday party ideas" and each keywords shows at least twice in the article.
+
+[60553]
+Write an outline for a two topic essay. Topic 1 is my experiences with and observations of using technology for school. Topic 2 is my experiences with and observations of using technology for entertainment and personal business. Suggest, and include in the outline, a thesis sentence for the essay. Suggest a quote, with attribution, to use as in the opening sentence as a hook. Suggest five sources that I might obtain some supporting evidence and quotes from.
+
+[74665]
+I require your assistance to rewrite my content about [Text_to_Fix] for the persona of a homeowner in New South Wales, Australia. I will give you multiple information that you have to consider such as the contents from the top ranking pages, and target keywords. Do you understand?
+
+[76984]
+I would like to revise and improve my key finding from journal article. It is about Korean secondary vocational education and its labor market outcome. I will submit this paper to "International Journal of Educational Development". I am going to give you some sentences, wait for a second.

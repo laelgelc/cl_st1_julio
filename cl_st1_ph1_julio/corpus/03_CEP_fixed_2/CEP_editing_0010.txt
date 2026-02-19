@@ -1,0 +1,61 @@
+<file CEP_editing_0010> <domain EDITING> <corpus CEP_Dias_2026>
+
+[79286]
+I want to send an email that contains a addendum
+to amend the EIP. Can you review and correct the
+email? [Text_to_Fix]Hi Chretien, Great that we have come to an
+agreement. Find attached, the proposal we discussed yesterday to amend
+the EIP agreement between Churned and yourself. Please let us
+know if you have any questions or concerns about these
+proposed changes. We look forward to continuing to work together
+to achieve our goals.[/Text_to_Fix]
+
+[18936]
+Which of the following sentences sounds better and why? 1.
+"Fred jumped off the staircase onto his grandmother s couch.
+He heard the springs snap and realized he had broken
+it." 2. "
+
+[75586]
+Can you type this in professional way? I can easily
+do this. I just need to know which website you
+want me to scrape. I have done similar projects in
+past and I can do it really quickly. Depends on
+the website.
+
+[66345]
+[The bar chart illustrates how many children, divided by gender,
+played six kind of sports (tennis, badminton, cycling, swimming, football
+and hockey) in a town in England in 2012.] Provide
+10 paraphrased form of this introduction for IELTS Writing task
+1.
+
+[37534]
+I am working on a template where I should capture
+the key info on books which I did not read.
+The concise info should be sufficient to let me grasp
+the Author's Key points and receive enough info to be
+able to pretend I read it. I draft this format
+review and suggest changes. [Text_to_Fix]Publication Year: Outline and include the
+headings Detailed Plot Author's Messages with explanations: Message 1: Message
+2: Message 3: Major criticisms 1 st 2 nd[/Text_to_Fix]
+
+[22016]
+Rewrite this email to be professional. [Text_to_Fix]Adam please connect me
+with Sheila and Dan. I would like to discuss moving
+my real estate sale license over to "Lead Realty Consultants".
+If they will have me on the team I will
+need some additional information to provide the Ohio Division of
+Real Estate for a smooth transfer. I have 2 listing
+on deck and would rather have them under my new
+home. Thank you for your help. Stony B[/Text_to_Fix]
+
+[55605]
+Your task is to rewrite the entire text in better
+words and make it unique with natural language. And at
+the end of the article write this "Please support us
+by following us on LinkedIn - [URL]". All output shall
+be in French. The text to rewrite it is this:
+[Text_to_Fix]La diplomatie conomique chinoise et la diplomatie conomique am ricaine
+en Afrique: tude comparative[/Text_to_Fix]. Please write in formal tone, academic
+writing style.

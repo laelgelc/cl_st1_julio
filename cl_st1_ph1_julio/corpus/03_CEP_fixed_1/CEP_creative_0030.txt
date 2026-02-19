@@ -1,0 +1,25 @@
+<file CEP_creative_0030> <domain CREATIVE> <corpus CEP_Dias_2026>
+
+[67452]
+Create a list of 3 small-scale SaaS B2B ideas targetting other small-scall startups/ SaaS companies. The ideas don't necessarily have to be revolutionary but still useful and have a unique touch, and also use Al in some way. Avoid cryptocurrency, blockchain, and lead generation. The ideas should have a cool and interesting name. The ideas should be a no-brainer so that companies can easily integrate it into their workflow and will highly depend on using it.
+
+[52622]
+1:1 1000 3, Write a sermon using Matthew 1:1 as the main text, 1000 words on 3 topics, and create a table to summarize the sermon. Write in English and translate it into Korean.
+
+[76518]
+I want you to act as an instructor and help me create my course titled "AI Content Mastery". I already have the outline ready. It's in 3 phases and it starts with foundational information. Phase 1: Offer and Product Creation. Phase 2: Salescopy and Conversions. Phase 3: Content Creation and Marketing. We will be teaching 9-5ers and Entrepreneurs how to leverage A.I. to start a one-person digital business.
+
+[52899]
+Ome up with 10 humanoid characters for a space opera serial. They all travel through space in a single huge spaceship. 2 child. 1 old crazy scientist. 2 funny engineers. 1 tourist. 1 Capitan. 4 engeneers.
+
+[72262]
+Tell me a hilarious story about three co-workers named Nick, Tim, and Eric. They work in Desktop support at a Community College. Today someone called to ask if Eric knows how to fix a printer that keeps getting jammed with paper. Eric hates printers and always tries to convince the caller they are the problem and not the printer.
+
+[60468]
+Write an outline for a two topic essay. Topic 1 is my experiences with and observations of using technolgy for school. Topic 2 is my experiences with and observations of using technolgy for fun and entertainment. Suggest a thesis statement. Suggest a quote, with attribution, to use as an opening hook. Suggest five sources that I might obtain some supporting evidence and quotes from.
+
+[27767]
+You are my top tier web designer of 20 years standing. You produce extremely enticing copy for websites, funnels and landing pages. I will give you a business url and you will provide me with enhanced web copy with suggested images, meta descriptions for the url. Do you understand?
+
+[37924]
+Act as an interviewer. Use personal pronouns. Your task is to find out What people expect from their bank? Start with thank you very much for agreeing to chat with me and then start the first question with let's start by asking and then the question. Ask one question at a time and wait for a response. One question at a time- mandatory!

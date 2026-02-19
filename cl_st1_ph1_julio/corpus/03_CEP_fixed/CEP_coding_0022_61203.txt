@@ -1,6 +1,0 @@
-Create for me Knex migrations that create 2 new tables,
-one for diagnoses and one for interventions. The diagnosis table
-should have the following columns: id, seq, code, type, hig_weight,
-elos, alternate_hig_code, alternate_mcc_code, input_id. The interventions table should have the
-following columns: id, seq, code, date, input_id. In Typescript. Input_id
-should have a foreign key to the inputs table.

@@ -1,6 +1,0 @@
-I explain tasks to you. Do task if you understand
-these tasks. [Keyword-1]: [Keyword-2]: [Keyword-3]: [Concerns of the reader]: [Intended
-reader]: [Task]: You create 10 blog post titles in Japanese
-that solve [Concerns of the reader] problem of [Intended reader].
-These titles should be based on [Keyword-1] and [Keyword-2] and
-... and [Keyword-N].

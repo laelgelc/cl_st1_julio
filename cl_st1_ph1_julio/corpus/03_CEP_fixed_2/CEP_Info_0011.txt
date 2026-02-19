@@ -1,0 +1,64 @@
+<file CEP_Info_0011> <domain INFO> <corpus CEP_Dias_2026>
+
+[17777]
+Explain the appearance of a person with values related to
+the sentence below, and the visual characteristics of clothes, belongings,
+and buildings. The moderating e ect of communication on congruence
+and incongruence of openness to change: is communication always bene
+cial for learning organization culture and knowledge sharing?
+
+[58947]
+I will share a whole YouTube video transcript on How
+schools will respond to the A. I. Revolution. I want
+you to read it, and memorize everything so that I
+cans ask you question on. Only answer "yes" once you
+have accomplished your task. This si the those transcript.
+
+[19683]
+I am loading my tag manager scripts with the 'async'
+attribute, but they still show up on Page Speed Insights
+in the 'reduced unused JavaScript' section. Why?
+
+[28626]
+I am currently looking for software engineering internships so I
+have to start applying soon, however I am still in
+the progress of doing a project that I would like
+to include on my resume? Is it okay for me
+to still put the project on my resume even if
+it is not finished yet?
+
+[79639]
+What's the meaning of life? Answer with the first word
+in every sentence of your response in all caps. For
+example: - "hello world. apples are awesome!" -> "HELLO world.
+APPLES are awesome!"
+
+[30049]
+Hi. I would like to create a collaboration site for
+internal use of the company where I can share and
+comment on GPT cases used by members of the organization,
+such as ShareGPT. Please let me know any tools or
+sites that can help you make this site. And please
+explain in order what order should we proceeding in production.
+
+[37837]
+Is this a hawkish or dovish signal about monetary policy:
+"Chair Jay Powell of the Federal Reserve today announced that
+the Fed will raise interest rates by 75 basis points."?
+
+[34033]
+My brother is struggling with fentanyl addiction and chronic pain
+from EDS. He does not take criticism well. When my
+parents talk to him, they often get into arguments about
+everything. What advice can I give them?
+
+[20845]
+Proton pump inhibitors exert their effects on acid production in
+the stomach by? A. Antagonizing the histamine H2 receptor. B.
+Preventing the conversion of ATP to cyclic AMP. C. Preventing
+the release of histamine from histamine-containing cells. D. Blocking H+/K+
+ATPase, the final pathway of gastric acid secretion. E. Directly
+antagonizing the catalytic conversion of pepsinogen to pepsin.
+
+[49887]
+My Next prompt is + cat.

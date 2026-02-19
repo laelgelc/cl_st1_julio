@@ -1,3 +1,0 @@
-Code_Snippet Code_Snippet Code_Snippet Provide a custom tool which use a
-puppeteer to use return the content of a body of
-the URL converted to markdown using turndown.

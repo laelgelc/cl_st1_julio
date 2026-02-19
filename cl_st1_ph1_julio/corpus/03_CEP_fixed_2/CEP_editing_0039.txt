@@ -1,0 +1,61 @@
+<file CEP_editing_0039> <domain EDITING> <corpus CEP_Dias_2026>
+
+[52913]
+Web search results: [1] " " URL: [URL] [2] "
+" URL: [URL] [3] " ! 30 k 1 2013-12-03
+4 2013-12-03" URL: [URL]. Current date: 2023/3/1. Instructions: Using the
+provided web search results, write a comprehensive reply to the
+given query. Make sure to cite results using [[number](URL)] notation
+after the reference. If the provided search results refer to
+multiple subjects with the same name, write separate answers for
+each subject. Query: Reply in.
+
+[57569]
+I am going to paste an essay I wrote in
+2002. It is too long for this chatbot so I
+will post it in chunks. When I have pasted it
+all I will tell you. Then await further instructions.
+
+[60565]
+Write an outline for a two topic essay. Topic 1
+is my experiences with and observations of being a parent.
+Topic 2 is my experiences with and observations of pursuing
+personal passions such as x, y, and z. Suggest, and
+include in the outline, a thesis sentence for the essay.
+Suggest a quote, with attribution, to use as in the
+opening sentence as a hook. Suggest five sources that I
+might obtain some supporting evidence and quotes from.
+
+[43148]
+[I help Professional Women of Color speciafically black women get
+clear about the important of holistic wellness so they can
+feel better, have less stress, live longer, and create the
+life they want with our 90 Day BOSS Academy.]
+
+[79362]
+Rewrite the given paragraph in a way that adds more
+detail, elaboration, and information to the original content, ultimately resulting
+in a longer and more comprehensive version of the same
+text. Also divide your revised version into two or more
+paragraphs if you need to. [Text_to_Fix]Social media is a digital
+platform that individuals create and share content, as well as
+to interact and connect with others online.[/Text_to_Fix]
+
+[37329]
+, , 1 : 2 : h1 3 : ,
+, 5. Please write a blog post about the efficacy,
+side effects, and solutions of Cheonggukjang under the conditions below.
+Condition 1: Use emoji for full title. Condition 2: Resize
+subheadings with h1. Condition 3: Write 5 types of efficacy,
+side effects, and solutions.
+
+[25804]
+Please rephrase this sentence: [Text_to_Fix]Part of the reason is because
+of our AI Chatbot served more citizens last year.[/Text_to_Fix] The
+number of Customers Served is an important KPI for WSCT,
+which helped them secure higher funding.
+
+[36875]
+[Text_to_Fix]: This is a 1% baked model and not yet
+fully cooked. I upload it here for comparison purpose since
+these models are taking more spaces than I liked.

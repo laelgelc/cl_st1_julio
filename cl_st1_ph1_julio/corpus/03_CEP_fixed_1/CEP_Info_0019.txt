@@ -1,0 +1,28 @@
+<file CEP_Info_0019> <domain INFO> <corpus CEP_Dias_2026>
+
+[73946]
+Plan me a road trip RV vacation for the July 4th week, starting and ending in San Francisco, with Sun River Oregon as the furthest destination. Include awesome RV parks and urls.
+
+[35742]
+What is the effective impedance of the parallel combination of a 50 picofarad capacitor and a 35 ohm resistor? The circuit is operating at 300 Hz.
+
+[54696]
+There are electrical appliances that generate a lot of heat. I want to recycle the heat generated here. It is usually over 60 degrees and sometimes over 90 degrees. Please tell us where to utilize this heat in your home in the summer.
+
+[77365]
+I want to learn how to be a fullstack software engineer using Node.js and React. I am a beginner. My goal is to be able to build simple web applications. I am willing to devote 1 hour per day to learning this new skill. My preferred learning style is watching videos and doing practical exercises. Please create a course curriculum for me to follow including all learning resources.
+
+[22244]
+Hey Botty, we run a UK-based eCommerce company where we sell toothbrushes and other oral care products in the UK. Our products are imported and we have a warehouse and fulfillment center there.
+
+[48879]
+I am creating a new Discord server for me and my WoW guild. We do not want many channels. But we have a few roles in the guild such as regular raider, raid leader. We also talk about random stuff in this server. Can you give us a server name, description, roles and channels in JSON?
+
+[85209]
+Target outcome: Accelerating neural networks using in memory compute. List the requirements needed to achieve the target outcome given the need to exceed the currently available solutions. For each one, suggest specific metrics that should be used to check against the requirements and, where appropriate, specific minimum or maximums units that would be critical for the objective.
+
+[50416]
+When reading a liver function test, is a high GGT reading of 168 U/L a cause for concern if other levels like ALT, AST and ALP are all normal?
+
+[28680]
+My recent interest. How can knowledge be connected? How can you measure connecting knowledge? At what level is personal knowledge management possible? How can individual knowledge and organizational knowledge be converted? How should the knowledge of the platform be viewed from the organizational perspective? Please list the research topics that I would like to proceed based on my interests. Please show me the list of previous studies along with the source.

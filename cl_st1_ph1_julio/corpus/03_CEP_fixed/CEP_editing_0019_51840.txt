@@ -1,8 +1,0 @@
-Read the below sales email. Remove all personally identifiable information
-(PII), and replace it with the appropriate placeholder. Hi [Recipient_Name],
-I am writing to you because I noticed you recently
-purchased a new car. I am a salesperson at a
-local dealership (Cheap Dealz), and I wanted to let you
-know that we have a great deal on a new
-car. If you are interested, please let me know. Thanks,
-[Sender_Name] Phone: [Phone_Number] Email: [Email_Address].

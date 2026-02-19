@@ -1,0 +1,31 @@
+<file CEP_coding_0037> <domain CODING> <corpus CEP_Dias_2026>
+
+[68591]
+Write a function to display a past or future date and time in a human-friendly way, for example: - 3 hours ago or in 3 hours - 2 days ago at [time]
+
+[51822]
+IF I am making an app, that receives an AS67 Complient radio broadcast, which protocols would be needed to this stream to include if the app will take this stream and transform it into an HLS compatible stream?
+
+[47024]
+When using Pydantic, can I create a class that extends BaseModel that automatically trunctions fields if they are too long? Assume the field in question is a string.
+
+[48195]
+I have Wireshark captured trace with h264 traffic. Each stream uses separate UDP port. Write me a code to automatically determine UDP port for a stream.
+
+[61024]
+Using AWS' Java SDK version Code_Snippet how can I write a query to get notes out of a DynamoDB for several different hash keys? It seems like performing a BatchGet is the correct approach here.
+
+[89291]
+Please provide a schedulable batch job in Apex code that will meet the following business requirements. A batch job updates SF Cases overnight to set the status to Closed - Complete based on the following criteria: Type: Escalation Status: Resolved LastModifiedDate: less than 30 days ago (older than 30 days) Escalation_Reasons__c: Distributor Feedback Request or Distributor POD request Category__c: Consumer Origin: Customer Care.
+
+[53977]
+In the style of a Twilio blog article, write a blog article about how developers for ecommerce sites can use Telesign's SMS API to automatically send bulk SMS alerts to customers when price drops happen for products that customers have recently added to their carts. Include code snippets in the Node coding language.
+
+[88026]
+Figma API does not have proper guide to apply auto layout in components or frames. We are implementing functionality which does drag and drop frames inside Figma canvas by using Figma JSON and try to apply autoLayout properties using Figma API. Please write a sample code to apply autolayout in Figma canvas by using Figma API.
+
+[84147]
+ChatGPT has enabled plugin. The plugin exposes backend APIs to ChatGPT, so that is able to call backend-API and retrieve relevant data when needed. Create 5 plugins that I can build. The backend end API should not involve private data. The plugin should be useful and attract a lot of user to install. Provide specific API that the developer need to expose, name_for_human, name_for_model, description_for_human and description_for_model.
+
+[62537]
+How to create bash script that loops on all subdirectories then from subdirectory checks is file contains phase "I am a teapot". If contains then move file outside of subdirectory and rename it with prefix "_CONTAINS_"?

@@ -1,5 +1,0 @@
-I have trained time series forecast model on difference range
-of time (1 m,5 m,15 m,30 m,1 h). Want to
-mix model with different time range to give global and
-local estimation. Is there research on how can I do
-it properly?

@@ -1,0 +1,73 @@
+<file CEP_coding_0004> <domain CODING> <corpus CEP_Dias_2026>
+
+[18287]
+Suppose I have a Python list Code_Snippet and I want
+a for loop which defines various things in a standard
+format, with filenames that have a member of mylist at
+the end. For example, in pseudocode, I want to say:
+Code_Snippet.
+
+[83641]
+I want you to act as a copywriting assistant to
+help me fill in your content, share creative ideas, and
+generate coding examples related to 'Linking and Navigating in NextJS
+13.'
+
+[37298]
+Using Python (Django) and a Postgres database is it possible
+to create a database model where one table can be
+swopped out with another table (that has the same types
+but different column names) without having to change the code
+to point to the new column names?
+
+[26559]
+Let's say we have an app where there is a
+dashboard of short stories. We want to keep track of
+how the user has interacted with each short story, and
+the user might even make modifications to it by directly
+editing it. Should we make a copy of the story
+for each user or should that be a separate table?
+I'm using TypeORM to do this.
+
+[21330]
+How can Start by creating the basic layout and design
+of the app for both iOS and Android platforms Using
+a platform such as React Native to develop the app
+for both platforms simultaneously.
+
+[80130]
+I am interested in code as infrastructure at my company.
+We mainly run simple C# web APIs on app services.
+We do leverage slots and a few configuration settings. We
+have three environments - local development, non-production, and production. Can
+you help me write code as infrastructure so we do
+not have to manually maintain this and it will be
+repeatable? Let's start with different options.
+
+[40952]
+Write code to retrieve data from the website procyclingstats.com. The
+output should be a list that links each rider to
+the list of races he will take part in in
+2023.
+
+[88733]
+Implement a proxy server using Http-proxy module, the proxy should
+be fully transparent, that is it will never add any
+custom header and it will only act as a middleware,
+all the outgoing and incoming headers should be forwarded as
+it is.
+
+[27107]
+Write me a Java stream code, that streams allData to
+a string array. AllData contains ReportTab objects and I want
+to stream only the sqlStatement variable to the new string
+array.
+
+[77878]
+What's the best way to use embeddings for semantic search
+with 300 thousand plus transcripts of podcast episodes. The goal
+is to allow users to search through all the transcripts
+very fast to find discussions about specific search queries and
+take them to that part in the transcript. Write code
+for getting the embeddings using a free open source model
+and searching the embeddings.

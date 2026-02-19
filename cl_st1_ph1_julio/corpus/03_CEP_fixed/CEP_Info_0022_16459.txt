@@ -1,4 +1,0 @@
-How would I create a model that would run on
-OpenAI API, and would like just like you but with
-specific style I've trained the model on or a private
-dataset of information I've given access to?

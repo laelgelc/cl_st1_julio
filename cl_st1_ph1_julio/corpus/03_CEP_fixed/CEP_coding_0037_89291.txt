@@ -1,7 +1,0 @@
-Please provide a schedulable batch job in Apex code that
-will meet the following business requirements. A batch job updates
-SF Cases overnight to set the status to Closed -
-Complete based on the following criteria: Type: Escalation Status: Resolved
-LastModifiedDate: less than 30 days ago (older than 30 days)
-Escalation_Reasons__c: Distributor Feedback Request or Distributor POD request Category__c: Consumer
-Origin: Customer Care.

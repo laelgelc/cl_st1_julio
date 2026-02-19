@@ -1,4 +1,0 @@
-I want to compare the agreement between two coders when
-categorizing a set of terms using Cohen's Kappa coefficient. Can
-you help me with that if I can provide my
-data?

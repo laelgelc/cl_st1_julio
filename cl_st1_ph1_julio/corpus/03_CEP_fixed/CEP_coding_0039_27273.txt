@@ -1,4 +1,0 @@
-Write Arduino code using an HC SR04 distance sensor so
-that as it perceives an object moving closer it blinks
-an LED faster. As an object moves away, the LED
-blinks slower.

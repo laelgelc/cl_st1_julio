@@ -1,4 +1,0 @@
-Our company manages business through Salesforce. Create a Salesforce dashboard
-to manage OKR progress and results. What components do Salesforce
-dashboards need to have to effectively show OKR progress and
-results?

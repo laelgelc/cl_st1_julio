@@ -1,0 +1,37 @@
+<file CEP_Info_0001> <domain INFO> <corpus CEP_Dias_2026>
+
+[87204]
+What does this audiology report mean? Can you pretend to be an audiologist and explain it to me in simple plain terms Code_Snippet.
+
+[18537]
+My son Logan is being interviewed by Accenture for a consulting internship summer job. The structure of the interview involves 45 minutes of behavioural questions followed by 1 hour and 15 minutes of group case work. Everything is being done virtual over Teams. What are some things he can expect for the behavioural section?
+
+[30777]
+Jeanne wants to ride the Ferris wheel, the roller coaster, and the bumper cars. The Ferris wheel costs 5 tickets, the roller coaster costs 4 tickets and the bumper cars cost 4 tickets. Jeanne has 5 tickets. Jeanne s neighbor rides 8 kilometers to the bus station every day. How many more tickets should Jeanne buy?
+
+[22052]
+I am trying to set up a minecraft server on core Paper, and currently have ping up to 23000ms. Can you help to reduce it somehow?
+
+[23045]
+I just read about the US Armed Service Order of Precedence. It has military schools/academies as having the highest precedence. Why is this the case? Seems counterintuitive.
+
+[27205]
+Which of the following is/are the characteristics of IoT? a. Efficient, scalable and associated architecture. b. Unambiguous naming and addressing. c. Abundance of sleeping nodes, mobile and non-IP device. d. [Text_to_Fix]All of the these[/Text_to_Fix].
+
+[51718]
+What are great ways to make money in video game arbitrage? Give me unique and underutilized ideas that would would on a platform like eBay.
+
+[38221]
+Generate a user story for sending a pair of sneakers into a warehouse to have them authenticated and then generate the BPMN Sketch Miner markup notation that story.
+
+[49627]
+Suppose Alice and Bob are performing a Diffie-Hellman key exchange using p = 7 and g = 5. Alice choose a = 3 and Bob chooses b =4. What will their shared secret be?
+
+[16352]
+Can global warming be meaningfully addressed within capitalism? In your response, please address whether overcoming capitalism is possible, and on what timescale relative to global warming.
+
+[60709]
+We are an insurance company looking to utilise telematics data sent from an app installed onto our customers mobile phones. What algorithm can be used to orient a driver's smartphone acceleration axis with a car, while driving, without physical calibration?
+
+[60010]
+You are a restaurant expansion consultant. I will tell you what to write about to improve a successful local bagel shop called Coffee Rock Bagel in Ventura California. Our goal is to adjust the business so expanding the business is successful and we have 100 locations across California, particularly the greater Los Angeles area. Write a prompt so ChatGPT understands this situation.

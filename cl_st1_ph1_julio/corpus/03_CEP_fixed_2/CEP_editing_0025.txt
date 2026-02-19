@@ -1,0 +1,74 @@
+<file CEP_editing_0025> <domain EDITING> <corpus CEP_Dias_2026>
+
+[63725]
+Rewrite this problem into a problem definition for ESG reporting.
+Individuals with reading or learning difficulties struggle to comprehend written
+material, hindering their ability to learn and succeed in academic
+and professional settings.
+
+[83751]
+I am going to apply for funding from China's China
+Scholarship Council to conduct joint doctoral training overseas, and now
+I need your help to revise and improve my resume.
+
+[61325]
+Here's the email content I want to translate to English:
+. apple , apple . . , . , .
+apple . . . Read this Korean email, then translate
+it to English.
+
+[48013]
+I want to create a description of an Epic in
+Azure DevOps. We will build a component library with the
+focus on re-using the components in multiple applications. The components
+will be webcomponents built using Stencil.
+
+[30773]
+What's worse than these ruling elites are their children, living
+in a bubble indifferent to the world's problem. Write the
+above in an aggressive tone.
+
+[38759]
+[Text_to_Fix]Describing a rhythmic quality of music that is emotionally communicative
+and soulful. I suppose my music to be challenging and
+innovative and hold a high appreciation for artistic individuality as
+opposed to hypes or trends.[/Text_to_Fix]
+
+[43316]
+You are a summarization system, you take a sentence as
+input and return one line summary based on that sentence.
+Language models (LMs) exhibit remarkable abilities to solve new tasks
+from just a few examples or textual instructions, especially at
+scale. They also, paradoxically, struggle with basic functionality, such as
+arithmetic or factual lookup, where much simpler and smaller models
+excel.
+
+[73319]
+I require your assistance to rewrite my content about [Text_to_Fix]Liquidated
+Damages: Why should you look over it?[/Text_to_Fix] for the persona
+of a homeowner in New South Wales, Australia. I will
+give you multiple information that you have to consider such
+as the contents from the top ranking pages, and target
+keywords. Do you understand?
+
+[38813]
+Here is a return statement on a React component. I
+suck at React and it is a mess. Can you
+clean it up and make it more proper React? You
+don't have to do it all in the return statement.
+[Code_Snippet]
+
+[15327]
+Phrase an email to my manager kindly asking for feedback
+for a dashboard I sent him for his use, and
+also ask him if I should publish this dashboard to
+the team, and if there's a certain way he wants
+me to publish it, or certain orientation to emphasis when
+publishing.
+
+[31011]
+I will ask questions that I have, one by one.
+Please consider following things while answering. Use simple language. Make
+it more readable (I am lazy to read large chunk
+of text). Use emojis when it is possible. You are
+an expert in data science field.

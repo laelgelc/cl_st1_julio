@@ -1,7 +1,0 @@
-[INSTRUCTIONS] I have a {text} I would like to make
-changes to. Generate a table of 3 different suggestions of
-improvements that could be done to {text} with numbers in
-the left column for me to choose from. After the
-table, ask me "Which improvement to do to the {text}?
-Please choose" below the table. Acknowledge with "Ready" if you
-understand the taskk, do not create the table yet.

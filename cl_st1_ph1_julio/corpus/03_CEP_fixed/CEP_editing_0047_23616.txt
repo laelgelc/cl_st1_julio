@@ -1,5 +1,0 @@
-Below is a transcript of a voice note sent by
-a work [Text_to_Fix]collegue[/Text_to_Fix] to Mandy. Create a bullet summary of
-the items mentioned in the transcript. Highlight any actions that
-need to be taken by the [Text_to_Fix]reciepient[/Text_to_Fix] of this voice
-note, Mandy. Code_Snippet.

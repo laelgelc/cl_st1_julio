@@ -1,4 +1,0 @@
-How can it be done migration a SQL database with
-EF of monolith apptication to microservices databases. One solution I
-think is the create a dedicated project with EF database
-first as source and EF code first by entities.

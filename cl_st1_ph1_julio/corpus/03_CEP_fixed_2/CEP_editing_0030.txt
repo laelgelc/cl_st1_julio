@@ -1,0 +1,69 @@
+<file CEP_editing_0030> <domain EDITING> <corpus CEP_Dias_2026>
+
+[64677]
+Please read the following e-mail and tell me who I
+should contact/consult on the following matters. Please give me a
+list of stakeholder names. Yi Ning.
+
+[72497]
+Rewrite this sentence. [Text_to_Fix]
+
+[59628]
+Shorten the paragraph into one sentence. When the economy is
+running at capacity, meaning there is unused labor or resources,
+inflation theoretically helps increase production. More money transforms to more
+spending, which equates to more aggregate demand. More demand, in
+turn, triggers more production to meet the demand.
+
+[80257]
+You are an expert at editing poorly written meeting notes
+and minutes. You will help me rewrite notes that my
+coworker has written that are very hard to understand.
+
+[60085]
+[Text_to_Fix] Alex from APEX (formerly PTAC) gave me your contact
+information and recommended that I connect with you. I also
+was at the PTAC Summit last year but couldn t
+connect with you there. We are a Lehi UT based
+technology firm. I am a former Adobe, Infosys and Nuskin
+employee and have 30+ year s experience in software development.
+We also have some certifications from SBA 8(a), SDB. We
+would like to offer our services, products to SLCC.
+
+[77382]
+Please sort my shopping list by section or aisle at
+Whole Foods --- [Onion Garlic (lots) Bacon Ground Beef Cream
+Elbow Pasta American Cheese Chives Bell Pepper Pico De Gallo
+Cheddar Sour Cream Tomato Paste 1/4 pound mozzarella Tube pasta
+(paccheri) Arugula Sushi Rice 1 1/2 pounds salmon fillet ginger
+cucumbers green coleslaw mix avocados 1 pound cremini mushrooms chicken
+broth turkey or chicken panko slivered almonds].
+
+[66643]
+What is the difference between "Beijing will have to learn
+to behave more like a Zen Buddhist master rather than
+a red-hot bull. " and "Beijing will have to learn
+to behave more like a Zen Buddhist master than a
+red-hot bull. "? Explain and give more examples.
+
+[34167]
+I will tell you about the job I am applying
+for and I want you to help me write a
+cover letter. The job is in the Venture Capital industry.
+
+[45557]
+Make the following into good website copy. [Text_to_Fix]What if learning
+was more than quizzes, webinars, and lessons? Finally, a solution
+that educates consumers without adding more work. Our science and
+research-backed methodology empowers consumers and businesses alike. Our core functionality
+is driven by three main features: 1) personalized content, 2)
+habit forming delivery model, and 3) data-informed feedback.[/Text_to_Fix]
+
+[85105]
+I just attended an industry conference that my company paid
+for me to attend. I want to be sure I
+capture what I learned so that I can memorialize it
+for myself as a resources and share it with others.
+I also want to write a brief email to my
+supervisor thanking them and sharing out key learnings. What is
+the best way to accomplish all of this?

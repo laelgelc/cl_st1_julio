@@ -1,3 +1,0 @@
-Write a Java class for a GUI of a voice
-recorder application it must have button to start and stop
-recording, time of recording that resets on stop.

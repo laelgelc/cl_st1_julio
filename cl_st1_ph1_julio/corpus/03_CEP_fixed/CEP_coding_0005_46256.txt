@@ -1,4 +1,0 @@
-Please write me an R function that takes in a
-data frame, groups the data by one categorical column, then
-sorts by a some other specified columns, then assigns a
-rank to the order.

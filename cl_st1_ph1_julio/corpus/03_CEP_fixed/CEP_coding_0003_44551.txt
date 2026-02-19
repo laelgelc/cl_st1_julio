@@ -1,7 +1,0 @@
-Write a Python script that reads a csv file with
-a single column of values, splits it into chunks 10,000-value
-chunks, and outputs each chunk as a json list saved
-to separate json files named after the original csv file.
-If the original csv file was named original_data_2022.csv, the newly
-created json files for the chunks should be named like
-original_data_2022_chunk_1.json, original_data_2022_chunk_2.json, et cetera.

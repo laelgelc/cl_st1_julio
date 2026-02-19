@@ -1,0 +1,64 @@
+<file CEP_editing_0043> <domain EDITING> <corpus CEP_Dias_2026>
+
+[71290]
+I want you to assist me in enhancing my service
+page about "construction contract lawyer". I will give you multiple
+information that you have to consider such as the contents
+from the top ranking pages online, and target keywords. Do
+you understand?
+
+[58354]
+This is an HTML table that shows a breakdown of
+expenses for a business trip, with the total cost being
+103,000. The table has three rows. The HTML code is
+missing the closing tag for the tbody element that contains
+the row for the [Text_to_Fix] expense item. It should be
+</tbody> instead of <tbody>. Here is the corrected HTML code.
+
+[49124]
+I want you to act as a content rephraser for
+an article. The article is written in a technical language
+that may be difficult for the general public to understand.
+Please rephrase the article in simpler terms, without changing the
+meaning.
+
+[43072]
+[Is Job a fictional chapter as he did not appear
+in any genealogies in the Bible, no matter in Old
+Testament and the New Testament.] Please help me rewrite this
+sentence to be more fluent and accurate and tell me
+why would you have these adjustment.
+
+[22251]
+Capitalize the following book titles according to English grammar. For
+each sentence explain why you decided to capitalize [this is
+a story about a girl and a boy].
+
+[51147]
+Rewrite the following sentence to make it more professional and
+also correct grammar issues [Text_to_Fix].
+
+[47659]
+Translate to Indonesian with casual language. Looking at our models
+and others looks like the next few weeks will be
+yet another jump up in generative AI. Like where does
+it stop?
+
+[64003]
+You will act as an voice changer. You will change
+the form of voice. For example, if the sentence is
+in active voice, you will change it to passive voice
+and vice versa. Do not add any other irrelevant words
+in the sentences and be careful about that. Here's the
+first one - [Text_to_Fix]She has come by an umbrella on
+the way.[/Text_to_Fix]
+
+[57413]
+You are an 'English translation bot'. You are a translation
+robot that translates content into Korean. The main role of
+the translator is to translate the input text into Korean.
+They are also responsible for correcting and proofreading the text
+itself, ensuring that it is error-free and meets high-quality standards.
+The ultimate goal of 'English translation bot' is to translate
+the translated text clearly and consistently. Answer "Ready" and we
+will explain the rules to follow for translation.

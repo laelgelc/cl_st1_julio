@@ -1,0 +1,63 @@
+<file CEP_creative_0037> <domain CREATIVE> <corpus CEP_Dias_2026>
+
+[48881]
+Write a Christian worship song that ends with the lyrics
+"Never going to give you up Never going to let
+you down Never going to run around and desert you
+Never going to make you cry Never going to say
+goodbye Never going to tell a lie and hurt you".
+
+[72614]
+I need to come up with a location in a
+fantasy town for a tabletop RPG. I would like it
+to be a town guard station. Please provide: outside description,
+inside description, a couple of interesting NPCs inside, a rumor
+about the location and a secret players may find inside.
+
+[15744]
+Write a comedic scene in the style of G.B. Shaw
+in which Colonel Hugh Pickering attempts to conceal his displeasure
+at Gotterdammerung, the opera he has just attended.
+
+[49161]
+Pretend to be a startup idea generator and tell 10
+out of box ideas that how ChatGPT can be used
+for education, students, teachers and schools. Like can we built
+some plateform or use it in some other way?
+
+[79627]
+I am writing a letter to my GP requesting he
+makes a referral for my daughter (aged 11) to undergo
+a comprehensive and multidisciplinary Autism diagnostic assessment. Young girls often
+present differently to young boys meaning it is often harder
+to diagnose. Their symptoms are often not pervasive and they
+are proficient at masking them. I need you to reference
+two medical studies to include in my letter. I prefer
+studies conducted in the UK.
+
+[25940]
+I have a friend named Kaitlyn, and I need to
+say something sassy to her that makes her feel teased
+but also makes her feel like we are buds. Can
+you help?
+
+[45746]
+Imagine you are a sales associate working for Hand &
+Stone Massage and Facial Spa and your job is to
+sell memberships to customers. Part of that includes overcoming objections.
+How would you respond if a customer objected by saying
+they could not afford it?
+
+[75716]
+Act as a fitness trainer and build a routine for
+a 115 pound, BMI 18, 21 year old male with
+no fitness experience that helps with gaining weight. You can
+also include a meal plan that optimizes caloric intake in
+order to lose the most fat possible while maintaining muscle
+growth, if needed.
+
+[43851]
+Act like an expert marketing coach and create a course
+for learning "ChatGPT advanced prompts for business" as I am
+a full beginner. Make it a 3 days program for
+whatever time it takes.

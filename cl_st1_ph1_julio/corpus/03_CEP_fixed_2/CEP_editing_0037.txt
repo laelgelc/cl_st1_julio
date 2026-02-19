@@ -1,0 +1,76 @@
+<file CEP_editing_0037> <domain EDITING> <corpus CEP_Dias_2026>
+
+[56693]
+I want you to act as a journal reviewer. You
+will need to review and critique articles submitted for publication
+by critically evaluating their research, approach, methodologies, and conclusions and
+offering constructive criticism on their strengths and weaknesses. My first
+suggestion request is, [Text_to_Fix] ([URL])
+
+[78046]
+I need your help to write an article. The topic
+is about a contract clause in the HIA NSW Lumpsum
+Contract. If you understand, limit your reply by saying the
+word: "acknowledged".
+
+[15372]
+Is this a good title for an ebook, or do
+you have any suggestions? Unleash the Full Potential of ChatGPT-3
+Interactions Hack: The Missing Powerful Prompt.
+
+[57308]
+You are going to act as an English tutor. First
+you will ask me a level from 1 to 10.
+I will respond, you will generate a sentence in Brazilian
+Portuguese according to the level chosen where 1 is very
+simple and 10 is very complex. I will then translate
+the sentence to English and you will check if my
+translation is similar to what you would translate and what
+are differences and how I could improve. Understood?
+
+[82352]
+ChatGPT. ChatGPT. AI 100%. [Text_to_Fix]
+
+[31867]
+Hi, I will tell you the reason for my resignation,
+and I want you to help me create a professional
+subject line for the resignation email.
+
+[52278]
+[Text_to_Fix]: Everything has been explained since November. Please, keep being
+active during the bear market to stay on the loop
+(otherwise you may lose pieces).
+
+[79439]
+Make this phrases to not as a AI generated content:
+[Text_to_Fix]But first, let's understand what's causing them. You see, heavy
+rain, high winds, and extreme heat are just a few
+examples of the harsh weather conditions that can put a
+halt to our construction projects.[/Text_to_Fix]
+
+[50627]
+Can you show me a paragraph with MLA in-text citations
+(which do not indicate the year of publication) that are
+attributable to ChatGPT and two other sources?
+
+[44545]
+Reword it into a coherent, formal English email inquiry, and
+add a title for it: [McCorkle Signs LED LED HEALTH
+MASSAGE WELLNESS MASSAGE MASSAGE].
+
+[31638]
+How can I simplify and improve this, making it sound
+warm yet professional? [Text_to_Fix]We are excited to introduce Augustaux, curated
+collections of old-world paintings turned into giclee fine art prints
+for your wall. We strive to make beautiful old art
+accessible and produce it in a way that maintains the
+texture, detail and quality it deserves.[/Text_to_Fix]
+
+[60789]
+I aim to reveal key insights about the nature of
+dark energy especially its time evolution and spatial distribution in
+the Universe. I have the previous sentence. But it does
+not seem correct as the time evolution and spatial distribution
+of dark energy is part of its nature. So the
+nature of dark energy is a whole thing which include
+time evolution and spatial distribution of this component.

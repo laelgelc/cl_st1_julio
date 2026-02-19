@@ -1,3 +1,0 @@
-Generate a user story for sending a pair of sneakers
-into a warehouse to have them authenticated and then generate
-the BPMN Sketch Miner markup notation that story.

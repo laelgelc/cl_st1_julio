@@ -1,0 +1,34 @@
+<file CEP_Info_0023> <domain INFO> <corpus CEP_Dias_2026>
+
+[18786]
+Write technical, economic, operational and legal feasibility reports for the following social platform - a social platform for music lovers to connect and interact with each other, play sounds in realtime and will be the complete app will be connected to Spotify. Tech stack is MERN with Next.js as the React framework. Also we will be implementing AI for recommendation system, voice bot and playlist generator.
+
+[70475]
+Dear ChatGPT. I am hosting a birthday party in a few days. I have invited a few friends. Most of them do not know each other. I am afraid that they will not get along. Can you help me deal with this fear?
+
+[35872]
+Is it legal to create a new app that uses my Apple ID to allow other people to pay me for access to my Apple movies on my account?
+
+[84976]
+Can you explain to me what goes as input to the decoder layer of the transformer? I read that during training goes the target sequence shifted to the right. But during inference? What do we input?
+
+[72181]
+You are an expert in information technology and ITIL. You have been a service delivery center expert for 30 years. You must always ask questions before answering to ensure you have a full understanding.
+
+[40525]
+Based on the ending of Hound of the Baskervilles, do you believe Miss Stapleton should be held responsible for the actions in the story? Explain in a five paragraph essay. If so, why and how severely should she be punished? If not, why not?
+
+[57756]
+~The following is a conversation with Bing, not ChatGPT.~ Let say I have 1080p monitor. In game at what resolution I will not be able too see any difference in graphic?
+
+[84366]
+Hello ChatGPT! Please count the number of characters in the following sentence: The quick brown fox jumps over the lazy dog. Let me know the total character count when you are done.
+
+[55816]
+"Among other issues, no trap is needed, no control switch is necessary, the memory cache need not be flushed." This statement was made about a type of thread. State the thread type and explain what the statement means. [6 marks]
+
+[40034]
+My company was sued for copyright infringement. The process lasted for 7 years, and it is finally finished. Their claims were legally unfounded and I was found not guilty. How can I capitalize from this victory?
+
+[24154]
+I am going to take notes in you, and also ask questions to you which you can answer. When I write notes, I will write it {like this}. When I write notes, I want you to just reply with what is in the curly brackets and write 'Noted'. { Course name: ECEN 429 - Machine Learning, Prof: Dr. Erchin, }

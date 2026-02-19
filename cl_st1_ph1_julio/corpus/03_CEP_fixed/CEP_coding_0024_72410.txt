@@ -1,5 +1,0 @@
-Chat aggregation of Twitter, Facebook, Twitch and YouTube: How would
-you code an application for a website that can aggregate
-multiple social media chats into one webpage? The webpage would
-enable its user to click on each individual comment and
-reply to the comment through its respective platform of origin.

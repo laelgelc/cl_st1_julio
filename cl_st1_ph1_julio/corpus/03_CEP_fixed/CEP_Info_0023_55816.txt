@@ -1,4 +1,0 @@
-"Among other issues, no trap is needed, no control switch
-is necessary, the memory cache need not be flushed." This
-statement was made about a type of thread. State the
-thread type and explain what the statement means. [6 marks]

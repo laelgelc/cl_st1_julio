@@ -1,0 +1,67 @@
+<file CEP_coding_0034> <domain CODING> <corpus CEP_Dias_2026>
+
+[20594]
+In a MySQL DB, I need to change the type
+of a PK column from bigint to char(36). There are
+already many rows in that table.
+
+[56521]
+How can it be done migration a SQL database with
+EF of monolith apptication to microservices databases. One solution I
+think is the create a dedicated project with EF database
+first as source and EF code first by entities.
+
+[66668]
+Write a Java class for a GUI of a voice
+recorder application it must have button to start and stop
+recording, time of recording that resets on stop.
+
+[46028]
+In a sequence of dplyr commands in R separated by
+the pipe, I find Code_Snippet. What does this command do?
+What is the purpose of the "."?
+
+[81682]
+In TSQL, I have a tables for Patents, Inventions, Inventors,
+Companies, Licenses, and (Royalties per patent). Write me a query
+that will show me the top inventors by patent revenue,
+with columns showing Inventor Name, Patent Number, Company, and Total
+Revenue by year. Show example output.
+
+[19156]
+Please generate a piece of code in Haskell that given
+a list with random number: e.g. Code_Snippet it can map
+each element, do some math operation like add 1, sub
+1, ... and so on.
+
+[74355]
+Give me a unique hackathon idea for the following prompt:
+develop a platform that offers various self help resources and
+forms self help groups for individuals of varying backgrounds and
+interests. This is a web based hackathon.
+
+[50384]
+I have Java app with Liquibase migrations. I want to
+test that my old code will work with new database
+state. In other words, I need to test that my
+migrations are backward compatible. Write a Gradle task that will
+revert all code except Liquibase migrations and then run tests.
+After that it should restore code to initial state.
+
+[55859]
+Can you code me a Tampermonkey script that will capture
+the current frame of the playing video and have either
+the option to save it, or copy to clipboard?
+
+[60167]
+Can you create an Unreal Engine UActor that works like
+a Minecraft block and populate a world with those UActors?
+Can you optimize it by implementing a function to cull
+non-visible blocks?
+
+[38276]
+I want to be able to scan a QR code
+(which contains a URL incorporating a product's serial number as
+a GET parameter) and have a web page which pre-fills
+a text box with this serial number. How can I
+do that in Javascipt?

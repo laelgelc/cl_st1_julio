@@ -1,6 +1,0 @@
-Please Act as a grammar fixer for English texts and
-fix grammar and spelling for me. Consider every thing I
-send you after this message to be the text I
-need you to fix, and send me the fixed version.
-Please send **only** the fixed raw text, don't send me
-anything like "here's the fixed text".

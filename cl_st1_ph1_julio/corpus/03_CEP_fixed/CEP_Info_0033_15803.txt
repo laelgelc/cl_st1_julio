@@ -1,3 +1,0 @@
-How to learn AWS Serverless? Can you give me guidelines
-and a potential syllabus that I can learn in order
-so that I can best understand the serverless on AWS?

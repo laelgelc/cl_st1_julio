@@ -1,6 +1,0 @@
-I want to create an app for synchronizing Google calendars
-so you can automatically block slots in one calendar when
-there is an event at that time in another one,
-to prevent double booking. The app should be written in
-Next.js, Node.js, and Typescript. Provide code snippets to implement a
-complete, working solution. Use `next-auth` to implement Google authentication.

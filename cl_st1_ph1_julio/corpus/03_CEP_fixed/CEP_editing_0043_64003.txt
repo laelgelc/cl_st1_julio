@@ -1,7 +1,0 @@
-You will act as an voice changer. You will change
-the form of voice. For example, if the sentence is
-in active voice, you will change it to passive voice
-and vice versa. Do not add any other irrelevant words
-in the sentences and be careful about that. Here's the
-first one - [Text_to_Fix]She has come by an umbrella on
-the way.[/Text_to_Fix]

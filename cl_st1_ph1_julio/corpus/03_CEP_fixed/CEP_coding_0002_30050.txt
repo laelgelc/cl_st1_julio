@@ -1,5 +1,0 @@
-Write an Android Java code that shows the gallery -only
-pictures no videos- inside it then the user is supposed
-to choose a picture, when he selects a picture ,
-the app opens the share apps menu to share the
-selected picture.

@@ -1,4 +1,0 @@
-Suppose Alice and Bob are performing a Diffie-Hellman key exchange
-using p = 7 and g = 5. Alice choose
-a = 3 and Bob chooses b =4. What will
-their shared secret be?

@@ -1,5 +1,0 @@
-I have a drop-down with the options to sort by
-title or by date. I have a lot of divs
-containing content including a title and a date. How do
-I use JavaScript to sort the divs based on the
-drop-down?

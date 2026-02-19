@@ -1,5 +1,0 @@
-In TSQL, I have a tables for Patents, Inventions, Inventors,
-Companies, Licenses, and (Royalties per patent). Write me a query
-that will show me the top inventors by patent revenue,
-with columns showing Inventor Name, Patent Number, Company, and Total
-Revenue by year. Show example output.

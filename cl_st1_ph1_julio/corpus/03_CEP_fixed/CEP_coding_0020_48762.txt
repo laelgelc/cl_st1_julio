@@ -1,3 +1,0 @@
-In Matlab, how could I split an image into four
-sections (quadrants) to then perform a Hough transform to detect
-circle positions in a single quandrant?

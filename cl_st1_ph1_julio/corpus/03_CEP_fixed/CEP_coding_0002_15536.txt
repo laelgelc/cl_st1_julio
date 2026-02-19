@@ -1,4 +1,0 @@
-Write a code in Python to generate consecutive numbers at
-an interval of two seconds and save those to csv
-and a parallel process to generate a chart with these
-numbers on React.js dashboard.

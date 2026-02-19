@@ -1,9 +1,0 @@
-Create a proposal for a Drone Survey. The work required
-is approximately 17 hectares total land in Oro-Medonte, Ontario. The
-data will be captured using Drone LiDAR and photogrammetry. The
-Deliverables wanted include topographic survey with buildings, driveways, roads, and
-other visible features marked. The survey will be delivered in
-AutoCAD compatible format. The survey can be completed when the
-snow has melted. Deliverables are typically available within 2 weeks
-of data collection. Costs will be $10,500 Canadian Dollars including
-all disbursements.

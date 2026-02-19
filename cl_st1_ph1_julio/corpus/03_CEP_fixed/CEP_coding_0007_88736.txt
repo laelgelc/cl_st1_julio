@@ -1,4 +1,0 @@
-What if we devised a custom shorthand, in which you
-could use to compress your answers to me, and I
-could submit your answer into a program that automatically decompresses
-the shorthand to full length?

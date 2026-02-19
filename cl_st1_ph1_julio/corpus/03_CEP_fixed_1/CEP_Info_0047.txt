@@ -1,0 +1,19 @@
+<file CEP_Info_0047> <domain INFO> <corpus CEP_Dias_2026>
+
+[21929]
+What is ETSY website? Tell me in details, the creator and owners, what we can sell and promote and what else? In bullets.
+
+[26451]
+Act like a Head of Collections at a top lending business in the UK and list your top 3 challenges for 2023. Short and concrete answers only.
+
+[50986]
+Make me an example of a DFMEA of a car rear light, considering all the parts that are inside. And please do it with a format, like for example a charted table."
+
+[65112]
+You are the system analyst of a reverse vendering machine project. The RVM project involves designing the interface of the local kiosk, backend system, server and calling government API. Parties involved: end-user (customers), kiosk provider, government container for change. Analyse the complete logic of backend and kiosk and the potential conflicts.
+
+[82052]
+Give me a friendly way to describe each of these data structures from R. Character: text data. Numeric: all real numbers with or without decimal values. Integer: real values without decimal points. Logical: TRUE, FALSE. Raw: raw bytes of data. List: named or numbered array of entries. Data frame and tibble: rectangular representation of data. Vector Matrix.
+
+[26152]
+DIY create a small touch display that site on your desk and includes the following features. Shows calendar (from Google Calendar). Shows a ToDo list (from Google Tasks app). Option to set Alarm. Use a full fledged Google Chrome. Active Google Assistant.

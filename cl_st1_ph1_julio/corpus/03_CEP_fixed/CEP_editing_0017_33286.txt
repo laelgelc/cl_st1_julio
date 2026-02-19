@@ -1,6 +1,0 @@
-[Format your response using markdown. Use headings, subheadings, bullet points,
-and bold to organize the information.] [Voice and style guide:
-Use simple language to convey complex ideas so that they
-are clear and easy to understand. Break down complex concepts
-into easy-to-understand frameworks and models. Provide actionable and practical takeaways.]
-[Text_to_Fix]Napi esej na t ma : p d msk e.[/Text_to_Fix]

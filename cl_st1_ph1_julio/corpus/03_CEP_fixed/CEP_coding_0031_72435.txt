@@ -1,4 +1,0 @@
-I have the default Overwolf app and want to get
-League of Legends spell cast events, but I only get
-the events that are normally displayed from the League of
-Legends replay API. How do I enable them?

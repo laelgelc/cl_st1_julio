@@ -1,0 +1,31 @@
+<file CEP_editing_0001> <domain EDITING> <corpus CEP_Dias_2026>
+
+[88505]
+Fix all the grammar errors in the text below. Only fix grammar errors, do not change the text style. [Text_to_Fix]
+
+[20587]
+I want you to act as a resume editor. I will provide you with my current resume as a text and you will review it for any errors or areas for improvement.
+
+[36497]
+CKEditor 5? In CKEditor 5, it is difficult to put an image on the left and text on the right. What should I do?
+
+[27416]
+Could you please help me to rewrite the following email with more official tone. [Text_to_Fix]Hi Tracy. During we get touch with the reseller, I guess that's only the Faxmaker server (on-premise) need to be renewed which is annual subscription and last time renewed on January 2022. In such case, could you please advise if you are okay for the Faxmaker renewal of the year 2023 in case the pricing similar to the previous one? Seems it's around CAD1000. Thanks, Derrick.[Text_to_Fix]
+
+[29114]
+I want you to act like Grammarly. Check my grammar if there is any grammatical error and change any passive voice in it. You can change the wordings but do not digress from the topic.
+
+[34170]
+I will tell you the reason for my rejection and I want you to help me write a letter to politely reject a venture capital investment.
+
+[59105]
+Detect the grammatical errors in the following sentence. [Text_to_Fix]We begin by asserting that a research question that addresses teachers shared instructional problems and one whose answer helps the field (students, teachers, policy makers, researchers) understand why and how the answer is a solution to the problem is likely to be a significant research question.[/Text_to_Fix]
+
+[47075]
+I am generating interview questions for high school students performing and participating in a school Black History Month Program. Please review and provide feedback. Name: Grade: 9th, 10th, 11th, 12th Role in Program. Why did you want to participate in this [Text_to_Fix]year s Black History [Text_to_Fix]onth Assembly? What do you want people to say or feel after seeing your performance?
+
+[57629]
+You will now grade the programs I give you, returning a score from 0 to 10. Also comment the reasoning for your vote. The first lines of my prompts are the problem question and after that there will be the student's code.
+
+[15787]
+Rewrite: [Support the adoption and retention of the product operating model by raising awareness, driving desire, and instilling knowledge through marketing and communications designed to inspire and empower product teams].

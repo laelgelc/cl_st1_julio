@@ -1,3 +1,0 @@
-I've coded Firefox browser extension using Manifest V3. It needs
-permission to read all website by default, which was working
-fine in Manifest V2, but in V3, it doesn'

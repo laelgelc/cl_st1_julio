@@ -1,3 +1,0 @@
-I have relative depth images of unknown scales. I want
-to setup a per pixel loss term which I can
-apply individually to any pixel.

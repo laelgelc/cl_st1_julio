@@ -1,3 +1,0 @@
-Can you program a spreadsheet to calculate inputs from a
-Google Form and export the final values to a second
-spreadsheet for all the users answers?

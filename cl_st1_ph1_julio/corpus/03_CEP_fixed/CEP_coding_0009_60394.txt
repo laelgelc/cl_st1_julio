@@ -1,2 +1,0 @@
-Python 3.9, Serverless Framework AWS Lambda function. AWS-Node-Termination-Handler Slack webhook.
-Slack webhook. Code_Snippet, Slack webhook.

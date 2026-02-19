@@ -1,0 +1,73 @@
+<file CEP_Info_0024> <domain INFO> <corpus CEP_Dias_2026>
+
+[32616]
+What do you think is a diplomatic way to say
+[Text_to_Fix]?"
+
+[35620]
+Here is a bag of popcorn with no chocolate inside.
+Yet the label on the bag says "chocolate" and not
+"popcorn". Sam finds the bag and reads the label, but
+she cannot see what is inside. She thinks that the
+bag is full of __.
+
+[70044]
+Explain how air source heat pumps work. Make it simple
+so that a customer can understand it. Be sure to
+highlights any benefits to the customer.
+
+[32619]
+Please create a product roadmap for Instagram stories in order
+to increase the number of posts. Please be as detailed
+as possible, and whenever possible, use comparisons to other tools
+such as TikTok.
+
+[15534]
+How do I authenticate my Apollo v4 server using JWT,
+allowing the login mutation to be unauthenticated but the rest
+of the queries and mutations to require authentication?
+
+[24721]
+Table 3: Furniture Shop Columns: OrderID, OrderDate, CustomerID, CustomerName, CustomerAddress,
+ProductID, ProductDescription, ProductFinish, UnitPrice, OrderedQty.
+
+[72642]
+I want to create a website that sells educational videos
+like Class 101. Please tell me how to use a
+free video player. Answer in English.
+
+[21721]
+List the Ballet schools for 5-year olds that are close
+to Munich Spixstrasse in the order of their ratings startings
+with the most positive ones.
+
+[80276]
+I currently have chicken wings some soy sauce red wine
+rice and spices and common condiments in a North American
+home. Give me a mealplan for next week at work
+and walk me through step by step from cooking to
+cleaning, with the least amount of dishes. I hate when
+my chicken is dry and I like spicy. I want
+it made quick.
+
+[29368]
+. . - Reader level : - Length : 1000
+- Perspective : - Format :. - Give me feedback
+on my question? - Just tell me the conclusion. ---
+: , : Positioning isbn : 9780070652644.
+
+[66651]
+Give examples for "the impact of tourism is not always
+positive.". It can create tension between countries, especially in regions
+with a history of conflict or political instability. Tourists may
+be unaware of local customs and traditions, leading to cultural
+misunderstandings or offense. Tourism can also lead to the exploitation
+of natural resources and damage to the environment, creating long-term
+consequences for host countries.
+
+[25208]
+What is the average shear stress acting on any cross
+section of a simply supported beam of length 10 ft,
+loaded by 10,000 lb in the middle, between the left
+support and the applied load? The beam's cross sectional area
+is 1 sq in.

@@ -1,5 +1,0 @@
-Build an end to end Shiny Real Estate app using
-R and the Zillow API. Explain each step then at
-the end Print out the entire code and indicate the
-online sandbox which allows this to be tested. Include unit
-tests and include error handling.

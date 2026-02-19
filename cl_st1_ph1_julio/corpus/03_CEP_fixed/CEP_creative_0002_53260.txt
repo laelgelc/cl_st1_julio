@@ -1,3 +1,0 @@
-Create 20 questions to test binary to decimal, decimal to
-binary, binary to hex, hex to binary, hex to denary
-and denary to hex. Include a markscheme at the end.

@@ -1,3 +1,0 @@
-There is a xml file and it has attributes. I
-want to declare variable in "configui.properties" and use it as
-xml attribute. How to do that?

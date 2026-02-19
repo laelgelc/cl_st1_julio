@@ -1,5 +1,0 @@
-Based on everything you know about Porter Novelli, Cuker Agency,
-Leo Burnett, Carat, Spark Foundry and Wieden Kenedy, write 30
-name suggestions for an AI Podcast. Simulate a brainstorming session
-between these agencies and specify in the list of names
-which agency would come up with that name suggestion.

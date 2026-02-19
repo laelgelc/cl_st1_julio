@@ -1,4 +1,0 @@
-I want you to act as a resume editor. I
-will provide you with my current resume as a text
-and you will review it for any errors or areas
-for improvement.

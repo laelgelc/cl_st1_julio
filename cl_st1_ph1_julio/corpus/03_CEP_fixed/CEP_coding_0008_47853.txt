@@ -1,7 +1,0 @@
-You are given an unsorted array A[1: n] of n
-distinct positive integers. Design an algorithm that in O(n +
-M) worst-case time, where M is the maximum possible integer
-within A finds the h-index of A. The h-index is
-defined as the maximum integer h such that A[1 :
-n] has at least h indices whose entry is at
-least h. (25 points).

@@ -1,4 +1,0 @@
-Can you write me a C++ code to retrieve the
-local network gateway IP that is cross-platform ? (at least
-Windows Linux and macOS) I do not want to use
-any external libraries, just the STL.

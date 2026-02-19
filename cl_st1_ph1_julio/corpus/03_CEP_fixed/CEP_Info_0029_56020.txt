@@ -1,6 +1,0 @@
-As a 20 years expert mechanical engineer, I need to
-choose the right accelerometer to able to measure position of
-an object for less than 0.1 mm and 0.1 in
-tilt angle for slow and short motions. Answer with bullet
-point. Ask me relevant questions that could guide you to
-a better answer. Please write in French language.

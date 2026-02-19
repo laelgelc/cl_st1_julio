@@ -1,6 +1,0 @@
-Please write a Scala function when given the total number
-of rows and columns in the theater (nRows and nCols,
-respectively), and the row and column you are sitting in,
-return the number of people who sit strictly behind you
-and in your column or to the left, assuming all
-seats are occupied.

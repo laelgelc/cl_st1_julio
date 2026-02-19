@@ -1,4 +1,0 @@
-Using AWS' Java SDK version Code_Snippet how can I write
-a query to get notes out of a DynamoDB for
-several different hash keys? It seems like performing a BatchGet
-is the correct approach here.

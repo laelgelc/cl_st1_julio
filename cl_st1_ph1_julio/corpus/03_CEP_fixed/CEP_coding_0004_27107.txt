@@ -1,4 +1,0 @@
-Write me a Java stream code, that streams allData to
-a string array. AllData contains ReportTab objects and I want
-to stream only the sqlStatement variable to the new string
-array.

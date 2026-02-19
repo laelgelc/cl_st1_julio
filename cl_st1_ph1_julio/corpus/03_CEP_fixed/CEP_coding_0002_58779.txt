@@ -1,4 +1,0 @@
-Hey, trying to query Contentful's GraphQL API and I'm having
-issues querying for a rich text field - says I
-need to query for subfields. How do I just get
-an HTML string of the rich text?

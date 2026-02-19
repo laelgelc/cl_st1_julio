@@ -1,4 +1,0 @@
-I want the shortest possible Python function to convert floating
-point numbers to round figures with optionally specified number of
-significant figures (default 4), so for example Code_Snippet should return
-the string Code_Snippet.

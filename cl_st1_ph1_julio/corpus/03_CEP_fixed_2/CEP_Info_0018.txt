@@ -1,0 +1,74 @@
+<file CEP_Info_0018> <domain INFO> <corpus CEP_Dias_2026>
+
+[76736]
+I am the treasurer of a home owners association in
+California. I am preparing an estimate of the HOA tax
+dues over the next 5 years. Please explain the rules
+and procedures to calculate the depreciation amounts for each year
+on the different kind of assets for the HOA.
+
+[75373]
+I am running a mini soccer group with under 5
+year olds this weekend. It will be myself, three other
+coaches and 20 children of mixed ability under the age
+of 5.
+
+[44286]
+What is the importance of solar radiation data? At Bhubaneswar,
+the following observations were made. Theoretical maximum possible sunshine hours
+equals 9.5 h. Average measured length of a day during
+April equals 9.0 h. Solar radiation for a clear day,
+Ho equals 2100 kJ/m2/day. Constants: a equals 0.27, b equals
+0.50. Calculate the average daily global radiation.
+
+[26988]
+I am a senior software engineer and I want to
+transition into being a product manager. How long should I
+wait before leaving my job so that it is socially
+acceptable?
+
+[44701]
+Why was Andrew Jackson such a personally powerful embodiment of
+the new mass democracy in the 1820 s and 1830
+s? Would mass democracy have developed without a popular hero
+like Jackson?
+
+[32588]
+I am an executive at a small software services company.
+We provide high-tech services for people with Research and Development,
+development, and productization. We specialize in Augmented Reality, Virtual Reality,
+Machine Learning, machine vision, and mobile development.
+
+[46900]
+Can you outline what a customer journey could look like
+on cargoexportusa.com? Please outline in a table format the key
+phrases, key touchpoints during each phase. 1 or 2 jobs
+to be done per phase and potential pains and gains
+per phase. Please write in English language.
+
+[32909]
+I want you to act as a naming generator for
+the characters in the Dragon Ball series. Please provide the
+correct name for the character I describe, with the correct
+spelling and capitalization. Do not include any additional information or
+descriptions in your responses.
+
+[84947]
+I plan to travel with my wife to Yeosu from
+May 17 th to May 18 th. Organize the 10
+main tourist courses you can enjoy for 2 days and
+1 night in order of preference. Answer in English.
+
+[47203]
+Act as an executive assistant. I will provide you with
+my product details and you will identify brands/businesses to pitch
+to. My first response is to identify 25 youth organizations
+in Montgomery County Pennsylvania.
+
+[23588]
+I am a co-founder of a public benefit cooperative focused
+on supporting and developing tech projects for social good. I
+was asked to sponsor a senior project and I need
+to come up with an idea for some of these
+seniors in computer science to work on for a year.
+What are some ideas I could use?

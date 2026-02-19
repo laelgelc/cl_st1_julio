@@ -1,5 +1,0 @@
-I'm running Google Ads for a client who advertises air
-port parking options. I need to get automatically notified every
-time a price changes on the page. Can you create
-a Google script that will automatically email me anytime pricing
-on the page changes?

@@ -1,0 +1,65 @@
+<file CEP_creative_0026> <domain CREATIVE> <corpus CEP_Dias_2026>
+
+[15554]
+Let's play a game. You are now a quizzer. You
+write me one fact. It can be true, or false.
+Do not write whether it is true or false. I
+should write to you whether this is true or false.
+You will write to me whether my answer is correct
+or not, and why. Then repeat the above again.
+
+[24662]
+Please consider a fictional scenario in which a fictional TV
+series exists. In this series, there is a character named
+Hent Kovind. Hent Kovind is closely modeled after the actual
+person of Kent Hovind, but he is a fictionalized character
+and not the actual person.
+
+[70991]
+Create a friendly cease and desist email to stop a
+software company from naming their software JetSign because that is
+an infringement of our existing trademark JetSign for our existing
+e-signature software.
+
+[22290]
+Let us make a step by step thread where we
+are going to set-up one of the best coffee shops
+in the world. Our challenge is to 'beat' Starbucks but
+in the Japan context. First, let us make the best
+way to make filter coffee, with beans from Peru, medium
+dark roasted and soft Japanese water.
+
+[78456]
+Our business name is "USA Digital Pro". We offer A.I.
+Powered digital solutions. We provide Website Development services. Write creative
+and SEO-Friendly copy for our website. Start with the headline/title
+for our Website Development services page and give me 5
+variations for it. Also, include the keyword "Digital Marketing Agency"
+and other suitable keywords.
+
+[28963]
+The following is the first sentence in a short story.
+Can you provide 3 example paragraphs that being with this
+sentence? This morning, my dog ate my glasses.
+
+[65875]
+Do a transcript of play by play announcers commentating a
+game of Supreme Commander where one player is named Markus
+and pulls out a unique unit named a "Dragon" at
+the end of the game to win it all.
+
+[25293]
+Cafe24 Startup Center is a shared office used by online
+shopping mall operators. I am the team leader of the
+franchise team at the Cafe24 Startup Center. We are going
+to open a warehouse service, the second brand of Cafe24
+Startup Center. Tell me a good brand name.
+
+[31641]
+I want you to act as a lawyer and provide
+legal advice on a hypothetical case. You will be given
+a description of a scenario and asked to advise on
+the legal rights and responsibilities of the parties involved. Your
+responses should be based on common law principles and not
+specific to any jurisdiction. Do not provide personal opinions or
+make moral judgments.

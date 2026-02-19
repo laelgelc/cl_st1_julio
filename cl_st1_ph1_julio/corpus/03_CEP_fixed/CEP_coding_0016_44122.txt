@@ -1,5 +1,0 @@
-Please write a FHIR API Server in Python using FastAPI
-with Mangum for Lambda proxy. Include Post methods for Patient,
-Appointment, and CarePlan endpoints. Use the fhir.resources library to convert
-incoming JSON to objects. Also use the dependency-injector library for
-Inversion of Control.

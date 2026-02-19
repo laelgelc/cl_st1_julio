@@ -1,5 +1,0 @@
-Calculate the terminal velocity of a raindrop. Take the size
-across of the drop to be 4.3 mm, the density
-of water to be 1000 kg/m^3, the density of air
-to be 1.21 kg/m^3, and the surface area to be
-r^2, the drag coefficient of a sphere is .45.

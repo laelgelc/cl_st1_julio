@@ -1,6 +1,0 @@
-I want to create a complex chat bot using Telegram,
-ChatGPT and in general my Python knowledge. I want the
-bot to support scenarios and states, be smart and dynamically
-switch between those and between contexts. Is there already good
-concepts that I could use to build on top? For
-example, state diagrams.

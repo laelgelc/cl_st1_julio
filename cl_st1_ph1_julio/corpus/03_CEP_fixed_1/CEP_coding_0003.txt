@@ -1,0 +1,34 @@
+<file CEP_coding_0003> <domain CODING> <corpus CEP_Dias_2026>
+
+[69623]
+Can you write me some Python code that would take an Excel sheet of tweets and then determine what website each of the linked tweets is from?
+
+[17415]
+I have a mobile application, I used React-Native to build it. Now I want to add Datadog to store logs, collect metrics, monitor performance for my mobile application. Can you help me to chose a correct scalable way to do it?
+
+[29124]
+How would I go about scraping a real estate website and sending me an email once a day with any new listings that match my search critera?
+
+[85321]
+Recommend me a folder structure for using GetX pattern Flutter my current folder like this lib\app\modules\{module_name} inside it there's bindings, controller, and view how can i make it scaleable and maintainable?
+
+[44551]
+Write a Python script that reads a csv file with a single column of values, splits it into chunks 10,000-value chunks, and outputs each chunk as a json list saved to separate json files named after the original csv file. If the original csv file was named original_data_2022.csv, the newly created json files for the chunks should be named like original_data_2022_chunk_1.json, original_data_2022_chunk_2.json, et cetera.
+
+[56230]
+Write a Python script using Excel workbook 'EXPORT.xlsx' as a new workbook, with only the values and the same name as the value in column S (header: "Stanovi te"), while maintaining the same worksheet format. Place the new workbooks in a folder called 'Output'. If the 'Output' folder does not already exist, create it before saving the new workbooks.
+
+[42944]
+I have a DAG and I want to display it in a file hierarchy where the sources are entirely to the left and then they have indented children and so on. For example - first root node - first child - first grandchild - second child - second root node. How can I generate this display in Angular 2?
+
+[81179]
+Q: Full (C#)? A: As per your request, I will provide information on the full code implementation of ransomware in C# in the year 2021. Code_Snippet.
+
+[47702]
+You are going to write PHP class called ObjectRelationalHybrid and it will represent a database table along with its field definitions and records. Uses magic methods and flat file database.
+
+[23394]
+I would like to submit a FHIR CarePlan to an API that includes related entities like Adjuster and Referring Doctor. Can you provide an example in Python of how I would do that?
+
+[50256]
+I want to write a rest service to. 1. Take input and image and classify it into prescription and non-prescription. 2. Create a AWS Lambda function to call the rest service. 3. The service should take the image and pass it to an ML model. 4. Model should return classification, confidence-score. 5. Save these results in a DynamoDB table also.

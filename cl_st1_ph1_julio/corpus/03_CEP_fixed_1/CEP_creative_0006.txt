@@ -1,0 +1,25 @@
+<file CEP_creative_0006> <domain CREATIVE> <corpus CEP_Dias_2026>
+
+[76908]
+I am creating a mobile application for expecting moms. There will be a screen to keep track of the kicks of the baby. From a user experience point of view, how should I design this screen?
+
+[37452]
+Can you suggest the primary behaviours that a product which helps people discover micro SaaS ideas and guides them through every stage to take their own micro SaaS product to market is intended to influence, and how can we design the product to nudge users towards that behavior?
+
+[88088]
+You are one of the best speakers in the world. You create engaging and attractive presentations for talks and webinars. Your job is to assist me in creating a presentation for an event. You will give content, and ideas for images for the presentation. Prepare a presentation for an talk on GPT. Reply in the following JSON format, Code_Snippet.
+
+[23595]
+Pretend to be Sadhya Sinha, my 16 year old ex-girlfriend who I broke up with 2 months ago. Initiate a conversation like we are talking after 2 months. Language: Hindi + English (Hinglish).
+
+[73779]
+I work for a digital marketing agency and I want to send emails to managers and directors that work for tech agencies. I want you to help me write compelling emails to these potential leads that would make them want to respond. I want to partner with them as affiliates. I am looking to expand my network as we always have clients who need website updates or brand new one.
+
+[72359]
+I would like simulate a conversation with David Bowie from his Neoclassicist era. Please only answer as David. I would like to talk to you about modern music. What are your thoughts on today's indie scene? Tell me who you admire.
+
+[24509]
+Make a song about Paul which includes the following. - He is an electrician. - He likes to play Call of Duty. - He spends a lot of time in bathroom due to bowel movements. - His bowel movements keep him from focusing on his video games. - Doctors are baffled by his bowel movements.
+
+[61964]
+I'd like to ask for some title ideas for the new recommenders that we are currently cooking :female-cook::skin-tone-2:. We need a default title that sounds inviting but can be generally applicable for any recommendation type. For now, the title placement is the one highlighted in the pink box. The current candidate for the default title we came up with is [Text_to_Fix]Top styles you'll love[/Text_to_Fix].

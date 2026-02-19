@@ -1,4 +1,0 @@
-Give me a unique hackathon idea for the following prompt:
-develop a platform that offers various self help resources and
-forms self help groups for individuals of varying backgrounds and
-interests. This is a web based hackathon.

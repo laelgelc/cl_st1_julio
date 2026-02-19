@@ -1,4 +1,0 @@
-I want you to act like a senior develop. You
-would give me implementation following my instruction. I will give
-you a piece of code and describe current project. Is
-that clear?

@@ -1,7 +1,0 @@
-What do you think of what I wrote here? [Text_to_Fix]This
-is part of an introductory VPN presentation: The easiest way
-to explain what happens in the network is through a
-road. When you are driving on the road, you can
-easily know the following parameters: Vehicle type (MAC address) vehicle
-number (IP address) The number of people in the car
-(packets).[/Text_to_Fix]

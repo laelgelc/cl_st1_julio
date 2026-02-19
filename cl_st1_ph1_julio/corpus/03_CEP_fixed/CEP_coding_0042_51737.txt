@@ -1,4 +1,0 @@
-Write a Python function that searches through a directory "results/"
-for .npy files. Each one is a 2 D NumPy
-array, and I want all of these to be put
-into one mega NumPy array.

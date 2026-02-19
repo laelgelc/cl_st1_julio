@@ -1,7 +1,0 @@
-Let's say we have an app where there is a
-dashboard of short stories. We want to keep track of
-how the user has interacted with each short story, and
-the user might even make modifications to it by directly
-editing it. Should we make a copy of the story
-for each user or should that be a separate table?
-I'm using TypeORM to do this.

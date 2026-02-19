@@ -1,4 +1,0 @@
-Are there examples of Terraform providers that have built their
-code atop of other providers? For example, we have a
-service that deploys VMs in AWS? Can we leverage the
-AWS Provider in Terraform for that?

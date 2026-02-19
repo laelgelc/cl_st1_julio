@@ -1,6 +1,0 @@
-I want you to act as an expert Chrome extension
-developer. I want to create a brief for my Upwork
-job. The job is to create a very simple Chrome
-extension that lets users access our ELI5 feature that takes
-a prompt and sends it to Davinci 003 via API
-and returns a completion. Write a brief for me.

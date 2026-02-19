@@ -1,7 +1,0 @@
-Create me an table with the following in the vertical
-column lines- Market, Industry, Strengths, Weaknesses, Opportunities, Threats, Start-up capital,
-Expected first year turnover, Estimated break-even point. On the horizontal
-column I want the following 3 headings Gourmet food ecommerce,
-Student accommodation. Small loans business. I want each of the
-3 horizontal headings explained in line with the vertical column
-lines.

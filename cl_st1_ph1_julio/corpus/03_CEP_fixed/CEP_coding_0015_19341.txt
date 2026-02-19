@@ -1,6 +1,0 @@
-I work on an e-commerce project with Angular. The projct
-is about products API, that shows on the home page
-the list of products and I have card , navbar
-, list-product , login and product details. I will give
-the codes of all the component , just read them
-without giving aswers ok.

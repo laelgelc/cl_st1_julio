@@ -1,6 +1,0 @@
-In a Java 6 application, we have a Java class
-that maps a simple data model with two fields, an
-integer and a boolean. These fields are wrapped inside custom
-classes called NumeroIntero that has a single int field inside
-and ValoreBooleano that has a single boolean field inside. Write
-the Java code for this situation.

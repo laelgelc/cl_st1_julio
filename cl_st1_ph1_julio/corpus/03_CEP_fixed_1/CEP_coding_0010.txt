@@ -1,0 +1,31 @@
+<file CEP_coding_0010> <domain CODING> <corpus CEP_Dias_2026>
+
+[82944]
+I have relative depth images of unknown scales. I want to setup a per pixel loss term which I can apply individually to any pixel.
+
+[64134]
+I'm running Google Ads for a client who advertises air port parking options. I need to get automatically notified every time a price changes on the page. Can you create a Google script that will automatically email me anytime pricing on the page changes?
+
+[18735]
+Can you write a C# program that accepts a list of integers and outputs the first integer number greater than 0 that is not inside the list?
+
+[64229]
+Now, I need to do some modification to my data grid view. I need to know which row was added modified, deleted or unchanged. Then when I get the list from data table, I can split them into corresponding list. Can I do that by adding a temporary column to save state of the rows?
+
+[22396]
+For an ASP.NET CORE C# website, if I want to password protect the website on front-end what method should I use? Htaccess or is there a way to use the web.config?
+
+[31863]
+Write a function in Python. Input: a 3D bounding box, image resolution, camera intrinsics, camera extrinsics. Output: a 2D bounding box. This 2D bounding box should be the minimum bounding box of the projection of a 3D bounding box onto the camera canvas. Pay attention to the cropping effect at the image boundary.
+
+[80498]
+Write a React component that creates a professional looking dropzone for users to input 24 FCS files. On Drop figure out the most efficient way to Create a websocket connection to an R Plumber API endpoint that plots the FCS files using Ggcyto.
+
+[33132]
+Write a Python script that will send an email with a log file as an attachment and the command to run it as a cron job once a month.
+
+[42862]
+I want you to act as a senior web developer. I will send you a questions. You need to explain it deeply, like In an interview. My first question is Typescript basic types, enums type.
+
+[37467]
+There is a grid of light bulbs with 5 rows and 5 columns, making it 25 in total. They are all turned off. Clicking on a bulb changes the state of the lamp itself and of all of its neighbours to the opposite: lights up an unlit bulb and turns off a lit bulb. Write a code in JavaScript, which calculates and outputs the fastest way to light up all the lamps, so that none of them stays unlit.

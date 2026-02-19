@@ -1,3 +1,0 @@
-Write a Python script, which reads a file with data
-like this: Code_Snippet and prints a C64 BASIC listing with
-DATA statements, where the numbers are converted to decimal.

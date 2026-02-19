@@ -1,6 +1,0 @@
-I have a webpage, i want to make a floating
-button that will either mute or unmute the music on
-the website. And this music will only start playing when
-i scroll to a particular image down on my website.
-How do i add this feature and also make sure
-this works on mobile and other smaller screens as well?

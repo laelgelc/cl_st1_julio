@@ -1,4 +1,0 @@
-I am trying to design a secure drop box for
-packages to be placed outside of customers homes. Can you
-suggest to me some cost effective ways to inform the
-customer when the box has been opened and closed?

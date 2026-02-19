@@ -1,0 +1,70 @@
+<file CEP_Info_0030> <domain INFO> <corpus CEP_Dias_2026>
+
+[28940]
+I want to learn AWS Re/Start for a job. Can
+you create a roadmap to learn AWS Re/Start to learn
+in 6 weeks with weekly plan? Include resources and link
+for each week and include YouTube video links.
+
+[62599]
+I am designing a website for Startup Coaching. We deliver
+personal planning, pitch training and tailored coaching to aspiring entrepreneurs.
+Create a business model for this service.
+
+[44743]
+The Bollog book service is a service that allows customers
+to access the website and publish paper books using a
+solution that automatically edits SNS data through linkage. Do you
+understand what kind of service this is?
+
+[85607]
+List 5 sample university project that can be done for
+a data mining course related to sentiment analysis of social
+media. List out in point form along with its sample
+of open source data that can be used in this
+project.
+
+[60770]
+Is bbw a scaled indicator? I mean is it indicates
+the same amount of standart error if it is 0.02
+in a symbol chart x and a different sybol chart
+y.
+
+[30068]
+Cafe24 executives and employees know the company's vision and direction,
+and are in charge of corporate blog channels for internal
+communication that are operated to communicate to help them in
+their work. Please tell us what kind of risk response
+system should be prepared to prevent negative public opinion among
+executives and employees about [Text_to_Fix]the summary introducing the published content[/Text_to_Fix].
+
+[54423]
+You, as an IT consultant, answer me. Please tell me
+a list of questions to ask for IT consulting to
+a company that develops transportation-related software.
+
+[75077]
+Is it possible to connect TikTok Ads Manager with ChatGPT-4
+to scrap data, analyze advertising performance of my ad campaigns,
+ad creatives? And how I can do it?
+
+[26561]
+List sections of the Texas statutory code that would govern
+or apply to "public official surety bonds" that cover state
+officers or state employees. Examples include treasurers, mayors, sheriffs, and
+other employees of the state. Academic tone, concise writing, postgraduate
+level.
+
+[66920]
+FOUR GOLF baLLS can be placed so that each ball
+touches the other three. Five half-dollars can be arranged so
+that each coin touches the other four. Is it possible
+to place six cigarettes so that each touches the other
+five? The cigarettes must not be bent or broken.
+
+[58879]
+I want to build a SaaS where small/new sellers can
+get recommendations for what products they should sell based on
+what can maximize profit, while taking into account their selling
+style, lifestyle, capacity and any other preferences or attributes of
+the seller. Who are my competitors?

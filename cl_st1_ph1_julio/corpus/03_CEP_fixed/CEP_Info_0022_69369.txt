@@ -1,5 +1,0 @@
-I just read this: "ChatGPT models are optimized for dialogue.
-The performance of GPT-3.5-Turbo is on par with Instruct Davinci.
-Instruct models are optimized to follow single-turn instructions. Ada is
-the fastest model, while Davinci is the most powerful." What
-does single-turn instructions mean?

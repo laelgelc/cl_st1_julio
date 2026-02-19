@@ -1,6 +1,0 @@
-Hey, I'm trying to develop a Microsoft Outlook Add in
-and want to know if I can add a function
-that runs in the background every time an appointment on
-the user's calendar is changed. This add in needs to
-do something anytime the calendar changes, even if the user
-does not have Outlook open. Is this possible?

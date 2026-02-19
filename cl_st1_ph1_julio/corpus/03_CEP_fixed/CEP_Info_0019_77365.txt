@@ -1,7 +1,0 @@
-I want to learn how to be a fullstack software
-engineer using Node.js and React. I am a beginner. My
-goal is to be able to build simple web applications.
-I am willing to devote 1 hour per day to
-learning this new skill. My preferred learning style is watching
-videos and doing practical exercises. Please create a course curriculum
-for me to follow including all learning resources.

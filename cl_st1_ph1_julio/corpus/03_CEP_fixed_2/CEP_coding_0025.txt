@@ -1,0 +1,76 @@
+<file CEP_coding_0025> <domain CODING> <corpus CEP_Dias_2026>
+
+[25075]
+How to create a data pipeline in Python for a
+business with data coming from RDBMS, non - RDBMS, ERP
+Systems, CRM Systems, HCM Systems, APIs, Servers Data from a
+Data Marketplace?
+
+[18818]
+Act as a Linux command line. I will write you
+some command, please simulate the response I'd receive from a
+Linux command line using bash. Format your answers with a
+terminal-like, preformatted text. I will start with the first command:
+pwd.
+
+[21040]
+Write a Groovy script that checks out a given SVN
+revision number at [URL] and creates a TAR file containing
+all modified files from that revision. Use the ysu:tarpath svnprop
+to determine the destination directory within the TAR file.
+
+[35694]
+How to create a tunnel for ENet traffic from Godot
+4 Multiplayer implementation, so my players can connect to each
+other without knowing their IPs?
+
+[32436]
+Write me some code to check is zeotap_hhid exists in
+the browser session storage, if it does not exist I
+need the code to store the dataLayer,user.cable.
+
+[42975]
+I have a function which takes a file name and
+outputs a string. I want to maintain a file which
+records every file name and a dictionary storing the output
+text and some metadata variables like Code_Snippet.
+
+[46069]
+Based on the various work contents received in the company
+today, we will provide a sample of the contents to
+be notified to the customer in HTML code. HTML.
+
+[53098]
+I have a Django server that serves a webapp. Every
+5 minutes I want a function to run on the
+server and modify some entries in the database. Where should
+I implement this code?
+
+[60542]
+I have socket io code written in Python. I have
+used aiohttp and async server. Below is the sample code
+Code_Snippet. I want to deploy it on Ubuntu. Please guide
+me step by step.
+
+[59467]
+This is the topic of our converation. ### Configuring the
+dispatcher service to run AMQP with TLS. To enable TLS
+communication to connecting clients the following parameters must be configured
+in the `dispatcher.conf` file. Code_Snippet.
+
+[68406]
+Could you create json file of nation list with emoji
+flag icon, country name, abbreviation name like this Code_Snippet.
+
+[59840]
+Write a Powershell script. Iterate over a Windows filesystem. Collect
+fullnames. Iterate over the SIDs for each folder. Write Fullname
+and SID to a CSV.
+
+[75548]
+I want to scrape the content from an entire Google
+Chat channel using official Google APIs. Preferably I would get
+a file for each thread in the chat channel saved
+as plain text. Could you please show me if this
+is possible, what APIs I would need to use, and
+maybe some sample Python code?

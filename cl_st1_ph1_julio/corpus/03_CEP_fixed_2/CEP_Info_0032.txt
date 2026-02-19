@@ -1,0 +1,62 @@
+<file CEP_Info_0032> <domain INFO> <corpus CEP_Dias_2026>
+
+[18631]
+63 BbA1 c 5.9-6.5 7 8-9-9.5 CKD 5 24 200
+GFR 100 1-2 300-400 mg GFR 60-70 56. 1. Allisartan
+Tablets 240 mg/d. 2. Dapagliflozin Tablets 10 mg/d. 3. Metformin
+HCL 500 mg*3/d. 4. Pancreatic kininogenase enteric-coated Tablets CKD.
+
+[18232]
+What is a multi-dimensional definition of 'opportunity' mean in an
+organization who's goal is not only to close business but
+to also grow relationships that could open doors for future
+concrete revenue opportunities or lucrative mutually beneficial partnerships and relationships?
+
+[36261]
+When you given an answer to a question, can you
+estimate the confidence level of a fact upon request? For
+example, if I ask 'What is the capital of Italy'
+and you answer 'Rome', can you estimate your confidence level
+on the answer? Maybe as a percentage.
+
+[32262]
+My marketing communication team members are familiar with ChatGPT, I'm
+the team leader of TF, which is urgently organized to
+improve work efficiency by using it well. What do you
+need to do as the team leader of TF? My
+marketing communication team members are familiar with ChatGPT, I'm the
+team leader of TF, which is urgently organized to improve
+work efficiency by using it well. What do you need
+to do as the team leader of TF?
+
+[72531]
+Provide a comparison on how AI prompt writing and fine
+tuning each response with Chat GPT, is similar to Integrative
+Bargaining Zone when having negotiation between two or more parties.
+Specifically on how it is important for each party expressing
+its interest, building trust, and communicating in order to achieve
+the better result.
+
+[66278]
+Please give detailed supermarket automation and tracking framework and process
+using blockchain, RFID, tokens, and Cloud. Please give processes in
+details and share any relevant stats and research you have.
+
+[44293]
+What is extra-terrestrial radiation and draw its spectrum. Why this
+radiation deviates from solar constant value? Find the value of
+extraterrestrial radiation on 21 st February 2023.
+
+[25143]
+When I cook something for my son, which is 15
+years old, very often he does not want to eat
+what I cooked. Of course it hurts me when I
+put my time and effort into the meal preparation, and
+then he orders something from outside. What can I do?
+
+[20176]
+I have a service I want to sell through cloud
+API. This service can be integrated and converted into product.
+I can try to do that too or I can
+try to raise awareness and have others venture this direction.
+Can you compare the two strategies, possibly with real examples?

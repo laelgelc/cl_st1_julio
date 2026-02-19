@@ -1,2 +1,0 @@
-Replace [Text_to_Fix] by meaningfull JSDoc annotation in the following code.
-Code_Snippet.

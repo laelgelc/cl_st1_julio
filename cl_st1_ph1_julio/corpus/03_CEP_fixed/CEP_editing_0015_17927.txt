@@ -1,4 +1,0 @@
-Hi, as far as I know you have read a
-huge document dataset. Also, I know that you are an
-expert of summarization. Can you summarize all that information in
-a paragraph?

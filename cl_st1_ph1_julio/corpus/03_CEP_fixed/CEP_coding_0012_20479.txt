@@ -1,3 +1,0 @@
-Write a Python script that uses Pandas to parse a
-CSV. It should group the rows by UID and sum
-the total revenue for that UID.

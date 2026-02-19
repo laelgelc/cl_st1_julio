@@ -1,7 +1,0 @@
-In Windows 11 I am getting a message in Device
-Security that Memory Integrity cannot be turned on because of
-incompatible device drivers. The device drivers that are detected as
-being incompatible are the following: lhusbdfuamd64.sys (Logitech), ssdudfu.sys (Samsung), VIA_USB_ETS.sys
-(Samsung), mbtusbser.sys (Schunid), lhusbdfuamd64.sys (CSR plc.). What can be done
-about this so that I can reenable Memory Integrity on
-my system?

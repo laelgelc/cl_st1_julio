@@ -1,5 +1,0 @@
-Using Python (Django) and a Postgres database is it possible
-to create a database model where one table can be
-swopped out with another table (that has the same types
-but different column names) without having to change the code
-to point to the new column names?

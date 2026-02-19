@@ -1,8 +1,0 @@
-Make a game in HTML where two bots move one
-space each second. When they move they continue on the
-same direction as last time, but change direction with a
-probability of 10%. If they hit a wall the continue
-on another direction. Food appears randomly on the grid, one
-kwew item each second. When the bot walks on the
-same grid where there is a unit of food, they
-get one point. Score is displayed.

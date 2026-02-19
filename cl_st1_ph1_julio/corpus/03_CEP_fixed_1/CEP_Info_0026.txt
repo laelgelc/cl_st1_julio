@@ -1,0 +1,34 @@
+<file CEP_Info_0026> <domain INFO> <corpus CEP_Dias_2026>
+
+[32517]
+If the coin comes up heads, then I win a watch. If it comes up tails, then I lose a egg. What should I do to maximize my expected gains?
+
+[29314]
+Explain why peoples faces look strange if they are made to be symmetrical by reflecting the right side onto the left side, so that both sides are exactly symmetrical.
+
+[38017]
+Cost of fuel for a 14 mile journey in a car with 48 miles per gallon, fuel costs 625 pence per gallon and there is heavy traffic for half the journey.
+
+[42032]
+Is it normal to feel I am missing something if a female friend had experiences that I did not have and probably never have? It does not happen with male friends.
+
+[48222]
+I am writing on a concept for a Professional Training around the topic of "Design Handoff", which is supposed to teach Design and Development Teams (Web, Frontend, UI/UX/Product), how to effectively handover from designers to developers.
+
+[55255]
+Hello song. Hello, Copy Copy HTML Read Aloud 6 chars | 1 words Regenerate response ChatGPT Feb 13 Version. Free Research Preview. Our goal is to make AI systems more natural and safe to interact with. Your feedback will help us improve. New chat. New chat. New chat. Clear conversations. Pricing Plans. Change Theme. Updates & FAQ. Log out. New chat.
+
+[53931]
+How to tell a colleague that you do not like to jam their schedule with unnecessary meetings and that you can try to solve things by yourself?
+
+[63518]
+11 skills in IT management to learn | become an expert at 3 1. Knowledge of Networking Protocols 2. Threat Intelligence * 3. Malware Analysis * 4. Cryptography 5. Risk Assessment * 6. Penetration Testing * 7. Incident Response 8. Security Auditing * 9. Digital Forensics 10. Security Architecture 11. Soft Skills. Take each item and give a detail explanation as a tech expert with the mind of Elon Musk.
+
+[54521]
+Write an RFP for a large solar array installation kn the roof of a new Lulu Lemon headquarters building in Vancouver, BC. The document should include time, cost, and staffing estimates.
+
+[72261]
+30 ways the Halifax Mooseheads junior hockey team can use generative AI to improve all areas of their business - give a specific use case for each.
+
+[73475]
+I have many APIs on different gateways and different documentation format. I want to create a way to search which API is relevant based on the presence of a field in the response. How can I do this?

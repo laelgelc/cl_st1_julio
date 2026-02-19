@@ -1,3 +1,0 @@
-According to the definition of alternating bitstring, it can be
-any bitstring in form XYXYXYXYetc. X and Y are bitstrings,
-which could be different lengths.

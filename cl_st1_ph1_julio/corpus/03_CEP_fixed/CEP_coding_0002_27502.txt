@@ -1,3 +1,0 @@
-Give me the code in CloudFormation to launch a task
-in ECS Fargate which execute my container and receives some
-environment variables from Parameter Store.

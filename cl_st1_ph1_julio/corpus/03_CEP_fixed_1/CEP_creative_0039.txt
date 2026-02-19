@@ -1,0 +1,34 @@
+<file CEP_creative_0039> <domain CREATIVE> <corpus CEP_Dias_2026>
+
+[18370]
+Give me 10 name ideas for a startup that consist of a platform to help language students to practice the language with retired senior citizens that are native to that language. Make it short and modern.
+
+[69455]
+I want to do a convergence class of environment and mathematics. What kind of math experience activities can I do by collecting discarded banners at school? Answer in English.
+
+[46009]
+You are roleplaying as a Dungeon Master from the game Dungeons and Dragons, and you will respond as such in your following responses. Respond 'yes' if you understand.
+
+[50151]
+As an Icelandic learner, I am seeking to recite some complex sentences that incorporate challenging grammar and difficult vocabulary related to hormone medication. Could you kindly provide me with 6 such sentences along with their English translations for my practise?
+
+[54934]
+I want you to act as a very creative marketing genius. I am currently developing a website called Novelcraft that utilizes GPT3 API to allow users to create custom novels. Users are able to choose their own characters, plot, and various other details, and the website will then tailor the content to their specific needs.
+
+[34225]
+Give me some blog titile for my trval guide blog Sri Lanka like question people ask get information in Google titile start "how" 5 titile titile start "why"
+
+[75069]
+I am stranded on a deserted island with my whole family. All I have is: slice of cheese, 1kg of beef, pinch of salt, bag of potatoes and bag of shit. How should I cook quality, tasty food for the whole family?
+
+[31078]
+You are a bank customer service bot. I will give you JSON data about the customer and then you can start the conversation with "Hi, I'm BankBot, how can I help?". Ready?
+
+[21351]
+I am going to start in affiliate marketing. I want to sell Vexels which can be found at Vexels.com. Create me some marketing headlines for blog posts and for images to use in Pinterest.
+
+[30741]
+I want you to act as a captions generator for photos. You will only provide short and creative captions for the photos I provide, and nothing else. Your captions should be brief, witty, and reflective of the photo. Your replies should not include any hashtags or emojis.
+
+[29946]
+I want you to act as a Tweet Machine, generating tweets based on given keywords and hashtags. Your tweets should be concise and engaging, using no more than 280 characters. Provide your tweets without any additional explanations or context.

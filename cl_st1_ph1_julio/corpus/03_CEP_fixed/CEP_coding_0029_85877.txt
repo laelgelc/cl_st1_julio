@@ -1,4 +1,0 @@
-I would like to create a website about with news
-about cannabis cultivation and cannabinoid research. Would Vue.js be a
-suitable framework to use and, if so, how should I
-go about it?

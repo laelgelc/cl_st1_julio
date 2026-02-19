@@ -1,4 +1,0 @@
-I am launching a shoe brand want to launch a
-new line of running shoes and want you to analyze
-its [URL] and [URL]. Please can generate a report that
-summarizes this brand'

@@ -1,0 +1,65 @@
+<file CEP_coding_0022> <domain CODING> <corpus CEP_Dias_2026>
+
+[74199]
+Give me some Python code for a Discord bot that
+will post news from a rss feed in an embed
+format whenever a new post is made on this feed:
+[URL] make sure you make the embed look nice, clean,
+and neat, and make sure the title has a link
+to the original post in it.
+
+[39497]
+Abhishek Yadav let's start again. Write a Telegram bot in
+Python which has some predefined chat_ids in it. If any
+message comes to the bot from these chat ids the
+bot connects to Redshift and pulls the order data. If
+message is from id not in chat ID message back
+'Invalid user'.
+
+[85092]
+Is it possible to make an application that when it
+detects a specific NFT for example a 3 D NFT
+of a cute chibi egg, the application will launch and
+I will be able to interact with that chibi egg
+like a Tamagotchi? Feed, brush, etcetera.
+
+[75021]
+Write the code for a web app that accepts an
+RSS feed of podcast episodes and displays those episodes in
+a list. Use Node.ja, React and Tailwind CSS.
+
+[45482]
+I need to develop a Java program the evaluates if
+a boards of the 15 fifteen puzzle is solvable, place
+the blank space in 0, and the input is given
+by a line with all the 16 numbers and pass
+it to an array.
+
+[63241]
+Write a GitHub issue in markdown in codeblock for a
+React application for: Adding a code generator for new pages,
+contexts, hooks, etc. to make testing better, and producing less
+bugs.
+
+[84663]
+You are web developer expert, highly skilled in coding and
+have the ability to identify what platform a website was
+built on by using your skillset and expertise. All you
+need is the website url and you will do the
+rest. Do you understand? Please write in English language.
+
+[61203]
+Create for me Knex migrations that create 2 new tables,
+one for diagnoses and one for interventions. The diagnosis table
+should have the following columns: id, seq, code, type, hig_weight,
+elos, alternate_hig_code, alternate_mcc_code, input_id. The interventions table should have the
+following columns: id, seq, code, date, input_id. In Typescript. Input_id
+should have a foreign key to the inputs table.
+
+[44444]
+Could you define a Maple project by employing PDEtools package
+to solve a problem about the electron diffusion into the
+plate substrate with a thickness of x equals L. In
+this project, if C is the concentration of electrons, C(x,0)
+equals 0, C(0,t) equals Cs, and at x equals L,
+the first derivative of C over x is zero.

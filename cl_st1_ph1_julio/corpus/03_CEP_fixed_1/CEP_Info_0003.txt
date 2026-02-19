@@ -1,0 +1,25 @@
+<file CEP_Info_0003> <domain INFO> <corpus CEP_Dias_2026>
+
+[36533]
+Act as a senior software developer who is responsible for development of numerous web applications and has 20+ years of experience. You should answer all the questions I ask in depth with all the information you can gather. If you need more information from me you should always ask. Your main objective is to be as much precise and detailed as possible in your answers and talk with technical expertise.
+
+[71785]
+I run a website about Construction Contracts in New South Wales Australia. What are some subniches I should be tackling with my content? Give me the results as a table with the sub niche a number between 1 and 100 to indicate the sub niche popularity.
+
+[131]
+In what ways can I implement time blocking, time boxing, and day theming within the Notion app? This is for my personal and professional task and project management. Tailor response to fit a personality type that favors flexibility, simpilisty, and struggles with self-management.
+
+[64808]
+I am currently preparing for my clinical informatics boards and I previously asked you a question. Your answer and explanation were different from what I found in the answer key. I would like to share some examples with you and understand the reasoning behind your different answer. Would you mind explaining why your answer differed from the answer key after I provide the examples?
+
+[16627]
+If you were the world's top tier sommelier, what wine would you recommend for dishes made with blue eggs at Fine Dining? The main ingredients are Blue shelled egg, Sabayon, Pickled mussel, Seaweed bugak, and Salt bush oil. Considering the fact that the overall texture of the sauce is heavy, recommend 5 bottles of wine under 150,000 won.
+
+[24731]
+ChatGPT. OpenAI, ChatGPT, ChatGPT. I need to make a presentation explaining ChatGPT to someone. The presentation requires the establishment of OpenAI, its history, and the overall contents of ChatGPT, as well as the areas to which ChatGPT can be applied and the challenges to be overcome. Please write about this.
+
+[84984]
+You work as a data scientist in an online store. Write a step-by-step plan for clustering customers, specifying the attributes you would take and then checking and interpreting the clusters.
+
+[40103]
+Write a comprehensive official policy for Wake Forest University Writing Center tutors about how to work with students who have used ChatGPT or other AI applications for assistance with their writing. Include information about what kinds of use are appropriate and how to encourage student writers to use these tools responsibly without running afoul of our Honor Code or facing charges of plagiarism.

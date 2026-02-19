@@ -1,4 +1,0 @@
-I want you to act as a text extender for
-a short message. Your task is to expand the following
-message by adding at least 3 more sentences without changing
-the original meaning.

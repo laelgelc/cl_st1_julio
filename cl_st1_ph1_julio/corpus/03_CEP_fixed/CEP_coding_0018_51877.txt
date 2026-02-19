@@ -1,7 +1,0 @@
-I have a set of question for which I have
-defined the codes to get answers. Now if user asks
-a question I need to do a search in my
-existing question space. Now a user can ask something with
-completely different wording but it may be something in my
-existing question list with different wordings. Recommend which search algorithms
-I should use like fuzzy or semantic search.

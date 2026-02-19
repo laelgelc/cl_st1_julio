@@ -1,5 +1,0 @@
-I have a 2 D NumPy array that has 320
-columns and 240 rows. The code that saves it reads
-Code_Snippet. I want to append multiple NumPy arrays to this
-file, and also be able to read them from the
-file individually.

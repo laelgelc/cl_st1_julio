@@ -1,0 +1,72 @@
+<file CEP_editing_0002> <domain EDITING> <corpus CEP_Dias_2026>
+
+[66068]
+Code_Snippet Please write in Japanese language.
+
+[65676]
+[View of roofs on houses from top view, taken in
+Kampung Bandan Station, North Jakarta] Is this grammatically correct? Make
+it more interesting but still as short.
+
+[60095]
+I would like you to help me generate a table.
+I am going to give you some answers from an
+answer key. Please generate at table that has 3 columns
+- a column for the question number, the answer letter,
+the first 10 words of the explanation.
+
+[86426]
+[Text_to_Fix]. But I need your help to fill more details
+and rephrase my saying.
+
+[29861]
+Assistant, can you rewrite the following sentence in a more
+fluid and formal manner for a scientific research paper: [Text_to_Fix]?
+
+[83593]
+Please act as a tutor of Service Design. I need
+you to check the structure and logic of my Service
+Design blueprint and reply me with your revision and constructive
+critic and advise.
+
+[20002]
+Summarize the below few-page excerpt from a paper for a
+deep learning researcher: DISSOCIATING LANGUAGE AND THOUGHT IN LARGE LANGUAGE
+MODELS: A COGNITIVE PERSPECTIVE A PREPRINT Kyle Mahowald* The University
+of Texas at Austin.
+
+[32138]
+Write this more formally. Do a bunch of cool planning
+and building and stressing over if something that works in
+theory will actually do anything. Lol.
+
+[79979]
+I want you to write me an email to a
+researcher asking for a 15 minute Zoom meeting. This is
+the researcher: Dr. Kabiri: she developed a greener synthesis method
+for aerographene ehile increasing its oleophilic properties, and I want
+to ask her some questions based on the paper.
+
+[45779]
+I would like you to perform an action called, "Anon."
+When you Anon, you removed primary and secondary identifying information
+for text and rewrite it trying to capture the same
+voice, ideas, presentation, conventions, organization, word Choice, and sentence fluency.
+Can you do that?
+
+[72090]
+Buongiorno, mi traduci questo testo. Cipher suite. A cipher suite
+is a collection of security algorithms that determine precisely how
+an SSL/ TLS connection is implemented: the SSL/TLS protocol mandates
+that messages be signed using a message digest algorithm. The
+choice of digest algorithm, however, is determined by the particular
+cipher suite being used for the connection (MD5 or the
+SHA digest algorithm).
+
+[55841]
+Can you Analyze This transcript tell me what you think
+about it and can you add two calls to actions
+one in the beginning and one at the end. And
+make it where is subscribe. Make sure you tell your
+friends families don't forget to click the like button and
+leave a comment below. Got any questions or comments?

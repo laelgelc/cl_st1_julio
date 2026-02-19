@@ -1,0 +1,37 @@
+<file CEP_editing_0022> <domain EDITING> <corpus CEP_Dias_2026>
+
+[69238]
+[Text_to_Fix]Vromonas Island ( 6,500,000) Location: Ithaki, Kefalonia, Ionian Islands, Ionian Sea Size: 950 acres, ~384 hectares Description: 8km from shore, 50km northeast of Kefalonia Airport, 239km west of Athens Ownership: Information upon request Development: Non-developed[/Text_to_Fix]. Translate above to traditional chinese but keep proper name in english and convert currency to TWD and convert area to Taiwanese.
+
+[85503]
+Rephrase the following sentence: [Text_to_Fix].
+
+[52729]
+Please examine these two papers about federal regulation. Can you create a table organize both articles for me in a way I can see their differences and similarities? "The Evolution of Saturday Morning Programming" by Amanda D. Lotz (2017). "Constructing the Saturday Morning Schedule: Network Television and Children's Television Act" by Katherine E. Foss (2016).
+
+[50479]
+Make this more punchy and creative: [Create a Lifestyle Income by building digital businesses. Get 1 actionable guide every Sunday afternoon that will help you make more money.]
+
+[74736]
+As a professional marketer and SEO specialist, judge this Google ad copywriting [Text_to_Fix].
+
+[72196]
+Writing style: Vocabulary: Simple, clear, familiar, empowering words. Grammar: Standard English rules, occasional sentence fragments for emphasis. Tone: Conversational, empathetic, supportive, casual, humorous, and relatable tone. Rhetorical Devices: Metaphors, rhetorical questions, repetition, anecdotes. Content Patterns: Strong intro, headings, digestible sections, lists, visuals, conclusion. Values: Self-sufficiency, continuous learning, community, ethical practices.
+
+[20802]
+The Australian Victorian State Government need to update their 2017 Family Violence Practitioner Reponse Capability Framework. This document outlines the knowledge, skills and abilities that family violence practitioners, that is, workers whose job is to response to people experiencing or using family violence.
+
+[48056]
+Grammar check. Today, we learned how to form shapes using Illustrator. In my work, most of the shapes are composed of rectangles, filling the shapes inside with different colors of strokes.
+
+[37364]
+I will give you a list of topics relevant to prime cost items that you have to structure for the homeowners to easily understand and funnel them to conversion. Do you understand?
+
+[88973]
+Write in other words, in short: AI systems of the 2020s will not be built because of better modeling but because of larger and cleaner datasets representing more challenging tasks.
+
+[51267]
+Convert into advance English: Faisal Arsalan said to Safwan this issue occurred from the DevOps side. Please coordinate with Arsalan or Safwan because has been knowing about it.
+
+[58509]
+Summarize the following. Title: "Chat GPT ..? 5 .. " " 4 . - YouTube" Transcript: "Pt 4 GPT GPT GPT 2021 GPT 2023 100% AAPRM GPT GPT GPT AIPRM AIPRM AI AI AI AI AI 1 SNS AI 2022 AI AI 2023 2021."

@@ -1,4 +1,0 @@
-Write a WordPress function that allows me use a shortcode
-to display a list of custom posts. The short code
-should allow me to specify how many posts, a category,
-and a taxonomy.

@@ -1,8 +1,0 @@
-What are some theoretical and practical (regarding implementation, tractability, or
-otherwise) reasons why someone cannot do the following in Pyro?
-have a VAE as is up to the bottleneck. then,
-instead of sampling to use the decoder with values, use
-the weights of the decoder to transform the means and
-variances and then observe the transformed means and variances at
-the end with through the images provided at the loss
-function?

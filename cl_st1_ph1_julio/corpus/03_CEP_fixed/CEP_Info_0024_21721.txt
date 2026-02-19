@@ -1,3 +1,0 @@
-List the Ballet schools for 5-year olds that are close
-to Munich Spixstrasse in the order of their ratings startings
-with the most positive ones.

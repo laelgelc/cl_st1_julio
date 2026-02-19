@@ -1,4 +1,0 @@
-Your task is to analyze the website I give you
-and report in 200 words. All outputs shall be in
-Korean. The text to summarize should be read from this
-URL: [URL]

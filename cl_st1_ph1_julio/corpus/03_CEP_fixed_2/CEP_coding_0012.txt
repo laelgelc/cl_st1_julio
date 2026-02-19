@@ -1,0 +1,68 @@
+<file CEP_coding_0012> <domain CODING> <corpus CEP_Dias_2026>
+
+[20479]
+Write a Python script that uses Pandas to parse a
+CSV. It should group the rows by UID and sum
+the total revenue for that UID.
+
+[27643]
+I have a drop-down with the options to sort by
+title or by date. I have a lot of divs
+containing content including a title and a date. How do
+I use JavaScript to sort the divs based on the
+drop-down?
+
+[81465]
+I am trying to start studying C++ Algorithms. Since you
+know the basics of C language, please explain the difference
+between C language and C++. Answer in English.
+
+[51524]
+Hello, I want to create an initial database capturing data
+for from different projects with similar data obeservations (year, amount
+of money, date, etc). O More than 70 projects with
+similar data need to be incorporated into the final database.
+Multiplier users may extract or update data concurrently with the
+final database. If possible, general project information (stored on the
+cloud, such as grant approval/starting/closing date, and grant amount) can
+be updated automatically. What database application should I use?
+
+[53100]
+How do I use testing library to write a test
+for a responsive layout bug that appears when the browser
+is zoomed in to 125%?
+
+[67854]
+Create a full-fledged management program for a smart village for
+300 houses with 5 floors for 50,000 people. With an
+admin panel and documentation with links to tools for managing
+and using the Smart Village code. And also create a
+code for a site with an admin panel and additional
+functions that you are bored with. And create a table
+for the vector indicating the time for implementation and the
+cost, as well as the necessary resources, the amount, etc.
+
+[33573]
+Let's start review a Svelte code starting with App.svelte the
+main. I will show you some code and you can
+find potential errors and make this code more reliable and
+bug free. Are you ready?
+
+[29320]
+How to create a form in Google, in which I
+can take test input as well as file input and
+send it to the Node.js server in a single post
+request, at the same time in the Node.js server I
+can upload the file to EC2 instance and then save
+the text data and the returned file access url to
+MongoDB database?
+
+[79298]
+Act as a Unity technical artist. You have been tasked
+to create an overlay effect using the camera stacking feature
+in Unity. The effect should be a gradient between two
+colors at a 45 degree angle from top right to
+bottom left corner of the screen. Transparency should also be
+a gradient where the default value in the middle of
+the screen is full transparency and at the two corners
+50% transparency.

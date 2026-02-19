@@ -1,3 +1,0 @@
-Hey, I need you to write an Arduino code that
-detect the co2 using the MQ-2 sensor and show the
-output in a LCD display.

@@ -1,3 +1,0 @@
-Write a JavaScript module that accepts a JSON document and
-cleans it according to the following schema: Code_Snippet. An example
-document to use, for the "Home" type: Code_Snippet.

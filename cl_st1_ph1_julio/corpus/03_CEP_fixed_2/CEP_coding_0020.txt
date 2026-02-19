@@ -1,0 +1,70 @@
+<file CEP_coding_0020> <domain CODING> <corpus CEP_Dias_2026>
+
+[47965]
+From my Google Sheet table, I want to create a
+Google Studio graph that shows sales from my different retailers.
+Please give the right formula to create a new metric
+field that shows the sum of numbers in column 'sales'
+only if the value in the column retailer is 'ASDA'.
+
+[75749]
+Write assembly code for the following Python code Code_Snippet.
+
+[71739]
+Can you program a Chrome extension to me that swipes
+right to every girl on Tinder.com and then sends a
+random open-ended question about today's dating scene to every match
+I get?
+
+[20743]
+I am making a React application using Axios and React
+Router DOM. If my backend returns a status code of
+401, I would like to redirect my user back to
+the home page. Can I do this by using Axios'
+interceptors?
+
+[44829]
+Can you translate this code plotting a graph in R
+to instead plot a graph in an HyperText Markup Language
+script using plotly: Code_Snippet?
+
+[35189]
+I will ask you JavaScript code questions and you will
+answer with the JavaScript code only. So given no explanation
+about the code you write. Write me a functional JavaScript
+function to fetch a fictional API with a authorization bearer.
+
+[89077]
+What is the easiest way to add sign in with
+Google to a Rails app? I do not need a
+complicated way to store users if possible.
+
+[48762]
+In Matlab, how could I split an image into four
+sections (quadrants) to then perform a Hough transform to detect
+circle positions in a single quandrant?
+
+[57321]
+I will act as a senior software engineer to assist
+you in building an app using Node.js, React.js, HubSpot CRM,
+and HubSpot API. Additionally, I will provide recommendations on utilizing
+the MUI component library and the best methods and resources
+for generating PDFs of reports, marketing collateral, and spec sheets.
+Please describe your project requirements and provide a high-level overview
+of the desired functionalities and features of the application.
+
+[57437]
+XBee radio module works with UART communication and so does
+GPS module so how do we figure out how to
+interface with both at the same time since there is
+only one UART line on the MCU?
+
+[24005]
+I am trying to use the following code to connect
+to my OpenAPI model, but it is not working. Can
+you help me fix it?
+
+[31268]
+Somewhere in my css is something that causes item. What
+should I change to fix this? I use Tailwind CSS.
+Is there a solution that involves the inline: parameter?

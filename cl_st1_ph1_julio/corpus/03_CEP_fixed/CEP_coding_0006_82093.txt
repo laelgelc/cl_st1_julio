@@ -1,4 +1,0 @@
-How to fine tune a model? If I want to
-build a autocSQL code generation model which can fit for
-my organization need, I have two set of training information
-need to train the model.

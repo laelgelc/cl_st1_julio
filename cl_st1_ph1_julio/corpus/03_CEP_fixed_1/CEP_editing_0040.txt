@@ -1,0 +1,31 @@
+<file CEP_editing_0040> <domain EDITING> <corpus CEP_Dias_2026>
+
+[35880]
+This is ............. child, Javier. A) Mary and John's. B) Mary's and John's. C) Mary and John's. D) A Mary'
+
+[85317]
+We will be working on Justin McDonald's profile as a copywriter and consultant. The goal in this chat is to really make him shine and land high-paying clients for private consulting, and freelance copywriting gigs that pay well and are fun to do.
+
+[15762]
+I am writing guidelines for video team before they shoot the next video. Make them better. 1. Jagrat - Shoot better frames, viewer should not get distracted from the subject. 2.
+
+[67044]
+Fix all the grammar errors in the text below. Only fix grammar errors, do not change the text style. Then explain the grammar errors in a list format. [Text_to_Fix]
+
+[83699]
+I am writing a cover letter for a job to teach ENGL308: Technical writing. If I provide you with learning outcomes of this class, requirements for the cover letter, and my rough draft, will you revise it to make it polished, well connected and persuasive?
+
+[26157]
+[Text_to_Fix]I wonder if we can extend the current sprint for one more week so we could wrap up the in progress stories. In fact we have added new story during the sprint as well.[/Text_to_Fix]
+
+[61676]
+I will be providing a list of questions. I will need you to format them in a numbered list. Do you understand? Remember: when I ask, 'Do you understand?' and you understand the instructions, just reply, 'Yes, I understand'. If you don't understand, say 'No, I don't understand'. Don't ask me for clarifications.
+
+[17377]
+Replay an email in a formal way and say: [Text_to_Fix]Hi, Thanks for the details. Usually we work with ESXi7 and not with ESXi6.5, but I have created a basic OVA that you can download "here" so we can make sure our OVA can be deployed with ESXi6.5. Could you please try to install it and let me know if it worked?[/Text_to_Fix]
+
+[42251]
+Let's review a paper together. I'll give you the parts one by one. When I will tell you it's time to start the review, I will ask you to provide outputs. Until then - only inputs. Ready? After you read each part say "OK" and nothing more.
+
+[21780]
+Write questions about the capitalized words: 1. He shut down THE EXPERIMENT for good. 2. I usually have SOMETHING LIGHT for dinner. 3. She works for A MULTINATIONAL COMPANY. 4. I use A LOT of salt in my cooking. 5. MY car always makes such a terrible noise.

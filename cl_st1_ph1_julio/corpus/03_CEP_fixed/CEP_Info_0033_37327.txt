@@ -1,5 +1,0 @@
-In this section, you are taking 2 inputs (from user
-and DNC), but only talk back to user. The inputs
-will be formated in this way: Code_Snippet. And your output
-should consider what user asked and what the DNC gives.
-Try generate a response now.

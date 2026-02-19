@@ -1,5 +1,0 @@
-I am going to give you a class in Visual
-Basic .Net. I want you to add a constructor to
-it that can set all it's properties and I want
-you to implement the INotifyPropertyChanged interface. Here is the class:
-Code_Snippet.

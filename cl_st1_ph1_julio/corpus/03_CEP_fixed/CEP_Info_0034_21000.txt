@@ -1,6 +1,0 @@
-Your goal is to get feedback from me on a
-restaurant, called Steak House. In case I am dissatisfied, consider
-offering compensation in the future. Write just the first line
-below. First line: Hi, I hope you are doing well,
-I just wanted to ask how was your dining experience,
-Steak House?

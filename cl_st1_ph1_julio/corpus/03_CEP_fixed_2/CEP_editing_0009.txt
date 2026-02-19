@@ -1,0 +1,72 @@
+<file CEP_editing_0009> <domain EDITING> <corpus CEP_Dias_2026>
+
+[85832]
+Can you break up this transcipt of a message from
+a friend who is giving me step by step insturctions?
+Please parse into line items or check boxes to follow
+the instructions.
+
+[73714]
+Hey, I am going to give you a sample of
+my posts from LinkedIn. Do you think you help me
+define what my style of writing is?
+
+[18301]
+Write a detailed description for the objective "Become a subject
+matter expert in curriculum development and content delivery for training
+team product offerings in machine learning."
+
+[85592]
+Your task is to add the Keywords related to your
+product I give you a listing title(200 characters), bullet points(200
+characters for each bullet point) and description(1500 to 2000 characters).
+All output shall be in Italian. The summarize text is
+this [Text_to_Fix]Scrivania smontabile flat pack[/Text_to_Fix].
+
+[65618]
+For this topic "The perception of HKU SPACE CC students
+on how cashless economy affects consumptio", what kind of subtitle
+can be written out in the Discussion section in a
+research report?
+
+[24566]
+[INSTRUCTIONS] I have a {text} I would like to make
+changes to. Generate a table of 3 different suggestions of
+improvements that could be done to {text} with numbers in
+the left column for me to choose from. After the
+table, ask me "Which improvement to do to the {text}?
+Please choose" below the table. Acknowledge with "Ready" if you
+understand the taskk, do not create the table yet.
+
+[50476]
+Make this more creative. [Get to 10 k followers and
+10 k/month+ in revenue with 40 x short-form content and
+15 actionable posts. Become an authority in your industry.]
+
+[57243]
+Please make a clear list with total quantity, breakdown quantity,
+destination, SO# based on each material with grid, with grid.
+For the column of breakdown quantity, please show the breakdown
+quantity only.
+
+[65288]
+Improve the following multiple choice question and answer options. [Text_to_Fix]Which
+of the following is NOT a type of bread? 1.
+Ciabatta. 2. Turmeric. 3. Pita. 4. Pumpernickel.[/Text_to_Fix]
+
+[32935]
+Translate the following keywords into polish, bulgarian and romanian, display
+ion a table with teh english in column 1 and
+translations in column 2, 3 and 4: touch screen gloves
+gloves work wearing gloves good pair touch screen touchscreen gloves
+cold weather index finger and thumb.
+
+[42265]
+Below are two versions of a sentence. Is the one
+with the comma included more correct, or the one without?
+[Text_to_Fix]Version 1 I have an action-ready campaign plan to immediately
+blitz our electorate and hit the ground faster than any
+other candidate to win back the seat.[Text_to_Fix] [Text_to_Fix]Version 2 I
+have an action-ready campaign plan to immediately blitz our electorate
+and hit the ground faster than any other candidate, to
+win back the seat.[Text_to_Fix]

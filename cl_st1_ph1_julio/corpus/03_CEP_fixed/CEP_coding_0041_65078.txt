@@ -1,4 +1,0 @@
-How to add exam feature of 2/3 no questions where
-students can give the exam and teacher can set the
-questions and admin can access everything in a existing online
-exam project in Django?

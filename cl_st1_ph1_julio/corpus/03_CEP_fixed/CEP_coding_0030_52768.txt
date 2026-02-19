@@ -1,2 +1,0 @@
-Create a local Docusaurus plugin using Javascript which generates new
-pages and routes from this array of objects: Code_Snippet.

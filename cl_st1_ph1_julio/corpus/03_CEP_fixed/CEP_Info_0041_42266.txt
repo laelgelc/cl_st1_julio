@@ -1,3 +1,0 @@
-If a file was encrtpyed using rail fence then Ceasar,
-how would you attempt to decrypt the encoded message without
-guessing the keys using crypto analysis?

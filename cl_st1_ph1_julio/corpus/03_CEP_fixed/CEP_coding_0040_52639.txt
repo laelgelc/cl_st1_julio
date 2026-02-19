@@ -1,7 +1,0 @@
-Create some JavaScript for Storyline that reads a question embedded
-into the screen and creates an xAPI statement with the
-correct activityType for the cmi.interaction type of the question, a
-result matching the users choice and an object.definition.choices array as
-per Appendix C of the xAPI Specification. Then send the
-statement using the ADL xAPI code, and add in the
-actor using the cmi.core.student_id.

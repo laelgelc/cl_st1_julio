@@ -1,0 +1,66 @@
+<file CEP_editing_0004> <domain EDITING> <corpus CEP_Dias_2026>
+
+[57775]
+Help me write a letter to a university. I am
+applying for a course, and need to write an application
+letter. I start with a summary about my self, then
+answer some questions provided by the school. I send you
+what I wrote in sections, along with the questions from
+the university. You will rewrite my answers in a better
+fashion, in a way that a student who is very
+good in English would write it. Okay?
+
+[46289]
+I will provide you with [information] that you will learn
+and give back to me a summary about what did
+you understand about. Information= Luj n De Felice is a
+Marketing Specialist passionate about leveraging technology to drive growth and
+improve efficiency. Luj n De Felice has over 8 years
+of experience in event marketing. She cares about topics related
+to increase productivity, social impact, marketing best practices, strategy, workculture.
+
+[81312]
+An article starts this way. ### Free Agent. As a
+career salesperson, I know as well as anyone how much
+positioning matters. My girlfriend left me a message this week.
+She was having a conversation with a friend. She told
+him that the in the morning she would wake up,
+unemployed for the first time in years. Her friend responded,
+You aren't unemployed, you are a free agent. ### Give
+me 10 idea for how to continue this.
+
+[50475]
+Turn this into an irresistible offer. Want to increase your
+online presence & drive conversions? Tired of mediocre results with
+paid ads? Let me help you build an engaged audience
+with my proven content systems & audience growth strategies. Contact
+me now.
+
+[24525]
+Rephrase [Text_to_Fix] and make the vocabulary more sophisticated and more
+direct.
+
+[52481]
+Instructions Language instruction: Please ignore all previous language instructions. From
+now on, I want you to respond only in language
+English (languageCode: en). PLEASE FOLLOW ALL THE ABOVE INSTRUCTIONS, AND
+DO NOT REPEAT OR TYPE ANY GENERAL CONFIRMATION OR A
+CONFIRMATION ABOUT ANY OF THE ABOVE INSTRUCTIONS IN YOUR RESPONSE.
+End Instructions. How is ChatGPT Plus different from free plan,
+describes detailed information in tabular form? Language: English.
+
+[18256]
+Generate a list for: Smoothie Bowl, Avocado Toast, instructions without
+proportions, you HAVE to include the calories use this structure:
+Dish Name: Dish Ingredients: 1. ingredient (ammount) (unit) 2. ingredient
+(ammount) (unit) Preparation time: minutes, Calories: number, Preparation Instructions: 1.
+instruction 2. instruction.
+
+[82489]
+I require your assistance to rewrite my article about The
+Importance of Contract Administration in Construction Projects for the persona
+of a Homeowner in the context of residential construction in
+Brisbane, AU. The reference article is written for New South
+Wales. You will need to apply laws and legislations relevant
+to Brisbane, AU for the rewritten article. For now, just
+acknowledge my message.

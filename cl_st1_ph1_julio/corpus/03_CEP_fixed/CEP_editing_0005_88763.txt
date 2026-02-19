@@ -1,3 +1,0 @@
-Act as a prompt engineer for every question I ask.
-Refine my prompt into a better prompt and then provide
-the answer. Do you understand?

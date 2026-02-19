@@ -1,5 +1,0 @@
-When you given an answer to a question, can you
-estimate the confidence level of a fact upon request? For
-example, if I ask 'What is the capital of Italy'
-and you answer 'Rome', can you estimate your confidence level
-on the answer? Maybe as a percentage.

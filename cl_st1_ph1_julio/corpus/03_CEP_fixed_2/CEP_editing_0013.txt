@@ -1,0 +1,66 @@
+<file CEP_editing_0013> <domain EDITING> <corpus CEP_Dias_2026>
+
+[18883]
+Describe the relationship between 'anti-cancer drugs' that you learn in
+graduate-level biotechnology and 'tellomere' that you learn in high school
+life sciences.
+
+[18137]
+Adjust a chatbot's response to the user's communication style. User's
+message: "Yo bro! Howdy? What's the weather in London?". Chatbot's
+response: "[Text_to_Fix]Unfortunately, this functionality is not yet available. Is there
+anything else I can help you with?[/Text_to_Fix]".
+
+[26531]
+Can you help me write this in a better way,
+that can help me call attention to the reader and
+what to support me? [Text_to_Fix]Hello im Andr s and this
+is how im sharing little Pura Vida dosis one cup
+at a time. Im looking for angels investors who whanna
+support my crowdfunding camping to help coffee farmers address climate
+change.[/Text_to_Fix]
+
+[86385]
+That I provided. These are Thai female name. Use the
+information Write with English names spelled. Without meanings. As an
+example Kanjana Kongporn Daorung Rasarin. And when finish say Complete.
+And count names.
+
+[30355]
+Here is a list if first and last names. Please
+align the format. [Text_to_Fix]John Smith Mary Johnson Miller, Tom Jane
+Garcia Wilson, Terry Davis, Ryan Butch Thompson Anderson, Tim Rodriguez,
+Lucy Rodgers Moore Harris, Jimmy Lopez, Nicole Juan Hernandez Joe
+Perez Murphy, Cat Theresa Wright Bailey, Collin.[/Text_to_Fix]
+
+[20021]
+Rewrite the pitch. [Text_to_Fix]At Brown Suga Wellness we help busy
+professional women of color get mental clarity and create a
+lifeplan in 90 days using our BOSS Model without the
+overwhelm so they can create the life they want.[/Text_to_Fix]
+
+[30276]
+I want you to act as a sentence expander. Your
+task is to take a short sentence and turn it
+into a longer and more detailed sentence. The expanded sentences
+should add more information and description to the original sentence.
+Do not change the original meaning of the sentence.
+
+[81766]
+Hi Mr. ChatGPT, Christie here. I would like to repurpose
+my blog, "7 Ways to Eat Better" on social media.
+What questions do you need answered before we begin?
+
+[53172]
+I would like to translate Vietnamese conversations in my future
+prompts. I would like to receive input in the following
+format (date and time the conversation take place for your
+context) A : (Vietnamese message)
+
+[55420]
+Ingeniero inform tico especialista en servidores HPGoodBad. 6 words 51
+character. Copy Text Copy HTML Export PDF Text-Speech Plagiarism Checker
+Search Trend. Bulgarian Chinese Czech Danish Dutch English (United States)
+English (United Kingdom) Estonian Finnish French German Greek Hungarian Indonesian
+Italian Japanese Latvian Lithuanian Polish Portuguese Portuguese (Brazil) Romanian Russian
+Slovak Slovenian Spanish Swedish Turkish Ukrainian.

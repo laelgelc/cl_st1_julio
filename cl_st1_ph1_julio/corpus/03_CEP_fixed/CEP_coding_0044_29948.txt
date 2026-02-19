@@ -1,4 +1,0 @@
-I have an app in Vue.js and I want to
-implement an authentication where when the user is idle for
-2 hours, it will logged out automatically, how do I
-do that?

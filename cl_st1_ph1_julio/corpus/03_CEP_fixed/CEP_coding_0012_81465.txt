@@ -1,3 +1,0 @@
-I am trying to start studying C++ Algorithms. Since you
-know the basics of C language, please explain the difference
-between C language and C++. Answer in English.

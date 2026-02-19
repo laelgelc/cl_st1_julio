@@ -1,6 +1,0 @@
-I have a Variscite iMX8 SOM that is using U-Boot
-as the bootloader and Boot2 QT as the operating system.
-I am looking to use Secure Boot to establish a
-root of trust from the hardware all the way to
-the application I am running in Boot2 QT. How could
-I do this?

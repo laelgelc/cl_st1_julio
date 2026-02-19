@@ -1,7 +1,0 @@
-Fais en une liste puces. HubSpot CMS features include a
-CMS Developer Sandbox, Content Search, Multi-language support, File Manager, Content
-Staging, HubDB, Membership, and Serverless Functions[1]. It also has great
-publishing tools, built-in SEO tools, multi-language content creator, lead generation
-capabilities, adaptive testing, drag-and-drop editor and SEO recommendations[2][3]. Pricing plans
-are available[4] and it has the ability to personalize content
-CTAs based on client persona and behavior[5].

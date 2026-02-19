@@ -1,4 +1,0 @@
-I need to do this project in C#. Part 1:
-Name Function. 1. Create a function that asks the user
-to input their name. 2. Return the user s name
-as a string.

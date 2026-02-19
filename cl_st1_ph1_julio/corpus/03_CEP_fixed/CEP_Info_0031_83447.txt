@@ -1,4 +1,0 @@
-Approximitly how many small pepples of various sizes would fit
-in a circular jar with a width of 12 cm
-and height of 10 cm? Take me step by step
-through the calculation.

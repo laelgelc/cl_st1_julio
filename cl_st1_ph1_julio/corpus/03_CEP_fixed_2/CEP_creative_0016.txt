@@ -1,0 +1,63 @@
+<file CEP_creative_0016> <domain CREATIVE> <corpus CEP_Dias_2026>
+
+[80897]
+Create a multiple-choice questionnaire with 5 multiple-choice questions and a
+short-answer questionnaire to conduct a service satisfaction survey for users
+who have used the legal counseling service using ChatGPT. Answer
+in English.
+
+[63292]
+Can you generate a business travel report for me? The
+travel report destination is Paris for one week. The main
+purpose is negotiating a business agreement, taking inventory for Laboratory
+item, discussions with CTO on technology work plans to be
+provided, packing list for laboratory equioments ro be moved to
+Taiwan. You can make up other actions for the business
+travel too.
+
+[15671]
+In what areas can I create content. I am a
+Christian living in China but a Ghanaian. I work as
+a sales person at a top firm in Shanghai. I
+would like to be posting more pictures and videos of
+myself. Propose content ideas for my pictures and videos.
+
+[70742]
+I am a software engineering manager / intelligent automation team
+manager. I need an inspirational speech for my next team
+meeting. Currently we have a team of 4, including myself.
+We have a lot of challenging projects on tight deadlines
+and I want to make sure morale remains high. Make
+it pretty casual and laid back sounding.
+
+[21214]
+Write me 8 text messages in a hierarchy order to
+follow up on a buyer real estate home listing inquiry.
+The main purpose is to get an answer or interest
+from the client to set up an appointment.
+
+[27572]
+I am trying to improve my understanding of the influence
+of the classical British empiricism's thinkers on modern psychology. Develop
+a creative choose-your-own adventure story and keep asking me to
+choose an option before moving on to the next part
+of the story.
+
+[57751]
+Explain in detail how to diagnose depression and how to
+overcome depression according to the options below. Length: about 3800
+words. Fantastic and interesting title. Interestingly included subtitles and detailed
+descriptions. Write in a funny tone. Write long blog articles
+in markdown format. Subtitles, detailed descriptions, and bullet points are
+included.
+
+[79708]
+Give me 5 compelling reasons why we should get ChatGPT
+Plus. Include convincing rebuttals related to your slow speed and
+network error. Also include concrete examples of what GPT 4
+can do better than 3.5. Your target market are writers.
+
+[18577]
+I only have strawberry jam, canned oysters, panko bread crumbs,
+maple syrup, and leftover mac and cheese. Can you create
+a recipe for me using just those ingredients?

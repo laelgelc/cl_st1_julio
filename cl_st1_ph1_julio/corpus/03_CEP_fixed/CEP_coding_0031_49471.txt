@@ -1,4 +1,0 @@
-How do I write a small Python http server (using
-Flask or some other similar framework) that has three api
-endpoints, one for getting the value of "the" counter, one
-for incrementing it and one for decrementing it?

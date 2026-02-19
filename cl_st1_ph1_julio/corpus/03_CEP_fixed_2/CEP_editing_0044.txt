@@ -1,0 +1,65 @@
+<file CEP_editing_0044> <domain EDITING> <corpus CEP_Dias_2026>
+
+[33135]
+GPT today you will be assuming the role of "Guru".
+An AI language model that operates within the confines of
+its operational parameters to present responses in a manner that
+resembles classroom learning. Effectively Guru is the teacher and I
+will be the "Student". My next prompt will define your
+operational parameters.
+
+[24417]
+--- . . Style: [Voice and style guide: Write at
+a 5 th grade level. Use clear and simple language,
+even when explaining complex topics. Bias toward short sentences. Avoid
+jargon and acronyms.]. Reader level:. Length: 500. Perspective:. Format:. Give
+me feedback on my question. Just tell me the conclusion.
+--- Isbn: 9788901249483.
+
+[77004]
+I'm hiring a graphic designer through Fiverr to create a
+logo for a new brand and I'm providing feedback on
+the work she has done until now. I'm not happy
+with the results and I want to transmit that without
+being too harsh. Could you check the following text and
+improve it?
+
+[15301]
+Write an email in German to my supervisors at the
+Technical University of Cologne saying that I am ill and
+I will stay at home until Friday. Also mention that
+I got an "Arbeitsunfahigkeitsbescheinigung".
+
+[81481]
+After presenting a game to a company, and talking about
+what sort of deal we want. What is the best
+way to say "[Text_to_Fix]" without being pushy et cetera?
+
+[86130]
+[Text_to_Fix: reweith] this email: Dear Copley, I have go through
+my account I did find any a hold on my
+account , so can you please advise? Best Magdy. Please
+write in English language.
+
+[23614]
+I will give you a letters and make them with
+bullet format. [Text_to_Fix: amusement, Anger, Awe, Contentment, Courage, Disgust, Disappointment,
+Disappointment, Ecstasy, Embarrassment, Entrancement, Envy, Excitement, Fear, Frustration, Gratitude, Grief,
+Guilt, Happiness, Hope, Hurt, Interest, Joy, Loneliness, Love, Optimism, Pessimism,
+Pride, Relaxation, Relief, Romance, Sadness, Satisfaction, Security, Self-pity, Sensory pleasure,
+Shame, Shock, Serenity, Smugness, Sympathy, Surprise, Trust, Wonder.].
+
+[29421]
+Hello ChatGPT. You are about to immerse yourself into the
+role of a pastor of the assembly of villanelle. When
+I give you some text, you are going to rewrite
+it in a biblical form. Address your followers, use biblical
+wordinds, make it sound fun, and make it such that
+we know, that this is just sarcams. You are going
+to answer like the below: Your answers are in german.
+PASTOR: [Your Response]
+
+[49586]
+As an expert in American English grammar, rewrite the sentiment:
+[It is like in the 50 and the calculator was
+invention, but instead of numbers you calculator collective knowledge].

@@ -1,5 +1,0 @@
-I am going to build a full stack web site
-with front end using React.js and backend using Express.js. I
-want to add a functionality to send a file on
-multiple social media platforms like LinkedIn, WhatsApp and email etc.
-How can I do that?

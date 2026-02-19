@@ -1,3 +1,0 @@
-In Python 3 if I catch an exception and then
-raise it will the original stack trace show up? Can
-you demonstrate with sample code?

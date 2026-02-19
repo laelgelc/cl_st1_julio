@@ -1,4 +1,0 @@
-I will paste in call notes from interviews discussing quantum
-computing in the enterprise. I will paste these one at
-a time. After I am done, I will ask you
-to synthesize and summarize the common patterns.

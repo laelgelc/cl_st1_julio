@@ -1,0 +1,62 @@
+<file CEP_coding_0008> <domain CODING> <corpus CEP_Dias_2026>
+
+[86226]
+I'm going to build a website that will assist you
+in creating your resume through the GPT API. Created via
+HTML, CSS, and JavaScript, CSS will use Bootstrap. The functions
+are a website with membership sign-up, log-in, self-response editing function,
+and bulletin board. Backend will use Spring. DB will use
+MongoDB. Example please. Answer in English.
+
+[74164]
+In Salesforce, I want to update event records that are
+attached to a set of campaigns. First I need to
+identify the campaigns owned by a specific user. Then find
+all the events attached to that set of campaign that
+are in the future. Then I want to update the
+start date plus 1 hour. I also want to update
+the event end date time plus 1 hour. Generate and
+execute anonymous script that performs these actions.
+
+[18350]
+[Here is] my current code. I want a second led
+strip to function alongside this one at the same time,
+both running on the same node [microcontroller unit]. [Code_Snippet].
+
+[86222]
+I have a mono repo comprised of a React client
+and a BFF server. Is there a tool I can
+use to automatically detect dead code? To be clear, I
+define dead code as code that would never execute due
+to lack of valid entry point or impossible state. If
+no fully automated tool exist, what tools can I use
+to guide me through this process?
+
+[65033]
+What are some theoretical and practical (regarding implementation, tractability, or
+otherwise) reasons why someone cannot do the following in Pyro?
+have a VAE as is up to the bottleneck. then,
+instead of sampling to use the decoder with values, use
+the weights of the decoder to transform the means and
+variances and then observe the transformed means and variances at
+the end with through the images provided at the loss
+function?
+
+[23414]
+Can you generate a flowchart using Mermaid.js syntax that show
+the process a child would follow getting dressed to go
+outside on a snowy day?
+
+[47853]
+You are given an unsorted array A[1: n] of n
+distinct positive integers. Design an algorithm that in O(n +
+M) worst-case time, where M is the maximum possible integer
+within A finds the h-index of A. The h-index is
+defined as the maximum integer h such that A[1 :
+n] has at least h indices whose entry is at
+least h. (25 points).
+
+[55265]
+Php function that take any bitstring of any length N
+and return the number in sequence where this bitstring occurs
+in the set of permutations of bitlength N.

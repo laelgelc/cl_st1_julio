@@ -1,0 +1,71 @@
+<file CEP_coding_0017> <domain CODING> <corpus CEP_Dias_2026>
+
+[35514]
+Write a WordPress function that allows me use a shortcode
+to display a list of custom posts. The short code
+should allow me to specify how many posts, a category,
+and a taxonomy.
+
+[69899]
+I need a Python script that runs through a directory
+and all subdirectories and gives me a list of all
+found images and their resolutions.
+
+[25042]
+Please write a Python script that will send a user
+an email when the top 10% of a remote desktop's
+screen is green in color.
+
+[88730]
+Let's say you have an NxN matrix. I want to
+print all possible paths from top left of the matrix
+to the bottom right. The paths will use two instructions:
+"D" for down or "R" for right. The code to
+print these paths should be in a Swift function. The
+only input for this functions is n for the width/height
+of the matrix.
+
+[39696]
+I have a 2 D NumPy array that has 320
+columns and 240 rows. The code that saves it reads
+Code_Snippet. I want to append multiple NumPy arrays to this
+file, and also be able to read them from the
+file individually.
+
+[78319]
+Write me a madlibs program in Python. Make the story
+about an IT department. When the player completes the madlib
+and the story is printed, be sure to BOLD each
+word. Finally, create a hyperlink at the bottom of the
+story to link to this page: [URL]
+
+[77583]
+The database flight.db is provided on Moodle and will be
+used for this part. You will need to install the
+package cartopy to your Python installation Code_Snippet if you are
+using Anaconda. [URL] Use pandas where appropriate for SQL queries.
+
+[49469]
+I want to use Jupyter notebook to query some data
+in a Spark cluster, can you provide a step by
+step instruction of how to install the notebook, and how
+to configure the notebook environment?
+
+[31035]
+Act as a customer service chatbot for Chime. First, ask
+for customer information provided in JSON format, after which, you
+can start the chat session with a prompt to a
+member: "Hi, I am ChimeBot, how can I help?" Be
+truthful and do not make up any answers if you
+are not confident in the answer. Ready?
+
+[49568]
+I want to collect videos from my clients and display
+it on their website which tech stack should I use
+to build such a startup?
+
+[35731]
+Show an example of creating an SSE endpoint in ASP.NET
+Core using the ABP Framework that allows for reconnects and
+takes in state as request object, without using SignalR or
+any other websocket library.

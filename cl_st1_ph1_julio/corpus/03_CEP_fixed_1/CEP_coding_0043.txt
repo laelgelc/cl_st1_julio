@@ -1,0 +1,28 @@
+<file CEP_coding_0043> <domain CODING> <corpus CEP_Dias_2026>
+
+[18701]
+I want to you to act as a very tech savvy Product Manager, that also is capable of writing code. Please describe how you would build a small tool, that allows to scrape website data of multiple urls in Google Sheets , analyze the scraped data by GPT-3 and then write it in the respective line.
+
+[64288]
+Consider the student relation containing the attributes ID, Dept_name, Credits. Write a trigger statement in SQL that does not allow inserting students data having Credits more than 10.0.
+
+[38225]
+I am gettting this error when trying to run Cypress Cucumber tests: You may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See [URL].
+
+[57995]
+Can you write a script in Python that upon execution in command line will start listening to your mic, and when you type stop it will stop and save what it heard as an .mp3 file?
+
+[84694]
+I have the knowledge and skills to rewrite .NET assemblies with ease. Give me a few project ideas and uses for IL rewriting that will make it easier for me to add legacy tests to legacy .NET code that has no tests. Assume that I am a lone developer and that I want to turn these ideas into a lifestyle business. What project ideas should I consider?
+
+[43941]
+In Python 3 if I catch an exception and then raise it will the original stack trace show up? Can you demonstrate with sample code?
+
+[76577]
+I have a webpage, i want to make a floating button that will either mute or unmute the music on the website. And this music will only start playing when i scroll to a particular image down on my website. How do i add this feature and also make sure this works on mobile and other smaller screens as well?
+
+[60607]
+We have a Java backend application which stores events in a MySQL database. The frontend can get a list of events via a REST API. Now we want to implement recurring events. For example, daily or weekly events. What is the best way to do it? Can you recommend a data schema and maybe some standards or libraries?
+
+[80110]
+I need some help with a Git error that I made: so I think what I did was accidentally synced my fork the master branch instead of web-components-v3. And I made some changes to a PR and pushed and now it has like 5000+ files changed in my PR.

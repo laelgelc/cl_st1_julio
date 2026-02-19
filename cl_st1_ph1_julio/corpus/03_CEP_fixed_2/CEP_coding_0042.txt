@@ -1,0 +1,66 @@
+<file CEP_coding_0042> <domain CODING> <corpus CEP_Dias_2026>
+
+[40916]
+Replace [Text_to_Fix] by meaningfull JSDoc annotation in the following code.
+Code_Snippet.
+
+[43900]
+Hey, I need your help with improving a bash script.
+The following bash script is used to delete namespaces after
+specific period of time (controlled with the first argument passed).
+Code_Snippet I would like to achieve following criteria by rewriting/improving
+the above script: - it is possible to define namespace
+patterns using regex - it is possible to define different
+time intervals for different namespaces, i.e. ci-* gets killed every
+2 hours, dev-+ gets killed every 6 hours etc.
+
+[88909]
+Create a WordPress REST endpoint to convert JSON to a
+QR code and send it by email. Please use a
+nonce for security. Please write in English language.
+
+[43477]
+I have a Python repo that has a script that
+parses my s3 data but it is a lot of
+data to download and run the package locally. How can
+I create a Lambda that can run the script from
+the repo on my s3 data?
+
+[40211]
+I have a cylindrical structure made of gel with a
+given diffusion coefficient and suspended in a solution of calcium
+with a given concentration. Can you write code to simulate
+the diffusion of calcium into the centre of the structure
+in one dimension assuming cylindrical symmetry?
+
+[23489]
+Use MUI to create a React component that shows a
+user picture (150 x150) and under the picture, it shows
+a 2 x2 grid containing placeholder images from Pexels.com.
+
+[22460]
+Write me a bash script that will run the command
+Code_Snippet, assign that to a variable and exit if the
+command output does not contain the string Code_Snippet.
+
+[69142]
+I have to make a small project with 2 others
+in 3 weeks. The project must be related to Augmented
+Reality in some way and must use OpenCV. The timeframe
+is integral to the success of the project. What should
+I attempt to make? It can be project that has
+been done before, I just need to implement in a
+way that I have done.
+
+[51737]
+Write a Python function that searches through a directory "results/"
+for .npy files. Each one is a 2 D NumPy
+array, and I want all of these to be put
+into one mega NumPy array.
+
+[53987]
+In the style of a Twilio blog article, write a
+blog article about how developers at airline companies can use
+Telesign's SMS API to automatically send bulk SMS alerts to
+customers when price drops happen for flights that customers are
+watching. Include code snippets in the Node coding language.

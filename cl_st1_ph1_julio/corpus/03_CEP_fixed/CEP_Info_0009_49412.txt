@@ -1,8 +1,0 @@
-Provide a list of jobs for Speech Language Pathologists in
-the following format: [Job Name hyperlinked to a Google search
-for the term] A one-sentence description of the job responsibilities.
-A one-sentence description of job satisfaction for the job Average
-salary for the job Average salary for the job in
-the Tri-State Area. Please capitalize the job name and format
-it as a hyperlink by enclosing it in square brackets
-and immediately following it with the URL in parentheses.

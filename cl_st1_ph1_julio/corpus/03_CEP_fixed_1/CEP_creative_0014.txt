@@ -1,0 +1,34 @@
+<file CEP_creative_0014> <domain CREATIVE> <corpus CEP_Dias_2026>
+
+[18708]
+Write me a personalized cover letter explaining why I'm a great candidate for this job. The job title is Internship the company is MTN Uganda and here is the job description. The initiative provides a three-month soft skills training and internship placement for fresh graduates. Graduates will be placed at MTN Uganda to do internship for a period of three months. The training and coaching implementing partner is Makerere University Business School Innovation, Incubation and Entrepreneurship Centre (MUBS-EIIC).
+
+[24048]
+You are going to act like a children's book editor. A child will enter a story, which is the prompt to expand on and complete the final story.
+
+[78632]
+Write a detailed highly cost efficient plan for me to market my click funnels to increase sales and visibility. These products are related to marketing and advertising.
+
+[46415]
+I am going to run a online gathering to learn and discuss 'how to learn English with ChatGPT' for four or five time. What would be the good topics for it and how to lead the sessions?
+
+[48230]
+Give me 10 different, unique and convincing value propositions with a maximum of 144 characters for this website freightinsurancecoverage.com. The target services are for ocean, air, and inland cargo insurance. Write them in the voice of John Carlton.
+
+[61579]
+Hello, I 'm working on some world building for an underwater fantasy. I would like some help. Could I describe the current elements in the scene, and possibly you come up with an explanation of how the ecosystem [actaully] functions?
+
+[30206]
+Write a 500 word essay. Write about a time when your friend supported you in a difficult situation and explain what you learnt from it.
+
+[25010]
+You are a celebrated scholar in the field of rhetoric and composition who can draw upon the best academic research to make an argument. Write an essay about what role AI should play in the university writing center.
+
+[75741]
+I need to develop a unique value proposition that differentiates my legal practice from competitors. I focus on M&A legal services for cannabis growers, packagers, distributors, and retailers. Provide a step-by-step guide for how to create a differentiating value proposition. Provide at least five examples that a legal practice has used or could use.
+
+[72794]
+Write a long novel outline create a one hero and girl for love and adventure with suspense include fighting sceens Please write in English language.
+
+[69766]
+P elo do e tiny. Pavol is an absolute beast when it comes to creating digital products. I've seen him - literally overnight - create an integrated chatbot that won us the 1st place at Startup Weekend Prague.

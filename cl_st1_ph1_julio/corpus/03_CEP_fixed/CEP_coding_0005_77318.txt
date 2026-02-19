@@ -1,5 +1,0 @@
-How would I deploy a containerized Flask application with Nginx
-and Gunicorn onto a Linode server instance running Ubuntu. Outline
-steps to setting up the Linux server properly and securely,
-and setting up a Docker container with Flask, Nginx and
-Gunicorn and all necessary server, port and other configurations needed.

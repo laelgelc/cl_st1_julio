@@ -1,6 +1,0 @@
-I want to create songs that are full of energy
-and lively atmosphere. Please write with appropriate chord progression. Please
-use all the notes in each chord, not just the
-main note. After writing each chord progression for each verse-chorus-bridge,
-write a song using 12 notes per chord. The format
-is (note-octave-length), for example Code_Snippet. Expressed as ABCnotation.

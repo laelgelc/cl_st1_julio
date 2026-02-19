@@ -1,4 +1,0 @@
-I would like you to generate a complete and sound
-regex for me from an alphabet I provide, based on
-some condition for the strings. If you understand the prompt
-please describe it and ask for the language and condition.

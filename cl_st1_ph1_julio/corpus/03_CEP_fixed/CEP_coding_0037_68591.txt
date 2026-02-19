@@ -1,4 +1,0 @@
-Write a function to display a past or future date
-and time in a human-friendly way, for example: - 3
-hours ago or in 3 hours - 2 days ago
-at [time]

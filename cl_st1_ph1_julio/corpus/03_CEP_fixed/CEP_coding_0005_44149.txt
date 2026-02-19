@@ -1,5 +1,0 @@
-In Excel, how do I conditionally format a cell to
-display a string if a cell is equal to a
-certain value? I want the cell to say "Pickup Trucks"
-if the other cell says "Interest > Autos > Classes
-> Pickup Trucks".

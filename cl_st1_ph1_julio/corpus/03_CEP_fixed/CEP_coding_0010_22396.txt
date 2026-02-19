@@ -1,4 +1,0 @@
-For an ASP.NET CORE C# website, if I want to
-password protect the website on front-end what method should I
-use? Htaccess or is there a way to use the
-web.config?

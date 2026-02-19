@@ -1,4 +1,0 @@
-Consider a default Frappe docType. The layout on screen of
-the data is not changeable. I would like to add
-an extra layer, so I can drag and drop the
-layout of a docType.

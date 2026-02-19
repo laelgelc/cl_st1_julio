@@ -1,3 +1,0 @@
-I am trying to use the following code to connect
-to my OpenAPI model, but it is not working. Can
-you help me fix it?

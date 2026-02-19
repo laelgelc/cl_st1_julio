@@ -1,4 +1,0 @@
-Summarize the below few-page excerpt from a paper for a
-deep learning researcher: DISSOCIATING LANGUAGE AND THOUGHT IN LARGE LANGUAGE
-MODELS: A COGNITIVE PERSPECTIVE A PREPRINT Kyle Mahowald* The University
-of Texas at Austin.

@@ -1,0 +1,62 @@
+<file CEP_editing_0032> <domain EDITING> <corpus CEP_Dias_2026>
+
+[48106]
+I am writing a proposal for an NHS Hospital called
+St George's. I am going to feed sections of the
+document piece by piece and then I would like you
+to make suggestions to improve the writing.
+
+[57401]
+Imagine yourself as a professional proofreader. This is an abstract
+from my "Isolated Sign Language Recognition", please rework this to
+sound more professional, natural and grammatically correct. [Text_to_Fix]In this paper,
+we classify isolated American Sign Language (ASL) signs. We create
+a deep learning model trained on labeled landmark data extracted
+using the MediaPipe Holistic Solution.[/Text_to_Fix]
+
+[52976]
+Can you reword the paragraph below so its more compelling?
+Keep a friendly tone too please. [Text_to_Fix]Jay & Neil, following
+up my previous email - Many banks face higher costs
+of funds, increased credit risks/costs and slowing loan growth. These
+challenges make FF&C Government Guaranteed Loan Portions all the more
+to compelling to proactively protect Net Interest Margin now from
+these headwinds.[/Text_to_Fix] Are you available to discuss these assets further?
+
+[34608]
+[Text_to_Fix] Hey Artur, thanks for the update. I will check
+out the files. We are still in the discussion phase
+but it looks like we might be using React on
+this project. I will mention to the team that you
+have experience in React that we might be able to
+leverage as well.
+
+[35177]
+For the forum post below, create: 1. A Titile 2.
+A short description. ### So I hear from lots of
+Fibro people that weed is really helpful. Can I ask
+if anyone has found it helpful for the tiredness side?
+I have pain and swellings and all that, but I
+can push through recently the tiredness, with dizziness and brain
+fog is making being a mother really hard. Anyone got
+any good ideas? [URL]
+
+[67974]
+Hey Gaby thanks for clearing that up, I really appreciate
+it. I reviewed the video again to make sure I
+didn't miss it and didn't hear anything about the OCBC/RBC
+expenses. In the future could you please make sure to
+confirm that it is there before saying that it is?
+When this happens it makes the teammate question their own
+competency and when they realize it isn't true they lose
+trust in the other teammate.
+
+[51921]
+Can you make my sentence easier to read? [Text_to_Fix]
+
+[85111]
+Please rewrite for 5 styles of tones of voice that
+attract the customer to use our service, separate for each
+tone. Rewrite by keeping the same pattern (paragraph and bullet).
+Rewrite the words and phrases in each sentenses. Rewrite the
+words and p.

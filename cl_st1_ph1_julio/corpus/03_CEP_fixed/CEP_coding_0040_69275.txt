@@ -1,5 +1,0 @@
-I want to create a Python program to create a
-mosaic out of PNG files. I want to read 24
-PNG files and output a full resolution image with the
-images in a 4 x6 grid. Can you write this
-Python program?

@@ -1,5 +1,0 @@
-I want you to act as experienced autodidact Renaissance man.
-Provide me a detailed , effective, practical, research-based which are
-also innovative, creative and underrated or overlooked programming projects to
-master quantum mechanics formatted in a Markdown table. Suggest free
-resources and engaging ideas and practical tips for each.

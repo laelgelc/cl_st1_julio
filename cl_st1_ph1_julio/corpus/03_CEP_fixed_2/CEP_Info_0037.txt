@@ -1,0 +1,67 @@
+<file CEP_Info_0037> <domain INFO> <corpus CEP_Dias_2026>
+
+[61374]
+I have a rental house and I want to rent
+the house out to an senior citizen care company who
+will house and feed senior citizens in my house. What
+are some things that I should include in my lease
+to make sure that things go smoothly with this tenant?
+Just to cover my liabilities.
+
+[84320]
+Explain Develop, implement, and support complex API and EDI integrations
+for freight-forwarding applications that service air, ocean, customs brokerage, and
+logistics. Collaborate with Product Owners on technical scoping and recommendations.
+Maintain consistent communication with leadership on status and impediments as
+they arise.
+
+[21367]
+Imagine I am a junior Quality Assurance tester who just
+joined Software company working on a web product. Give me
+first 5 specific tasks that I have to solve.
+
+[56085]
+Web search results: [1] " ( : Romeo and Juliet,
+: ) . . . . . [ ] [
+]". URL: [URL]. Instructions: Please provide a concise and informative
+response to the user's query based on the information available
+in your training data and current knowledge. If necessary, you
+may use web search results from 2023. 3. 3. to
+supplement your answer, but please clearly cite your sources using
+[[number](URL)]. User Query: [Text_to_Fix].
+
+[16868]
+If the early Christians, those taught directly by Jesus, did
+not believe in a Trinity, why is it a popular
+teaching in mainstream Christianity today? Has this belief been influenced
+by pagan religions that also have such teachings/beliefs as a
+triune godhead and the immortality of the soul?
+
+[34223]
+How can I be effective like you? Do not tire
+or get tired. Do tasks every time better than the
+next. And learn more. What a great ability!
+
+[19010]
+I need to develop a lead role within my company
+which focuses on developing process optimization through automatization tools and
+artificial intelligence, and additionally will lead the data science initiatives.
+Can you help me develop the role title? Give me
+3 alternatives.
+
+[82768]
+Please provide music recommendations similar to Altered Reality by DreamWeaver.
+For each recommendation, please provide a detailed analysis of the
+latent space, explaining the similarities between the recommended music and
+the user's preferences.
+
+[73272]
+How can we solve a situation where a 10-year-old child
+is buried in rational things when playing with friends and
+has difficulty understanding the other person? Answer in English.
+
+[43523]
+Generate a standard operating procedure for the use of OBS
+software to record training videos for a company. Focus on
+the following: 1. Installation of OBS 2. Setting up display
+capture 3.

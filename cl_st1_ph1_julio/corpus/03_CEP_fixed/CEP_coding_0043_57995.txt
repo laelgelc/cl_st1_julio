@@ -1,4 +1,0 @@
-Can you write a script in Python that upon execution
-in command line will start listening to your mic, and
-when you type stop it will stop and save what
-it heard as an .mp3 file?

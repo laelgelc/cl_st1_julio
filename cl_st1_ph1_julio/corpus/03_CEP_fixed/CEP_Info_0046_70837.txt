@@ -1,3 +1,0 @@
-Please provide a step by step guide on how to
-read a difficult Odin Project lesson. Assume the lesson does
-not include a project, but instead consists of reading/video assignments.

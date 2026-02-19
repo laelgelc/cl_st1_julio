@@ -1,4 +1,0 @@
-Create a table I can export to Word with two
-headings. One heading is "Developments in Social Media" and the
-other heading is "Consequences". Also fill in the table with
-at least 5 developments and consequences.

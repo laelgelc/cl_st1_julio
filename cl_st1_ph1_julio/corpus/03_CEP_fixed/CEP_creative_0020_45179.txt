@@ -1,4 +1,0 @@
-Create 100 laws of robotics without repeating the information already
-mentioned. The text must be unique and written by a
-person and passed the test for Uniqueness! Please write in
-English language.

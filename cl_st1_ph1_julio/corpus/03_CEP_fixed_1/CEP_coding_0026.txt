@@ -1,0 +1,31 @@
+<file CEP_coding_0026> <domain CODING> <corpus CEP_Dias_2026>
+
+[76703]
+Make a game in HTML where two bots move one space each second. When they move they continue on the same direction as last time, but change direction with a probability of 10%. If they hit a wall the continue on another direction. Food appears randomly on the grid, one kwew item each second. When the bot walks on the same grid where there is a unit of food, they get one point. Score is displayed.
+
+[32959]
+Can you write me a code in GurobiPy to perform production scheduling. Taking into account of business constraints and making sure all products are produced as early as possible.
+
+[72015]
+I have train dataset with columns Code_Snippet. For test dataset with Code_Snippet. Lastly, submission with Code_Snippet. Label consists 0 to 7, and the text column consists of news article data. Build the model for machine learning competition to get the best score. The validation score must be Macro F1 Score.
+
+[49800]
+Sample definition, example and code of pairs trading in Python using ADF test, z-score, trading signal, execution and calculation of strategy MtM and strategy PnL.
+
+[77862]
+Write me a TypeScript function that returns the key and corresponding value from a given object that's only expected to have a single key/value pair at any instance.
+
+[49242]
+I have several celery workers that help me process incoming webhooks from remote systems like Google. To I store the credentials for these systems locally encrypted in a database. When I go to retrieve and decrypt these tokens I receive the following error intermittently. Code_Snippet. Do you have any idea what might cause this method to fail intermittently?
+
+[33220]
+Sharex is giving this error when uploading mp4 to my Apache server. POST Content-Length of 50718625 bytes exceeds the limit of 8388608 bytes in on line. Is this working? Array to string conversion in on line. Array: Cannot modify header information - headers already sent in on line.
+
+[78026]
+If you are trying to access a remote server via SSH but from certain locations/IP's I am unable to access the remote server. Is there some way to determine from my side if the connectivity issue is being caused by a firewall or not?
+
+[57767]
+Write PHP function getBitstringPosition that receives any bitstring and returns its number of occurrence in the permutationset, must be able to work with large integers.
+
+[64433]
+Write a Visual C program which can be associated with a certain file extension on Windows and displays a custom message and an exit button.

@@ -1,6 +1,0 @@
-The process of creating software is very complex and complicated.
-Clients of software agencies, those, who have never created software
-before, have difficulty understanding how complex it is. What would
-you compare the process of creating software to, as something
-that anyone could relate to? Make a list of 5
-analogies of software development process that underlines this complexity.

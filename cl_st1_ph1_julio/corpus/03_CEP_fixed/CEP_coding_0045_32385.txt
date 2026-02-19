@@ -1,5 +1,0 @@
-Write a Windows batch file that will find the path
-of a provided filename. It will search the current directory
-for that file, and then search the parent directory for
-that file, and continue up until you have either found
-the file, or reached the drive root.

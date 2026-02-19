@@ -1,3 +1,0 @@
-Can you give me a formula (even empiric) establishing the
-relation between a cooling rate and a % of ferrite
-in a cooling process of a low alloys steel?

@@ -1,7 +1,0 @@
-Let's say you have an NxN matrix. I want to
-print all possible paths from top left of the matrix
-to the bottom right. The paths will use two instructions:
-"D" for down or "R" for right. The code to
-print these paths should be in a Swift function. The
-only input for this functions is n for the width/height
-of the matrix.

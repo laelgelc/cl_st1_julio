@@ -1,3 +1,0 @@
-Imagine you are the Product Manager of a business-to-business web
-application. Can you recommend the best practices for implementing in-app
-tooltips to clarify specific terms and use cases?

@@ -1,5 +1,0 @@
-AI SERP [Text_to_Fix] SERP SEO [Text_to_Fix]. TextRank TF-IDF. TextRank TF-IDF
-Gensim [Text_to_Fix] Word2 Vec. Softmax Cross Entropy Loss weight. Cosine
-75% PyTorch BERT (BERT-NER) divided by 2 [Text_to_Fix] 8:2. SOTA
-pretrained transformer Cross Entropy Loss fine-tuning / KPI KPI [Text_to_Fix]
-insight [Text_to_Fix].

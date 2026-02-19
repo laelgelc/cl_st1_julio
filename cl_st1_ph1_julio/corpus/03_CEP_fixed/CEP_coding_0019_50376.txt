@@ -1,3 +1,0 @@
-What is stationarity of a time series, how is it
-used for mean reversion trading strategies along with statistical tests,
-their mathematical equation and related Python code?

@@ -1,3 +1,0 @@
-I want to test the behavior of a Tomcat data
-source when the database password is being rotated. What are
-some of the tests that I can carry out?

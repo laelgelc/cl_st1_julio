@@ -1,8 +1,0 @@
-Can you prepare a course with for data analysis in
-MySQL? The first lesson will be on definning the question
-the second will be on prapring the datasets including normalyizing
-the data the third lesson willl be about simple queries
-the forth will be about aggregate function and complex queries
-and the fifth will be about presenting the results first
-with views. I need example for each lesson and instructions
-for the students.

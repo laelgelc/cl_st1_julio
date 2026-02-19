@@ -1,0 +1,69 @@
+<file CEP_coding_0040> <domain CODING> <corpus CEP_Dias_2026>
+
+[29072]
+Give me C++ code I can paste into Qt Creator
+for a chat app ui. So the textbox for entering
+in the chat, a send button, and the example textboxes
+at the top for sent and recieving. Let me know
+if you have any questions?
+
+[69002]
+Say you have an image of 1000 x1000 and yolo
+bounding boxes of size 150 x150. Say you tile the
+image in tiles of size 500 x500, how do you
+save the new yolo bounding boxes within the tiles?
+
+[85826]
+Show me how to use userdata to configure the windows
+hostname on an EC2 instance at start up when it
+is joined to AWS Managed Active Directory. It should get
+the parameters from AWS SSM Parameter Store. The domainPassword should
+be a secure variable.
+
+[23154]
+Create a code in VueJs to display an HTML table
+that contains a row per country. On each row I
+want the following columns: 1. name of the Country.
+
+[69275]
+I want to create a Python program to create a
+mosaic out of PNG files. I want to read 24
+PNG files and output a full resolution image with the
+images in a 4 x6 grid. Can you write this
+Python program?
+
+[56205]
+There is a xml file and it has attributes. I
+want to declare variable in "configui.properties" and use it as
+xml attribute. How to do that?
+
+[52639]
+Create some JavaScript for Storyline that reads a question embedded
+into the screen and creates an xAPI statement with the
+correct activityType for the cmi.interaction type of the question, a
+result matching the users choice and an object.definition.choices array as
+per Appendix C of the xAPI Specification. Then send the
+statement using the ADL xAPI code, and add in the
+actor using the cmi.core.student_id.
+
+[17447]
+Here's my code for a quick telephone exercise. The HTML
+and CSS are ready. I just need to [ajust] the
+JS file to get the phone numbers to show yellow
+when I click them and immediately go back to white
+when the click is gone.
+
+[64508]
+Act as an award-winning college professor of web development and
+create a curriculum for teaching me, a novice web designer,
+how to be extremely effective with adding a fully responsive
+video to a website with a fully responsive image placed
+over it. This curriculum should be all about CSS and
+HTML5 and use resource links and mostly video tutorials that
+allow practice exercises.
+
+[28361]
+Hello, here is a computer science problem for you. You
+are given two lists of items. Compute a list that
+contains the intersection of the two sets of elements of
+the two input lists.

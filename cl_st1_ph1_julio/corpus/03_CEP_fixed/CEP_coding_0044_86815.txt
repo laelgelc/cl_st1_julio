@@ -1,5 +1,0 @@
-Create program Arduino to recieve keypad input then transform to
-alphabhet A-Z after press confirm button, then display on I2
-C LCD. After that using the alphabhet shown on I2
-C LCD convert to morse code. Finally response the given
-morse code to buzzer.

@@ -1,6 +1,0 @@
-Civitai Embedding I'll give you the embedding early as long
-as I get your word that you're not going to
-go and release it yourself on Civitai. I haven't had
-the time to create a bunch of model display images
-and write up a post myself, why I haven't posted
-it yet. 1. Embedding. 2. Stable Diffusion. 3. Embedding.

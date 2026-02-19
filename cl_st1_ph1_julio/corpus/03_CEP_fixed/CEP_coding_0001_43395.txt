@@ -1,6 +1,0 @@
-I want to build a simple way to upload panorama
-images to my web server, so I can then view
-them with an online viewer I coded. What is the
-best way to go about it? I do not want
-anybody to be able to upload files to my server,
-so I need some kind of username and password.

@@ -1,3 +1,0 @@
-Using Python Tkinter, I want to create a user interface
-with a drop down list of folder locations I can
-open by selecting from dropdown.

@@ -1,2 +1,0 @@
-I have a function written in RxJS, can you explain
-what it does? Code_Snippet.

@@ -1,5 +1,0 @@
-Hi ChatGPT, I'm currently building a backend using NestJS. I
-have created an AuthenticationService that has the public method verifyToken.
-I want to create a NestJS Guard using my AuthenticationService
-that will verify the token of my user and allow
-or return a 403 if the token is not valid.

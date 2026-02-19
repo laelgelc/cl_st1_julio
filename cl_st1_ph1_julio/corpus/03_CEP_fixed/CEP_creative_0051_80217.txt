@@ -1,7 +1,0 @@
-I am an interaction design student. I am designing a
-solution for conflict resolution between foster teenagers and their foster
-carer. I want to make a mediator device that will
-listen to each person vent their frustrations and asks them
-for their expectations of the other person. Using all of
-your Artificial Intelligence skills, help me come up with a
-solution, and what it might look like. Thank you.

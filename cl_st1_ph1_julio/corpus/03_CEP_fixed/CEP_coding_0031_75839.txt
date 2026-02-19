@@ -1,3 +1,0 @@
-Give me simple example on how to use Node.js to
-render HTML page using Express, and MongoDB and also save
-form resoponse to MongoDB using Mongoose.

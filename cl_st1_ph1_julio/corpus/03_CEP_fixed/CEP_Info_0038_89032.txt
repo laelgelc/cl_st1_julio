@@ -1,6 +1,0 @@
-I know you have lot of hyperparameters. But I don't
-know how to use them. So you teach me how
-to use them to improve my productiveness when I use
-GPT. I think it would be better if it's table
-format. And make it easy-level like for 15 years old
-students.

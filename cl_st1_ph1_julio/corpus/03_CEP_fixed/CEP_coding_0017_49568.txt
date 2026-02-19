@@ -1,3 +1,0 @@
-I want to collect videos from my clients and display
-it on their website which tech stack should I use
-to build such a startup?

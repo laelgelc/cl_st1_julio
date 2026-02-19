@@ -1,7 +1,0 @@
-In research methods, a variable is any characteristic or property
-that can be manipulated, measured, or controlled in research. Variables
-are used to test a relationship between two or more
-concepts, or to assess the effect of one or more
-independent variables on a dependent variable. The main types of
-variables in a study include independent variables, dependent variables, confounding
-variables, and exogenous variables.

@@ -1,4 +1,0 @@
-XBee radio module works with UART communication and so does
-GPS module so how do we figure out how to
-interface with both at the same time since there is
-only one UART line on the MCU?

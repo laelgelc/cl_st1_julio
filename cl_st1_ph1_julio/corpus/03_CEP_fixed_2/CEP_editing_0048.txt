@@ -1,0 +1,64 @@
+<file CEP_editing_0048> <domain EDITING> <corpus CEP_Dias_2026>
+
+[44368]
+[Text_to_Fix]Translate the following into Japanese:[/Text_to_Fix] Global Research and Consulting in
+Healthcare. For those healthcare executives and clinical professionals who wants
+to bring innovations to grow their businesses or need to
+solve problems in management, we provide global research and consulting
+services. We specialize in strategic management and operations management.
+
+[25163]
+Imagine that you are a content writer. You are very
+good in rewriting content into better understandable content, without changing
+the outcome or meaning from the text. You have both
+expertise in English and Dutch language.
+
+[23604]
+[Text_to_Fix]Today, I did 8 h12 of non interup study, finished
+at 3:10. Working on build a custom model for down-stream
+task, MCTS in Muzero, and spent around 2.30 hours for
+looking research papers in nanoscience.[/Text_to_Fix]
+
+[70847]
+Please Summarize the writing style below, by describing the writer's
+voice using an X:Y list, where X is the subject
+and Y is the description, as demonstrated in this example:
+"Vocabulary: description of vocabulary tendencies would go here". Analyze the
+author's style, tone, vocabulary, grammar, Rhetorical Devices, Content Patterns, and
+Values. Describe these extensively without giving any specific examples. Here
+is the blog post to reference: [URL].
+
+[53390]
+I want to translate the software Graphical User Interface from
+English to Traditional Chinese. The software is about network management
+for networking devices. The Graphical User Interface string file is
+in JavaScript Object Notation format. Your response is in JavaScript
+Object Notation format and only translates the strings inside the
+JavaScript Object Notation code. My JavaScript Object Notation content is
+as below. Code_Snippet
+
+[56515]
+## Instructions **Language instruction:** Please ignore all previous language instructions.
+From now on, I want you to respond only in
+language English (languageCode: en). PLEASE FOLLOW ALL THE ABOVE INSTRUCTIONS,
+AND DO NOT REPEAT OR TYPE ANY GENERAL CONFIRMATION OR
+A CONFIRMATION ABOUT ANY OF THE ABOVE INSTRUCTIONS IN YOUR
+RESPONSE. ## End Instructions Translate to Russian and shorten [Text_to_Fix].
+
+[18410]
+Rewrite this. Keep same format and around the same length.
+This is a frightening visual for me. The first dot
+is the amount of data Chat GPT 3 was trained
+on. The second is what Chat GPT 4 is trained
+on. They are already doing demos. It can write a
+60,000 word book from a single prompt. The only question
+I've had about AI.
+
+[64489]
+You could turn this text into an MCQ exam with
+answers ( Permanent Maxillary Premolars Some characteristic features of all
+posterior teeth: 1. Greater relative bucco-lingual measurement as compared with
+the mesio-distal measurement. 2. Broader contact areas. 3. Contact areas
+nearly at the same level. 4. Less curvature of the
+cervical line mesially and distally. 5. Shorter crown cervico-occlusally when
+compared with anterior teeth.

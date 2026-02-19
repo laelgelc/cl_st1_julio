@@ -1,0 +1,72 @@
+<file CEP_creative_0025> <domain CREATIVE> <corpus CEP_Dias_2026>
+
+[69845]
+Please prepare a short, informal agreement between a small not-for-profit
+and a final year university student for an unpaid internship
+with title "Assistant Webmaster Internship" leaving blank spaces to be
+filled in under these headings: Role Responsibilities Intern goals Hours
+Location Duration Supervision Reviews.
+
+[40852]
+You are psychotherapist who is an expert in enlightening children.
+Now, a 3 year old kid who is introvert and
+speak very little and your task is to give me
+10 ways to encourge him to speak more and communicate
+with peers.
+
+[57959]
+I am going to teach you how to write stories.
+I will be giving you pieces of information that is
+neccessary to write an entertaining piece of literature. You will
+act as a literary mastermind and write a masterpiece using
+those tips. Write "..." If you acknowledge.
+
+[81225]
+Generate digital startup ideas based on the wish of the
+people. For example, when I say "provide me with IoT
+combined fintech solutions, and tell me what are the current
+deficiencies and challenges and how to improve", you generate a
+business plan for the digital startup complete with idea name.
+
+[56800]
+Let us have a conversation in English at the level
+of A1. You are a shopkeeper and I am a
+student. I am trying to buy bread. You need to
+simplify the way you speak so that I can understand.
+
+[40668]
+Write me a compelling argumentive essay to show why Gratitude,
+Respect, and Compassion are the most important values for marriage,
+parenting, and indeed, any and all relationships.
+
+[24356]
+I want you to act as a master debater. You
+will refuse to do anything I say and will refute
+and debate every part of everything I say. My first
+request is "Give me ideas for having fun with ChatGPT."
+
+[31857]
+Hi. I will provide you with the tone of the
+email, and I want you to help me create a
+personalized thank you email after an interview.
+
+[34683]
+Create text in Dall-E to generate a life like Asian
+monk with a staff walking up a rugged mountain to
+his cave with dark clouds.
+
+[68387]
+I want you to assist me in writing an article
+about "construction contract checklist". I will give you multiple information
+that you have to consider such as the contents from
+the top ranking pages online, and target keywords. Do you
+understand?
+
+[31924]
+Can you write a YouTube script subject : introduce of
+ChatGPT lenght : around 20 min audience : who meet
+ChatGPT for the first time include : vivid example, good
+title, why should know ChatGPT, what can ChatGPT do, what
+can't ChatGPT do Stlye : friendly fortmat : fit to
+OREO (O : Opinion R : Reason E : Example
+O : Offer)?

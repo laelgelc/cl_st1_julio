@@ -1,3 +1,0 @@
-Create a code in VueJs to display an HTML table
-that contains a row per country. On each row I
-want the following columns: 1. name of the Country.

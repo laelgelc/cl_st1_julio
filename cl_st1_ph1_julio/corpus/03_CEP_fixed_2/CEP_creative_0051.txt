@@ -1,0 +1,65 @@
+<file CEP_creative_0051> <domain CREATIVE> <corpus CEP_Dias_2026>
+
+[89282]
+Brainstorm 25 creative prompt ideas to be sent to ChatGPT,
+with the ultimate goal of improving mental health for the
+person entering the prompt, with a focus on actionable advice,
+making money and decluttering. 2 examples: "Suggest 5 business ideas
+I can start making money from quickly while also improving
+my mental health." "Suggest 3 creative hobbies or activities that
+can help me process my emotions and foster healing from
+PTSD."
+
+[17571]
+I have an idea. A YouTube channel named "Livecoding with
+ChatGPT" where I code with you and stream live. What
+topics/ideas/video series should I consider?
+
+[39946]
+20 English jargon, in order of frequency of use, that
+are widely used in the [Text_to_Fix] Write the English words
+that match Jargon and the description for each within 20
+words. And make a table with three columns 1. Jargon(Word)
+2. Matching English word(Short form) 3. Description.
+
+[22529]
+The man named Anson and a woman named Natalee. He
+is Handsome and Rich she is blonde beautiful and curvy
+they meet somewhere that you can decide that fits their
+profiles and they start talking give me the dialogue and
+clothing in great detail.
+
+[26931]
+Write a informal message as a girlfriend to her boyfriend
+explaining how you do not want your relationship to be
+toxic but be 1+1 is greater than 2 but still
+be able to be your own person.
+
+[51618]
+My company is called Jay Johnson & Associates. Please write
+a polite but firm formal business letter to our client
+called Holloway remind them that they are past due for
+the amount of $5,000, and that they need to pay
+now, or there will be consequences to their account.
+
+[64629]
+Hi ChatGPT. Can you produce a film script, written in
+a style resembling Charlie Kaufman's work, about the mundane life
+of a suburban couple who experience a sudden disturbance when
+the wife is replaced by an AI in the form
+of a hermaphroditic man, painted blue?
+
+[80217]
+I am an interaction design student. I am designing a
+solution for conflict resolution between foster teenagers and their foster
+carer. I want to make a mediator device that will
+listen to each person vent their frustrations and asks them
+for their expectations of the other person. Using all of
+your Artificial Intelligence skills, help me come up with a
+solution, and what it might look like. Thank you.
+
+[26269]
+Write a formal mail to professor mentioning to schedule meeting
+between January 30-February 1 as I am currently located in
+India and I am travelling to United States on February
+2-February 4.

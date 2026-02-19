@@ -1,4 +1,0 @@
-[Text_to_Fix]Dear Mr.Amjad, Kindly ask the company that provides the Time
-Attendance system to create a view in the database and
-configure public IP on the server to read data from
-outside.[/Text_to_Fix]. Can you rewrite it Formal email?

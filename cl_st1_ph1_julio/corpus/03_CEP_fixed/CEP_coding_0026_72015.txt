@@ -1,5 +1,0 @@
-I have train dataset with columns Code_Snippet. For test dataset
-with Code_Snippet. Lastly, submission with Code_Snippet. Label consists 0 to
-7, and the text column consists of news article data.
-Build the model for machine learning competition to get the
-best score. The validation score must be Macro F1 Score.

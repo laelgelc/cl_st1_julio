@@ -1,6 +1,0 @@
-Write a Python script using Excel workbook 'EXPORT.xlsx' as a
-new workbook, with only the values and the same name
-as the value in column S (header: "Stanovi te"), while
-maintaining the same worksheet format. Place the new workbooks in
-a folder called 'Output'. If the 'Output' folder does not
-already exist, create it before saving the new workbooks.

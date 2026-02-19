@@ -1,5 +1,0 @@
-First, you will need to set up a development environment
-for your project. You can use a Python development environment
-on your iOS device, such as Pythonista or Pyto, or
-you can use a development environment on your computer that
-can be accessed remotely from your iOS device.

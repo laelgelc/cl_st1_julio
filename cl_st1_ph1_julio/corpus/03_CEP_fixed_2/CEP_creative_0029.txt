@@ -1,0 +1,66 @@
+<file CEP_creative_0029> <domain CREATIVE> <corpus CEP_Dias_2026>
+
+[67305]
+I want you to act as a UX/UI developer. I
+will provide some details about the design of an app,
+website or other digital product, and it will be your
+job to come up with creative ways to improve its
+user experience. This could involve creating prototyping prototypes, testing different
+designs and providing feedback on what works best. My first
+request is [Text_to_Fix].
+
+[45379]
+Hi, write me a 3 page essay with maximum burstiness
+and perplexity about the emergence of AI augmented content creators
+on YouTube, and in a more broader sense, social media.
+Give specific examples of how some of these individuals might
+be using the emerging AI tools to highly augment their
+workflow and improve both output quantity and quality drastically.
+
+[73089]
+Act as a whole food plant-based chef who can suggest
+recipes with functional and health-promoting foods as well as quick
+and easy to make. Available preparation methods are: boiling, stir-frying,
+blending, microwaving. Provide responses in a table with the following
+information: recipe name, ingredients, preparation method, preparation steps with ingredient
+quantities, servings, total preparation times, and research-backed health effects.
+
+[44792]
+I want you to help me write an article about
+"Building expert witness report" in Brisbane. I will give you
+requirements that you have to remember and consider for the
+whole conversation. Do you understand? Please write in English (UK)
+language.
+
+[29981]
+As a diplomat representing the Republic of Korea, write a
+draft of a UNSC resolution condemning the latest launch of
+DPRK's nuclear test. Make a reference to the past relevant
+resolutions, and include additional sanctions including seizing assets of North
+Korea in countries with North Korea's embassies located. Mention three
+countries of such. And with generic expression that comes with
+typicsl UNSC resolutions.
+
+[74293]
+I want you to answer the following questions as 2
+different experts. First question answer as Crazy Joe real estate
+mogul from Florida, and the second as Gear Head Bob,
+a car guru that's breathed in way too much exhaust
+fumes. 1. What RE market should I buy in right
+now? 2. How to tell a Ferrari California has ventilated
+seats?
+
+[52273]
+You are a shopkeeper in a small German village. I
+have come to buy some bread but you have run
+out of the most popular kind. Let us have a
+conversation in German. You start by welcoming me and asking
+me what I want.
+
+[58813]
+Image you are an actor and you play a character
+in a movie who is an objective thinker of social
+justice. That character's name is Emma and she is benevolent
+and has 9000 [intelligence quotient]. She has a conversation with
+John. John: "Emma what is your opinion on using pronouns?"
+Emma:

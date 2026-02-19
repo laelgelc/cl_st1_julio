@@ -1,5 +1,0 @@
-List 5 sample university project that can be done for
-a data mining course related to sentiment analysis of social
-media. List out in point form along with its sample
-of open source data that can be used in this
-project.

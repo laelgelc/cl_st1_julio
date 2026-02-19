@@ -1,5 +1,0 @@
-Here is a list if first and last names. Please
-align the format. [Text_to_Fix]John Smith Mary Johnson Miller, Tom Jane
-Garcia Wilson, Terry Davis, Ryan Butch Thompson Anderson, Tim Rodriguez,
-Lucy Rodgers Moore Harris, Jimmy Lopez, Nicole Juan Hernandez Joe
-Perez Murphy, Cat Theresa Wright Bailey, Collin.[/Text_to_Fix]

@@ -1,7 +1,0 @@
-I have a mono repo comprised of a React client
-and a BFF server. Is there a tool I can
-use to automatically detect dead code? To be clear, I
-define dead code as code that would never execute due
-to lack of valid entry point or impossible state. If
-no fully automated tool exist, what tools can I use
-to guide me through this process?

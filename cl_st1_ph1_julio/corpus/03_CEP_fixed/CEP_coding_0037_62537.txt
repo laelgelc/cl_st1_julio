@@ -1,4 +1,0 @@
-How to create bash script that loops on all subdirectories
-then from subdirectory checks is file contains phase "I am
-a teapot". If contains then move file outside of subdirectory
-and rename it with prefix "_CONTAINS_"?

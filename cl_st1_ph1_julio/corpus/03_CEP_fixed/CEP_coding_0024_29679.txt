@@ -1,3 +1,0 @@
-What is the most efficient way to create a web
-frontend for multiple devices a fluid frontend, using break points
-or having an adaptive frontend?
