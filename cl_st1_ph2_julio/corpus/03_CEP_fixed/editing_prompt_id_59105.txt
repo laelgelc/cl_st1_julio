@@ -1,0 +1,7 @@
+Detect the grammatical errors in the following sentence . We
+begin by asserting that a research question that addresses teachers
+shared instructional problems and one whose answer helps the field
+( students , teachers , policy makers , researchers )
+understand why and how the answer is a solution to
+the problem is likely to be a significant research question
+.

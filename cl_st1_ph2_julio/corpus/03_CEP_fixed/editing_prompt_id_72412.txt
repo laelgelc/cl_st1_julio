@@ -1,0 +1,4 @@
+You are writing a formal curriculum for software engineer at
+Google . Rewrite this : Pursuing Master ' s degree
+in Computer Science . Area : Distributed Systems with an
+emphasis on microservices .

@@ -1,0 +1,7 @@
+This is an HTML table that shows a breakdown of
+expenses for a business trip , with the total cost
+being 103 , 000 . The table has three rows
+. The HTML code is missing the closing tag for
+the tbody element that contains the row for the expense
+item . It should be </tbody> instead of <tbody> .
+Here is the corrected HTML code .

@@ -1,0 +1,9 @@
+Your task is to rewrite the entire text in better
+words and make it unique with natural language . And
+at the end of the article write this " Please
+support us by following us on LinkedIn - [URL] "
+. All output shall be in French . The text
+to rewrite it is this : La diplomatie conomique chinoise
+et la diplomatie conomique am ricaine en Afrique : tude
+comparative . Please write in formal tone , academic writing
+style .
