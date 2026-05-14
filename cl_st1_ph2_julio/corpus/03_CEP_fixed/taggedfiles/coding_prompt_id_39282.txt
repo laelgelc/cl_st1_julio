@@ -1,0 +1,35 @@
+I ^pp1a+pp1+++=I
+have ^vb+hv+vrb++=have
+some ^dti++++=some
+tables ^nns++++=tables
+and ^cc++++=and
+relations ^nns+nom+++=relations
+between ^in++++=between
+these ^dt+dem+++=these
+table ^nn++++=table
+are ^vb+ber+vrb++=are
+: ^zz++++=:
+Project ^nn++++=Project
+: ^zz++++=:
+Sheet ^nn++++=Sheet
+= ^zz++++==
+1 ^zz++++=1
+: ^zz++++=:
+N ^zz++++=N
+, ^zz++++=,
+Sheet ^nn++++=Sheet
+: ^zz++++=:
+Sheet_version ^np+++??+=Sheet_Version
+= ^zz++++==
+1 ^zz++++=1
+: ^zz++++=:
+N ^zz++++=N
+ ^zz++++=,
+Sheet ^nn++++=Sheet
+ ^zz++++=:
+Schema ^nn++++=Schema
+ ^zz++++==
+ ^zz++++=1
+ ^zz++++=:
+N ^zz++++=N
+ ^zz++++=.

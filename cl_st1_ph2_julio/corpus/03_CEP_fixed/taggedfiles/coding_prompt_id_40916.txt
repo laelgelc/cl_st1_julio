@@ -1,0 +1,17 @@
+???? ^?+clp+++=?
+???? ^?+clp+++=?
+???? ^?+clp+++=?
+Replace ^vb++++=Replace
+by ^in++++=by
+meaningfull ^nn+++??+=meaningfull
+Jsdoc ^np+++??+=JSDoc
+annotation ^np+nom+++=annotation
+in ^in++++=in
+the ^ati++++=the
+following ^jj+atrb+++=following
+code ^nn++++=code
+. ^zz++++=.
+[ ^zz++++=[Code_Snippet]
+code_snippet ^nn++++=EXTRAWORD
+] ^zz++++=EXTRAWORD
+. ^zz++++=.

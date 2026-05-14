@@ -1,0 +1,17 @@
+???? ^?+clp+++=?
+Os ^np+++??+=OS
+: ^zz++++=:
+Ubuntu ^np+++??+=Ubuntu
+18 ^cd++++=18
+. ^zz++++=.
+04 ^nn+++??+=04
+user ^nn++++=user
+centos ^np++++=CentOS
+7 ^zz++++=7
+. ^zz++++=.
+4 ^zz++++=4
+. ^zz++++=.
+[ ^zz++++=[Code_Snippet]
+code_snippet ^nn++++=EXTRAWORD
+] ^zz++++=EXTRAWORD
+. ^zz++++=.

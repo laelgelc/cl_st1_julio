@@ -1,0 +1,31 @@
+Python ^np+++??+=Python
+3 ^zz++++=3
+. ^zz++++=.
+9 ^zz++++=9
+, ^zz++++=,
+Serverless ^np+++??+=Serverless
+Framework ^nn++++=Framework
+Aws ^np+++??+=AWS
+Lambda ^np+++??+=Lambda
+function ^nn+nom+++=function
+. ^zz++++=.
+Aws ^np+++??+=AWS-Node-Termination-Handler
+- ^zz++++=EXTRAWORD
+node ^nn+++??+=EXTRAWORD
+- ^zz++++=EXTRAWORD
+termination ^nn+nom+++=EXTRAWORD
+- ^zz++++=EXTRAWORD
+handler ^jjr+atrb+++=EXTRAWORD
+Slack ^jj+atrb+++=Slack
+webhook ^nn+++??+=webhook
+. ^zz++++=.
+Slack ^jj+atrb+++=Slack
+Webhook ^nn++++=webhook
+ ^zz++++=.
+; ^zz++++=[Code_Snippet]
+Code_snippet ^nn++++=EXTRAWORD
+= ^zz++++=EXTRAWORD
+ ^zz++++=,
+Slack ^jj+atrb+++=Slack
+Webhook ^nn++++=webhook
+ ^zz++++=.

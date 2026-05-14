@@ -1,0 +1,27 @@
+Table ^nn++++=Table
+3 ^zz++++=3
+: ^zz++++=:
+Furniture ^nn++++=Furniture
+Shop ^nn++++=Shop
+Columns ^nns++++=Columns
+: ^zz++++=:
+Orderid ^np+++??+=OrderID
+, ^zz++++=,
+Orderdate ^np+nom++??+=OrderDate
+, ^zz++++=,
+Customerid ^np+++??+=CustomerID
+, ^zz++++=,
+Customername ^np+++??+=CustomerName
+, ^zz++++=,
+Customeraddress ^nns+nom++??+=CustomerAddress
+, ^zz++++=,
+Productid ^np+++??+=ProductID
+ ^zz++++=,
+Productdescription ^np+nom+++=ProductDescription
+ ^zz++++=,
+Productfinish ^np++++=ProductFinish
+ ^zz++++=,
+Unitprice ^np++++=UnitPrice
+ ^zz++++=,
+Orderedqty ^np++++=OrderedQty
+ ^zz++++=.

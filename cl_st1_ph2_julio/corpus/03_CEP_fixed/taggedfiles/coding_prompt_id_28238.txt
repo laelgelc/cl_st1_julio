@@ -1,0 +1,17 @@
+Can ^md+pos+++=Can
+you ^pp2+pp2+++=you
+write ^vb++++=write
+out ^rp+pl+++=out
+the ^ati++++=the
+assembler ^nn+nom+++=assembler
+for ^in++++=for
+X86 ^np+++??+=X86
+For ^in++++=for
+The ^ati++++=the
+Following ^jj+atrb+++=following
+Code ^nn++++=code
+ ^zz++++=:
+; ^zz++++=[Code_Snippet]
+Code_snippet ^nn++++=EXTRAWORD
+= ^zz++++=EXTRAWORD
+ ^zz++++=.

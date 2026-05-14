@@ -1,0 +1,17 @@
+???? ^?+clp+++=.
+???? ^?+clp+++=.
+???? ^?+clp+++=.
+I ^pp1a+pp1+++=I
+am ^vb+bem+aux++=am
+going ^md"++pmd"++=going
+to ^md+prd+++=to
+give ^vb++++=give
+you ^pp2+pp2+++=you
+this ^dt+dem+++=this
+article ^nn++++=article
+. ^zz++++=.
+wait ^vb++++=Wait
+for ^in++++=for
+instructions ^nns+nom+++=instructions
+article ^nn++++=article
+. ^zz++++=.

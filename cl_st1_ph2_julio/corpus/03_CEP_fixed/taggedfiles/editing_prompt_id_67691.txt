@@ -1,0 +1,17 @@
+???? ^?+clp+++=.
+???? ^?+clp+++=.
+Can ^md+pos+++=Can
+you ^pp2+pp2+++=you
+help ^nn++++=help
+me ^pp1o+pp1+++=me
+paraphrase ^vb++++=paraphrase
+this ^dt+dem+++=this
+research ^nn++++=research
+question ^nn+nom+++=question
+in ^in++++=in
+a ^at++++=a
+fluent ^jj+atrb+++=fluent
+and ^cc+phrs+++=and
+formal ^jj+atrb+++=formal
+way ^nn++++=way
+? ^zz++++=?
