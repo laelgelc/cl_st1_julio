@@ -86,9 +86,11 @@ Smith ^np++++=Smith
 Phone ^nn++++=Phone
  ^zz++++=:
 10 ^cd++++=410-805-2345
- ^zz++++=EXTRAWORD
+
+ ^zz++++=EXTRAWORD
 05 ^cd++++=EXTRAWORD
- ^zz++++=EXTRAWORD
+
+ ^zz++++=EXTRAWORD
 345 ^cd++++=EXTRAWORD
 Email ^np++++=Email
  ^zz++++=.

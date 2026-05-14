@@ -24,6 +24,7 @@ Transfer ^nn+nom+++=transfer
 Should ^md+nec+++=should
 Be ^vb+be+vrb++=be
 In ^in++++=in-memory
- ^zz++++=EXTRAWORD
+
+ ^zz++++=EXTRAWORD
 Memory ^nn++++=EXTRAWORD
  ^zz++++=.
