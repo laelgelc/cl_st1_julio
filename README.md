@@ -43,3 +43,49 @@ The main Phase 2 outputs are:
 
 - `cl_st1_ph2_julio/corpus/05_CEP_sas_to_excel/counts.txt.excel.tab`
 - `cl_st1_ph2_julio/corpus/05_CEP_sas_to_excel/counts.txt.excel.tab.xlsx`
+
+### Phase 2.2 - Python conversion of Biber Tag Count output to Excel
+
+Phase 2.2 provides a Python command-line alternative to the original shell-based conversion workflow used in Phase 2.
+
+The programme:
+
+- reads fixed-format Biber Tag Count output files;
+- extracts Biber's linguistic feature counts and Dimension Scores;
+- uses hardcoded Biber column definitions;
+- supports both single-file and directory input modes;
+- writes real Excel `.xlsx` workbooks directly;
+- stores numeric values as Excel numbers where possible;
+- freezes the header row and enables Excel filters.
+
+The main script is:
+
+- `cl_st1_ph2_julio/corpus/05_CEP_sas_to_excel/biber_counts_to_excel.py`
+
+The programme can be run in single-file mode:
+
+```bash
+python biber_counts_to_excel.py \
+  --input-file counts/counts.txt \
+  --output counts.xlsx
+```
+
+It can also be run in directory mode, creating one Excel workbook per input file:
+
+```bash
+python biber_counts_to_excel.py \
+  --input-dir counts \
+  --output-dir excel
+```
+
+Alternatively, all parsed rows from a directory can be written to one combined workbook:
+
+```bash
+python biber_counts_to_excel.py \
+  --input-dir counts \
+  --combined-output counts.xlsx
+```
+
+The supporting specification is:
+
+- `cl_st1_ph2_julio/corpus/05_CEP_sas_to_excel/biber_counts_to_excel.md`
